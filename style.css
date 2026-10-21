@@ -425,6 +425,15 @@ body {
   font-style: normal;
 }
 
+.card-body .ui-img {
+  display: block;
+  width: min(100%, 320px);
+  margin: 0.75rem auto;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
 .card-body {
   padding: 0 1rem 1rem;
   border-top: 1px solid var(--border);
