@@ -1,5 +1,5 @@
 {
-  "exported_at": 1792625055.157419,
+  "exported_at": 1792625480.842748,
   "zone_key": "floortwo",
   "zone_label": "Floor 2",
   "sections": {
@@ -13,10 +13,17 @@
     "party": "party.json",
     "sessions": "sessions.json",
     "bounties": "bounties.json",
-    "sponsors": "sponsors.json"
+    "sponsors": "sponsors.json",
+    "board": "board.json",
+    "wall": "wall.json",
+    "quests": "quests.json",
+    "rivals": "rivals.json",
+    "tonight": "tonight.json",
+    "cast": "cast.json",
+    "loot_boxes": "loot_boxes.json"
   },
   "counts": {
-    "rules": 16,
+    "rules": 18,
     "room_directory": 30,
     "rooms": 8,
     "people": 10,
@@ -25,7 +32,14 @@
     "party": 3,
     "sessions": 0,
     "bounties": 10,
-    "sponsors": 18
+    "sponsors": 18,
+    "board": 20,
+    "wall": 3,
+    "quests": 9,
+    "rivals": 0,
+    "tonight": 3,
+    "cast": 58,
+    "loot_boxes": 3
   },
   "public_party_sheets": true
 }

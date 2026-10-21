@@ -1,0 +1,3095 @@
+{
+  "rows": [
+    {
+      "pc_id": "crawler_b",
+      "pc_name": "Nick",
+      "story": [
+        "Party declines the Spice Challenge in the Commissary (Room 210).",
+        "Party negotiates with goblins in Room 212 rather than fight them.",
+        "Party wrestles the 400-pound troglodyte in the gym.",
+        "Party gains information from Manny and welding beads from Janet.",
+        "Maggie My (Hostile, hostile) — Revenge for Frank (Murder Dozer / Nick).",
+        "Frank Q (dead) — Killed under Nick's Murder Dozer (Session 2).",
+        "Session 2 ended on stairwell 220 (AI, leaflets). Nick, Lety, Edwardo; still level 1. Good Doctor dead (shotgun, 209). Frank Q dead (Nick, Murder Dozer). Don dead (Edwardo executed him). Marta Voss crushed at vault — alive, cyborg return on Floor 2.",
+        "Since Session 2 — Nick recovered Nick's Kit from NICKBACK at the Commissary (Drums Recovered!).",
+        "Nick — Murder Dozer; killed Frank Q; Cart Rage",
+        "Party encounters AI drone in Room 213 TV.",
+        "Nick kills Frank Q with Murder Dozer.",
+        "Nick recovers Nick's Kit from NICKBACK at the Commissary."
+      ],
+      "achievements": [
+        {
+          "name": "Gloves First!",
+          "hint": "Bring teacher something you killed. Wear the gloves.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Get the Flesh and Get Out!",
+          "hint": "Some fights you don't win. You leave with the good bit.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Keep Rolling!",
+          "hint": "Finish what she started. Try not to be in the next call sheet.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Hansel & Regretel!",
+          "hint": "Every lesson has a price. Somebody else is paying it.",
+          "group": "shame",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "A Cold Read!",
+          "hint": "The best part is getting your shopping home.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Enter the Season Reserve (310)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Harvest reserve stock",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Leave with your shopping (307)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Monkey Business!",
+          "hint": "Hold on to your lunch. If you can't, run.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Smoke Break!",
+          "hint": "Some bosses just need some fresh air.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Open all three roof vents",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Douse the smoke pit",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the jerky off the rail",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk out to the Canopy Market (318)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Staff Only!",
+          "hint": "It's only one service. Act like it isn't.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "The House Always Loses!",
+          "hint": "Beat the house. Then beat it again, higher. Then once more.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Comeback Season!",
+          "hint": "Every season needs a redemption arc. Yours starts in a freezer.",
+          "group": "stunts",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "The Finest Cut!",
+          "hint": "Take only the part that tasted.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Hoist by Her Own Pumpkin!",
+          "hint": "Kill the Gourd Mother in a fight. Return to sender.",
+          "group": "stunts",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Monster Hunter!",
+          "hint": "Three trophies for the wall. Different heads, please.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Some Assembly Required!",
+          "hint": "Craft something here. The monkey makes it look easy. It isn't.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "The Whole Hog!",
+          "hint": "The cave, the sow, the heart, home. In that order, all you.",
+          "group": "combat",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Reach the Fungus Cave (309)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Kill the Truffle Sow",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Sow-Heart Truffle",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get back to the Green Room (300)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Silver Tongue!",
+          "hint": "Ask nicely. Then ask someone else nicely.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Ear to the Wall!",
+          "hint": "The walls are thin. The kitchen is loud. Somebody is always talking.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Worth a Shot!",
+          "hint": "You miss every shot you don't declare. Also most of the ones you do.",
+          "group": "shame",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Signed in Triplicate!",
+          "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Get into the Cookbook Stacks (308)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Pick a cloche's collar",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Lift Barnaby Crumb's Contract",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Carry it to the Green Room (300)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Put it in Crumb's hands",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Bee Line!",
+          "hint": "Gate, brood, venom, jelly. Keep moving; they can smell fear and jam.",
+          "group": "stunts",
+          "progress": [
+            0,
+            6
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Reach the Comb Gate (314)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get through the Wax Door",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Into the Brood Galleries (315)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Bee Brood",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Bottle hive venom in the Drip Works (316)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Royal Jelly in the Inner Comb (317)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Cold Open!",
+          "hint": "Rushes, set, loop, flesh, the big one, out. All you, in order.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            7
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Start at The Location (303)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Watch the rushes",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk onto the Last Set (304)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Flip the ACTION Loop",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Cut the Krakaren Flesh",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Land the killing blow on the Great White",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk off the set alive (303)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Smoke Signals!",
+          "hint": "Vent, jerky, the big ham, down. In that order, all you.",
+          "group": "combat",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Climb to the Smokehouse (319)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Open a roof vent",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Twitching Jerky",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Land the killing blow on Old Cured Hide",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get back to the Canopy Market (318)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Vault Season!",
+          "hint": "Locker, token, vault, the Breadwinner, home. All you, in order.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            6
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Start in the Kitchen Stadium (307)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Scout the rival locker",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Library Prize Token",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Turn the Frozen Vault Door",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Kill the Garlic Breadwinner in the Season Reserve (310)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Bring it back to the Stadium (307)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Ten Down, Ratings Up!",
+          "hint": "The numbers are climbing. So is the crowd.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Fifty Down, Nobody Asked You To Stop!",
+          "hint": "The AI has stopped announcing them. It is just a number now.",
+          "group": "evening",
+          "progress": [
+            0,
+            50
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Kill Streak!",
+          "hint": "One fight. Five mobs. Don't stop for the replay.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Rampage!",
+          "hint": "The floor manager is calling it a cleaning job.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Bare Knuckle Broadcast!",
+          "hint": "Sponsors pay extra for no weapons. Allegedly.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Variety Hour!",
+          "hint": "Never the same tool twice. The merch department insists.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Equal Opportunity Executioner!",
+          "hint": "A full menu. Nobody left out.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Brutal Ratings!",
+          "hint": "Keep the numbers rolling. The viewers love a running total.",
+          "group": "evening",
+          "progress": [
+            0,
+            100
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Industrial Carnage!",
+          "hint": "The medical examiner has stopped asking questions.",
+          "group": "evening",
+          "progress": [
+            0,
+            250
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Highlight Reel!",
+          "hint": "Five crits. The editors are fighting over the footage.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Natural Selection!",
+          "hint": "Not an attack. Better. The crowd loves a clutch.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Blooper Marathon!",
+          "hint": "The outtakes are getting more airtime than the show.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Whiff Parade!",
+          "hint": "Swing. Miss. Smile for the camera.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Sharpshooter!",
+          "hint": "Ten for ten. The odds-makers are sweating.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Third Time's The Charm!",
+          "hint": "The AI has started a tally just for you. It is not a nice one.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Punching Bag!",
+          "hint": "Soak it up. The show thanks you for your service.",
+          "group": "evening",
+          "progress": [
+            0,
+            20
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Human Piñata!",
+          "hint": "Something sweet is supposed to fall out.",
+          "group": "evening",
+          "progress": [
+            0,
+            60
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Tough Crowd!",
+          "hint": "Everyone in the building has had a go.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Dodge This!",
+          "hint": "The mobs are embarrassed. The viewers are not.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Padded Cell!",
+          "hint": "That is what the plating is for. Keep wearing it.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Collect Them All!",
+          "hint": "Three afflictions, no duplicates. The collectors will be in touch.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Walking Hazard!",
+          "hint": "You are now a medical textbook. Please do not touch the cast.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Effects Reel!",
+          "hint": "Three new things are happening to you. The audience is thrilled.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Ten Takes!",
+          "hint": "Practice makes perfect. Mostly it makes ratings.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Jack of All Trades!",
+          "hint": "Five skills, five different faces. The casting director is confused.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Hands-On Host!",
+          "hint": "Locks, ropes, levers. Touch everything. Sign the waiver.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Prop Department!",
+          "hint": "Every prop on this set is a trap. Use all of them.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Magic Hour!",
+          "hint": "The lighting crew has asked you to calm down.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Wizard Weather!",
+          "hint": "Three spells. Three weather systems. One very confused ceiling.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Fizzle!",
+          "hint": "Sparks. Smoke. A sad little pop. The audience adores it.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Costume Change!",
+          "hint": "Behind the curtain. Their hands. Four seconds, and you come out as ordered.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Pill Popper!",
+          "hint": "Read the labels. Or don't. Ratings are ratings.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Big Spender!",
+          "hint": "The sponsors are very proud of your consumer confidence.",
+          "group": "evening",
+          "progress": [
+            0,
+            50
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Arts and Crafts Hour!",
+          "hint": "Glue, tape, and prayer. The segment ends in two minutes.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Sticky Fingers!",
+          "hint": "Finders keepers. The viewers are not judging. They are scoring.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Improv Night!",
+          "hint": "Make it up as you go. The writers' room is on strike.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "The Other Runner",
+          "hint": "The one in the wreck will not cross alone, and she will not come home empty-handed.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Pointy End First!",
+          "hint": "Now kill something in a fight with the blade. Up close and personal.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Dig Your Own!",
+          "hint": "Now kill something in a fight with the spade. Saves a trip later.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Boomstick!",
+          "hint": "Now kill three things with the shotgun, two in one fight, or a boss.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Nailed It!",
+          "hint": "Now kill three things with the nail gun, or land a natural 20 with it.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Harpooned!",
+          "hint": "Now land a boss with the speargun, or kill three things with it.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Chainsaw Massacre!",
+          "hint": "Now kill two things in one fight with the power tool, or hit for 15+.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Robin Hood!",
+          "hint": "Now kill three things with the bow, or two in one fight.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Cocktail Hour!",
+          "hint": "Now burn two things down in one fight. Bring more than one bottle.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Scrap Heap Hero!",
+          "hint": "Now take three hits in one fight wearing the improvised armour. It holds. Mostly.",
+          "group": "stunts",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Walking Tank!",
+          "hint": "Now take three hits in one fight in the heavy armour, or survive one at 1 HP.",
+          "group": "stunts",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        }
+      ]
+    },
+    {
+      "pc_id": "crawler_c",
+      "pc_name": "Lety",
+      "story": [
+        "Party declines the Spice Challenge in the Commissary (Room 210).",
+        "Party negotiates with goblins in Room 212 rather than fight them.",
+        "Party wrestles the 400-pound troglodyte in the gym.",
+        "Party gains information from Manny and welding beads from Janet.",
+        "The Good Doctor (Ally, ally) — To keep someone alive after failing Miclo. To stay near Lety.",
+        "Session 2 ended on stairwell 220 (AI, leaflets). Nick, Lety, Edwardo; still level 1. Good Doctor dead (shotgun, 209). Frank Q dead (Nick, Murder Dozer). Don dead (Edwardo executed him). Marta Voss crushed at vault — alive, cyborg return on Floor 2.",
+        "Lety led goblin–llama war — goblins mostly slaughtered; blood oath against Lety (fool commander)",
+        "Party encounters AI drone in Room 213 TV.",
+        "Lety leads goblin-llama war, goblins mostly slaughtered; blood oath against Lety."
+      ],
+      "achievements": [
+        {
+          "name": "Gloves First!",
+          "hint": "Bring teacher something you killed. Wear the gloves.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Get the Flesh and Get Out!",
+          "hint": "Some fights you don't win. You leave with the good bit.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Keep Rolling!",
+          "hint": "Finish what she started. Try not to be in the next call sheet.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Hansel & Regretel!",
+          "hint": "Every lesson has a price. Somebody else is paying it.",
+          "group": "shame",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "A Cold Read!",
+          "hint": "The best part is getting your shopping home.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Enter the Season Reserve (310)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Harvest reserve stock",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Leave with your shopping (307)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Monkey Business!",
+          "hint": "Hold on to your lunch. If you can't, run.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Smoke Break!",
+          "hint": "Some bosses just need some fresh air.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Open all three roof vents",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Douse the smoke pit",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the jerky off the rail",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk out to the Canopy Market (318)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Staff Only!",
+          "hint": "It's only one service. Act like it isn't.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "The House Always Loses!",
+          "hint": "Beat the house. Then beat it again, higher. Then once more.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Comeback Season!",
+          "hint": "Every season needs a redemption arc. Yours starts in a freezer.",
+          "group": "stunts",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "The Finest Cut!",
+          "hint": "Take only the part that tasted.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Hoist by Her Own Pumpkin!",
+          "hint": "Kill the Gourd Mother in a fight. Return to sender.",
+          "group": "stunts",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Monster Hunter!",
+          "hint": "Three trophies for the wall. Different heads, please.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Some Assembly Required!",
+          "hint": "Craft something here. The monkey makes it look easy. It isn't.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "The Whole Hog!",
+          "hint": "The cave, the sow, the heart, home. In that order, all you.",
+          "group": "combat",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Reach the Fungus Cave (309)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Kill the Truffle Sow",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Sow-Heart Truffle",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get back to the Green Room (300)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Silver Tongue!",
+          "hint": "Ask nicely. Then ask someone else nicely.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Ear to the Wall!",
+          "hint": "The walls are thin. The kitchen is loud. Somebody is always talking.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Worth a Shot!",
+          "hint": "You miss every shot you don't declare. Also most of the ones you do.",
+          "group": "shame",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Signed in Triplicate!",
+          "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Get into the Cookbook Stacks (308)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Pick a cloche's collar",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Lift Barnaby Crumb's Contract",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Carry it to the Green Room (300)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Put it in Crumb's hands",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Bee Line!",
+          "hint": "Gate, brood, venom, jelly. Keep moving; they can smell fear and jam.",
+          "group": "stunts",
+          "progress": [
+            0,
+            6
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Reach the Comb Gate (314)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get through the Wax Door",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Into the Brood Galleries (315)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Bee Brood",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Bottle hive venom in the Drip Works (316)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Royal Jelly in the Inner Comb (317)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Cold Open!",
+          "hint": "Rushes, set, loop, flesh, the big one, out. All you, in order.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            7
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Start at The Location (303)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Watch the rushes",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk onto the Last Set (304)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Flip the ACTION Loop",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Cut the Krakaren Flesh",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Land the killing blow on the Great White",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk off the set alive (303)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Smoke Signals!",
+          "hint": "Vent, jerky, the big ham, down. In that order, all you.",
+          "group": "combat",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Climb to the Smokehouse (319)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Open a roof vent",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Twitching Jerky",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Land the killing blow on Old Cured Hide",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get back to the Canopy Market (318)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Vault Season!",
+          "hint": "Locker, token, vault, the Breadwinner, home. All you, in order.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            6
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Start in the Kitchen Stadium (307)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Scout the rival locker",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Library Prize Token",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Turn the Frozen Vault Door",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Kill the Garlic Breadwinner in the Season Reserve (310)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Bring it back to the Stadium (307)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Ten Down, Ratings Up!",
+          "hint": "The numbers are climbing. So is the crowd.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Fifty Down, Nobody Asked You To Stop!",
+          "hint": "The AI has stopped announcing them. It is just a number now.",
+          "group": "evening",
+          "progress": [
+            0,
+            50
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Kill Streak!",
+          "hint": "One fight. Five mobs. Don't stop for the replay.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Rampage!",
+          "hint": "The floor manager is calling it a cleaning job.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Bare Knuckle Broadcast!",
+          "hint": "Sponsors pay extra for no weapons. Allegedly.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Variety Hour!",
+          "hint": "Never the same tool twice. The merch department insists.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Equal Opportunity Executioner!",
+          "hint": "A full menu. Nobody left out.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Brutal Ratings!",
+          "hint": "Keep the numbers rolling. The viewers love a running total.",
+          "group": "evening",
+          "progress": [
+            0,
+            100
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Industrial Carnage!",
+          "hint": "The medical examiner has stopped asking questions.",
+          "group": "evening",
+          "progress": [
+            0,
+            250
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Highlight Reel!",
+          "hint": "Five crits. The editors are fighting over the footage.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Natural Selection!",
+          "hint": "Not an attack. Better. The crowd loves a clutch.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Blooper Marathon!",
+          "hint": "The outtakes are getting more airtime than the show.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Whiff Parade!",
+          "hint": "Swing. Miss. Smile for the camera.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Sharpshooter!",
+          "hint": "Ten for ten. The odds-makers are sweating.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Third Time's The Charm!",
+          "hint": "The AI has started a tally just for you. It is not a nice one.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Punching Bag!",
+          "hint": "Soak it up. The show thanks you for your service.",
+          "group": "evening",
+          "progress": [
+            0,
+            20
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Human Piñata!",
+          "hint": "Something sweet is supposed to fall out.",
+          "group": "evening",
+          "progress": [
+            0,
+            60
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Tough Crowd!",
+          "hint": "Everyone in the building has had a go.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Dodge This!",
+          "hint": "The mobs are embarrassed. The viewers are not.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Padded Cell!",
+          "hint": "That is what the plating is for. Keep wearing it.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Collect Them All!",
+          "hint": "Three afflictions, no duplicates. The collectors will be in touch.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Walking Hazard!",
+          "hint": "You are now a medical textbook. Please do not touch the cast.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Effects Reel!",
+          "hint": "Three new things are happening to you. The audience is thrilled.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Ten Takes!",
+          "hint": "Practice makes perfect. Mostly it makes ratings.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Jack of All Trades!",
+          "hint": "Five skills, five different faces. The casting director is confused.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Hands-On Host!",
+          "hint": "Locks, ropes, levers. Touch everything. Sign the waiver.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Prop Department!",
+          "hint": "Every prop on this set is a trap. Use all of them.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Magic Hour!",
+          "hint": "The lighting crew has asked you to calm down.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Wizard Weather!",
+          "hint": "Three spells. Three weather systems. One very confused ceiling.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Fizzle!",
+          "hint": "Sparks. Smoke. A sad little pop. The audience adores it.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Costume Change!",
+          "hint": "Behind the curtain. Their hands. Four seconds, and you come out as ordered.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Pill Popper!",
+          "hint": "Read the labels. Or don't. Ratings are ratings.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Big Spender!",
+          "hint": "The sponsors are very proud of your consumer confidence.",
+          "group": "evening",
+          "progress": [
+            0,
+            50
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Arts and Crafts Hour!",
+          "hint": "Glue, tape, and prayer. The segment ends in two minutes.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Sticky Fingers!",
+          "hint": "Finders keepers. The viewers are not judging. They are scoring.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Improv Night!",
+          "hint": "Make it up as you go. The writers' room is on strike.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "The Other Runner",
+          "hint": "The one in the wreck will not cross alone, and she will not come home empty-handed.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Pointy End First!",
+          "hint": "Now kill something in a fight with the blade. Up close and personal.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Knife Skills!",
+          "hint": "Now kill something in a fight with the knife. Mise en place.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Clean Up on Aisle Three!",
+          "hint": "Now kill something in a fight with the mop. Then mop.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Plumbing Emergency!",
+          "hint": "Now kill something in a fight with it. Hit it like it owes you rent.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Boomstick!",
+          "hint": "Now kill three things with the shotgun, two in one fight, or a boss.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Nailed It!",
+          "hint": "Now kill three things with the nail gun, or land a natural 20 with it.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Harpooned!",
+          "hint": "Now land a boss with the speargun, or kill three things with it.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Chainsaw Massacre!",
+          "hint": "Now kill two things in one fight with the power tool, or hit for 15+.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Robin Hood!",
+          "hint": "Now kill three things with the bow, or two in one fight.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Cocktail Hour!",
+          "hint": "Now burn two things down in one fight. Bring more than one bottle.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Scrap Heap Hero!",
+          "hint": "Now take three hits in one fight wearing the improvised armour. It holds. Mostly.",
+          "group": "stunts",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Walking Tank!",
+          "hint": "Now take three hits in one fight in the heavy armour, or survive one at 1 HP.",
+          "group": "stunts",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        }
+      ]
+    },
+    {
+      "pc_id": "crawler_e",
+      "pc_name": "Edwardo",
+      "story": [
+        "Party declines the Spice Challenge in the Commissary (Room 210).",
+        "Party negotiates with goblins in Room 212 rather than fight them.",
+        "Party wrestles the 400-pound troglodyte in the gym.",
+        "Party gains information from Manny and welding beads from Janet.",
+        "Session 2 ended on stairwell 220 (AI, leaflets). Nick, Lety, Edwardo; still level 1. Good Doctor dead (shotgun, 209). Frank Q dead (Nick, Murder Dozer). Don dead (Edwardo executed him). Marta Voss crushed at vault — alive, cyborg return on Floor 2.",
+        "209 — Doctor bleeds out; Edwardo executes Don → llamas hostile to Edwardo; Grandma Llama moves on the party; Good Llama holds her off as cover for escape; Janet + Precious out",
+        "Edwardo Hot Things nat 1 meme",
+        "Party encounters AI drone in Room 213 TV.",
+        "Doctor bleeds out in Room 209; Edwardo executes Don."
+      ],
+      "achievements": [
+        {
+          "name": "Gloves First!",
+          "hint": "Bring teacher something you killed. Wear the gloves.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Get the Flesh and Get Out!",
+          "hint": "Some fights you don't win. You leave with the good bit.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Keep Rolling!",
+          "hint": "Finish what she started. Try not to be in the next call sheet.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Hansel & Regretel!",
+          "hint": "Every lesson has a price. Somebody else is paying it.",
+          "group": "shame",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "A Cold Read!",
+          "hint": "The best part is getting your shopping home.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Enter the Season Reserve (310)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Harvest reserve stock",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Leave with your shopping (307)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Monkey Business!",
+          "hint": "Hold on to your lunch. If you can't, run.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Smoke Break!",
+          "hint": "Some bosses just need some fresh air.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Open all three roof vents",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Douse the smoke pit",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the jerky off the rail",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk out to the Canopy Market (318)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Staff Only!",
+          "hint": "It's only one service. Act like it isn't.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "The House Always Loses!",
+          "hint": "Beat the house. Then beat it again, higher. Then once more.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Comeback Season!",
+          "hint": "Every season needs a redemption arc. Yours starts in a freezer.",
+          "group": "stunts",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "The Finest Cut!",
+          "hint": "Take only the part that tasted.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Hoist by Her Own Pumpkin!",
+          "hint": "Kill the Gourd Mother in a fight. Return to sender.",
+          "group": "stunts",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Monster Hunter!",
+          "hint": "Three trophies for the wall. Different heads, please.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Some Assembly Required!",
+          "hint": "Craft something here. The monkey makes it look easy. It isn't.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "The Whole Hog!",
+          "hint": "The cave, the sow, the heart, home. In that order, all you.",
+          "group": "combat",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Reach the Fungus Cave (309)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Kill the Truffle Sow",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Sow-Heart Truffle",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get back to the Green Room (300)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Silver Tongue!",
+          "hint": "Ask nicely. Then ask someone else nicely.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Ear to the Wall!",
+          "hint": "The walls are thin. The kitchen is loud. Somebody is always talking.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Worth a Shot!",
+          "hint": "You miss every shot you don't declare. Also most of the ones you do.",
+          "group": "shame",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Signed in Triplicate!",
+          "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Get into the Cookbook Stacks (308)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Pick a cloche's collar",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Lift Barnaby Crumb's Contract",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Carry it to the Green Room (300)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Put it in Crumb's hands",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Bee Line!",
+          "hint": "Gate, brood, venom, jelly. Keep moving; they can smell fear and jam.",
+          "group": "stunts",
+          "progress": [
+            0,
+            6
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Reach the Comb Gate (314)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get through the Wax Door",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Into the Brood Galleries (315)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Bee Brood",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Bottle hive venom in the Drip Works (316)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Royal Jelly in the Inner Comb (317)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Cold Open!",
+          "hint": "Rushes, set, loop, flesh, the big one, out. All you, in order.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            7
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Start at The Location (303)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Watch the rushes",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk onto the Last Set (304)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Flip the ACTION Loop",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Cut the Krakaren Flesh",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Land the killing blow on the Great White",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Walk off the set alive (303)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Smoke Signals!",
+          "hint": "Vent, jerky, the big ham, down. In that order, all you.",
+          "group": "combat",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Climb to the Smokehouse (319)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Open a roof vent",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Twitching Jerky",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Land the killing blow on Old Cured Hide",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Get back to the Canopy Market (318)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Vault Season!",
+          "hint": "Locker, token, vault, the Breadwinner, home. All you, in order.",
+          "group": "showbiz",
+          "progress": [
+            0,
+            6
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "Start in the Kitchen Stadium (307)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Scout the rival locker",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Take the Library Prize Token",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Turn the Frozen Vault Door",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Kill the Garlic Breadwinner in the Season Reserve (310)",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "Bring it back to the Stadium (307)",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Ten Down, Ratings Up!",
+          "hint": "The numbers are climbing. So is the crowd.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Fifty Down, Nobody Asked You To Stop!",
+          "hint": "The AI has stopped announcing them. It is just a number now.",
+          "group": "evening",
+          "progress": [
+            0,
+            50
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Kill Streak!",
+          "hint": "One fight. Five mobs. Don't stop for the replay.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Rampage!",
+          "hint": "The floor manager is calling it a cleaning job.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Bare Knuckle Broadcast!",
+          "hint": "Sponsors pay extra for no weapons. Allegedly.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Variety Hour!",
+          "hint": "Never the same tool twice. The merch department insists.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Equal Opportunity Executioner!",
+          "hint": "A full menu. Nobody left out.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Brutal Ratings!",
+          "hint": "Keep the numbers rolling. The viewers love a running total.",
+          "group": "evening",
+          "progress": [
+            0,
+            100
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Industrial Carnage!",
+          "hint": "The medical examiner has stopped asking questions.",
+          "group": "evening",
+          "progress": [
+            0,
+            250
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Highlight Reel!",
+          "hint": "Five crits. The editors are fighting over the footage.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Natural Selection!",
+          "hint": "Not an attack. Better. The crowd loves a clutch.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Blooper Marathon!",
+          "hint": "The outtakes are getting more airtime than the show.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Whiff Parade!",
+          "hint": "Swing. Miss. Smile for the camera.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Sharpshooter!",
+          "hint": "Ten for ten. The odds-makers are sweating.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Third Time's The Charm!",
+          "hint": "The AI has started a tally just for you. It is not a nice one.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Punching Bag!",
+          "hint": "Soak it up. The show thanks you for your service.",
+          "group": "evening",
+          "progress": [
+            0,
+            20
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Human Piñata!",
+          "hint": "Something sweet is supposed to fall out.",
+          "group": "evening",
+          "progress": [
+            0,
+            60
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Tough Crowd!",
+          "hint": "Everyone in the building has had a go.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Dodge This!",
+          "hint": "The mobs are embarrassed. The viewers are not.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Padded Cell!",
+          "hint": "That is what the plating is for. Keep wearing it.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Collect Them All!",
+          "hint": "Three afflictions, no duplicates. The collectors will be in touch.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Walking Hazard!",
+          "hint": "You are now a medical textbook. Please do not touch the cast.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Effects Reel!",
+          "hint": "Three new things are happening to you. The audience is thrilled.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Ten Takes!",
+          "hint": "Practice makes perfect. Mostly it makes ratings.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Jack of All Trades!",
+          "hint": "Five skills, five different faces. The casting director is confused.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Hands-On Host!",
+          "hint": "Locks, ropes, levers. Touch everything. Sign the waiver.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Prop Department!",
+          "hint": "Every prop on this set is a trap. Use all of them.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Magic Hour!",
+          "hint": "The lighting crew has asked you to calm down.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Wizard Weather!",
+          "hint": "Three spells. Three weather systems. One very confused ceiling.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Fizzle!",
+          "hint": "Sparks. Smoke. A sad little pop. The audience adores it.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Costume Change!",
+          "hint": "Behind the curtain. Their hands. Four seconds, and you come out as ordered.",
+          "group": "evening",
+          "progress": [
+            0,
+            10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Pill Popper!",
+          "hint": "Read the labels. Or don't. Ratings are ratings.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Big Spender!",
+          "hint": "The sponsors are very proud of your consumer confidence.",
+          "group": "evening",
+          "progress": [
+            0,
+            50
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Arts and Crafts Hour!",
+          "hint": "Glue, tape, and prayer. The segment ends in two minutes.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Sticky Fingers!",
+          "hint": "Finders keepers. The viewers are not judging. They are scoring.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Improv Night!",
+          "hint": "Make it up as you go. The writers' room is on strike.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "The Other Runner",
+          "hint": "The one in the wreck will not cross alone, and she will not come home empty-handed.",
+          "group": "dungeon",
+          "progress": [
+            0,
+            4
+          ],
+          "earned_by": [],
+          "steps": [
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            },
+            {
+              "met": false,
+              "label": "",
+              "bonus": false
+            }
+          ]
+        },
+        {
+          "name": "Pointy End First!",
+          "hint": "Now kill something in a fight with the blade. Up close and personal.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Clean Up on Aisle Three!",
+          "hint": "Now kill something in a fight with the mop. Then mop.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Goliath Down!",
+          "hint": "Now kill something in a fight with the slingshot. Ask David how.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Boomstick!",
+          "hint": "Now kill three things with the shotgun, two in one fight, or a boss.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Nailed It!",
+          "hint": "Now kill three things with the nail gun, or land a natural 20 with it.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Harpooned!",
+          "hint": "Now land a boss with the speargun, or kill three things with it.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Chainsaw Massacre!",
+          "hint": "Now kill two things in one fight with the power tool, or hit for 15+.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Robin Hood!",
+          "hint": "Now kill three things with the bow, or two in one fight.",
+          "group": "combat",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Cocktail Hour!",
+          "hint": "Now burn two things down in one fight. Bring more than one bottle.",
+          "group": "combat",
+          "progress": [
+            0,
+            2
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Leather Daddy!",
+          "hint": "Now wear the light armour into a fight and take a hit in it.",
+          "group": "stunts",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Scrap Heap Hero!",
+          "hint": "Now take three hits in one fight wearing the improvised armour. It holds. Mostly.",
+          "group": "stunts",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Walking Tank!",
+          "hint": "Now take three hits in one fight in the heavy armour, or survive one at 1 HP.",
+          "group": "stunts",
+          "progress": [
+            0,
+            3
+          ],
+          "earned_by": []
+        }
+      ]
+    }
+  ]
+}

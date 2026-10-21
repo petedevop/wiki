@@ -6,6 +6,12 @@ const NAV_ITEMS = [
   { key: "people", label: "People" },
   { key: "items", label: "Gear" },
   { key: "bounties", label: "Bounties" },
+  { key: "board", label: "Board" },
+  { key: "wall", label: "Wall" },
+  { key: "quests", label: "Quests" },
+  { key: "rivals", label: "Rivals" },
+  { key: "tonight", label: "Tonight" },
+  { key: "cast", label: "Cast" },
   { key: "sponsors", label: "Sponsors" },
   { key: "achievements", label: "Achievements" },
   { key: "sessions", label: "Sessions" },
@@ -46,6 +52,9 @@ function matches(row, q) {
       row.blurb,
       row.role,
       row.invite_pitch,
+      row.giver,
+      row.kitchen,
+      row.signed,
     ]
       .filter(Boolean)
       .join(" "),
@@ -265,13 +274,14 @@ function formatStatBlock(stats) {
 async function renderBounties(main) {
   const data = await loadJson(state.manifest.sections.bounties);
   const panel = el("div", "panel");
-  panel.appendChild(
-    panelHeader(
-      "Board bounties",
-      "Top ten on the world board. Each night the app may put one on the floor — the rest stay off-map.",
-      "bounties",
-    ),
-  );
+  const meta = data.meta || {};
+  let intro =
+    "Top ten on the world board. Each night the app may put one on the floor — the rest stay off-map.";
+  if (meta.explainer) intro = meta.explainer;
+  if (meta.posted_name) {
+    intro += ` Tonight's roll put ${meta.posted_name} on the floor (if anyone came).`;
+  }
+  panel.appendChild(panelHeader("Board bounties", intro, "bounties"));
   panel.appendChild(
     renderList(data.rows, (row) => {
       const subtitle = [
@@ -298,6 +308,228 @@ async function renderBounties(main) {
   main.appendChild(panel);
 }
 
+async function renderBoard(main) {
+  const data = await loadJson(state.manifest.sections.board);
+  const panel = el("div", "panel");
+  const meta = data.meta || {};
+  panel.appendChild(
+    panelHeader(
+      "World board",
+      meta.explainer ||
+        "Top twenty names on the public leaderboard. Only the top ten can roll onto the floor.",
+      "board",
+    ),
+  );
+  if (meta.posted_name) {
+    panel.appendChild(
+      el("p", "intro board-tonight", `Tonight's floor bounty name: ${meta.posted_name}`),
+    );
+  }
+  panel.appendChild(
+    renderList(data.rows || [], (row) => {
+      const subtitle = [
+        row.on_floor ? "Top ten pool" : "",
+        row.bounty ? `${Number(row.bounty).toLocaleString()} gp` : "",
+        row.level ? `Lv ${row.level}` : "",
+        row.kills ? `${row.kills} kills` : "",
+      ]
+        .filter(Boolean)
+        .join(" · ");
+      const body = row.blurb ? `<p>${row.blurb}</p>` : "";
+      return cardDetails({ title: `#${row.rank} ${row.name}`, subtitle, preview: "" }, body);
+    }),
+  );
+  main.appendChild(panel);
+}
+
+async function renderWall(main) {
+  const data = await loadJson(state.manifest.sections.wall);
+  const panel = el("div", "panel");
+  panel.appendChild(
+    panelHeader(
+      "Achievement wall",
+      "Per-crawler progress on started trophies — hints only, no secret triggers.",
+      "wall",
+    ),
+  );
+  const stack = el("div", "wall-stack");
+  for (const pc of data.rows || []) {
+    const block = el("div", "wall-pc");
+    block.appendChild(el("h3", "wall-pc-name", pc.pc_name));
+    if (pc.story?.length) {
+      const story = el("ul", "wall-story");
+      for (const line of pc.story) {
+        const li = document.createElement("li");
+        li.textContent = line;
+        story.appendChild(li);
+      }
+      block.appendChild(story);
+    }
+    const ach = pc.achievements || [];
+    if (!ach.length) {
+      block.appendChild(el("p", "card-sub", "No wall progress exported yet."));
+    } else {
+      const ul = el("ul", "card-list");
+      for (const row of ach) {
+        const li = document.createElement("li");
+        const details = el("details", "card touched");
+        const summary = el("summary");
+        summary.appendChild(el("span", "card-title", row.name));
+        if (row.hint) summary.appendChild(el("span", "card-sub hint", row.hint));
+        details.appendChild(summary);
+        const body = el("div", "card-body");
+        let has = false;
+        if (row.progress) {
+          body.appendChild(el("p", "progress-line", row.progress));
+          has = true;
+        }
+        if (row.steps?.length) {
+          const steps = el("ul", "quest-steps");
+          for (const step of row.steps) {
+            const sli = document.createElement("li");
+            sli.textContent = `${step.met ? "✓" : "○"} ${step.label || step.name || ""}`;
+            steps.appendChild(sli);
+          }
+          body.appendChild(steps);
+          has = true;
+        }
+        if (row.earned_by?.length) {
+          body.appendChild(el("p", null, `Earned by: ${row.earned_by.join(", ")}`));
+          has = true;
+        }
+        if (has) details.appendChild(body);
+        li.appendChild(details);
+        ul.appendChild(li);
+      }
+      block.appendChild(ul);
+    }
+    stack.appendChild(block);
+  }
+  if (!(data.rows || []).length) {
+    panel.appendChild(el("p", "empty-state", "No party sheets in this export."));
+  } else {
+    panel.appendChild(stack);
+  }
+  main.appendChild(panel);
+}
+
+async function renderQuests(main) {
+  const data = await loadJson(state.manifest.sections.quests);
+  const panel = el("div", "panel");
+  panel.appendChild(
+    panelHeader(
+      "Quest board",
+      "Contracts your crawlers have started — objectives only, not the hidden win text.",
+      "quests",
+    ),
+  );
+  panel.appendChild(
+    renderList(data.rows || [], (row) => {
+      const subtitle = [row.giver, row.gp ? `${row.gp} gp` : "", row.prize]
+        .filter(Boolean)
+        .join(" · ");
+      let body = "";
+      if (row.steps?.length) {
+        body += "<ul class='quest-steps'>";
+        for (const step of row.steps) {
+          body += `<li>${step.met ? "✓" : "○"} ${step.label}</li>`;
+        }
+        body += "</ul>";
+      }
+      if (row.pending) body += "<p><em>Turn-in pending at the booth.</em></p>";
+      return cardDetails({ title: row.name, subtitle, preview: row.pc_name }, body);
+    }),
+  );
+  main.appendChild(panel);
+}
+
+async function renderRivals(main) {
+  const data = await loadJson(state.manifest.sections.rivals);
+  const panel = el("div", "panel");
+  panel.appendChild(
+    panelHeader(
+      "Rival kitchens",
+      "NPCs your table has made enemies of this evening — Stadium draws from this list.",
+      "rivals",
+    ),
+  );
+  if (data.house) {
+    panel.appendChild(
+      el("p", "intro", `${data.house.kitchen} — ${data.house.note || ""}`),
+    );
+  }
+  const rows = data.rows || [];
+  if (!rows.length && !data.house) {
+    panel.appendChild(el("p", "empty-state", "No rivals yet tonight."));
+  } else {
+    panel.appendChild(
+      renderList(rows, (row) => {
+        const body = [
+          row.taunt ? `<p><em>${row.taunt}</em></p>` : "",
+          row.dish ? `<p><strong>Signature dish</strong> ${row.dish}</p>` : "",
+        ].join("");
+        return cardDetails(
+          { title: row.name, subtitle: row.kitchen || "", preview: "" },
+          body,
+        );
+      }),
+    );
+  }
+  main.appendChild(panel);
+}
+
+async function renderTonight(main) {
+  const data = await loadJson(state.manifest.sections.tonight);
+  const panel = el("div", "panel");
+  const meta = data.meta || {};
+  let intro = "Rooms your party has opened this episode (player-safe titles only).";
+  if (meta.posted_name) {
+    intro += ` Floor bounty roll: ${meta.posted_name}.`;
+  }
+  panel.appendChild(panelHeader("Tonight", intro, "tonight"));
+  const rooms = data.rooms || [];
+  if (!rooms.length) {
+    panel.appendChild(el("p", "empty-state", "No room history for this episode yet."));
+  } else {
+    const ul = el("ul", "card-list tonight-rooms");
+    for (const room of rooms) {
+      const li = document.createElement("li");
+      const label = room.title ? `${room.num} — ${room.title}` : `Room ${room.num}`;
+      li.appendChild(el("span", "card-title", label));
+      if (room.has_text) li.appendChild(el("span", "card-sub", "Read in Rooms"));
+      ul.appendChild(li);
+    }
+    panel.appendChild(ul);
+  }
+  main.appendChild(panel);
+}
+
+async function renderCast(main) {
+  const data = await loadJson(state.manifest.sections.cast);
+  const panel = el("div", "panel");
+  panel.appendChild(
+    panelHeader(
+      "Cast index",
+      "Everyone on the floor — met names match People; others stay as silhouettes until you find them.",
+      "cast",
+    ),
+  );
+  panel.appendChild(
+    renderList(data.rows || [], (row) => {
+      const card = el("details", "card" + (row.discovered ? " cast-met" : ""));
+      const summary = el("summary");
+      summary.appendChild(el("span", "card-title", row.name));
+      summary.appendChild(
+        el("span", "card-sub", row.discovered ? "Met" : "Not met"),
+      );
+      if (row.role) summary.appendChild(el("span", "card-sub", row.role));
+      card.appendChild(summary);
+      return card;
+    }),
+  );
+  main.appendChild(panel);
+}
+
 async function renderSponsors(main) {
   const data = await loadJson(state.manifest.sections.sponsors);
   const panel = el("div", "panel");
@@ -308,6 +540,49 @@ async function renderSponsors(main) {
       "sponsors",
     ),
   );
+  if (data.scoreboard?.length) {
+    const sb = el("div", "sponsor-scoreboard");
+    sb.appendChild(el("p", "party-skills-label", "Courting scoreboard"));
+    const ul = el("ul", "party-skills");
+    for (const row of data.scoreboard) {
+      const li = document.createElement("li");
+      const pts = Object.entries(row.points || {})
+        .map(([name, val]) => `${name} ${val}`)
+        .join(" · ");
+      li.textContent = `${row.pc_name}${row.signed ? ` (signed ${row.signed})` : ""}: ${pts}`;
+      ul.appendChild(li);
+    }
+    sb.appendChild(ul);
+    panel.appendChild(sb);
+  }
+  if (data.relics?.length) {
+    const rel = el("div", "sponsor-relics");
+    rel.appendChild(el("p", "party-skills-label", "Relic catalog (public effects)"));
+    const ul = el("ul", "card-list");
+    for (const relic of data.relics) {
+      const li = document.createElement("li");
+      const details = el("details", "card");
+      const summary = el("summary");
+      summary.appendChild(el("span", "card-title", relic.name));
+      summary.appendChild(
+        el(
+          "span",
+          "card-sub",
+          `${relic.sponsor} · ${relic.cost} pt${relic.cost === 1 ? "" : "s"}${relic.unique ? " · unique" : ""}`,
+        ),
+      );
+      details.appendChild(summary);
+      if (relic.effect) {
+        const body = el("div", "card-body");
+        body.appendChild(el("p", null, relic.effect));
+        details.appendChild(body);
+      }
+      li.appendChild(details);
+      ul.appendChild(li);
+    }
+    rel.appendChild(ul);
+    panel.appendChild(rel);
+  }
   panel.appendChild(
     renderList(data.rows, (row) => {
       const body = [
@@ -446,6 +721,9 @@ async function renderParty(main) {
     if (row.appearance) {
       card.appendChild(el("p", "party-appearance", row.appearance));
     }
+    if (row.class_blurb) {
+      card.appendChild(el("p", "party-class-blurb", row.class_blurb));
+    }
     const abilities = partyAbilityPills(row.abilities);
     if (abilities) card.appendChild(abilities);
     const stats = el("div", "party-stats");
@@ -513,6 +791,12 @@ async function renderSection() {
     if (key === "rules") await renderRules(main);
     else if (key === "map") await renderMap(main);
     else if (key === "bounties") await renderBounties(main);
+    else if (key === "board") await renderBoard(main);
+    else if (key === "wall") await renderWall(main);
+    else if (key === "quests") await renderQuests(main);
+    else if (key === "rivals") await renderRivals(main);
+    else if (key === "tonight") await renderTonight(main);
+    else if (key === "cast") await renderCast(main);
     else if (key === "sponsors") await renderSponsors(main);
     else if (key === "achievements") await renderAchievements(main);
     else if (key === "party") await renderParty(main);

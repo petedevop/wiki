@@ -57,7 +57,8 @@
       "title": "",
       "appearance": "",
       "skills": [],
-      "portrait": "assets/party/crawler_b.png"
+      "portrait": "assets/party/crawler_b.png",
+      "class_blurb": "A suit you built at home. It grants +2 AC until something important falls off."
     },
     {
       "id": "crawler_c",
@@ -114,7 +115,8 @@
       "title": "",
       "appearance": "",
       "skills": [],
-      "portrait": "assets/party/crawler_c.png"
+      "portrait": "assets/party/crawler_c.png",
+      "class_blurb": "A fresh soul in a tool. A second soul starts to poison you."
     },
     {
       "id": "crawler_e",
@@ -171,7 +173,8 @@
       "title": "",
       "appearance": "",
       "skills": [],
-      "portrait": "assets/party/crawler_e.png"
+      "portrait": "assets/party/crawler_e.png",
+      "class_blurb": "A far bolt, a trap switched off, and one die rolled again."
     }
   ],
   "skipped": false

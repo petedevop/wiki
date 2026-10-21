@@ -730,6 +730,46 @@ body {
   border: 1px solid rgba(232, 192, 122, 0.25);
 }
 
+.wall-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.wall-pc-name {
+  margin: 0 0 0.5rem;
+  font-size: 1.05rem;
+}
+
+.wall-story {
+  margin: 0 0 0.75rem 1.1rem;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.quest-steps {
+  margin: 0.5rem 0 0 1.1rem;
+  font-size: 0.9rem;
+}
+
+.card.cast-met .card-title {
+  color: var(--accent);
+}
+
+.sponsor-scoreboard,
+.sponsor-relics {
+  margin-bottom: 1.25rem;
+}
+
+.tonight-rooms li {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.75rem;
+  align-items: baseline;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
 .empty-state {
   padding: 2rem 1rem;
   text-align: center;

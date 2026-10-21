@@ -1,0 +1,202 @@
+{
+  "rows": [
+    {
+      "pc_name": "Edwardo",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 0,
+      "prize": "Crumb's Recipe Book · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "met": false
+        },
+        {
+          "label": "Hand it to Crumb, unread",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "★★★★★ The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 0,
+      "prize": "Crumb's Recipe Book · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "met": false
+        },
+        {
+          "label": "Hand it to Crumb, unread",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "★★★★★ The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nick",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 0,
+      "prize": "Crumb's Recipe Book · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "met": false
+        },
+        {
+          "label": "Hand it to Crumb, unread",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nick",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nick",
+      "name": "★★★★★ The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    }
+  ]
+}

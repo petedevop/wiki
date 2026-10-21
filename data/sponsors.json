@@ -144,5 +144,134 @@
       "gift": "Memorial Card",
       "gift_effect": "A card with your face. Once, when you would die, the card burns and you don't. The stats on it were wrong."
     }
-  ]
+  ],
+  "relics": [
+    {
+      "name": "Big Red Button",
+      "sponsor": "B.U.T.T.O.N",
+      "cost": 0,
+      "effect": "Once. Press it. The DM rolls a wild effect that cannot be the one you asked for.",
+      "unique": false
+    },
+    {
+      "name": "Canteen That Refills",
+      "sponsor": "M.O.I.S.T.",
+      "cost": 0,
+      "effect": "Once per rest, drink. Heal 1d4. It tastes like the last place you almost died.",
+      "unique": false
+    },
+    {
+      "name": "Chaos Letter Opener",
+      "sponsor": "Dilbert's Incredible Chaos Katanas",
+      "cost": 0,
+      "effect": "A tiny katana. Once per fight its damage die explodes — roll it again and add.",
+      "unique": false
+    },
+    {
+      "name": "Cloak of Protection",
+      "sponsor": "Open Intellect Pacifist Action Network",
+      "cost": 0,
+      "effect": "+1 DR. The first time each fight something would hit you, it hits whoever you shoved into the way instead.",
+      "unique": false
+    },
+    {
+      "name": "Collar of the Faithful Hound",
+      "sponsor": "Veriluxx RealPet Companions",
+      "cost": 0,
+      "effect": "Once per fight, the pet takes one hit meant for you.",
+      "unique": false
+    },
+    {
+      "name": "Last Plate",
+      "sponsor": "Colossus Armory",
+      "cost": 0,
+      "effect": "Once. When you would hit 0 HP, you stay at 1 until the end of the round.",
+      "unique": false
+    },
+    {
+      "name": "Loaded Die",
+      "sponsor": "C.H.A.O.S.",
+      "cost": 0,
+      "effect": "Once per fight, replace one die you just rolled with a different face. You do not pick which.",
+      "unique": false
+    },
+    {
+      "name": "Memorial Card",
+      "sponsor": "The Crawler Memorial Project",
+      "cost": 0,
+      "effect": "A card with your face. Once, when you would die, the card burns and you don't. The stats on it were wrong.",
+      "unique": false
+    },
+    {
+      "name": "Overclock Cap",
+      "sponsor": "S.P.L.O.O.G.E",
+      "cost": 0,
+      "effect": "Once. +4 to one check. The next check you make is at −4.",
+      "unique": false
+    },
+    {
+      "name": "Pocket Star",
+      "sponsor": "EnnerGeX",
+      "cost": 0,
+      "effect": "Once. A marble of starfire. Thrown, it burns like a torch for a fight and then goes out.",
+      "unique": false
+    },
+    {
+      "name": "Quarry Sack",
+      "sponsor": "Squim Conglomerate",
+      "cost": 0,
+      "effect": "The bag holds a room's worth of torn-out fixtures and almost no air.",
+      "unique": false
+    },
+    {
+      "name": "Ring of Regeneration",
+      "sponsor": "Valtay Corporation",
+      "cost": 0,
+      "effect": "Once per rest, the wearer stands from 0 HP with 1 HP, still on the payroll.",
+      "unique": false
+    },
+    {
+      "name": "Sample Can",
+      "sponsor": "GigaChad Energy Drinks",
+      "cost": 0,
+      "effect": "One can. +2 STR until the end of the fight, then you crash and can't act for a round.",
+      "unique": false
+    },
+    {
+      "name": "Shop Steward's Key",
+      "sponsor": "Cogsworth & Sons Automata Co.",
+      "cost": 0,
+      "effect": "Once. A machine you wind obeys you for one scene, then clocks out.",
+      "unique": false
+    },
+    {
+      "name": "Sweatband of the Sponsor",
+      "sponsor": "Invictus Corp",
+      "cost": 0,
+      "effect": "Worn. Once per fight, ignore the first point of exhaustion or fatigue.",
+      "unique": false
+    },
+    {
+      "name": "The House Collar",
+      "sponsor": "Pettigrew & Collar",
+      "cost": 0,
+      "effect": "Worn at the throat. Once per scene, when a blow would land, curtsey for the lens: it misses, and you cannot attack until your next turn. Asking to take it off is not how it comes off.",
+      "unique": false
+    },
+    {
+      "name": "Valhalla Party Blower",
+      "sponsor": "Jaxbrin Amusements, Limited",
+      "cost": 0,
+      "effect": "Blow it as an action. One adjacent mob attacks whatever you name, then the blower is spent.",
+      "unique": false
+    },
+    {
+      "name": "Vial of the Great Spit",
+      "sponsor": "Church of the Mad Llama",
+      "cost": 0,
+      "effect": "One use. A creature you spit on cannot attack a cameloid until it rests.",
+      "unique": false
+    }
+  ],
+  "scoreboard": []
 }

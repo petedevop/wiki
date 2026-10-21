@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Floor purses are smaller than the posted board gold — see Bounties for stats on the top ten.",
+    "posted_name": "",
+    "top_ten_pool": 10,
+    "board_size": 20
+  },
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Lucia Mar",
+      "level": 32,
+      "kills": 912,
+      "bounty": 5000,
+      "blurb": "Commands with her two rottweilers.",
+      "on_floor": true
+    },
+    {
+      "rank": 2,
+      "name": "Hekla",
+      "level": 31,
+      "kills": 870,
+      "bounty": 4500,
+      "blurb": "Cold-eyed and relentlessly prepared.",
+      "on_floor": true
+    },
+    {
+      "rank": 3,
+      "name": "Prepotente",
+      "level": 30,
+      "kills": 844,
+      "bounty": 4000,
+      "blurb": "Brilliant goat with a terrible scream.",
+      "on_floor": true
+    },
+    {
+      "rank": 4,
+      "name": "Florin",
+      "level": 29,
+      "kills": 801,
+      "bounty": 3500,
+      "blurb": "Veteran crawler and steady tactician.",
+      "on_floor": true
+    },
+    {
+      "rank": 5,
+      "name": "Quan Ch",
+      "level": 28,
+      "kills": 775,
+      "bounty": 3000,
+      "blurb": "Precise fighter with immaculate timing.",
+      "on_floor": true
+    },
+    {
+      "rank": 6,
+      "name": "Miss Quill",
+      "level": 28,
+      "kills": 749,
+      "bounty": 2750,
+      "blurb": "Razor wit and sharper battlefield instincts.",
+      "on_floor": true
+    },
+    {
+      "rank": 7,
+      "name": "Gwendolyn Duet",
+      "level": 27,
+      "kills": 720,
+      "bounty": 2500,
+      "blurb": "Calm under pressure and hard to surprise.",
+      "on_floor": true
+    },
+    {
+      "rank": 8,
+      "name": "Signet",
+      "level": 27,
+      "kills": 694,
+      "bounty": 2250,
+      "blurb": "A dangerous presence with royal poise.",
+      "on_floor": true
+    },
+    {
+      "rank": 9,
+      "name": "Li Jun",
+      "level": 26,
+      "kills": 660,
+      "bounty": 2000,
+      "blurb": "Fast hands and disciplined judgment.",
+      "on_floor": true
+    },
+    {
+      "rank": 10,
+      "name": "Li Na",
+      "level": 26,
+      "kills": 641,
+      "bounty": 1800,
+      "blurb": "Graceful movement hiding brutal force.",
+      "on_floor": true
+    },
+    {
+      "rank": 11,
+      "name": "Elle McGibbons",
+      "level": 25,
+      "kills": 612,
+      "bounty": 1600,
+      "blurb": "Crowd favorite who never wastes a moment.",
+      "on_floor": false
+    },
+    {
+      "rank": 12,
+      "name": "Daniel Bautista",
+      "level": 25,
+      "kills": 590,
+      "bounty": 1500,
+      "blurb": "Dependable and frighteningly efficient.",
+      "on_floor": false
+    },
+    {
+      "rank": 13,
+      "name": "Frank Q",
+      "level": 24,
+      "kills": 566,
+      "bounty": 1400,
+      "blurb": "Shooter with a calm voice.",
+      "on_floor": false
+    },
+    {
+      "rank": 14,
+      "name": "Maggie My",
+      "level": 24,
+      "kills": 541,
+      "bounty": 1300,
+      "blurb": "Talker who can survive the answer.",
+      "on_floor": false
+    },
+    {
+      "rank": 15,
+      "name": "Katia Grim",
+      "level": 23,
+      "kills": 518,
+      "bounty": 1200,
+      "blurb": "Adaptable crawler with iron resolve.",
+      "on_floor": false
+    },
+    {
+      "rank": 16,
+      "name": "Rosa \"Chainsaw\" Delgado",
+      "level": 22,
+      "kills": 489,
+      "bounty": 1100,
+      "blurb": "Never met a barricade she respected.",
+      "on_floor": false
+    },
+    {
+      "rank": 17,
+      "name": "Big Tom Okafor",
+      "level": 22,
+      "kills": 466,
+      "bounty": 1000,
+      "blurb": "Gentle voice and wrecking-ball shoulders.",
+      "on_floor": false
+    },
+    {
+      "rank": 18,
+      "name": "Dmitri Volkov",
+      "level": 21,
+      "kills": 443,
+      "bounty": 900,
+      "blurb": "Patient hunter with an accountant's memory.",
+      "on_floor": false
+    },
+    {
+      "rank": 19,
+      "name": "Sister Agnes Mbeki",
+      "level": 21,
+      "kills": 421,
+      "bounty": 800,
+      "blurb": "Merciful until mercy stops working.",
+      "on_floor": false
+    },
+    {
+      "rank": 20,
+      "name": "Kenji \"Two-Tap\" Mori",
+      "level": 20,
+      "kills": 398,
+      "bounty": 700,
+      "blurb": "Every motion measured twice.",
+      "on_floor": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tiers": [
+    {
+      "tier": "Bronze",
+      "key": "bronze",
+      "blurb": "Junk, scraps, and vending-machine surprises — still useful if you are clever.",
+      "faces": 100
+    },
+    {
+      "tier": "Silver",
+      "key": "silver",
+      "blurb": "Better gear and potions pulled from the silver table (d100 when you open the box).",
+      "faces": 100
+    },
+    {
+      "tier": "Gold",
+      "key": "gold",
+      "blurb": "Premium pulls from the gold table — rare kit and strong potions.",
+      "faces": 100
+    }
+  ]
+}

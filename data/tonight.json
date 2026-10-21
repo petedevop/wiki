@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Floor purses are smaller than the posted board gold — see Bounties for stats on the top ten.",
+    "posted_name": "",
+    "top_ten_pool": 10,
+    "board_size": 20
+  },
+  "rooms": [
+    {
+      "num": 314,
+      "title": "Comb Gate",
+      "has_text": true
+    },
+    {
+      "num": 301,
+      "title": "Jungle Clearing",
+      "has_text": true
+    },
+    {
+      "num": 320,
+      "title": "Vine Pit",
+      "has_text": true
+    }
+  ]
+}
