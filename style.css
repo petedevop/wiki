@@ -614,6 +614,90 @@ body {
   letter-spacing: 0.02em;
 }
 
+.party-card-head {
+  display: flex;
+  gap: 0.85rem;
+  align-items: flex-start;
+}
+
+.party-portrait {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-strong);
+  flex-shrink: 0;
+}
+
+.party-card-titles h3 {
+  margin: 0;
+}
+
+.party-title {
+  font-style: italic;
+  color: var(--accent-dim);
+}
+
+.party-appearance {
+  margin: 0.75rem 0 0;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+
+.party-abilities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.75rem;
+}
+
+.party-ability-pill {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 0.3rem 0.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
+}
+
+.party-statuses,
+.party-powers {
+  margin: 0.55rem 0 0;
+  font-size: 0.85rem;
+  color: var(--warning);
+}
+
+.party-powers {
+  color: var(--text-muted);
+}
+
+.party-skills-label {
+  margin: 0.85rem 0 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+}
+
+.party-skills {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.party-skills li {
+  margin: 0.2rem 0;
+}
+
+.party-gear-block {
+  padding: 0.5rem 0 0;
+}
+
 .party-stats {
   display: flex;
   flex-wrap: wrap;

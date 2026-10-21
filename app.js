@@ -395,27 +395,65 @@ async function renderRooms(main) {
   main.appendChild(panel);
 }
 
+function partyAbilityPills(abilities) {
+  const wrap = el("div", "party-abilities");
+  for (const ab of abilities || []) {
+    const pill = el("span", "party-ability-pill");
+    const mod = ab.modifier >= 0 ? `+${ab.modifier}` : String(ab.modifier);
+    pill.textContent = `${ab.id} ${ab.score} (${mod})`;
+    wrap.appendChild(pill);
+  }
+  return wrap.children.length ? wrap : null;
+}
+
 async function renderParty(main) {
   const data = await loadJson(state.manifest.sections.party);
   const panel = el("div", "panel panel--party");
   panel.appendChild(panelHeader("The party", "Your crawlers, as of the last export.", "party"));
   if (data.skipped) {
-    panel.appendChild(el("p", "empty-state", "Sheets were omitted (--skip-party)."));
+    panel.appendChild(
+      el(
+        "p",
+        "empty-state",
+        "Sheets were omitted. Re-export without --skip-party, then push the wiki repo.",
+      ),
+    );
     main.appendChild(panel);
     return;
   }
   if (data.rows.length) {
-    panel.appendChild(el("p", "warning", "Public sheets — same fields as the player app."));
+    panel.appendChild(el("p", "warning", "Public snapshot — matches the player app roster."));
   }
   const stack = el("div", "party-stack");
   for (const row of data.rows) {
     const card = el("div", "party-card");
-    card.appendChild(el("h3", null, row.name));
-    if (row.class_level) card.appendChild(el("p", "card-sub", row.class_level));
+    const head = el("div", "party-card-head");
+    if (row.portrait) {
+      const img = document.createElement("img");
+      img.className = "party-portrait";
+      img.src = row.portrait;
+      img.alt = row.name || "Portrait";
+      head.appendChild(img);
+    }
+    const titleWrap = el("div", "party-card-titles");
+    titleWrap.appendChild(el("h3", null, row.name));
+    if (row.title) titleWrap.appendChild(el("p", "card-sub party-title", row.title));
+    if (row.class_level) titleWrap.appendChild(el("p", "card-sub", row.class_level));
+    if (row.alignment) titleWrap.appendChild(el("p", "card-sub", row.alignment));
+    if (row.xp != null) titleWrap.appendChild(el("p", "card-sub", `XP ${row.xp}`));
+    head.appendChild(titleWrap);
+    card.appendChild(head);
+    if (row.appearance) {
+      card.appendChild(el("p", "party-appearance", row.appearance));
+    }
+    const abilities = partyAbilityPills(row.abilities);
+    if (abilities) card.appendChild(abilities);
     const stats = el("div", "party-stats");
     if (row.hp != null && row.hp_max != null) {
       const chip = el("span", "chip");
-      chip.innerHTML = `<strong>HP</strong> ${row.hp}/${row.hp_max}`;
+      let hp = `${row.hp}/${row.hp_max}`;
+      if (row.temp_hp > 0) hp += ` (+${row.temp_hp} temp)`;
+      chip.innerHTML = `<strong>HP</strong> ${hp}`;
       stats.appendChild(chip);
     }
     if (row.ac != null) {
@@ -428,16 +466,39 @@ async function renderParty(main) {
       chip.textContent = row.load;
       stats.appendChild(chip);
     }
+    if (row.tank) stats.appendChild(el("span", "chip", "Tank"));
+    if (row.ai_favour) stats.appendChild(el("span", "chip", "AI favour"));
     card.appendChild(stats);
+    if (row.statuses?.length) {
+      card.appendChild(el("p", "party-statuses", row.statuses.join(" · ")));
+    }
+    if (row.powers?.length) {
+      const powers = el("p", "party-powers");
+      powers.textContent = row.powers.map((p) => `${p.name} (${p.kind})`).join(" · ");
+      card.appendChild(powers);
+    }
+    if (row.skills?.length) {
+      const skills = el("ul", "party-skills");
+      for (const skill of row.skills) {
+        const li = document.createElement("li");
+        li.textContent = `${skill.name} +${skill.bonus} (${skill.stat}, rank ${skill.rank})`;
+        skills.appendChild(li);
+      }
+      card.appendChild(el("p", "party-skills-label", "Trained skills"));
+      card.appendChild(skills);
+    }
     if (row.gear_html) {
-      const gear = el("div", "card-body");
+      card.appendChild(el("p", "party-skills-label", "Gear"));
+      const gear = el("div", "card-body party-gear-block");
       gear.innerHTML = row.gear_html;
       card.appendChild(gear);
     }
     stack.appendChild(card);
   }
   if (!data.rows.length) {
-    panel.appendChild(el("p", "empty-state", "No active party in this export."));
+    panel.appendChild(
+      el("p", "empty-state", "No active party in this export — check live party.json on the game machine."),
+    );
   } else {
     panel.appendChild(stack);
   }
