@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Floor Two — player handbook</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <h1>Floor Two</h1>
+      <p class="tagline">Player handbook</p>
+      <input
+        id="search"
+        type="search"
+        placeholder="Search…"
+        autocomplete="off"
+        aria-label="Search handbook"
+      />
+    </header>
+    <nav id="nav" class="nav" aria-label="Sections"></nav>
+    <main id="main" class="main">
+      <p class="loading">Loading…</p>
+    </main>
+    <footer class="footer">
+      <p id="footer-note">
+        Static snapshot from the table app. Live play still runs at session night.
+      </p>
+      <p id="export-meta" class="meta"></p>
+    </footer>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "exported_at": 1792615440.2833111,
+  "zone_key": "floortwo",
+  "zone_label": "Floor 2",
+  "sections": {
+    "rules": "rules.json",
+    "map": "map.json",
+    "room_directory": "room_directory.json",
+    "rooms": "rooms.json",
+    "people": "people.json",
+    "items": "items.json",
+    "achievements": "achievements.json",
+    "rivals": "rivals.json",
+    "party": "party.json",
+    "sessions": "sessions.json"
+  },
+  "counts": {
+    "rules": 2,
+    "room_directory": 30,
+    "rooms": 8,
+    "people": 10,
+    "items": 16,
+    "achievements": 160,
+    "rivals": 0,
+    "party": 0,
+    "sessions": 0
+  },
+  "public_party_sheets": false
+}

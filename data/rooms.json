@@ -1,0 +1,100 @@
+{
+  "rows": [
+    {
+      "id": "room-300",
+      "title": "Green Room",
+      "subtitle": "Floor 2",
+      "preview": "Room 300 — Green Room Zone: Floortwo What You See Ginger, wet leaves, and garlic frying far below. The stair ends high in a giant tree: a platform with a velvet rope, a maître d's…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 300 — Green Room\n\n**Zone:** Floortwo\n\n## What You See\n\nGinger, wet leaves, and garlic frying far below.\n\nThe stair ends high in a giant tree: a platform with a velvet rope, a maître d's podium with a brass bell, a corkboard of wanted posters, and a bench dusted black. Under it, a LOST PROPERTY bin spills cheap props.\n\nPast the rail, canopy under steam and floodlights in the vines. Far off, lit like a stadium, a kitchen, with a glass tower of books on its roof.\n\nA man in chef's whites waves a wooden spoon from a prep counter. His whiteboard reads CRAWLER COOKERY 101.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Vine Slide; 326: the Rope Bridge.\n\nThe torn poster has been smoothed flat and pinned back. Someone else will read it tonight.\n\n## Achievements\n\nHere's One I Made Earlier! · Gloves First!\n\n## Quests\n\n- Homework! — Chef Barnaby Crumb · 5 gp\n- Crumb's Resignation Dinner — Chef Barnaby Crumb\n- ★★★★★ The Full Larder! — Best Chef · 150 gp\n- ★★★★★ Return the Talent! — Best Chef · 45 gp\n",
+      "body_html": "<h2>Room 300 — Green Room</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Ginger, wet leaves, and garlic frying far below.</p>\n<p>The stair ends high in a giant tree: a platform with a velvet rope, a maître d&#x27;s podium with a brass bell, a corkboard of wanted posters, and a bench dusted black. Under it, a LOST PROPERTY bin spills cheap props.</p>\n<p>Past the rail, canopy under steam and floodlights in the vines. Far off, lit like a stadium, a kitchen, with a glass tower of books on its roof.</p>\n<p>A man in chef&#x27;s whites waves a wooden spoon from a prep counter. His whiteboard reads CRAWLER COOKERY 101.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Vine Slide; 326: the Rope Bridge.</li></ul>\n<p>The torn poster has been smoothed flat and pinned back. Someone else will read it tonight.</p>\n<h2>Achievements</h2>\n<p>Here&#x27;s One I Made Earlier! · Gloves First!</p>\n<h2>Quests</h2>\n<ul><li>Homework! — Chef Barnaby Crumb · 5 gp</li><li>Crumb&#x27;s Resignation Dinner — Chef Barnaby Crumb</li><li>★★★★★ The Full Larder! — Best Chef · 150 gp</li><li>★★★★★ Return the Talent! — Best Chef · 45 gp</li></ul>"
+    },
+    {
+      "id": "room-301",
+      "title": "Jungle Clearing",
+      "subtitle": "Floor 2",
+      "preview": "Room 301 — Jungle Clearing Zone: Floortwo What You See Honey, ozone, and wet earth, warm underfoot. You land in a mound of grey-green lichen, soft and deep. A drone hangs exactly…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 301 — Jungle Clearing\n\n**Zone:** Floortwo\n\n## What You See\n\nHoney, ozone, and wet earth, warm underfoot.\n\nYou land in a mound of grey-green lichen, soft and deep. A drone hangs exactly where you came down. It was waiting.\n\nThe clearing is floodlit like a set, too bright in the middle and black at the edges. Steam rises off the ground. Crew tape on the trunks: LOCATION 3. DO NOT FEED THE TALENT.\n\nA brown river crackles along one side and runs out of the light. A hive the size of a house hums in the branches. Past the lights, black ferns.\n\n## Obvious Exits / Features\n\n- **Exits:** 300: the Ladder Rungs Up; 314: the Hive Branch; 323: the Fern Cut; 324: the River Bank.\n\nAn eel pot sits cocked on the bank, still wet. Something has already nosed it.\n\nThe lichen heap is dug flat. The next crawler down the vine slide is going to feel it.\n",
+      "body_html": "<h2>Room 301 — Jungle Clearing</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Honey, ozone, and wet earth, warm underfoot.</p>\n<p>You land in a mound of grey-green lichen, soft and deep. A drone hangs exactly where you came down. It was waiting.</p>\n<p>The clearing is floodlit like a set, too bright in the middle and black at the edges. Steam rises off the ground. Crew tape on the trunks: LOCATION 3. DO NOT FEED THE TALENT.</p>\n<p>A brown river crackles along one side and runs out of the light. A hive the size of a house hums in the branches. Past the lights, black ferns.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 300: the Ladder Rungs Up; 314: the Hive Branch; 323: the Fern Cut; 324: the River Bank.</li></ul>\n<p>An eel pot sits cocked on the bank, still wet. Something has already nosed it.</p>\n<p>The lichen heap is dug flat. The next crawler down the vine slide is going to feel it.</p>"
+    },
+    {
+      "id": "room-305",
+      "title": "Fern Hollow",
+      "subtitle": "Floor 2",
+      "preview": "Room 305 — Fern Hollow Zone: Floortwo What You See Aviation fuel, wet feathers, and something rotten in the heat. The raptor trail ends at a crashed helicopter, nose down in the f…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 305 — Fern Hollow\n\n**Zone:** Floortwo\n\n## What You See\n\nAviation fuel, wet feathers, and something rotten in the heat.\n\nThe raptor trail ends at a crashed helicopter, nose down in the ferns, BEST CHEF on its tail. Its cabin is a nest of chewed fern, headsets and gaffer tape. Floodlights on a tree, clicking.\n\nNothing moves. In the cabin, a clutch of speckled eggs the size of footballs, still warm. Round the skids, three-toed prints pressed fresh into the mud, all of them pointing out.\n\n## Obvious Exits / Features\n\n- **Exits:** 323: the Raptor Trail; 312: the White Hoof Trail; 318: the High Bridge Down.\n\nThe pack is restless, noses up at a smudge of smoke over the clearing.\n\nThe pack is still out. Fresh prints all point away from the nest.\n\n## Achievements\n\nTender Moment! · Live Bait! · Raptor Rodeo! · Extinction Event!\n\n## Quests\n\n- ★★★ The Alpha! — The Clutch · 25 gp\n- ★★★★ Live Stock! — The Capture Cage · 35 gp\n",
+      "body_html": "<h2>Room 305 — Fern Hollow</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Aviation fuel, wet feathers, and something rotten in the heat.</p>\n<p>The raptor trail ends at a crashed helicopter, nose down in the ferns, BEST CHEF on its tail. Its cabin is a nest of chewed fern, headsets and gaffer tape. Floodlights on a tree, clicking.</p>\n<p>Nothing moves. In the cabin, a clutch of speckled eggs the size of footballs, still warm. Round the skids, three-toed prints pressed fresh into the mud, all of them pointing out.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 323: the Raptor Trail; 312: the White Hoof Trail; 318: the High Bridge Down.</li></ul>\n<p>The pack is restless, noses up at a smudge of smoke over the clearing.</p>\n<p>The pack is still out. Fresh prints all point away from the nest.</p>\n<h2>Achievements</h2>\n<p>Tender Moment! · Live Bait! · Raptor Rodeo! · Extinction Event!</p>\n<h2>Quests</h2>\n<ul><li>★★★ The Alpha! — The Clutch · 25 gp</li><li>★★★★ Live Stock! — The Capture Cage · 35 gp</li></ul>"
+    },
+    {
+      "id": "room-314",
+      "title": "Comb Gate",
+      "subtitle": "Floor 2",
+      "preview": "Room 314 — Comb Gate Zone: Floortwo What You See Warm wax and a buzzing you feel in your teeth. The knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 314 — Comb Gate\n\n**Zone:** Floortwo\n\n## What You See\n\nWarm wax and a buzzing you feel in your teeth.\n\nThe knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high as you can see. Honey slides down the walls in sheets.\n\nTwenty bees the size of terriers stand in a line across a wall of wax, facing you. Every few seconds one of them wiggles, and the whole line shifts. Scratched into the comb above them: THE HIVE IS CLOSED TO THE PUBLIC.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Knot Hole Down.\n\n## Achievements\n\nBee Line!\n",
+      "body_html": "<h2>Room 314 — Comb Gate</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Warm wax and a buzzing you feel in your teeth.</p>\n<p>The knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high as you can see. Honey slides down the walls in sheets.</p>\n<p>Twenty bees the size of terriers stand in a line across a wall of wax, facing you. Every few seconds one of them wiggles, and the whole line shifts. Scratched into the comb above them: THE HIVE IS CLOSED TO THE PUBLIC.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Knot Hole Down.</li></ul>\n<h2>Achievements</h2>\n<p>Bee Line!</p>"
+    },
+    {
+      "id": "room-318",
+      "title": "Canopy Market",
+      "subtitle": "Floor 2",
+      "preview": "Room 318 — Canopy Market Zone: Floortwo What You See Overripe fruit, cheap wine, and monkey. A hundred feet up, rope bridges sag between trunks as wide as houses. Bamboo platforms…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 318 — Canopy Market\n\n**Zone:** Floortwo\n\n## What You See\n\nOverripe fruit, cheap wine, and monkey.\n\nA hundred feet up, rope bridges sag between trunks as wide as houses. Bamboo platforms hang off them like shelves, and every platform is a stall: spears stacked like umbrellas, turtle-shell shields, armour woven out of wicker.\n\nMonkeys in waistcoats run the stalls. On the biggest platform an old grey mandrill in pearls watches you through a jeweller's loupe.\n\nA monkey with a bottle walks past at eye level, upside down, looking at your pockets.\n\n## Obvious Exits / Features\n\n- **Exits:** 305: the High Bridge; 319: the Smoke Trail; 320: the Rope Drop.\n\nA rope bridge hangs snapped where the chase went wrong. The long way round, now.\n\nThe troop has counted its gourds. They are watching your pockets.\n\n## Achievements\n\nMonkey Business! · Some Assembly Required!\n\n## Quests\n\n- Gourd Season — Auntie Tamarind\n- A Painted Spoon — Auntie Tamarind\n- ★★★★★ Smoke and Vine! — Auntie Tamarind · 175 gp\n- Shiny Things — Penny · 30 gp\n",
+      "body_html": "<h2>Room 318 — Canopy Market</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Overripe fruit, cheap wine, and monkey.</p>\n<p>A hundred feet up, rope bridges sag between trunks as wide as houses. Bamboo platforms hang off them like shelves, and every platform is a stall: spears stacked like umbrellas, turtle-shell shields, armour woven out of wicker.</p>\n<p>Monkeys in waistcoats run the stalls. On the biggest platform an old grey mandrill in pearls watches you through a jeweller&#x27;s loupe.</p>\n<p>A monkey with a bottle walks past at eye level, upside down, looking at your pockets.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 305: the High Bridge; 319: the Smoke Trail; 320: the Rope Drop.</li></ul>\n<p>A rope bridge hangs snapped where the chase went wrong. The long way round, now.</p>\n<p>The troop has counted its gourds. They are watching your pockets.</p>\n<h2>Achievements</h2>\n<p>Monkey Business! · Some Assembly Required!</p>\n<h2>Quests</h2>\n<ul><li>Gourd Season — Auntie Tamarind</li><li>A Painted Spoon — Auntie Tamarind</li><li>★★★★★ Smoke and Vine! — Auntie Tamarind · 175 gp</li><li>Shiny Things — Penny · 30 gp</li></ul>"
+    },
+    {
+      "id": "room-320",
+      "title": "Vine Pit",
+      "subtitle": "Floor 2",
+      "preview": "Room 320 — Vine Pit Zone: Floortwo What You See Wet leaf mould, sap, and something sweet like a pie left on a sill. A sinkhole drops away under the canopy, choked with strangler v…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 320 — Vine Pit\n\n**Zone:** Floortwo\n\n## What You See\n\nWet leaf mould, sap, and something sweet like a pie left on a sill.\n\nA sinkhole drops away under the canopy, choked with strangler vines thick as arms. Daylight comes in through a ring of leaves forty feet up. The floor is soft black mulch, full of bones.\n\nIn the middle, a knot of vines rises like a tree, and pumpkins hang all over it. One of them is glowing. Above it, a woman in a green apron hangs upside down in the vines, arms folded, watching you.\n\n\"Oh good,\" she says. \"Company.\"\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Vine Climb.\n\n## Achievements\n\nPumpkin Spice! · Hoist by Her Own Pumpkin!\n\n## Quests\n\n- ★★★ The Gourd Mother! — The Gourd Clock · 25 gp\n",
+      "body_html": "<h2>Room 320 — Vine Pit</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Wet leaf mould, sap, and something sweet like a pie left on a sill.</p>\n<p>A sinkhole drops away under the canopy, choked with strangler vines thick as arms. Daylight comes in through a ring of leaves forty feet up. The floor is soft black mulch, full of bones.</p>\n<p>In the middle, a knot of vines rises like a tree, and pumpkins hang all over it. One of them is glowing. Above it, a woman in a green apron hangs upside down in the vines, arms folded, watching you.</p>\n<p>&quot;Oh good,&quot; she says. &quot;Company.&quot;</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Vine Climb.</li></ul>\n<h2>Achievements</h2>\n<p>Pumpkin Spice! · Hoist by Her Own Pumpkin!</p>\n<h2>Quests</h2>\n<ul><li>★★★ The Gourd Mother! — The Gourd Clock · 25 gp</li></ul>"
+    },
+    {
+      "id": "room-323",
+      "title": "Fern Cut",
+      "subtitle": "Floor 2",
+      "preview": "Room 323 — Fern Cut Zone: Floortwo What You See Wet ferns, hot animal, and the floodlights behind you going thin. The lit ground stops in a hard line. Past it the ferns are black…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 323 — Fern Cut\n\n**Zone:** Floortwo\n\n## What You See\n\nWet ferns, hot animal, and the floodlights behind you going thin.\n\nThe lit ground stops in a hard line. Past it the ferns are black and chest-high. Five places in them are the wrong shape. Something clicks, then stops.\n\nOne hard-candy cobble, then another, starts uphill in the mud. Three-toed prints leave the cobbles and go the other way, into the dark.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Lights; 325: the Candy Cobbles; 305: the Raptor Trail.\n",
+      "body_html": "<h2>Room 323 — Fern Cut</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Wet ferns, hot animal, and the floodlights behind you going thin.</p>\n<p>The lit ground stops in a hard line. Past it the ferns are black and chest-high. Five places in them are the wrong shape. Something clicks, then stops.</p>\n<p>One hard-candy cobble, then another, starts uphill in the mud. Three-toed prints leave the cobbles and go the other way, into the dark.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Lights; 325: the Candy Cobbles; 305: the Raptor Trail.</li></ul>"
+    },
+    {
+      "id": "room-324",
+      "title": "Quiet Bank",
+      "subtitle": "Floor 2",
+      "preview": "Room 324 — Quiet Bank Zone: Floortwo What You See Cold stone, still water, and garlic from somewhere ahead. The river stops crackling. The bank narrows to wet rock, out of the flo…",
+      "group": "floortwo",
+      "group_label": "Floor 2",
+      "type": "Room",
+      "owners": [],
+      "body_md": "# Room 324 — Quiet Bank\n\n**Zone:** Floortwo\n\n## What You See\n\nCold stone, still water, and garlic from somewhere ahead.\n\nThe river stops crackling. The bank narrows to wet rock, out of the floodlights. Tape on the stone: TALENT THIS WAY, and an arrow. Under it, a second arrow, peeled halfway back.\n\nThe water goes into a cave. A pan is going, in there. The peeled arrow points at a steel door under a mat of roots.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Lit Bank; 303: the Cave Mouth; 322: the Crew Door.\n",
+      "body_html": "<h2>Room 324 — Quiet Bank</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Cold stone, still water, and garlic from somewhere ahead.</p>\n<p>The river stops crackling. The bank narrows to wet rock, out of the floodlights. Tape on the stone: TALENT THIS WAY, and an arrow. Under it, a second arrow, peeled halfway back.</p>\n<p>The water goes into a cave. A pan is going, in there. The peeled arrow points at a steel door under a mat of roots.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Lit Bank; 303: the Cave Mouth; 322: the Crew Door.</li></ul>"
+    }
+  ]
+}
