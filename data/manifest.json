@@ -1,5 +1,5 @@
 {
-  "exported_at": 1792624696.627248,
+  "exported_at": 1792624969.273433,
   "zone_key": "floortwo",
   "zone_label": "Floor 2",
   "sections": {
@@ -11,7 +11,9 @@
     "items": "items.json",
     "achievements": "achievements.json",
     "party": "party.json",
-    "sessions": "sessions.json"
+    "sessions": "sessions.json",
+    "bounties": "bounties.json",
+    "sponsors": "sponsors.json"
   },
   "counts": {
     "rules": 16,
@@ -21,7 +23,9 @@
     "items": 16,
     "achievements": 160,
     "party": 3,
-    "sessions": 0
+    "sessions": 0,
+    "bounties": 10,
+    "sponsors": 18
   },
   "public_party_sheets": true
 }

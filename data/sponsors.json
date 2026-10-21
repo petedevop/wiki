@@ -1,0 +1,148 @@
+{
+  "rows": [
+    {
+      "name": "Valtay Corporation",
+      "blurb": "They keep the best of you alive. A corpse that sits up is retention.",
+      "invite_pitch": "You went down in a fight. They want the corpse that sits up.",
+      "task_teaser": "Before a boss fight, on camera, talk the boss into a numbered employment contract.",
+      "gift": "Ring of Regeneration",
+      "gift_effect": "Once per rest, the wearer stands from 0 HP with 1 HP, still on the payroll."
+    },
+    {
+      "name": "Open Intellect Pacifist Action Network",
+      "blurb": "A charity, for broadcast purposes. They love a death with clean hands.",
+      "invite_pitch": "You played the evening and never drew blood. The booth opens.",
+      "task_teaser": "Reach the stairs having dealt no damage to a living creature the whole floor.",
+      "gift": "Cloak of Protection",
+      "gift_effect": "+1 DR. The first time each fight something would hit you, it hits whoever you shoved into the way instead."
+    },
+    {
+      "name": "Veriluxx RealPet Companions",
+      "blurb": "A pet company. The pet is the client. The crawler is the hands.",
+      "invite_pitch": "You gave something away and drew no blood. They have a collar.",
+      "task_teaser": "Adopt a living mob, name it on camera, and walk it to the stairs alive.",
+      "gift": "Collar of the Faithful Hound",
+      "gift_effect": "Once per fight, the pet takes one hit meant for you."
+    },
+    {
+      "name": "Jaxbrin Amusements, Limited",
+      "blurb": "Pull the tag. Ages three and up. The figure may retain opinions.",
+      "invite_pitch": "A natural twenty in a fight. They want that face on the box.",
+      "task_teaser": "In a boss fight, read the full hang-tag out loud — name, ages, warning — then throw the figure.",
+      "gift": "Valhalla Party Blower",
+      "gift_effect": "Blow it as an action. One adjacent mob attacks whatever you name, then the blower is spent."
+    },
+    {
+      "name": "Squim Conglomerate",
+      "blurb": "The floor is ore. One of you is the product. They pay the champion.",
+      "invite_pitch": "Three different things came off the floor with you. They want a weight.",
+      "task_teaser": "Strip a room to fixtures, weigh them for the lens, and name one champion out loud.",
+      "gift": "Quarry Sack",
+      "gift_effect": "The bag holds a room's worth of torn-out fixtures and almost no air."
+    },
+    {
+      "name": "B.U.T.T.O.N",
+      "blurb": "Ballistic Utility & Tactical Triggered Ordnance Network. Powerful, uncontrollable effects on activation.",
+      "invite_pitch": "You fumbled your own roll in a fight. They love blind fire.",
+      "task_teaser": "Fire a weapon you have never practised, blind, into a fight you did not start, and have it be the shot that ends the scene.",
+      "gift": "Big Red Button",
+      "gift_effect": "Once. Press it. The DM rolls a wild effect that cannot be the one you asked for."
+    },
+    {
+      "name": "C.H.A.O.S.",
+      "blurb": "Chaotic Hazard Allocation & Outcome Systems. Combat, stats and abilities come out scrambled.",
+      "invite_pitch": "Five rolls you made yourself. They want both faces on the reel.",
+      "task_teaser": "Win a fight in which every attack roll at the table was made with someone else's dice, and you suggested it.",
+      "gift": "Loaded Die",
+      "gift_effect": "Once per fight, replace one die you just rolled with a different face. You do not pick which."
+    },
+    {
+      "name": "Church of the Mad Llama",
+      "blurb": "Waiting on the Great Spit. They fund chaos that does not harm cameloids.",
+      "invite_pitch": "An effect landed on you, and no cameloid took a scratch.",
+      "task_teaser": "Cause a scene the AI replays twice, without a llama, alpaca or related creature taking a single point of damage.",
+      "gift": "Vial of the Great Spit",
+      "gift_effect": "One use. A creature you spit on cannot attack a cameloid until it rests."
+    },
+    {
+      "name": "Cogsworth & Sons Automata Co.",
+      "blurb": "Robots for industry and combat. Overconfident. Occasionally unionising.",
+      "invite_pitch": "You flipped a mechanism yourself. A shop steward is on the way.",
+      "task_teaser": "Talk a construct or machine into refusing an order from its owner, on camera.",
+      "gift": "Shop Steward's Key",
+      "gift_effect": "Once. A machine you wind obeys you for one scene, then clocks out."
+    },
+    {
+      "name": "Colossus Armory",
+      "blurb": "Armour that turns a last stand into a drawn-out inconvenience.",
+      "invite_pitch": "Heavy plate took a real hit and you were still standing.",
+      "task_teaser": "Stay on your feet for a full round after you should have dropped, wearing armour that is already broken.",
+      "gift": "Last Plate",
+      "gift_effect": "Once. When you would hit 0 HP, you stay at 1 until the end of the round."
+    },
+    {
+      "name": "Dilbert's Incredible Chaos Katanas",
+      "blurb": "Standard to enchanted chaos katanas. The marketing is not subtle.",
+      "invite_pitch": "You killed with a weapon in your hands. Name the blade next time.",
+      "task_teaser": "Kill something with a blade you named out loud, using a slogan from their advert, without laughing.",
+      "gift": "Chaos Letter Opener",
+      "gift_effect": "A tiny katana. Once per fight its damage die explodes — roll it again and add."
+    },
+    {
+      "name": "EnnerGeX",
+      "blurb": "Inner-system energy corp, harvesting a red dwarf. Deep pockets. Several crawlers a season.",
+      "invite_pitch": "You burned and you were still walking. They want the conduit.",
+      "task_teaser": "Channel a lethal electrical or fire effect through your own body and still be the one who walks away.",
+      "gift": "Pocket Star",
+      "gift_effect": "Once. A marble of starfire. Thrown, it burns like a torch for a fight and then goes out."
+    },
+    {
+      "name": "GigaChad Energy Drinks",
+      "blurb": "Hyper-masculine energy drinks. They rarely sponsor anyone who is not performing the bit.",
+      "invite_pitch": "You landed a heavy blow in a fight. Flex before it wears off.",
+      "task_teaser": "Chug something that should have killed you, flex for the lens, and win the next exchange before it wears off.",
+      "gift": "Sample Can",
+      "gift_effect": "One can. +2 STR until the end of the fight, then you crash and can't act for a round."
+    },
+    {
+      "name": "Pettigrew & Collar",
+      "blurb": "Couture for the lens. One crawler, in the frock they sent, collared, and not consulted.",
+      "invite_pitch": "You dressed yourself. They would like to do it properly.",
+      "task_teaser": "Sit in Miss Hem's chair and let her dress you.",
+      "gift": "The House Collar",
+      "gift_effect": "Worn at the throat. Once per scene, when a blow would land, curtsey for the lens: it misses, and you cannot attack until your next turn. Asking to take it off is not how it comes off."
+    },
+    {
+      "name": "Invictus Corp",
+      "blurb": "Performance gear. Nanite outfits that demand constant food and water.",
+      "invite_pitch": "You passed two checks and never drank a potion. The kit approves.",
+      "task_teaser": "Finish a chase or a fight in their kit without eating or drinking, then collapse on camera the moment it ends.",
+      "gift": "Sweatband of the Sponsor",
+      "gift_effect": "Worn. Once per fight, ignore the first point of exhaustion or fatigue."
+    },
+    {
+      "name": "M.O.I.S.T.",
+      "blurb": "Multiphase Organic Irrigation & Sustainment Technologies. Hydration as healing.",
+      "invite_pitch": "You took a hit and you did not drink a potion.",
+      "task_teaser": "End a fight that should have needed a potion, having healed only with water you found down here.",
+      "gift": "Canteen That Refills",
+      "gift_effect": "Once per rest, drink. Heal 1d4. It tastes like the last place you almost died."
+    },
+    {
+      "name": "S.P.L.O.O.G.E",
+      "blurb": "Strategic Performance Logistics & Overclocking Optimization Group Enterprise. Short, extreme spikes.",
+      "invite_pitch": "You failed a check you made yourself. They sell the spike that follows.",
+      "task_teaser": "Break your own limit on camera — a check you had no business passing — and be useless for the rest of the scene.",
+      "gift": "Overclock Cap",
+      "gift_effect": "Once. +4 to one check. The next check you make is at −4."
+    },
+    {
+      "name": "The Crawler Memorial Project",
+      "blurb": "A non-profit, supposedly. They collect crawler stats for a sister company that prints trading cards.",
+      "invite_pitch": "You went down outside a fight. They already printed the wrong stats.",
+      "task_teaser": "Die on camera, come back, and read your own memorial card out loud without changing a word they wrote.",
+      "gift": "Memorial Card",
+      "gift_effect": "A card with your face. Once, when you would die, the card burns and you don't. The stats on it were wrong."
+    }
+  ]
+}

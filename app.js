@@ -5,6 +5,8 @@ const NAV_ITEMS = [
   { key: "rooms", label: "Rooms" },
   { key: "people", label: "People" },
   { key: "items", label: "Gear" },
+  { key: "bounties", label: "Bounties" },
+  { key: "sponsors", label: "Sponsors" },
   { key: "achievements", label: "Achievements" },
   { key: "sessions", label: "Sessions" },
 ];
@@ -32,7 +34,19 @@ function normalize(text) {
 function matches(row, q) {
   if (!q) return true;
   const hay = normalize(
-    [row.title, row.subtitle, row.preview, row.name, row.hint, row.kitchen, row.dish, row.zone_label]
+    [
+      row.title,
+      row.subtitle,
+      row.preview,
+      row.name,
+      row.hint,
+      row.kitchen,
+      row.dish,
+      row.zone_label,
+      row.blurb,
+      row.role,
+      row.invite_pitch,
+    ]
       .filter(Boolean)
       .join(" "),
   );
@@ -229,6 +243,94 @@ async function renderSimpleSection(main, key, title, intro) {
   main.appendChild(panel);
 }
 
+function formatStatBlock(stats) {
+  if (!stats) return "";
+  const chips = [];
+  if (stats.ac != null) chips.push(`AC ${stats.ac}`);
+  if (stats.hp != null) chips.push(`HP ${stats.hp}`);
+  if (stats.hd != null) chips.push(`HD ${stats.hd}`);
+  const attrs = ["str", "dex", "con", "int", "cha"]
+    .filter((k) => stats[k] != null)
+    .map((k) => `${k.toUpperCase()} ${stats[k]}`);
+  if (attrs.length) chips.push(attrs.join(" · "));
+  let html = "";
+  if (chips.length) {
+    html += `<p>${chips.map((c) => `<span class="chip">${c}</span>`).join(" ")}</p>`;
+  }
+  if (stats.attacks) html += `<p><strong>Attacks</strong> ${stats.attacks}</p>`;
+  if (stats.specials) html += `<p><strong>Specials</strong> ${stats.specials}</p>`;
+  return html;
+}
+
+async function renderBounties(main) {
+  const data = await loadJson(state.manifest.sections.bounties);
+  const panel = el("div", "panel");
+  panel.appendChild(
+    panelHeader(
+      "Board bounties",
+      "Top ten on the world board. Each night the app may put one on the floor — the rest stay off-map.",
+      "bounties",
+    ),
+  );
+  panel.appendChild(
+    renderList(data.rows, (row) => {
+      const subtitle = [
+        row.board_bounty ? `Board ${Number(row.board_bounty).toLocaleString()} gp` : "",
+        row.floor_gp ? `Floor ${row.floor_gp} gp` : "",
+        row.level ? `Lv ${row.level}` : "",
+      ]
+        .filter(Boolean)
+        .join(" · ");
+      const body = [
+        row.blurb ? `<p>${row.blurb}</p>` : "",
+        row.role ? `<p class="card-sub">${row.role}</p>` : "",
+        row.voice ? `<p><em>${row.voice.trim()}</em></p>` : "",
+        row.quest ? `<p>${row.quest}</p>` : "",
+        formatStatBlock(row.stats),
+      ].join("");
+      const card = cardDetails(
+        { title: `#${row.rank} ${row.name}`, subtitle, preview: "" },
+        body,
+      );
+      return card;
+    }),
+  );
+  main.appendChild(panel);
+}
+
+async function renderSponsors(main) {
+  const data = await loadJson(state.manifest.sections.sponsors);
+  const panel = el("div", "panel");
+  panel.appendChild(
+    panelHeader(
+      "Sponsors",
+      "Booth cards unlock after evening based on your deeds — only on your phone until invited.",
+      "sponsors",
+    ),
+  );
+  panel.appendChild(
+    renderList(data.rows, (row) => {
+      const body = [
+        row.blurb ? `<p>${row.blurb}</p>` : "",
+        row.invite_pitch
+          ? `<p><strong>If they call you</strong> ${row.invite_pitch}</p>`
+          : "",
+        row.task_teaser
+          ? `<p><strong>Contract gist</strong> ${row.task_teaser}</p>`
+          : "",
+        row.gift
+          ? `<p><strong>Signing gift</strong> ${row.gift}${
+              row.gift_effect ? ` — ${row.gift_effect}` : ""
+            }</p>`
+          : "",
+        `<p class="card-sub">Exact invite rules stay in play — courting is deed-driven, not a checklist here.</p>`,
+      ].join("");
+      return cardDetails({ title: row.name, subtitle: "", preview: "" }, body);
+    }),
+  );
+  main.appendChild(panel);
+}
+
 async function renderAchievements(main) {
   const data = await loadJson(state.manifest.sections.achievements);
   const panel = el("div", "panel");
@@ -349,6 +451,8 @@ async function renderSection() {
   try {
     if (key === "rules") await renderRules(main);
     else if (key === "map") await renderMap(main);
+    else if (key === "bounties") await renderBounties(main);
+    else if (key === "sponsors") await renderSponsors(main);
     else if (key === "achievements") await renderAchievements(main);
     else if (key === "party") await renderParty(main);
     else if (key === "rooms") await renderRooms(main);
