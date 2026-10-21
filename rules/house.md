@@ -2,6 +2,8 @@
 
 This table runs **Shadow Dark** with a few house conventions. The core rulebook is not republished here — bring your book or ask the DM for a PDF in the in-app Library at session.
 
+**Auto-generated pages** (D20 rolls, party votes, phone combat, effect tables, etc.) are pulled from the app on each `wiki export` — scroll the Rules section in the handbook.
+
 ## Rolls at this table
 
 - Stat and skill checks are usually a **flat d20** unless a status or untrained armour imposes disadvantage.

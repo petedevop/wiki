@@ -1,32 +1,12 @@
-const NAV_LAYOUT = [
-  { solo: "party", label: "Party" },
-  {
-    id: "floor",
-    label: "Floor",
-    items: [
-      { key: "map", label: "Map" },
-      { key: "room_directory", label: "Rooms" },
-      { key: "rooms", label: "Found" },
-      { key: "people", label: "People" },
-      { key: "items", label: "Gear" },
-    ],
-  },
-  {
-    id: "wall",
-    label: "Wall",
-    items: [
-      { key: "achievements", label: "Achievements" },
-      { key: "rivals", label: "Rivals" },
-    ],
-  },
-  {
-    id: "table",
-    label: "Table",
-    items: [
-      { key: "rules", label: "Rules" },
-      { key: "sessions", label: "Sessions" },
-    ],
-  },
+const NAV_ITEMS = [
+  { key: "party", label: "Party" },
+  { key: "rules", label: "Rules" },
+  { key: "map", label: "Map" },
+  { key: "rooms", label: "Rooms" },
+  { key: "people", label: "People" },
+  { key: "items", label: "Gear" },
+  { key: "achievements", label: "Achievements" },
+  { key: "sessions", label: "Sessions" },
 ];
 
 const state = {
@@ -133,9 +113,18 @@ function renderList(rows, renderRow) {
   return ul;
 }
 
-function renderGroupedRoomIndex(rows) {
+function roomNumFromArchiveId(id) {
+  const m = String(id || "").match(/(\d+)/);
+  return m ? parseInt(m[1], 10) : null;
+}
+
+function renderRoomIndex(rows, discoveredByNum) {
   const q = normalize(state.query);
-  const filtered = rows.filter((r) => matches(r, q));
+  const filtered = rows.filter((row) => {
+    if (matches(row, q)) return true;
+    const found = discoveredByNum.get(row.num);
+    return found && matches(found, q);
+  });
   if (!filtered.length) {
     return el(
       "p",
@@ -155,10 +144,19 @@ function renderGroupedRoomIndex(rows) {
       lastZone = zone;
     }
     const li = document.createElement("li");
-    const card = el("details", "card");
+    const found = discoveredByNum.get(row.num);
+    const card = el("details", "card" + (found ? " room-found" : ""));
     const summary = el("summary");
     summary.appendChild(el("span", "card-title", `${row.num} — ${row.title}`));
+    if (found) {
+      summary.appendChild(el("span", "card-sub", "Discovered"));
+    }
     card.appendChild(summary);
+    if (found?.body_html) {
+      const body = el("div", "card-body");
+      body.innerHTML = found.body_html;
+      card.appendChild(body);
+    }
     li.appendChild(card);
     ul.appendChild(li);
   }
@@ -171,11 +169,20 @@ async function renderRules(main) {
   panel.appendChild(
     panelHeader(
       "Rules",
-      "House and table conventions. Core Shadow Dark stays in your rulebook.",
+      "Your notes plus rules pulled from the app on each export.",
       "rules",
     ),
   );
-  panel.appendChild(renderList(data.rows, (row) => cardDetails(row, row.body_html)));
+  panel.appendChild(
+    renderList(data.rows, (row) => {
+      const card = cardDetails(row, row.body_html);
+      if (row.source === "system") {
+        const summary = card.querySelector("summary");
+        if (summary) summary.appendChild(el("span", "card-sub rule-source", "Synced from the app"));
+      }
+      return card;
+    }),
+  );
   main.appendChild(panel);
 }
 
@@ -214,15 +221,11 @@ async function renderSimpleSection(main, key, title, intro) {
   const data = await loadJson(file);
   const panel = el("div", "panel");
   panel.appendChild(panelHeader(title, intro, key));
-  if (key === "room_directory") {
-    panel.appendChild(renderGroupedRoomIndex(data.rows));
-  } else {
-    panel.appendChild(
-      renderList(data.rows, (row) =>
-        cardDetails(row, row.body_html || (row.preview ? `<p>${row.preview}</p>` : "")),
-      ),
-    );
-  }
+  panel.appendChild(
+    renderList(data.rows, (row) =>
+      cardDetails(row, row.body_html || (row.preview ? `<p>${row.preview}</p>` : "")),
+    ),
+  );
   main.appendChild(panel);
 }
 
@@ -265,37 +268,28 @@ async function renderAchievements(main) {
   main.appendChild(panel);
 }
 
-async function renderRivals(main) {
-  const data = await loadJson(state.manifest.sections.rivals);
+async function renderRooms(main) {
+  const [dirData, roomsData] = await Promise.all([
+    loadJson(state.manifest.sections.room_directory),
+    loadJson(state.manifest.sections.rooms),
+  ]);
+  const discoveredByNum = new Map();
+  for (const row of roomsData.rows || []) {
+    const num = roomNumFromArchiveId(row.id);
+    if (num != null) discoveredByNum.set(num, row);
+  }
   const panel = el("div", "panel");
+  const foundCount = state.manifest?.counts?.rooms;
   panel.appendChild(
-    panelHeader("Rivals", "Kitchens the party has made enemies of.", "rivals"),
+    panelHeader(
+      "Rooms",
+      foundCount
+        ? "Every room on the floor; expand discovered places for full text."
+        : "Every room name on the floor — grouped by zone.",
+      "rooms",
+    ),
   );
-  if (!data.rows.length) {
-    panel.appendChild(el("p", "empty-state", "No active rivals in this snapshot."));
-  } else {
-    panel.appendChild(
-      renderList(data.rows, (row) => {
-        const html = [
-          row.taunt ? `<p>${row.taunt}</p>` : "",
-          row.entrance ? `<p><em>${row.entrance}</em></p>` : "",
-          (row.abilities || [])
-            .map((a) => `<p><strong>${a.name}</strong> — ${a.text}</p>`)
-            .join(""),
-        ].join("");
-        return cardDetails(
-          { title: row.name, subtitle: `${row.kitchen} · ${row.dish}`, preview: "" },
-          html,
-        );
-      }),
-    );
-  }
-  if (data.house?.challenges?.length) {
-    panel.appendChild(el("h3", null, "House show"));
-    for (const c of data.house.challenges) {
-      panel.appendChild(el("p", "card-sub", `${c.name}: ${c.player}`));
-    }
-  }
+  panel.appendChild(renderRoomIndex(dirData.rows || [], discoveredByNum));
   main.appendChild(panel);
 }
 
@@ -309,9 +303,7 @@ async function renderParty(main) {
     return;
   }
   if (data.rows.length) {
-    panel.appendChild(
-      el("p", "warning", "Public snapshot — same fields as the player app at the table."),
-    );
+    panel.appendChild(el("p", "warning", "Public sheets — same fields as the player app."));
   }
   const stack = el("div", "party-stack");
   for (const row of data.rows) {
@@ -358,23 +350,9 @@ async function renderSection() {
     if (key === "rules") await renderRules(main);
     else if (key === "map") await renderMap(main);
     else if (key === "achievements") await renderAchievements(main);
-    else if (key === "rivals") await renderRivals(main);
     else if (key === "party") await renderParty(main);
-    else if (key === "room_directory") {
-      await renderSimpleSection(
-        main,
-        "room_directory",
-        "Room index",
-        "Every room name on the floor — grouped by zone.",
-      );
-    } else if (key === "rooms") {
-      await renderSimpleSection(
-        main,
-        "rooms",
-        "Discovered places",
-        "Full player-safe text for rooms you've found.",
-      );
-    } else if (key === "people") {
+    else if (key === "rooms") await renderRooms(main);
+    else if (key === "people") {
       await renderSimpleSection(main, "people", "People", "NPCs the party has met.");
     } else if (key === "items") {
       await renderSimpleSection(main, "items", "Gear", "Items the party has discovered.");
@@ -389,12 +367,12 @@ async function renderSection() {
 }
 
 function sectionExists(key) {
+  if (key === "rooms") {
+    return Boolean(
+      state.manifest?.sections?.room_directory || state.manifest?.sections?.rooms,
+    );
+  }
   return Boolean(state.manifest?.sections?.[key]);
-}
-
-function groupContains(sectionKey, group) {
-  if (group.solo) return group.solo === sectionKey;
-  return group.items?.some((item) => item.key === sectionKey);
 }
 
 function goToSection(key) {
@@ -413,64 +391,24 @@ function syncNavUi() {
     if (!key) return;
     node.classList.toggle("active", key === state.section);
   });
-  nav.querySelectorAll(".nav-group").forEach((groupEl) => {
-    const id = groupEl.dataset.group;
-    const group = NAV_LAYOUT.find((g) => g.id === id);
-    const active = group && groupContains(state.section, group);
-    groupEl.classList.toggle("has-active", Boolean(active));
-    if (active) groupEl.open = true;
-  });
-  const solo = nav.querySelector(".nav-solo");
-  if (solo) solo.classList.toggle("active", state.section === "party");
 }
 
 function buildNav() {
   const nav = document.getElementById("nav");
   nav.innerHTML = "";
 
-  const soloRow = el("div", "nav-row");
-  const partyBtn = document.createElement("button");
-  partyBtn.type = "button";
-  partyBtn.className = "nav-solo";
-  partyBtn.textContent = "Party";
-  partyBtn.dataset.section = "party";
-  if (sectionExists("party")) {
-    partyBtn.addEventListener("click", () => goToSection("party"));
-    soloRow.appendChild(partyBtn);
+  const row = el("div", "nav-row nav-row--pills");
+  for (const item of NAV_ITEMS) {
+    if (!sectionExists(item.key)) continue;
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "nav-pill";
+    btn.textContent = item.label;
+    btn.dataset.section = item.key;
+    btn.addEventListener("click", () => goToSection(item.key));
+    row.appendChild(btn);
   }
-  nav.appendChild(soloRow);
-
-  const groupRow = el("div", "nav-row");
-  for (const group of NAV_LAYOUT) {
-    if (group.solo) continue;
-    const items = (group.items || []).filter((item) => sectionExists(item.key));
-    if (!items.length) continue;
-
-    const details = document.createElement("details");
-    details.className = "nav-group";
-    details.dataset.group = group.id;
-    if (groupContains(state.section, group)) details.open = true;
-
-    const summary = document.createElement("summary");
-    summary.textContent = group.label;
-    details.appendChild(summary);
-
-    const sub = el("div", "nav-sub");
-    for (const item of items) {
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.textContent = item.label;
-      btn.dataset.section = item.key;
-      btn.addEventListener("click", (ev) => {
-        ev.preventDefault();
-        goToSection(item.key);
-      });
-      sub.appendChild(btn);
-    }
-    details.appendChild(sub);
-    groupRow.appendChild(details);
-  }
-  nav.appendChild(groupRow);
+  nav.appendChild(row);
   syncNavUi();
 }
 
@@ -484,15 +422,6 @@ async function init() {
     main.innerHTML =
       '<p class="empty-state">No handbook data yet. On the game machine run <code>uv run python -m dnd wiki export</code>, then push the <code>wiki</code> repo.</p>';
     return;
-  }
-  const meta = document.getElementById("export-meta");
-  if (state.manifest.exported_at) {
-    const when = new Date(state.manifest.exported_at * 1000);
-    meta.textContent = `Updated ${when.toLocaleString()} · ${state.manifest.zone_label || "zone"}`;
-  }
-  if (state.manifest.public_party_sheets === false) {
-    document.getElementById("footer-note").textContent +=
-      " Party sheets were omitted from this snapshot.";
   }
   if (!sectionExists(state.section)) {
     state.section = sectionExists("party") ? "party" : Object.keys(state.manifest.sections)[0];

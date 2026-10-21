@@ -154,17 +154,21 @@ body {
   align-items: stretch;
 }
 
-.nav-solo {
-  flex: 1;
+.nav-row--pills {
+  flex-wrap: wrap;
+}
+
+.nav-pill {
+  flex: 0 1 auto;
   border: 1px solid var(--border);
   background: transparent;
   color: var(--text-muted);
   border-radius: var(--radius-sm);
-  padding: 0.55rem 0.75rem;
+  padding: 0.45rem 0.65rem;
   font-family: var(--font-display);
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   font-weight: 500;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
   cursor: pointer;
   transition:
     color 0.2s,
@@ -172,12 +176,12 @@ body {
     background 0.2s;
 }
 
-.nav-solo:hover {
+.nav-pill:hover {
   color: var(--text);
   border-color: var(--border-strong);
 }
 
-.nav-solo.active {
+.nav-pill.active {
   color: var(--text);
   border-color: var(--accent);
   background: var(--accent-glow);
@@ -413,6 +417,14 @@ body {
   color: var(--text-faint);
 }
 
+.card-sub.rule-source {
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent-dim);
+  font-style: normal;
+}
+
 .card-body {
   padding: 0 1rem 1rem;
   border-top: 1px solid var(--border);
@@ -613,25 +625,6 @@ body {
 .chip strong {
   color: var(--text);
   font-weight: 600;
-}
-
-/* —— Footer & misc —— */
-.footer {
-  margin-top: auto;
-  padding: 1.25rem;
-  border-top: 1px solid var(--border);
-  font-size: 0.78rem;
-  color: var(--text-faint);
-  text-align: center;
-  max-width: 40rem;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-}
-
-.footer .meta {
-  margin-top: 0.4rem;
-  color: var(--text-muted);
 }
 
 .warning {
