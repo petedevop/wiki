@@ -1,19 +1,37 @@
-const SECTION_LABELS = {
-  rules: "Rules",
-  map: "Map",
-  room_directory: "Rooms",
-  rooms: "Discovered",
-  people: "People",
-  items: "Gear",
-  achievements: "Achievements",
-  rivals: "Rivals",
-  party: "Party",
-  sessions: "Sessions",
-};
+const NAV_LAYOUT = [
+  { solo: "party", label: "Party" },
+  {
+    id: "floor",
+    label: "Floor",
+    items: [
+      { key: "map", label: "Map" },
+      { key: "room_directory", label: "Rooms" },
+      { key: "rooms", label: "Found" },
+      { key: "people", label: "People" },
+      { key: "items", label: "Gear" },
+    ],
+  },
+  {
+    id: "wall",
+    label: "Wall",
+    items: [
+      { key: "achievements", label: "Achievements" },
+      { key: "rivals", label: "Rivals" },
+    ],
+  },
+  {
+    id: "table",
+    label: "Table",
+    items: [
+      { key: "rules", label: "Rules" },
+      { key: "sessions", label: "Sessions" },
+    ],
+  },
+];
 
 const state = {
   manifest: null,
-  section: "rules",
+  section: "party",
   query: "",
   cache: {},
 };
@@ -283,20 +301,19 @@ async function renderRivals(main) {
 
 async function renderParty(main) {
   const data = await loadJson(state.manifest.sections.party);
-  const panel = el("div", "panel");
-  panel.appendChild(panelHeader("Party", "Character sheets from the last export.", "party"));
+  const panel = el("div", "panel panel--party");
+  panel.appendChild(panelHeader("The party", "Your crawlers, as of the last export.", "party"));
   if (data.skipped) {
     panel.appendChild(el("p", "empty-state", "Sheets were omitted (--skip-party)."));
     main.appendChild(panel);
     return;
   }
-  panel.appendChild(
-    el(
-      "p",
-      "warning",
-      "Public on the web — same stats the player app shows at the table.",
-    ),
-  );
+  if (data.rows.length) {
+    panel.appendChild(
+      el("p", "warning", "Public snapshot — same fields as the player app at the table."),
+    );
+  }
+  const stack = el("div", "party-stack");
   for (const row of data.rows) {
     const card = el("div", "party-card");
     card.appendChild(el("h3", null, row.name));
@@ -323,7 +340,12 @@ async function renderParty(main) {
       gear.innerHTML = row.gear_html;
       card.appendChild(gear);
     }
-    panel.appendChild(card);
+    stack.appendChild(card);
+  }
+  if (!data.rows.length) {
+    panel.appendChild(el("p", "empty-state", "No active party in this export."));
+  } else {
+    panel.appendChild(stack);
   }
   main.appendChild(panel);
 }
@@ -366,38 +388,90 @@ async function renderSection() {
   }
 }
 
+function sectionExists(key) {
+  return Boolean(state.manifest?.sections?.[key]);
+}
+
+function groupContains(sectionKey, group) {
+  if (group.solo) return group.solo === sectionKey;
+  return group.items?.some((item) => item.key === sectionKey);
+}
+
+function goToSection(key) {
+  if (!sectionExists(key)) return;
+  state.section = key;
+  syncNavUi();
+  renderSection();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function syncNavUi() {
+  const nav = document.getElementById("nav");
+  if (!nav) return;
+  nav.querySelectorAll("[data-section]").forEach((node) => {
+    const key = node.dataset.section;
+    if (!key) return;
+    node.classList.toggle("active", key === state.section);
+  });
+  nav.querySelectorAll(".nav-group").forEach((groupEl) => {
+    const id = groupEl.dataset.group;
+    const group = NAV_LAYOUT.find((g) => g.id === id);
+    const active = group && groupContains(state.section, group);
+    groupEl.classList.toggle("has-active", Boolean(active));
+    if (active) groupEl.open = true;
+  });
+  const solo = nav.querySelector(".nav-solo");
+  if (solo) solo.classList.toggle("active", state.section === "party");
+}
+
 function buildNav() {
   const nav = document.getElementById("nav");
   nav.innerHTML = "";
-  const order = [
-    "rules",
-    "map",
-    "room_directory",
-    "rooms",
-    "people",
-    "items",
-    "achievements",
-    "rivals",
-    "party",
-    "sessions",
-  ];
-  const keys = order.filter((k) => state.manifest.sections[k]);
-  for (const key of keys) {
-    const btn = document.createElement("button");
-    btn.type = "button";
-    btn.textContent = SECTION_LABELS[key] || key;
-    btn.dataset.section = key;
-    if (key === state.section) btn.classList.add("active");
-    btn.addEventListener("click", () => {
-      state.section = key;
-      for (const b of nav.querySelectorAll("button")) {
-        b.classList.toggle("active", b.dataset.section === key);
-      }
-      renderSection();
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-    nav.appendChild(btn);
+
+  const soloRow = el("div", "nav-row");
+  const partyBtn = document.createElement("button");
+  partyBtn.type = "button";
+  partyBtn.className = "nav-solo";
+  partyBtn.textContent = "Party";
+  partyBtn.dataset.section = "party";
+  if (sectionExists("party")) {
+    partyBtn.addEventListener("click", () => goToSection("party"));
+    soloRow.appendChild(partyBtn);
   }
+  nav.appendChild(soloRow);
+
+  const groupRow = el("div", "nav-row");
+  for (const group of NAV_LAYOUT) {
+    if (group.solo) continue;
+    const items = (group.items || []).filter((item) => sectionExists(item.key));
+    if (!items.length) continue;
+
+    const details = document.createElement("details");
+    details.className = "nav-group";
+    details.dataset.group = group.id;
+    if (groupContains(state.section, group)) details.open = true;
+
+    const summary = document.createElement("summary");
+    summary.textContent = group.label;
+    details.appendChild(summary);
+
+    const sub = el("div", "nav-sub");
+    for (const item of items) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.textContent = item.label;
+      btn.dataset.section = item.key;
+      btn.addEventListener("click", (ev) => {
+        ev.preventDefault();
+        goToSection(item.key);
+      });
+      sub.appendChild(btn);
+    }
+    details.appendChild(sub);
+    groupRow.appendChild(details);
+  }
+  nav.appendChild(groupRow);
+  syncNavUi();
 }
 
 async function init() {
@@ -419,6 +493,9 @@ async function init() {
   if (state.manifest.public_party_sheets === false) {
     document.getElementById("footer-note").textContent +=
       " Party sheets were omitted from this snapshot.";
+  }
+  if (!sectionExists(state.section)) {
+    state.section = sectionExists("party") ? "party" : Object.keys(state.manifest.sections)[0];
   }
   buildNav();
   document.getElementById("search").addEventListener("input", (ev) => {

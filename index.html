@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#0c0a09" />
+    <meta name="theme-color" content="#090807" />
     <meta name="color-scheme" content="dark" />
     <title>Floor Two — player handbook</title>
     <link rel="stylesheet" href="style.css" />
@@ -12,17 +12,15 @@
     <div class="shell">
       <header class="hero">
         <div class="hero-inner">
-          <p class="hero-eyebrow">Dungeon Crawler Carl · Floor Two</p>
-          <h1 class="hero-title">Player handbook</h1>
-          <p class="hero-lede">
-            Lore, gear, and hints from the crawl — refreshed between sessions.
-          </p>
+          <p class="hero-eyebrow">Floor Two</p>
+          <h1 class="hero-title">Handbook</h1>
+          <div class="hero-rule" aria-hidden="true"></div>
           <label class="search-wrap">
             <span class="search-icon" aria-hidden="true">⌕</span>
             <input
               id="search"
               type="search"
-              placeholder="Search this handbook…"
+              placeholder="Search…"
               autocomplete="off"
               aria-label="Search handbook"
             />
@@ -30,15 +28,13 @@
         </div>
       </header>
       <div class="nav-bar">
-        <nav id="nav" class="nav" aria-label="Sections"></nav>
+        <div id="nav" class="nav-groups" role="navigation" aria-label="Handbook sections"></div>
       </div>
       <main id="main" class="main">
-        <p class="loading">Loading handbook…</p>
+        <p class="loading">Loading…</p>
       </main>
       <footer class="footer">
-        <p id="footer-note">
-          Snapshot from the table app. Live play still happens at session night.
-        </p>
+        <p id="footer-note">Snapshot from the table app.</p>
         <p id="export-meta" class="meta"></p>
       </footer>
     </div>
