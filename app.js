@@ -420,7 +420,7 @@ async function init() {
     state.manifest = await res.json();
   } catch {
     main.innerHTML =
-      '<p class="empty-state">No handbook data yet. On the game machine run <code>uv run python -m dnd wiki export</code>, then push the <code>wiki</code> repo.</p>';
+      '<p class="empty-state">No wiki data yet. On the game machine run <code>uv run python -m dnd wiki export</code>, then push the <code>wiki</code> repo.</p>';
     return;
   }
   if (!sectionExists(state.section)) {
