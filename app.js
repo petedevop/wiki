@@ -1,8 +1,8 @@
 const SECTION_LABELS = {
   rules: "Rules",
   map: "Map",
-  room_directory: "Room index",
-  rooms: "Rooms",
+  room_directory: "Rooms",
+  rooms: "Discovered",
   people: "People",
   items: "Gear",
   achievements: "Achievements",
@@ -34,7 +34,7 @@ function normalize(text) {
 function matches(row, q) {
   if (!q) return true;
   const hay = normalize(
-    [row.title, row.subtitle, row.preview, row.name, row.hint, row.kitchen, row.dish]
+    [row.title, row.subtitle, row.preview, row.name, row.hint, row.kitchen, row.dish, row.zone_label]
       .filter(Boolean)
       .join(" "),
   );
@@ -48,12 +48,44 @@ function el(tag, className, text) {
   return node;
 }
 
+function panelHeader(title, intro, sectionKey) {
+  const wrap = el("div", "panel-header");
+  const count = state.manifest?.counts?.[sectionKey];
+  const label = count != null ? `${title} (${count})` : title;
+  wrap.appendChild(el("h2", null, label));
+  if (intro) wrap.appendChild(el("p", "intro", intro));
+  return wrap;
+}
+
+function lootBadgeClass(loot) {
+  const s = String(loot || "").toLowerCase();
+  if (s.includes("gold")) return "badge-gold";
+  if (s.includes("silver")) return "badge-silver";
+  if (s.includes("bronze")) return "badge-bronze";
+  return "badge-group";
+}
+
+function achievementBadges(row) {
+  const wrap = el("div", "achievement-badges");
+  if (row.group) {
+    const g = el("span", "badge badge-group", row.group);
+    wrap.appendChild(g);
+  }
+  if (row.loot) {
+    const tier = el("span", `badge ${lootBadgeClass(row.loot)}`, row.loot);
+    wrap.appendChild(tier);
+  }
+  return wrap.children.length ? wrap : null;
+}
+
 function cardDetails(row, bodyHtml) {
   const details = el("details", "card");
   const summary = el("summary");
   summary.appendChild(el("span", "card-title", row.title || row.name));
-  const sub = row.subtitle || row.group || row.zone_label || row.loot || "";
-  if (sub) summary.appendChild(el("span", "card-sub", sub));
+  const sub = row.subtitle || row.zone_label || "";
+  if (sub && sub !== (row.title || row.name)) {
+    summary.appendChild(el("span", "card-sub", sub));
+  }
   if (row.preview && !bodyHtml) {
     summary.appendChild(el("span", "card-sub", row.preview));
   }
@@ -74,36 +106,67 @@ function renderList(rows, renderRow) {
     ul.appendChild(renderRow(row));
   }
   if (!ul.children.length) {
-    const empty = el("p", "intro", q ? "No matches." : "Nothing exported yet.");
-    return empty;
+    return el(
+      "p",
+      "empty-state",
+      q ? "No matches for that search." : "Nothing in this section yet — run a fresh export.",
+    );
   }
   return ul;
+}
+
+function renderGroupedRoomIndex(rows) {
+  const q = normalize(state.query);
+  const filtered = rows.filter((r) => matches(r, q));
+  if (!filtered.length) {
+    return el(
+      "p",
+      "empty-state",
+      q ? "No matches for that search." : "No rooms in the index yet.",
+    );
+  }
+  const wrap = el("div", "room-groups");
+  let lastZone = "";
+  let ul = null;
+  for (const row of filtered) {
+    const zone = row.zone_label || row.zone_key || "Floor";
+    if (zone !== lastZone) {
+      wrap.appendChild(el("div", "group-label", zone));
+      ul = el("ul", "card-list");
+      wrap.appendChild(ul);
+      lastZone = zone;
+    }
+    const li = document.createElement("li");
+    const card = el("details", "card");
+    const summary = el("summary");
+    summary.appendChild(el("span", "card-title", `${row.num} — ${row.title}`));
+    card.appendChild(summary);
+    li.appendChild(card);
+    ul.appendChild(li);
+  }
+  return wrap;
 }
 
 async function renderRules(main) {
   const data = await loadJson(state.manifest.sections.rules);
   const panel = el("div", "panel");
-  panel.appendChild(el("h2", null, "Rules"));
   panel.appendChild(
-    el(
-      "p",
-      "intro",
-      "House and table conventions for this crawl. Core Shadow Dark rules stay in your rulebook — not republished here.",
+    panelHeader(
+      "Rules",
+      "House and table conventions. Core Shadow Dark stays in your rulebook.",
+      "rules",
     ),
   );
-  panel.appendChild(
-    renderList(data.rows, (row) => cardDetails(row, row.body_html)),
-  );
+  panel.appendChild(renderList(data.rows, (row) => cardDetails(row, row.body_html)));
   main.appendChild(panel);
 }
 
 async function renderMap(main) {
   const data = await loadJson(state.manifest.sections.map);
   const panel = el("div", "panel");
-  panel.appendChild(el("h2", null, "Zone map"));
-  if (data.zone_label) {
-    panel.appendChild(el("p", "intro", data.zone_label));
-  }
+  panel.appendChild(
+    panelHeader("Zone map", data.zone_label || "Explored floor", "map"),
+  );
   const wrap = el("div", "map-wrap");
   if (data.image) {
     const img = document.createElement("img");
@@ -112,16 +175,19 @@ async function renderMap(main) {
     wrap.appendChild(img);
     for (const m of data.markers || []) {
       if (m.x == null || m.y == null) continue;
-      const label = el("div", "map-marker", `${m.num}\n${m.title}`);
+      const label = el("div", "map-marker", `${m.num}`);
+      label.title = m.title || "";
       label.style.left = `${m.x * 100}%`;
       label.style.top = `${m.y * 100}%`;
       wrap.appendChild(label);
     }
   } else {
-    const fb = el("div", "map-fallback", "No zone map image in the last export.");
-    wrap.appendChild(fb);
+    wrap.appendChild(el("div", "map-fallback", "No map image in the last export."));
   }
   panel.appendChild(wrap);
+  panel.appendChild(
+    el("p", "intro", "Room numbers match the player app and the room list below."),
+  );
   main.appendChild(panel);
 }
 
@@ -129,43 +195,52 @@ async function renderSimpleSection(main, key, title, intro) {
   const file = state.manifest.sections[key];
   const data = await loadJson(file);
   const panel = el("div", "panel");
-  panel.appendChild(el("h2", null, title));
-  if (intro) panel.appendChild(el("p", "intro", intro));
-  panel.appendChild(
-    renderList(data.rows, (row) =>
-      cardDetails(row, row.body_html || (row.preview ? `<p>${row.preview}</p>` : "")),
-    ),
-  );
+  panel.appendChild(panelHeader(title, intro, key));
+  if (key === "room_directory") {
+    panel.appendChild(renderGroupedRoomIndex(data.rows));
+  } else {
+    panel.appendChild(
+      renderList(data.rows, (row) =>
+        cardDetails(row, row.body_html || (row.preview ? `<p>${row.preview}</p>` : "")),
+      ),
+    );
+  }
   main.appendChild(panel);
 }
 
 async function renderAchievements(main) {
   const data = await loadJson(state.manifest.sections.achievements);
   const panel = el("div", "panel");
-  panel.appendChild(el("h2", null, "Achievements"));
   panel.appendChild(
-    el("p", "intro", "Hints for the wall. Progress highlights what the party has touched."),
+    panelHeader(
+      "Achievements",
+      "Hints for the wall — green rows are ones your party has touched.",
+      "achievements",
+    ),
   );
   panel.appendChild(
     renderList(data.rows, (row) => {
       const details = el("details", "card achievement" + (row.touched ? " touched" : ""));
       const summary = el("summary");
       summary.appendChild(el("span", "card-title", row.name));
-      const bits = [row.group, row.loot].filter(Boolean).join(" · ");
-      if (bits) summary.appendChild(el("span", "card-sub", bits));
-      if (row.hint) summary.appendChild(el("span", "card-sub", row.hint));
+      const badges = achievementBadges(row);
+      if (badges) summary.appendChild(badges);
+      if (row.hint) summary.appendChild(el("span", "card-sub hint", row.hint));
       details.appendChild(summary);
       const body = el("div", "card-body");
+      let hasBody = false;
       if (row.earned_by?.length) {
         body.appendChild(el("p", null, `Earned by: ${row.earned_by.join(", ")}`));
+        hasBody = true;
       }
       const progress = row.progress_by_pc && Object.entries(row.progress_by_pc);
       if (progress?.length) {
         for (const [name, val] of progress) {
-          body.appendChild(el("p", null, `${name}: ${val}`));
+          body.appendChild(el("p", "progress-line", `${name}: ${val}`));
+          hasBody = true;
         }
       }
-      details.appendChild(body);
+      if (hasBody) details.appendChild(body);
       return details;
     }),
   );
@@ -175,10 +250,11 @@ async function renderAchievements(main) {
 async function renderRivals(main) {
   const data = await loadJson(state.manifest.sections.rivals);
   const panel = el("div", "panel");
-  panel.appendChild(el("h2", null, "Rivals"));
-  panel.appendChild(el("p", "intro", "Kitchens the party has made enemies of this season."));
+  panel.appendChild(
+    panelHeader("Rivals", "Kitchens the party has made enemies of.", "rivals"),
+  );
   if (!data.rows.length) {
-    panel.appendChild(el("p", "intro", "No active rivals in the last export."));
+    panel.appendChild(el("p", "empty-state", "No active rivals in this snapshot."));
   } else {
     panel.appendChild(
       renderList(data.rows, (row) => {
@@ -199,7 +275,7 @@ async function renderRivals(main) {
   if (data.house?.challenges?.length) {
     panel.appendChild(el("h3", null, "House show"));
     for (const c of data.house.challenges) {
-      panel.appendChild(el("p", null, `${c.name}: ${c.player}`));
+      panel.appendChild(el("p", "card-sub", `${c.name}: ${c.player}`));
     }
   }
   main.appendChild(panel);
@@ -208,26 +284,39 @@ async function renderRivals(main) {
 async function renderParty(main) {
   const data = await loadJson(state.manifest.sections.party);
   const panel = el("div", "panel");
-  panel.appendChild(el("h2", null, "Party"));
+  panel.appendChild(panelHeader("Party", "Character sheets from the last export.", "party"));
   if (data.skipped) {
-    panel.appendChild(el("p", "intro", "Character sheets were omitted from this export."));
+    panel.appendChild(el("p", "empty-state", "Sheets were omitted (--skip-party)."));
     main.appendChild(panel);
     return;
   }
-  const warn = el(
-    "p",
-    "warning",
-    "These sheets are public on the web — same stats the player app shows at the table.",
+  panel.appendChild(
+    el(
+      "p",
+      "warning",
+      "Public on the web — same stats the player app shows at the table.",
+    ),
   );
-  panel.appendChild(warn);
   for (const row of data.rows) {
     const card = el("div", "party-card");
     card.appendChild(el("h3", null, row.name));
-    card.appendChild(el("p", "card-sub", row.class_level || ""));
+    if (row.class_level) card.appendChild(el("p", "card-sub", row.class_level));
     const stats = el("div", "party-stats");
-    if (row.hp != null && row.hp_max != null) stats.appendChild(el("span", null, `HP ${row.hp}/${row.hp_max}`));
-    if (row.ac != null) stats.appendChild(el("span", null, `AC ${row.ac}`));
-    if (row.load) stats.appendChild(el("span", null, row.load));
+    if (row.hp != null && row.hp_max != null) {
+      const chip = el("span", "chip");
+      chip.innerHTML = `<strong>HP</strong> ${row.hp}/${row.hp_max}`;
+      stats.appendChild(chip);
+    }
+    if (row.ac != null) {
+      const chip = el("span", "chip");
+      chip.innerHTML = `<strong>AC</strong> ${row.ac}`;
+      stats.appendChild(chip);
+    }
+    if (row.load) {
+      const chip = el("span", "chip");
+      chip.textContent = row.load;
+      stats.appendChild(chip);
+    }
     card.appendChild(stats);
     if (row.gear_html) {
       const gear = el("div", "card-body");
@@ -254,14 +343,14 @@ async function renderSection() {
         main,
         "room_directory",
         "Room index",
-        "All room names on the floor (numbers match the map and the app).",
+        "Every room name on the floor — grouped by zone.",
       );
     } else if (key === "rooms") {
       await renderSimpleSection(
         main,
         "rooms",
-        "Rooms",
-        "Places the party has discovered — full player-safe text.",
+        "Discovered places",
+        "Full player-safe text for rooms you've found.",
       );
     } else if (key === "people") {
       await renderSimpleSection(main, "people", "People", "NPCs the party has met.");
@@ -271,14 +360,29 @@ async function renderSection() {
       await renderSimpleSection(main, "sessions", "Sessions", "Player recaps from past nights.");
     }
   } catch (err) {
-    main.appendChild(el("p", "intro", `Could not load section (${err.message}). Run wiki export locally.`));
+    main.appendChild(
+      el("p", "empty-state", `Could not load this section (${err.message}).`),
+    );
   }
 }
 
 function buildNav() {
   const nav = document.getElementById("nav");
   nav.innerHTML = "";
-  for (const key of Object.keys(state.manifest.sections)) {
+  const order = [
+    "rules",
+    "map",
+    "room_directory",
+    "rooms",
+    "people",
+    "items",
+    "achievements",
+    "rivals",
+    "party",
+    "sessions",
+  ];
+  const keys = order.filter((k) => state.manifest.sections[k]);
+  for (const key of keys) {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.textContent = SECTION_LABELS[key] || key;
@@ -290,6 +394,7 @@ function buildNav() {
         b.classList.toggle("active", b.dataset.section === key);
       }
       renderSection();
+      window.scrollTo({ top: 0, behavior: "smooth" });
     });
     nav.appendChild(btn);
   }
@@ -303,13 +408,13 @@ async function init() {
     state.manifest = await res.json();
   } catch {
     main.innerHTML =
-      "<p class='intro'>No handbook data yet. On the game machine run: <code>uv run python -m dnd wiki export</code>, then commit <code>player-site/</code>.</p>";
+      '<p class="empty-state">No handbook data yet. On the game machine run <code>uv run python -m dnd wiki export</code>, then push the <code>wiki</code> repo.</p>';
     return;
   }
   const meta = document.getElementById("export-meta");
   if (state.manifest.exported_at) {
     const when = new Date(state.manifest.exported_at * 1000);
-    meta.textContent = `Last export: ${when.toLocaleString()} · ${state.manifest.zone_label || "zone"}`;
+    meta.textContent = `Updated ${when.toLocaleString()} · ${state.manifest.zone_label || "zone"}`;
   }
   if (state.manifest.public_party_sheets === false) {
     document.getElementById("footer-note").textContent +=
