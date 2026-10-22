@@ -1,3 +1,5 @@
+const SITE_TITLE = "Shadowdark DCC Wiki";
+
 const NAV_ITEMS = [
   { key: "party", label: "Party" },
   { key: "rules", label: "Rules" },
@@ -17,9 +19,13 @@ const NAV_ITEMS = [
   { key: "sessions", label: "Sessions" },
 ];
 
+const SEARCH_SKIP_SECTIONS = new Set(["map"]);
+const SEARCH_MAX_PER_SECTION = 8;
+
 const state = {
   manifest: null,
   section: "party",
+  ruleAnchor: null,
   query: "",
   cache: {},
 };
@@ -55,6 +61,8 @@ function matches(row, q) {
       row.giver,
       row.kitchen,
       row.signed,
+      row.body_md,
+      row.id,
     ]
       .filter(Boolean)
       .join(" "),
@@ -69,13 +77,156 @@ function el(tag, className, text) {
   return node;
 }
 
-function panelHeader(title, intro, sectionKey) {
+function scrollMotion() {
+  return window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+}
+
+function scrollToTop() {
+  window.scrollTo({ top: 0, behavior: scrollMotion() });
+}
+
+function wikiBaseUrl() {
+  const fromManifest = state.manifest?.site_base_url;
+  if (fromManifest) return String(fromManifest).replace(/\/$/, "");
+  return `${window.location.origin}${window.location.pathname.replace(/\/?index\.html$/, "").replace(/\/$/, "")}`;
+}
+
+function wikiLink(sectionKey, ruleId) {
+  const section = sectionKey || state.section;
+  let hash = section;
+  if (section === "rules" && ruleId) hash += `/${ruleId}`;
+  return `${wikiBaseUrl()}#${hash}`;
+}
+
+async function copyWikiLink(sectionKey, ruleId) {
+  const url = wikiLink(sectionKey, ruleId);
+  try {
+    await navigator.clipboard.writeText(url);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function panelHeader(title, intro, sectionKey, { ruleId = null } = {}) {
   const wrap = el("div", "panel-header");
-  const count = state.manifest?.counts?.[sectionKey];
+  const count = sectionKey ? state.manifest?.counts?.[sectionKey] : null;
   const label = count != null ? `${title} (${count})` : title;
-  wrap.appendChild(el("h2", null, label));
+  const headRow = el("div", "panel-header-row");
+  headRow.appendChild(el("h2", null, label));
+  if (sectionKey) {
+    const copyBtn = el("button", "copy-link", "Copy link");
+    copyBtn.type = "button";
+    copyBtn.addEventListener("click", async () => {
+      const ok = await copyWikiLink(sectionKey, ruleId);
+      copyBtn.textContent = ok ? "Copied!" : "Copy failed";
+      copyBtn.classList.toggle("is-copied", ok);
+      window.setTimeout(() => {
+        copyBtn.textContent = "Copy link";
+        copyBtn.classList.remove("is-copied");
+      }, 2000);
+    });
+    headRow.appendChild(copyBtn);
+  }
+  wrap.appendChild(headRow);
   if (intro) wrap.appendChild(el("p", "intro", intro));
   return wrap;
+}
+
+function syncOpenGraphMeta() {
+  const base = wikiBaseUrl();
+  if (!base) return;
+  const set = (attr, key, value) => {
+    let node = document.querySelector(`meta[${attr}="${key}"]`);
+    if (!node) {
+      node = document.createElement("meta");
+      node.setAttribute(attr, key);
+      document.head.appendChild(node);
+    }
+    node.setAttribute("content", value);
+  };
+  set("property", "og:url", `${base}/`);
+  set("property", "og:image", `${base}/assets/og-card.svg`);
+}
+
+function clearSearchInput() {
+  const search = document.getElementById("search");
+  if (search) search.value = "";
+  state.query = "";
+}
+
+function hitLabel(row) {
+  return row.title || row.name || row.id || "Untitled";
+}
+
+function hitSubtitle(row) {
+  return row.subtitle || row.zone_label || row.preview || row.hint || "";
+}
+
+async function gatherSearchHits(q) {
+  const hits = [];
+  const normQ = normalize(q);
+  if (!normQ || !state.manifest) return hits;
+  for (const item of NAV_ITEMS) {
+    if (!sectionExists(item.key) || SEARCH_SKIP_SECTIONS.has(item.key)) continue;
+    const file = state.manifest.sections[item.key];
+    if (!file) continue;
+    let data;
+    try {
+      data = await loadJson(file);
+    } catch {
+      continue;
+    }
+    const rows = data.rows;
+    if (!Array.isArray(rows)) continue;
+    let n = 0;
+    for (const row of rows) {
+      if (!matches(row, normQ)) continue;
+      hits.push({ section: item.key, sectionLabel: item.label, row });
+      n += 1;
+      if (n >= SEARCH_MAX_PER_SECTION) break;
+    }
+  }
+  return hits;
+}
+
+async function renderGlobalSearch(main) {
+  const panel = el("div", "panel");
+  panel.appendChild(
+    panelHeader("Search", `Matches across the wiki for “${state.query}”.`, null),
+  );
+  const hits = await gatherSearchHits(state.query);
+  if (!hits.length) {
+    panel.appendChild(el("p", "empty-state", "No matches in any section. Try another word."));
+  } else {
+    const ul = el("ul", "search-hits");
+    for (const hit of hits) {
+      const li = document.createElement("li");
+      const btn = el("button", "search-hit-btn");
+      btn.type = "button";
+      btn.appendChild(el("span", "search-hit-section", hit.sectionLabel));
+      btn.appendChild(el("span", "search-hit-title", hitLabel(hit.row)));
+      const sub = hitSubtitle(hit.row);
+      if (sub) btn.appendChild(el("span", "search-hit-sub", sub));
+      btn.addEventListener("click", () => {
+        const ruleId = hit.section === "rules" ? hit.row.id : null;
+        clearSearchInput();
+        goToSection(hit.section, { ruleId });
+      });
+      li.appendChild(btn);
+      ul.appendChild(li);
+    }
+    panel.appendChild(ul);
+  }
+  main.appendChild(panel);
+}
+
+function focusRuleCard(panel) {
+  if (state.section !== "rules" || !state.ruleAnchor) return;
+  const card = panel.querySelector(`[data-rule-id="${CSS.escape(state.ruleAnchor)}"]`);
+  if (!card) return;
+  card.open = true;
+  card.scrollIntoView({ block: "start", behavior: scrollMotion() });
 }
 
 function lootBadgeClass(loot) {
@@ -194,11 +345,13 @@ async function renderRules(main) {
       "Rules",
       "Your notes plus rules pulled from the app on each export.",
       "rules",
+      { ruleId: state.ruleAnchor },
     ),
   );
   panel.appendChild(
     renderList(data.rows, (row) => {
       const card = cardDetails(row, row.body_html);
+      if (row.id) card.dataset.ruleId = row.id;
       if (row.source === "system") {
         const summary = card.querySelector("summary");
         if (summary) summary.appendChild(el("span", "card-sub rule-source", "Synced from the app"));
@@ -207,6 +360,7 @@ async function renderRules(main) {
     }),
   );
   main.appendChild(panel);
+  focusRuleCard(panel);
 }
 
 async function renderMap(main) {
@@ -786,6 +940,17 @@ async function renderParty(main) {
 async function renderSection() {
   const main = document.getElementById("main");
   main.innerHTML = "";
+  syncDocumentTitle();
+  if (state.query) {
+    try {
+      await renderGlobalSearch(main);
+    } catch (err) {
+      main.appendChild(
+        el("p", "empty-state", `Search failed (${err.message}).`),
+      );
+    }
+    return;
+  }
   const key = state.section;
   try {
     if (key === "rules") await renderRules(main);
@@ -824,12 +989,79 @@ function sectionExists(key) {
   return Boolean(state.manifest?.sections?.[key]);
 }
 
-function goToSection(key) {
+function sectionLabel(key) {
+  return NAV_ITEMS.find((item) => item.key === key)?.label || key;
+}
+
+function syncDocumentTitle() {
+  const section = sectionLabel(state.section);
+  document.title =
+    state.section === "party" && !state.query
+      ? SITE_TITLE
+      : `${section}${state.query ? " · search" : ""} · ${SITE_TITLE}`;
+}
+
+function syncLocationHash() {
+  let next = `#${state.section}`;
+  if (state.section === "rules" && state.ruleAnchor) {
+    next += `/${state.ruleAnchor}`;
+  }
+  if (window.location.hash !== next) {
+    history.replaceState(null, "", next);
+  }
+}
+
+function parseLocationHash() {
+  const raw = window.location.hash.replace(/^#/, "").trim();
+  if (!raw) return { section: null, ruleId: null };
+  const [sectionPart, ...rest] = raw.split("/");
+  const section = sectionPart.toLowerCase();
+  if (!NAV_ITEMS.some((item) => item.key === section)) {
+    return { section: null, ruleId: null };
+  }
+  const ruleId = rest.join("/").trim() || null;
+  return { section, ruleId };
+}
+
+function applyHashToState() {
+  const { section, ruleId } = parseLocationHash();
+  if (!section || !sectionExists(section)) return false;
+  state.section = section;
+  state.ruleAnchor = section === "rules" ? ruleId : null;
+  return true;
+}
+
+function goToSection(key, { updateHash = true, ruleId = null } = {}) {
   if (!sectionExists(key)) return;
   state.section = key;
+  state.ruleAnchor = key === "rules" ? ruleId : null;
   syncNavUi();
+  if (updateHash) syncLocationHash();
+  syncDocumentTitle();
   renderSection();
-  window.scrollTo({ top: 0, behavior: "smooth" });
+  scrollToTop();
+}
+
+function goHome() {
+  clearSearchInput();
+  state.ruleAnchor = null;
+  const home = sectionExists("party") ? "party" : Object.keys(state.manifest.sections)[0];
+  goToSection(home);
+}
+
+function syncFooter() {
+  const footer = document.getElementById("site-footer");
+  if (!footer || !state.manifest) return;
+  const when = state.manifest.exported_at
+    ? new Date(state.manifest.exported_at * 1000).toLocaleString(undefined, {
+        dateStyle: "medium",
+        timeStyle: "short",
+      })
+    : "";
+  const zone = state.manifest.zone_label || "";
+  const bits = [zone, when ? `Exported ${when}` : ""].filter(Boolean);
+  footer.textContent = bits.join(" · ");
+  footer.hidden = !bits.length;
 }
 
 function syncNavUi() {
@@ -854,7 +1086,10 @@ function buildNav() {
     btn.className = "nav-pill";
     btn.textContent = item.label;
     btn.dataset.section = item.key;
-    btn.addEventListener("click", () => goToSection(item.key));
+    btn.addEventListener("click", () => {
+      clearSearchInput();
+      goToSection(item.key);
+    });
     row.appendChild(btn);
   }
   nav.appendChild(row);
@@ -872,14 +1107,51 @@ async function init() {
       '<p class="empty-state">No wiki data yet. On the game machine run <code>uv run python -m dnd wiki export</code>, then push the <code>wiki</code> repo.</p>';
     return;
   }
-  if (!sectionExists(state.section)) {
-    state.section = sectionExists("party") ? "party" : Object.keys(state.manifest.sections)[0];
+  if (!applyHashToState()) {
+    if (!sectionExists(state.section)) {
+      state.section = sectionExists("party") ? "party" : Object.keys(state.manifest.sections)[0];
+    }
+    state.ruleAnchor = null;
   }
   buildNav();
-  document.getElementById("search").addEventListener("input", (ev) => {
+  syncFooter();
+  syncOpenGraphMeta();
+  syncLocationHash();
+  syncDocumentTitle();
+
+  const search = document.getElementById("search");
+  search.addEventListener("input", (ev) => {
     state.query = ev.target.value.trim();
     renderSection();
   });
+
+  document.getElementById("home")?.addEventListener("click", () => goHome());
+
+  window.addEventListener("hashchange", () => {
+    if (!applyHashToState()) return;
+    syncNavUi();
+    syncDocumentTitle();
+    renderSection();
+  });
+
+  document.addEventListener("keydown", (ev) => {
+    const tag = ev.target?.tagName;
+    const typing =
+      tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT" || ev.target?.isContentEditable;
+    if (ev.key === "/" && !typing && !ev.metaKey && !ev.ctrlKey && !ev.altKey) {
+      ev.preventDefault();
+      search.focus();
+      search.select();
+      return;
+    }
+    if (ev.key === "Escape" && document.activeElement === search && state.query) {
+      search.value = "";
+      state.query = "";
+      renderSection();
+      search.blur();
+    }
+  });
+
   await renderSection();
 }
 

@@ -3,23 +3,44 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#090807" />
+    <meta name="theme-color" content="#0c0a09" />
     <meta name="color-scheme" content="dark" />
+    <meta
+      name="description"
+      content="Player-safe Floor Two reference — party, map, rules, and discoveries between sessions."
+    />
+    <meta property="og:title" content="Shadowdark DCC Wiki" />
+    <meta
+      property="og:description"
+      content="Player-safe Floor Two reference — party, map, rules, and discoveries between sessions."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://petedevop.github.io/wiki/" />
+    <meta
+      property="og:image"
+      content="https://petedevop.github.io/wiki/assets/og-card.svg"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
     <title>Shadowdark DCC Wiki</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="favicon.svg" />
+    <link rel="manifest" href="manifest.webmanifest" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div class="shell">
       <header class="hero">
         <div class="hero-inner">
-          <h1 class="hero-title">Shadowdark DCC Wiki</h1>
+          <h1 class="hero-title">
+            <button type="button" id="home" class="hero-home">Shadowdark DCC Wiki</button>
+          </h1>
           <div class="hero-rule" aria-hidden="true"></div>
           <label class="search-wrap">
             <span class="search-icon" aria-hidden="true">⌕</span>
             <input
               id="search"
               type="search"
-              placeholder="Search…"
+              placeholder="Search… ( / )"
               autocomplete="off"
               aria-label="Search wiki"
             />
@@ -32,6 +53,7 @@
       <main id="main" class="main">
         <p class="loading">Loading…</p>
       </main>
+      <footer id="site-footer" class="site-footer" hidden></footer>
     </div>
     <script src="app.js" type="module"></script>
   </body>
