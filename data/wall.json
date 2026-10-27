@@ -3,20 +3,7 @@
     {
       "pc_id": "crawler_b",
       "pc_name": "Nick",
-      "story": [
-        "Party declines the Spice Challenge in the Commissary (Room 210).",
-        "Party negotiates with goblins in Room 212 rather than fight them.",
-        "Party wrestles the 400-pound troglodyte in the gym.",
-        "Party gains information from Manny and welding beads from Janet.",
-        "Maggie My (Hostile, hostile) — Revenge for Frank (Murder Dozer / Nick).",
-        "Frank Q (dead) — Killed under Nick's Murder Dozer (Session 2).",
-        "Session 2 ended on stairwell 220 (AI, leaflets). Nick, Lety, Edwardo; still level 1. Good Doctor dead (shotgun, 209). Frank Q dead (Nick, Murder Dozer). Don dead (Edwardo executed him). Marta Voss crushed at vault — alive, cyborg return on Floor 2.",
-        "Since Session 2 — Nick recovered Nick's Kit from NICKBACK at the Commissary (Drums Recovered!).",
-        "Nick — Murder Dozer; killed Frank Q; Cart Rage",
-        "Party encounters AI drone in Room 213 TV.",
-        "Nick kills Frank Q with Murder Dozer.",
-        "Nick recovers Nick's Kit from NICKBACK at the Commissary."
-      ],
+      "story": [],
       "achievements": [
         {
           "name": "Gloves First!",
@@ -325,7 +312,7 @@
           "hint": "You miss every shot you don't declare. Also most of the ones you do.",
           "group": "shame",
           "progress": [
-            0,
+            3,
             5
           ],
           "earned_by": []
@@ -756,6 +743,26 @@
           "earned_by": []
         },
         {
+          "name": "Full Ward!",
+          "hint": "Twenty-four diagnoses. Zero bedside manner.",
+          "group": "evening",
+          "progress": [
+            0,
+            24
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Repeat Dosage!",
+          "hint": "Once was a warning. Five is a segment.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
           "name": "Effects Reel!",
           "hint": "Three new things are happening to you. The audience is thrilled.",
           "group": "evening",
@@ -772,6 +779,16 @@
           "progress": [
             0,
             10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Practical Vocabulary!",
+          "hint": "Set it up, trigger it, and try another word.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
           ],
           "earned_by": []
         },
@@ -932,7 +949,9 @@
           "hint": "Now kill something in a fight with the blade. Up close and personal.",
           "group": "combat",
           "progress": "",
-          "earned_by": []
+          "earned_by": [
+            "Nick"
+          ]
         },
         {
           "name": "Dig Your Own!",
@@ -1026,17 +1045,7 @@
     {
       "pc_id": "crawler_c",
       "pc_name": "Lety",
-      "story": [
-        "Party declines the Spice Challenge in the Commissary (Room 210).",
-        "Party negotiates with goblins in Room 212 rather than fight them.",
-        "Party wrestles the 400-pound troglodyte in the gym.",
-        "Party gains information from Manny and welding beads from Janet.",
-        "The Good Doctor (Ally, ally) — To keep someone alive after failing Miclo. To stay near Lety.",
-        "Session 2 ended on stairwell 220 (AI, leaflets). Nick, Lety, Edwardo; still level 1. Good Doctor dead (shotgun, 209). Frank Q dead (Nick, Murder Dozer). Don dead (Edwardo executed him). Marta Voss crushed at vault — alive, cyborg return on Floor 2.",
-        "Lety led goblin–llama war — goblins mostly slaughtered; blood oath against Lety (fool commander)",
-        "Party encounters AI drone in Room 213 TV.",
-        "Lety leads goblin-llama war, goblins mostly slaughtered; blood oath against Lety."
-      ],
+      "story": [],
       "achievements": [
         {
           "name": "Gloves First!",
@@ -1776,6 +1785,26 @@
           "earned_by": []
         },
         {
+          "name": "Full Ward!",
+          "hint": "Twenty-four diagnoses. Zero bedside manner.",
+          "group": "evening",
+          "progress": [
+            0,
+            24
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Repeat Dosage!",
+          "hint": "Once was a warning. Five is a segment.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
           "name": "Effects Reel!",
           "hint": "Three new things are happening to you. The audience is thrilled.",
           "group": "evening",
@@ -1792,6 +1821,16 @@
           "progress": [
             0,
             10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Practical Vocabulary!",
+          "hint": "Set it up, trigger it, and try another word.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
           ],
           "earned_by": []
         },
@@ -1952,7 +1991,9 @@
           "hint": "Now kill something in a fight with the blade. Up close and personal.",
           "group": "combat",
           "progress": "",
-          "earned_by": []
+          "earned_by": [
+            "Nick"
+          ]
         },
         {
           "name": "Knife Skills!",
@@ -2060,17 +2101,7 @@
     {
       "pc_id": "crawler_e",
       "pc_name": "Edwardo",
-      "story": [
-        "Party declines the Spice Challenge in the Commissary (Room 210).",
-        "Party negotiates with goblins in Room 212 rather than fight them.",
-        "Party wrestles the 400-pound troglodyte in the gym.",
-        "Party gains information from Manny and welding beads from Janet.",
-        "Session 2 ended on stairwell 220 (AI, leaflets). Nick, Lety, Edwardo; still level 1. Good Doctor dead (shotgun, 209). Frank Q dead (Nick, Murder Dozer). Don dead (Edwardo executed him). Marta Voss crushed at vault — alive, cyborg return on Floor 2.",
-        "209 — Doctor bleeds out; Edwardo executes Don → llamas hostile to Edwardo; Grandma Llama moves on the party; Good Llama holds her off as cover for escape; Janet + Precious out",
-        "Edwardo Hot Things nat 1 meme",
-        "Party encounters AI drone in Room 213 TV.",
-        "Doctor bleeds out in Room 209; Edwardo executes Don."
-      ],
+      "story": [],
       "achievements": [
         {
           "name": "Gloves First!",
@@ -2379,7 +2410,7 @@
           "hint": "You miss every shot you don't declare. Also most of the ones you do.",
           "group": "shame",
           "progress": [
-            0,
+            3,
             5
           ],
           "earned_by": []
@@ -2810,6 +2841,26 @@
           "earned_by": []
         },
         {
+          "name": "Full Ward!",
+          "hint": "Twenty-four diagnoses. Zero bedside manner.",
+          "group": "evening",
+          "progress": [
+            0,
+            24
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Repeat Dosage!",
+          "hint": "Once was a warning. Five is a segment.",
+          "group": "evening",
+          "progress": [
+            0,
+            5
+          ],
+          "earned_by": []
+        },
+        {
           "name": "Effects Reel!",
           "hint": "Three new things are happening to you. The audience is thrilled.",
           "group": "evening",
@@ -2826,6 +2877,16 @@
           "progress": [
             0,
             10
+          ],
+          "earned_by": []
+        },
+        {
+          "name": "Practical Vocabulary!",
+          "hint": "Set it up, trigger it, and try another word.",
+          "group": "evening",
+          "progress": [
+            0,
+            3
           ],
           "earned_by": []
         },
@@ -2986,7 +3047,9 @@
           "hint": "Now kill something in a fight with the blade. Up close and personal.",
           "group": "combat",
           "progress": "",
-          "earned_by": []
+          "earned_by": [
+            "Nick"
+          ]
         },
         {
           "name": "Clean Up on Aisle Three!",

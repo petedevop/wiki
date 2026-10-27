@@ -5,7 +5,7 @@
       "group": "dungeon",
       "hint": "The best part is getting your shopping home.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -68,7 +68,7 @@
       "group": "combat",
       "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -101,7 +101,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the bat. Swing for the fences.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -111,7 +111,7 @@
       "group": "stunts",
       "hint": "Gate, brood, venom, jelly. Keep moving; they can smell fear and jam.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -189,7 +189,7 @@
       "group": "showbiz",
       "hint": "Score 25+ in one service. Guaranteed: Second Helping Cooler. Your kitchen chooses the participating claimant.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -232,7 +232,7 @@
       "group": "combat",
       "hint": "Now kill three things with the shotgun, two in one fight, or a boss.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -265,7 +265,17 @@
       "group": "showbiz",
       "hint": "One boss is dinner. Three is a menu.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Brittle Finish!",
+      "group": "combat",
+      "hint": "Freeze, then hit.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -298,7 +308,7 @@
       "group": "combat",
       "hint": "Kill the Garlic Breadwinner in a fight. Hit the bread hard. Harder.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -308,7 +318,7 @@
       "group": "showbiz",
       "hint": "No words. Big gestures. The audience is older than language.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -318,7 +328,7 @@
       "group": "combat",
       "hint": "Now kill two things in one fight with the power tool, or hit for 15+.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -341,7 +351,7 @@
       "group": "showbiz",
       "hint": "Score 40+ in one service. Guaranteed: butcher s masquerade. Your kitchen chooses the participating claimant.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -351,7 +361,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the mop. Then mop.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -371,7 +381,7 @@
       "group": "combat",
       "hint": "Now burn two things down in one fight. Bring more than one bottle.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -394,7 +404,7 @@
       "group": "showbiz",
       "hint": "Rushes, set, loop, flesh, the big one, out. All you, in order.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -477,7 +487,7 @@
       "group": "stunts",
       "hint": "Every season needs a redemption arc. Yours starts in a freezer.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -555,7 +565,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the spade. Saves a trip later.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -565,7 +575,7 @@
       "group": "shame",
       "hint": "The serving suggestion was not a command.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -598,7 +608,7 @@
       "group": "stunts",
       "hint": "You know how this story goes. So does she.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -618,7 +628,7 @@
       "group": "dungeon",
       "hint": "The walls are thin. The kitchen is loud. Somebody is always talking.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -687,7 +697,7 @@
       "group": "stunts",
       "hint": "Slow. Steady. Upholstered in slime.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -697,7 +707,7 @@
       "group": "combat",
       "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -707,7 +717,7 @@
       "group": "dungeon",
       "hint": "Know where your food comes from. Ideally, you.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -773,7 +783,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the club. Mind your follow-through.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -783,10 +793,33 @@
       "group": "showbiz",
       "hint": "Bring the whole jungle to the table.",
       "loot": "Gold Loot Box ×2",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
+    },
+    {
+      "name": "Full Ward!",
+      "group": "evening",
+      "hint": "Twenty-four diagnoses. Zero bedside manner.",
+      "loot": "Gold Loot Box ×2",
+      "nightly": true,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Nick": [
+          0,
+          24
+        ],
+        "Lety": [
+          0,
+          24
+        ],
+        "Edwardo": [
+          0,
+          24
+        ]
+      }
     },
     {
       "name": "Full Wardrobe!",
@@ -799,11 +832,21 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Fuse Washer!",
+      "group": "combat",
+      "hint": "Water beats timing. Timing beats fire.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Get the Flesh and Get Out!",
       "group": "combat",
       "hint": "Some fights you don't win. You leave with the good bit.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -834,21 +877,11 @@
       ]
     },
     {
-      "name": "Ghost In The Machine!",
-      "group": "evening",
-      "hint": "Nobody saw. The cameras did.",
-      "loot": "Bronze Loot Box",
-      "nightly": true,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
-    },
-    {
       "name": "Gloves First!",
       "group": "dungeon",
       "hint": "Bring teacher something you killed. Wear the gloves.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -883,7 +916,7 @@
       "group": "combat",
       "hint": "Kill Queen Mellifera in a fight. Sticky is a strategy.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -893,7 +926,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the slingshot. Ask David how.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -903,7 +936,7 @@
       "group": "shame",
       "hint": "When in the Stone Age.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -913,7 +946,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the hammer. Everything is a nail.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -923,7 +956,7 @@
       "group": "showbiz",
       "hint": "Deliver the talent without turning it into ingredients.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -966,7 +999,7 @@
       "group": "shame",
       "hint": "Every lesson has a price. Somebody else is paying it.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -989,7 +1022,7 @@
       "group": "combat",
       "hint": "Now land a boss with the speargun, or kill three things with it.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1012,7 +1045,7 @@
       "group": "shame",
       "hint": "Check it's dead. Then check again.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1032,7 +1065,7 @@
       "group": "showbiz",
       "hint": "Impress the instructor before the class has started. Bring your own ingredients.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1065,7 +1098,7 @@
       "group": "stunts",
       "hint": "Kill the Gourd Mother in a fight. Return to sender.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1098,7 +1131,7 @@
       "group": "combat",
       "hint": "Kill the Subzero Bull in a fight. It's leaving. Don't let it.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1131,7 +1164,7 @@
       "group": "dungeon",
       "hint": "Everyone's easier to deal with once they've had a drink.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1158,6 +1191,16 @@
           250
         ]
       }
+    },
+    {
+      "name": "Item Has Opinions!",
+      "group": "combat",
+      "hint": "Equip it. Let it answer.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
     },
     {
       "name": "Jack of All Trades!",
@@ -1187,7 +1230,7 @@
       "group": "combat",
       "hint": "Kill Lady Glacé in a fight. Spread her thin.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1197,7 +1240,7 @@
       "group": "combat",
       "hint": "Kill the Great White Krakaren in a fight. You're going to need a bigger set.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1207,7 +1250,7 @@
       "group": "combat",
       "hint": "Kill Sir Wobble in a fight. Stop the wobble.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1217,7 +1260,7 @@
       "group": "showbiz",
       "hint": "Finish what she started. Try not to be in the next call sheet.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1257,7 +1300,7 @@
       "group": "dungeon",
       "hint": "She'd like to look like herself afterwards.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1290,7 +1333,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the knife. Mise en place.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1300,7 +1343,7 @@
       "group": "stunts",
       "hint": "Now wear the light armour into a fight and take a hit in it.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1310,7 +1353,7 @@
       "group": "showbiz",
       "hint": "Score 65+ in one service. Guaranteed: teleport. Your kitchen chooses the participating claimant.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1320,7 +1363,7 @@
       "group": "stunts",
       "hint": "Somebody has to stand in the cage.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1330,7 +1373,7 @@
       "group": "stunts",
       "hint": "Fresh is best. Freshest is still kicking.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1340,7 +1383,7 @@
       "group": "dungeon",
       "hint": "Two's a crowd. Let one of them win.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1360,7 +1403,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the axe. Timber.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1393,7 +1436,7 @@
       "group": "dungeon",
       "hint": "Hold on to your lunch. If you can't, run.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1416,7 +1459,7 @@
       "group": "combat",
       "hint": "Three trophies for the wall. Different heads, please.",
       "loot": "Gold Loot Box ×2",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1439,7 +1482,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the pick. Dig deep.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1449,7 +1492,7 @@
       "group": "combat",
       "hint": "Now kill three things with the nail gun, or land a natural 20 with it.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1495,7 +1538,7 @@
       "group": "dungeon",
       "hint": "Some of the locals are edible. Some of the visitors are too.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1505,7 +1548,7 @@
       "group": "showbiz",
       "hint": "Get to the Stadium without making one enemy. The AI will be your enemy instead.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1515,7 +1558,7 @@
       "group": "dungeon",
       "hint": "Never eat the finale. Ask who it's for.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1525,7 +1568,7 @@
       "group": "stunts",
       "hint": "Stand in front of something harder than you. Then don't.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1535,6 +1578,16 @@
       "group": "dungeon",
       "hint": "Nobody sells it. Somebody knows how.",
       "loot": "Gold Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Outbreak!",
+      "group": "evening",
+      "hint": "The symptom is not yours. That is the point.",
+      "loot": "Bronze Loot Box",
       "nightly": true,
       "earned_by": [],
       "touched": false,
@@ -1578,7 +1631,7 @@
       "group": "showbiz",
       "hint": "A ruined round is not a ruined service.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1611,7 +1664,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with it. Hit it like it owes you rent.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1621,7 +1674,7 @@
       "group": "showbiz",
       "hint": "Intimidate Madame Sabatier. Every showman has a bigger showman she's scared of.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1631,8 +1684,10 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the blade. Up close and personal.",
       "loot": "",
-      "nightly": true,
-      "earned_by": [],
+      "nightly": false,
+      "earned_by": [
+        "Nick"
+      ],
       "touched": true,
       "progress_by_pc": {}
     },
@@ -1641,7 +1696,7 @@
       "group": "combat",
       "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1651,10 +1706,33 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the stick. Two minutes for roughing.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
+    },
+    {
+      "name": "Practical Vocabulary!",
+      "group": "evening",
+      "hint": "Set it up, trigger it, and try another word.",
+      "loot": "Silver Loot Box",
+      "nightly": true,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Nick": [
+          0,
+          3
+        ],
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Prop Department!",
@@ -1684,7 +1762,7 @@
       "group": "stunts",
       "hint": "Seasonal. Explosive. Pick it at the right moment.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1717,7 +1795,7 @@
       "group": "combat",
       "hint": "Now strangle something in a fight with the garrote. Nobody hears a thing.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1750,17 +1828,40 @@
       "group": "stunts",
       "hint": "They have handles if you're brave. They don't.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
+    },
+    {
+      "name": "Repeat Dosage!",
+      "group": "evening",
+      "hint": "Once was a warning. Five is a segment.",
+      "loot": "Silver Loot Box",
+      "nightly": true,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Nick": [
+          0,
+          5
+        ],
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Robin Hood!",
       "group": "combat",
       "hint": "Now kill three things with the bow, or two in one fight.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1783,7 +1884,7 @@
       "group": "stunts",
       "hint": "Freshest cut is the one taken over the tank.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1793,7 +1894,7 @@
       "group": "showbiz",
       "hint": "Every move needs a name. Shout it.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1813,7 +1914,7 @@
       "group": "stunts",
       "hint": "Now take three hits in one fight wearing the improvised armour. It holds. Mostly.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1836,7 +1937,7 @@
       "group": "showbiz",
       "hint": "When nobody washes up, somebody still has to.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1879,7 +1980,7 @@
       "group": "stunts",
       "hint": "Now carry the shield into a fight and take a hit behind it.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -1919,7 +2020,7 @@
       "group": "dungeon",
       "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
       "loot": "Silver Loot Box, Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1969,7 +2070,7 @@
       "group": "showbiz",
       "hint": "Ask nicely. Then ask someone else nicely.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -1992,7 +2093,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the spear. Pointy end towards the dinner.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2002,7 +2103,7 @@
       "group": "combat",
       "hint": "Patience is an ingredient.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2012,7 +2113,7 @@
       "group": "dungeon",
       "hint": "Some bosses just need some fresh air.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2057,7 +2158,7 @@
       "group": "combat",
       "hint": "Kill the Old Cured Hide in a fight. The vents are a suggestion. A good one.",
       "loot": "Gold Loot Box, Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2067,7 +2168,7 @@
       "group": "combat",
       "hint": "Vent, jerky, the big ham, down. In that order, all you.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2127,7 +2228,7 @@
       "group": "dungeon",
       "hint": "Craft something here. The monkey makes it look easy. It isn't.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2147,7 +2248,7 @@
       "group": "showbiz",
       "hint": "It's only one service. Act like it isn't.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2205,7 +2306,7 @@
       "group": "dungeon",
       "hint": "Somebody in the freezer is knocking. Politely.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2215,7 +2316,7 @@
       "group": "dungeon",
       "hint": "Every wall, every head on a plaque, every drunk chef has half a recipe.",
       "loot": "Gold Loot Box, Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2225,7 +2326,7 @@
       "group": "showbiz",
       "hint": "Lie to Chef Vell and get away with it. He has tasted every lie in the kitchen. Not yours.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2235,7 +2336,7 @@
       "group": "showbiz",
       "hint": "Every set has an audience. Some of them aren't finished yet.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2245,7 +2346,7 @@
       "group": "dungeon",
       "hint": "The show can't go on without its judge. Probably.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2301,7 +2402,7 @@
       "group": "showbiz",
       "hint": "Presenter touches snout. Music swells.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2321,7 +2422,7 @@
       "group": "dungeon",
       "hint": "Take only the part that tasted.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2356,7 +2457,7 @@
       "group": "showbiz",
       "hint": "You seem unusually well prepared for this surprise.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2366,7 +2467,7 @@
       "group": "showbiz",
       "hint": "Beat the house. Then beat it again, higher. Then once more.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2389,7 +2490,7 @@
       "group": "dungeon",
       "hint": "The one in the wreck will not cross alone, and she will not come home empty-handed.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2434,7 +2535,7 @@
       "group": "showbiz",
       "hint": "Follow the pipe before the gong.",
       "loot": "Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2444,7 +2545,7 @@
       "group": "showbiz",
       "hint": "Score 55+ in one service. Guaranteed: Encore Bell. Your kitchen chooses the participating claimant.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2454,7 +2555,7 @@
       "group": "combat",
       "hint": "The cave, the sow, the heart, home. In that order, all you.",
       "loot": "Gold Loot Box ×2",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2518,6 +2619,16 @@
       }
     },
     {
+      "name": "Took It on the Ward!",
+      "group": "combat",
+      "hint": "The hit happened. The hurt did not.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Tough Crowd!",
       "group": "evening",
       "hint": "Everyone in the building has had a go.",
@@ -2568,7 +2679,7 @@
       "group": "showbiz",
       "hint": "Locker, token, vault, the Breadwinner, home. All you, in order.",
       "loot": "Silver Loot Box, Gold Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2646,7 +2757,7 @@
       "group": "stunts",
       "hint": "Now take three hits in one fight in the heavy armour, or survive one at 1 HP.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2669,7 +2780,7 @@
       "group": "showbiz",
       "hint": "Some dishes are too good to stay dressed for.",
       "loot": "Silver Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2725,12 +2836,12 @@
       "group": "shame",
       "hint": "You miss every shot you don't declare. Also most of the ones you do.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          3,
           5
         ],
         "Lety": [
@@ -2738,7 +2849,7 @@
           5
         ],
         "Edwardo": [
-          0,
+          3,
           5
         ]
       }
@@ -2748,7 +2859,7 @@
       "group": "showbiz",
       "hint": "Score 15+ in one service. Guaranteed: cooking. Your kitchen chooses the participating claimant.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2758,7 +2869,7 @@
       "group": "combat",
       "hint": "Now kill something in a fight with the BB gun. Yes, really.",
       "loot": "",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2768,7 +2879,7 @@
       "group": "dungeon",
       "hint": "Again. Show your work.",
       "loot": "Bronze Loot Box",
-      "nightly": true,
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}

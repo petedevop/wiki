@@ -10,7 +10,7 @@
           "kind": "spell"
         }
       ],
-      "hp": 0,
+      "hp": 1,
       "hp_max": 1,
       "temp_hp": 0,
       "ac": 10,
@@ -41,14 +41,12 @@
           "modifier": 1
         }
       ],
-      "statuses": [
-        "Poisoned"
-      ],
+      "statuses": [],
       "tank": false,
       "ai_favour": false,
       "favour_score": 0,
       "load": "Nick",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">🖐 Survey stake</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Bag of Shiny Things</span></li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 Hanky of Offensive Odor Immunity</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Spade</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">🖐 Survey stake</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Bag of Shiny Things</span></li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Spade</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n</ul>\n</div>",
       "ancestry": "Human",
       "class_name": "Overcompensating Mechanic",
       "level": 1,
@@ -70,7 +68,7 @@
           "kind": "spell"
         }
       ],
-      "hp": 0,
+      "hp": 1,
       "hp_max": 1,
       "temp_hp": 0,
       "ac": 10,
@@ -106,7 +104,7 @@
       "ai_favour": false,
       "favour_score": 0,
       "load": "Lety",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">🖐 <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Green Room Mop</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Monkey Wine</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Wild Yams</span></li>\n<li class=\"party-gear-row\">🎒 A pair of 3D glasses</li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Dead smartphone</li>\n<li class=\"party-gear-row\">🎒 Falsetto Codpiece</li>\n<li class=\"party-gear-row\">🎒 Meth</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n<li class=\"party-gear-row\">🎒 Steak knife</li>\n<li class=\"party-gear-row\">🎒 Tire iron</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">🖐 <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Green Room Mop</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Monkey Wine</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Wild Yams</span></li>\n<li class=\"party-gear-row\">🎒 A pair of 3D glasses</li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Dead smartphone</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Falsetto Codpiece</span></li>\n<li class=\"party-gear-row\">🎒 Meth</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n<li class=\"party-gear-row\">🎒 Steak knife</li>\n<li class=\"party-gear-row\">🎒 Tire iron</li>\n</ul>\n</div>",
       "ancestry": "Human",
       "class_name": "Tsukumogami Smith",
       "level": 1,

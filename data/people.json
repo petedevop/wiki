@@ -7,7 +7,7 @@
       "preview": "Auntie Tamarind *Mandrill. Runs the market. · market · Floor 2* An old grey-bearded mandrill in a string of pearls and a silk dressing gown, sitting on a bamboo platform high in t…",
       "group": "floortwo",
       "group_label": "Floor 2",
-      "type": "Beast",
+      "type": "Anthro",
       "owners": [],
       "body_md": "# Auntie Tamarind\n\n*Mandrill. Runs the market. · market · Floor 2*\n\nAn old grey-bearded mandrill in a string of pearls and a silk dressing gown, sitting on a bamboo platform high in the jungle canopy, a jeweller's loupe in one eye, spears and turtle-shell shields stacked behind her.\n",
       "body_html": "<h2>Auntie Tamarind</h2>\n<p><em>Mandrill. Runs the market. · market · Floor 2</em></p>\n<p>An old grey-bearded mandrill in a string of pearls and a silk dressing gown, sitting on a bamboo platform high in the jungle canopy, a jeweller&#x27;s loupe in one eye, spears and turtle-shell shields stacked behind her.</p>"
@@ -19,7 +19,7 @@
       "preview": "Chef Barnaby Crumb *TV chef. The Apprentice. Warm. · kitchen · Floor 2* A soft, pink, smiling man in his fifties in spotless chef's whites and a tall paper hat, half-moon glasses…",
       "group": "floortwo",
       "group_label": "Floor 2",
-      "type": "Humanoid",
+      "type": "Crew",
       "owners": [],
       "body_md": "# Chef Barnaby Crumb\n\n*TV chef. The Apprentice. Warm. · kitchen · Floor 2*\n\nA soft, pink, smiling man in his fifties in spotless chef's whites and a tall paper hat, half-moon glasses on a chain, a wooden spoon in one hand, standing at a steel prep counter on a treetop platform with a whiteboard behind him reading CRAWLER COOKERY 101.\n",
       "body_html": "<h2>Chef Barnaby Crumb</h2>\n<p><em>TV chef. The Apprentice. Warm. · kitchen · Floor 2</em></p>\n<p>A soft, pink, smiling man in his fifties in spotless chef&#x27;s whites and a tall paper hat, half-moon glasses on a chain, a wooden spoon in one hand, standing at a steel prep counter on a treetop platform with a whiteboard behind him reading CRAWLER COOKERY 101.</p>"
@@ -43,7 +43,7 @@
       "preview": "Penny *Coin stall. Tamarind's youngest. · market · Floor 2* A small capuchin monkey in a bellhop's cap two sizes too big and a waistcoat sewn with bottle caps, biting a gold coin…",
       "group": "floortwo",
       "group_label": "Floor 2",
-      "type": "Beast",
+      "type": "Anthro",
       "owners": [],
       "body_md": "# Penny\n\n*Coin stall. Tamarind's youngest. · market · Floor 2*\n\nA small capuchin monkey in a bellhop's cap two sizes too big and a waistcoat sewn with bottle caps, biting a gold coin behind a bamboo counter of clubs, spears, slings and coiled vine rope, high in the jungle canopy.\n",
       "body_html": "<h2>Penny</h2>\n<p><em>Coin stall. Tamarind&#x27;s youngest. · market · Floor 2</em></p>\n<p>A small capuchin monkey in a bellhop&#x27;s cap two sizes too big and a waistcoat sewn with bottle caps, biting a gold coin behind a bamboo counter of clubs, spears, slings and coiled vine rope, high in the jungle canopy.</p>"
@@ -67,7 +67,7 @@
       "preview": "Rosa Quint *Crawler. Florist. Upside down. · crawlers · Floor 2* An adult florist in a green apron hanging upside down in strangler vines over a jungle sinkhole, hair hanging down…",
       "group": "floortwo",
       "group_label": "Floor 2",
-      "type": "Humanoid",
+      "type": "Crawler",
       "owners": [],
       "body_md": "# Rosa Quint\n\n*Crawler. Florist. Upside down. · crawlers · Floor 2*\n\nAn adult florist in a green apron hanging upside down in strangler vines over a jungle sinkhole, hair hanging down, arms folded, an empty secateurs holster on her belt.\n",
       "body_html": "<h2>Rosa Quint</h2>\n<p><em>Crawler. Florist. Upside down. · crawlers · Floor 2</em></p>\n<p>An adult florist in a green apron hanging upside down in strangler vines over a jungle sinkhole, hair hanging down, arms folded, an empty secateurs holster on her belt.</p>"
@@ -79,7 +79,7 @@
       "preview": "Tess *Runner. Hiding. · kitchen · Floor 2* A small young woman in a RUNNER lanyard and a filthy crew fleece, curled up in the tail of a crashed helicopter, clutching a dead walkie.",
       "group": "floortwo",
       "group_label": "Floor 2",
-      "type": "Humanoid",
+      "type": "Crew",
       "owners": [],
       "body_md": "# Tess\n\n*Runner. Hiding. · kitchen · Floor 2*\n\nA small young woman in a RUNNER lanyard and a filthy crew fleece, curled up in the tail of a crashed helicopter, clutching a dead walkie.\n",
       "body_html": "<h2>Tess</h2>\n<p><em>Runner. Hiding. · kitchen · Floor 2</em></p>\n<p>A small young woman in a RUNNER lanyard and a filthy crew fleece, curled up in the tail of a crashed helicopter, clutching a dead walkie.</p>"
@@ -112,13 +112,13 @@
       "id": "npc-the_pickpocket_troop",
       "title": "The Pickpocket Troop",
       "subtitle": "Floor 2",
-      "preview": "The Pickpocket Troop *Market monkeys. Thieves. · Floor 2* A dozen capuchin monkeys in tiny waistcoats, some drunk, swinging between rope bridges high in the jungle canopy, one run…",
+      "preview": "The Pickpocket Troop *Market monkeys. Thieves. · market · Floor 2* A dozen capuchin monkeys in tiny waistcoats, some drunk, swinging between rope bridges high in the jungle canopy…",
       "group": "floortwo",
       "group_label": "Floor 2",
       "type": "Swarm",
       "owners": [],
-      "body_md": "# The Pickpocket Troop\n\n*Market monkeys. Thieves. · Floor 2*\n\nA dozen capuchin monkeys in tiny waistcoats, some drunk, swinging between rope bridges high in the jungle canopy, one running off with a raw steak, the others watching your pockets.\n",
-      "body_html": "<h2>The Pickpocket Troop</h2>\n<p><em>Market monkeys. Thieves. · Floor 2</em></p>\n<p>A dozen capuchin monkeys in tiny waistcoats, some drunk, swinging between rope bridges high in the jungle canopy, one running off with a raw steak, the others watching your pockets.</p>"
+      "body_md": "# The Pickpocket Troop\n\n*Market monkeys. Thieves. · market · Floor 2*\n\nA dozen capuchin monkeys in tiny waistcoats, some drunk, swinging between rope bridges high in the jungle canopy, one running off with a raw steak, the others watching your pockets.\n",
+      "body_html": "<h2>The Pickpocket Troop</h2>\n<p><em>Market monkeys. Thieves. · market · Floor 2</em></p>\n<p>A dozen capuchin monkeys in tiny waistcoats, some drunk, swinging between rope bridges high in the jungle canopy, one running off with a raw steak, the others watching your pockets.</p>"
     }
   ]
 }

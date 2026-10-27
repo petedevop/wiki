@@ -51,6 +51,11 @@
       "discovered": true
     },
     {
+      "name": "Ade Okonkwo",
+      "role": "Said yes. Sleeves pinned.",
+      "discovered": false
+    },
+    {
       "name": "Biscuit Bill",
       "role": "Volunteer. Regretting it.",
       "discovered": false
@@ -66,6 +71,11 @@
       "discovered": false
     },
     {
+      "name": "Camille Cho",
+      "role": "Holds the ring light.",
+      "discovered": false
+    },
+    {
       "name": "Chanterelle",
       "role": "Mushroom sommelier.",
       "discovered": false
@@ -78,6 +88,11 @@
     {
       "name": "Chef Ignatius Vell",
       "role": "Head judge. The Master. Cold.",
+      "discovered": false
+    },
+    {
+      "name": "Cinder",
+      "role": "Rottweiler. Holds.",
       "discovered": false
     },
     {
@@ -133,6 +148,11 @@
     {
       "name": "Hekla",
       "role": "Crawler. Shield. Short count.",
+      "discovered": false
+    },
+    {
+      "name": "Jonah Hale",
+      "role": "Collared. On her word.",
       "discovered": false
     },
     {
@@ -211,6 +231,11 @@
       "discovered": false
     },
     {
+      "name": "Pilar Reyes",
+      "role": "Fills the gap for Jun.",
+      "discovered": false
+    },
+    {
       "name": "Pip",
       "role": "Runner. Terrified.",
       "discovered": false
@@ -236,6 +261,11 @@
       "discovered": false
     },
     {
+      "name": "Ren Ibarra",
+      "role": "Paid. Crossbow on the exit.",
+      "discovered": false
+    },
+    {
       "name": "Saffron Wilde",
       "role": "The Showrunner. The Rebel.",
       "discovered": false
@@ -246,8 +276,18 @@
       "discovered": false
     },
     {
+      "name": "Sigrun",
+      "role": "Last of the count.",
+      "discovered": false
+    },
+    {
       "name": "Sir Wobble, the Butterscotch Golem",
       "role": "A towering amber wobble.",
+      "discovered": false
+    },
+    {
+      "name": "Soot",
+      "role": "Rottweiler. On the exit.",
       "discovered": false
     },
     {

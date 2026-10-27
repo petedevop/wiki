@@ -11,10 +11,10 @@
       "name": "Lucia Mar",
       "level": 32,
       "kills": 912,
-      "board_bounty": 5000,
-      "blurb": "Commands with her two rottweilers.",
+      "board_bounty": 600,
+      "blurb": "Two rottweilers. They sit until she points.",
       "role": "Crawler. Two rottweilers.",
-      "voice": "She talks to the dogs. \"Heel\" is for them. \"Sit\" might be for you.",
+      "voice": "She talks to the dogs. \"Cinder, sit. Soot — that one.\"",
       "floor_gp": 100,
       "quest": "The board posts 5,000 on Lucia Mar. This floor pays 100 gp for her, dead, or for both dogs down and her walking into a pen.",
       "stats": {
@@ -26,8 +26,8 @@
         "ac": 16,
         "hp": 24,
         "hd": 6,
-        "attacks": "rottweiler (×2) +6, 1d8",
-        "specials": "Sit"
+        "attacks": "machete +6, 1d6",
+        "specials": "Point; Worse"
       }
     },
     {
@@ -35,10 +35,10 @@
       "name": "Hekla",
       "level": 31,
       "kills": 870,
-      "board_bounty": 4500,
-      "blurb": "Cold-eyed and relentlessly prepared.",
+      "board_bounty": 575,
+      "blurb": "Shield up. One of hers is still in the door.",
       "role": "Crawler. Shield. Short count.",
-      "voice": "Quiet Icelandic English. She counts under her breath and never raises it.",
+      "voice": "Quiet. \"Sigrun, the door. I still have the shield.\"",
       "floor_gp": 90,
       "quest": "The board posts 4,500 on Hekla. This floor pays 90 gp if she dies here, or if she leaves the floor in a pen.",
       "stats": {
@@ -51,7 +51,7 @@
         "hp": 28,
         "hd": 6,
         "attacks": "spear +6, 1d8",
-        "specials": "Shield step"
+        "specials": "Shield step; Plant"
       }
     },
     {
@@ -59,10 +59,10 @@
       "name": "Prepotente",
       "level": 30,
       "kills": 844,
-      "board_bounty": 4000,
-      "blurb": "Brilliant goat with a terrible scream.",
+      "board_bounty": 550,
+      "blurb": "A goat who ruins the plan by saying it.",
       "role": "Crawler. Goat. Too loud.",
-      "voice": "A goat who screams the answer before you finish the question. Brilliant. Unbearable.",
+      "voice": "He answers before you finish. \"Wrong. The bridge isn't rotten. I checked.\"",
       "floor_gp": 80,
       "quest": "The board posts 4,000 on Prepotente. This floor pays 80 gp for the goat, dead or penned. He is a crawler. He will tell you so.",
       "stats": {
@@ -75,7 +75,7 @@
         "hp": 18,
         "hd": 5,
         "attacks": "headbutt +5, 1d6",
-        "specials": "The scream"
+        "specials": "The answer; The scream"
       }
     },
     {
@@ -83,10 +83,10 @@
       "name": "Florin",
       "level": 29,
       "kills": 801,
-      "board_bounty": 3500,
-      "blurb": "Veteran crawler and steady tactician.",
+      "board_bounty": 525,
+      "blurb": "Offers a split. Someone else holds the exit.",
       "role": "Crawler. Old, still counting.",
-      "voice": "Barracks calm. He narrates the fight like he has already written it down.",
+      "voice": "Barracks calm. \"Ren has the exit. I have you. Rush me.\"",
       "floor_gp": 70,
       "quest": "The board posts 3,500 on Florin. This floor pays 70 gp when he stops being a problem. He will offer you a worse problem first.",
       "stats": {
@@ -99,7 +99,7 @@
         "hp": 22,
         "hd": 5,
         "attacks": "sword +6, 1d8",
-        "specials": "Already written"
+        "specials": "Read it back; Already written"
       }
     },
     {
@@ -107,10 +107,10 @@
       "name": "Quan Ch",
       "level": 28,
       "kills": 775,
-      "board_bounty": 3000,
-      "blurb": "Precise fighter with immaculate timing.",
+      "board_bounty": 500,
+      "blurb": "Three taps. One hit. Then he leaves.",
       "role": "Crawler. One clean hit.",
-      "voice": "Almost nothing. A count of three, then he moves.",
+      "voice": "Three taps on the knife. Then, barely: \"Ba.\"",
       "floor_gp": 60,
       "quest": "The board posts 3,000 on Quan Ch. This floor pays 60 gp for him. He counts to three. You will hear it.",
       "stats": {
@@ -123,7 +123,7 @@
         "hp": 16,
         "hd": 5,
         "attacks": "knife +7, 1d8",
-        "specials": "On three"
+        "specials": "On three; Messy"
       }
     },
     {
@@ -131,10 +131,10 @@
       "name": "Miss Quill",
       "level": 28,
       "kills": 749,
-      "board_bounty": 2750,
-      "blurb": "Razor wit and sharper battlefield instincts.",
+      "board_bounty": 475,
+      "blurb": "Asks for a yes. The quills are the lesson.",
       "role": "Crawler. Asks, then quills.",
-      "voice": "Teacher voice. She asks permission like it's a pop quiz, and waits for the answer.",
+      "voice": "Teacher voice. \"Pick a word. Ade already picked his.\"",
       "floor_gp": 55,
       "quest": "The board posts 2,750 on Miss Quill. This floor pays 55 gp. She will ask you something first. Answer, or don't.",
       "stats": {
@@ -147,7 +147,7 @@
         "hp": 16,
         "hd": 4,
         "attacks": "quills +6, 1d6",
-        "specials": "Hold still"
+        "specials": "Pop quiz; Hold still"
       }
     },
     {
@@ -155,10 +155,10 @@
       "name": "Gwendolyn Duet",
       "level": 27,
       "kills": 720,
-      "board_bounty": 2500,
-      "blurb": "Calm under pressure and hard to surprise.",
+      "board_bounty": 450,
+      "blurb": "The number needs the light. She needs the watch.",
       "role": "Crawler. Wants the watch.",
-      "voice": "Pageant mic. She smiles at the camera first and at you second, if it is still on.",
+      "voice": "Into the light first. \"You're the audience. Camille, don't blink.\"",
       "floor_gp": 50,
       "quest": "The board posts 2,500 on Gwendolyn Duet. This floor pays 50 gp. She is already performing. Decide if you are the audience.",
       "stats": {
@@ -171,7 +171,7 @@
         "hp": 16,
         "hd": 4,
         "attacks": "heel +5, 1d6",
-        "specials": "Look at me"
+        "specials": "Look at me; Off-script"
       }
     },
     {
@@ -179,10 +179,10 @@
       "name": "Signet",
       "level": 27,
       "kills": 694,
-      "board_bounty": 2250,
-      "blurb": "A dangerous presence with royal poise.",
+      "board_bounty": 425,
+      "blurb": "Offers a kneel. The knife is the other deal.",
       "role": "Crawler. Asks for a kneel.",
-      "voice": "Royal, and tired of it. She says \"kneel\" the way a host offers a chair.",
+      "voice": "She offers it like a chair. \"Kneel, or don't. Jonah — not yet.\"",
       "floor_gp": 45,
       "quest": "The board posts 2,250 on Signet. This floor pays 45 gp. She may offer a different contract. Hear it before you swing.",
       "stats": {
@@ -195,7 +195,7 @@
         "hp": 16,
         "hd": 4,
         "attacks": "knife +6, 1d6",
-        "specials": "Blood price"
+        "specials": "Offer; Blood price"
       }
     },
     {
@@ -203,10 +203,10 @@
       "name": "Li Jun",
       "level": 26,
       "kills": 660,
-      "board_bounty": 2000,
-      "blurb": "Fast hands and disciplined judgment.",
+      "board_bounty": 400,
+      "blurb": "Already moving. Someone is filling the gap.",
       "role": "Crawler. Fast, and angry.",
-      "voice": "Fast talk, faster hands. He names his sister once and then doesn't again.",
+      "voice": "Already moving. \"Pilar, the gap. I'm not stopping.\"",
       "floor_gp": 40,
       "quest": "The board posts 2,000 on Li Jun. This floor pays 40 gp. He is looking for Li Na. She is not on this floor.",
       "stats": {
@@ -219,7 +219,7 @@
         "hp": 16,
         "hd": 4,
         "attacks": "knives (×2) +7, 1d6",
-        "specials": "Already past"
+        "specials": "Already past; The gap"
       }
     },
     {
@@ -227,10 +227,10 @@
       "name": "Li Na",
       "level": 26,
       "kills": 641,
-      "board_bounty": 1800,
-      "blurb": "Graceful movement hiding brutal force.",
+      "board_bounty": 375,
+      "blurb": "She waits. The late hit is the one that matters.",
       "role": "Crawler. Quiet, then not.",
-      "voice": "Soft until she isn't. She finishes his sentences and then the fight.",
+      "voice": "Soft. \"Go on. I'll wait.\"",
       "floor_gp": 35,
       "quest": "The board posts 1,800 on Li Na. This floor pays 35 gp. She is looking for Li Jun. He is not on this floor.",
       "stats": {
@@ -243,7 +243,7 @@
         "hp": 20,
         "hd": 5,
         "attacks": "palm +6, 1d8",
-        "specials": "The late hit"
+        "specials": "The late hit; You first"
       }
     }
   ]

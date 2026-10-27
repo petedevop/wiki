@@ -11,8 +11,8 @@
       "name": "Lucia Mar",
       "level": 32,
       "kills": 912,
-      "bounty": 5000,
-      "blurb": "Commands with her two rottweilers.",
+      "bounty": 600,
+      "blurb": "Two rottweilers. They sit until she points.",
       "on_floor": true
     },
     {
@@ -20,8 +20,8 @@
       "name": "Hekla",
       "level": 31,
       "kills": 870,
-      "bounty": 4500,
-      "blurb": "Cold-eyed and relentlessly prepared.",
+      "bounty": 575,
+      "blurb": "Shield up. One of hers is still in the door.",
       "on_floor": true
     },
     {
@@ -29,8 +29,8 @@
       "name": "Prepotente",
       "level": 30,
       "kills": 844,
-      "bounty": 4000,
-      "blurb": "Brilliant goat with a terrible scream.",
+      "bounty": 550,
+      "blurb": "A goat who ruins the plan by saying it.",
       "on_floor": true
     },
     {
@@ -38,8 +38,8 @@
       "name": "Florin",
       "level": 29,
       "kills": 801,
-      "bounty": 3500,
-      "blurb": "Veteran crawler and steady tactician.",
+      "bounty": 525,
+      "blurb": "Offers a split. Someone else holds the exit.",
       "on_floor": true
     },
     {
@@ -47,8 +47,8 @@
       "name": "Quan Ch",
       "level": 28,
       "kills": 775,
-      "bounty": 3000,
-      "blurb": "Precise fighter with immaculate timing.",
+      "bounty": 500,
+      "blurb": "Three taps. One hit. Then he leaves.",
       "on_floor": true
     },
     {
@@ -56,8 +56,8 @@
       "name": "Miss Quill",
       "level": 28,
       "kills": 749,
-      "bounty": 2750,
-      "blurb": "Razor wit and sharper battlefield instincts.",
+      "bounty": 475,
+      "blurb": "Asks for a yes. The quills are the lesson.",
       "on_floor": true
     },
     {
@@ -65,8 +65,8 @@
       "name": "Gwendolyn Duet",
       "level": 27,
       "kills": 720,
-      "bounty": 2500,
-      "blurb": "Calm under pressure and hard to surprise.",
+      "bounty": 450,
+      "blurb": "The number needs the light. She needs the watch.",
       "on_floor": true
     },
     {
@@ -74,8 +74,8 @@
       "name": "Signet",
       "level": 27,
       "kills": 694,
-      "bounty": 2250,
-      "blurb": "A dangerous presence with royal poise.",
+      "bounty": 425,
+      "blurb": "Offers a kneel. The knife is the other deal.",
       "on_floor": true
     },
     {
@@ -83,8 +83,8 @@
       "name": "Li Jun",
       "level": 26,
       "kills": 660,
-      "bounty": 2000,
-      "blurb": "Fast hands and disciplined judgment.",
+      "bounty": 400,
+      "blurb": "Already moving. Someone is filling the gap.",
       "on_floor": true
     },
     {
@@ -92,8 +92,8 @@
       "name": "Li Na",
       "level": 26,
       "kills": 641,
-      "bounty": 1800,
-      "blurb": "Graceful movement hiding brutal force.",
+      "bounty": 375,
+      "blurb": "She waits. The late hit is the one that matters.",
       "on_floor": true
     },
     {
@@ -101,7 +101,7 @@
       "name": "Elle McGibbons",
       "level": 25,
       "kills": 612,
-      "bounty": 1600,
+      "bounty": 350,
       "blurb": "Crowd favorite who never wastes a moment.",
       "on_floor": false
     },
@@ -110,7 +110,7 @@
       "name": "Daniel Bautista",
       "level": 25,
       "kills": 590,
-      "bounty": 1500,
+      "bounty": 325,
       "blurb": "Dependable and frighteningly efficient.",
       "on_floor": false
     },
@@ -119,7 +119,7 @@
       "name": "Frank Q",
       "level": 24,
       "kills": 566,
-      "bounty": 1400,
+      "bounty": 300,
       "blurb": "Shooter with a calm voice.",
       "on_floor": false
     },
@@ -128,7 +128,7 @@
       "name": "Maggie My",
       "level": 24,
       "kills": 541,
-      "bounty": 1300,
+      "bounty": 275,
       "blurb": "Talker who can survive the answer.",
       "on_floor": false
     },
@@ -137,7 +137,7 @@
       "name": "Katia Grim",
       "level": 23,
       "kills": 518,
-      "bounty": 1200,
+      "bounty": 250,
       "blurb": "Adaptable crawler with iron resolve.",
       "on_floor": false
     },
@@ -146,7 +146,7 @@
       "name": "Rosa \"Chainsaw\" Delgado",
       "level": 22,
       "kills": 489,
-      "bounty": 1100,
+      "bounty": 225,
       "blurb": "Never met a barricade she respected.",
       "on_floor": false
     },
@@ -155,7 +155,7 @@
       "name": "Big Tom Okafor",
       "level": 22,
       "kills": 466,
-      "bounty": 1000,
+      "bounty": 200,
       "blurb": "Gentle voice and wrecking-ball shoulders.",
       "on_floor": false
     },
@@ -164,7 +164,7 @@
       "name": "Dmitri Volkov",
       "level": 21,
       "kills": 443,
-      "bounty": 900,
+      "bounty": 175,
       "blurb": "Patient hunter with an accountant's memory.",
       "on_floor": false
     },
@@ -173,7 +173,7 @@
       "name": "Sister Agnes Mbeki",
       "level": 21,
       "kills": 421,
-      "bounty": 800,
+      "bounty": 150,
       "blurb": "Merciful until mercy stops working.",
       "on_floor": false
     },
@@ -182,7 +182,7 @@
       "name": "Kenji \"Two-Tap\" Mori",
       "level": 20,
       "kills": 398,
-      "bounty": 700,
+      "bounty": 150,
       "blurb": "Every motion measured twice.",
       "on_floor": false
     }

@@ -139,26 +139,8 @@
       "zone_label": "Floor 2"
     },
     {
-      "num": 323,
-      "title": "Fern Cut",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
-    },
-    {
-      "num": 324,
-      "title": "Quiet Bank",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
-    },
-    {
       "num": 325,
       "title": "Candy Mile",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
-    },
-    {
-      "num": 326,
-      "title": "Icing Gate",
       "zone_key": "floortwo",
       "zone_label": "Floor 2"
     },
