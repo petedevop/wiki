@@ -9,21 +9,17 @@ const NAV_ITEMS = [
   { key: "items", label: "Gear" },
   { key: "obstacles", label: "Obstacles" },
   { key: "bounties", label: "Bounties" },
-  { key: "board", label: "Board" },
   { key: "wall", label: "Wall" },
   { key: "quests", label: "Quests" },
-  { key: "rivals", label: "Rivals" },
-  { key: "tonight", label: "Tonight" },
   { key: "sponsors", label: "Sponsors" },
   { key: "achievements", label: "Achievements" },
-  { key: "sessions", label: "Sessions" },
 ];
 
 const NAV_GROUPS = [
   { label: "Crew", keys: ["party", "people"] },
   { label: "Dungeon", keys: ["map", "rooms", "obstacles", "items"] },
-  { label: "Show", keys: ["bounties", "board", "sponsors", "wall", "achievements", "rivals", "tonight", "quests"] },
-  { label: "Reference", keys: ["rules", "sessions"] },
+  { label: "Show", keys: ["bounties", "sponsors", "wall", "achievements", "quests"] },
+  { label: "Reference", keys: ["rules"] },
 ];
 
 const SEARCH_SKIP_SECTIONS = new Set(["map"]);
@@ -1009,11 +1005,8 @@ async function renderSection() {
     if (key === "rules") await renderRules(main);
     else if (key === "map") await renderMap(main);
     else if (key === "bounties") await renderBounties(main);
-    else if (key === "board") await renderBoard(main);
     else if (key === "wall") await renderWall(main);
     else if (key === "quests") await renderQuests(main);
-    else if (key === "rivals") await renderRivals(main);
-    else if (key === "tonight") await renderTonight(main);
     else if (key === "sponsors") await renderSponsors(main);
     else if (key === "achievements") await renderAchievements(main);
     else if (key === "party") await renderParty(main);
@@ -1021,9 +1014,6 @@ async function renderSection() {
     else if (key === "obstacles") await renderObstacles(main);
     else if (key === "people") await renderPeople(main);
     else if (key === "items") await renderGear(main);
-    else if (key === "sessions") {
-      await renderSimpleSection(main, "sessions", "Sessions", "Player recaps from past nights.");
-    }
   } catch (err) {
     main.appendChild(
       el("p", "empty-state", `Could not load this section (${err.message}).`),
