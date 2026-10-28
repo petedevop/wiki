@@ -2,47 +2,57 @@
 
 The **player UI** is the site you open on your phone during session (usually port **8767** over Tailscale). Voice chat is for talking only — rolls, combat, inventory, and room text all happen here.
 
-This walkthrough uses the same mobile layout the table’s demo tour exercises. Screenshots refresh when Pete runs `make wiki-guide` on the game machine.
+This walkthrough matches the current layout: **bottom nav** (Explore · Info · Me · Settings) and **Info** fold-outs. Screenshots refresh when Pete runs `make wiki-guide` on the game machine.
 
-## Log in and land on Explore
+## Log in and Explore
 
-You pick your crawler at login. The main screen shows **who you are**, **HP**, and the **room reader** — the prose for where the party is standing right now. That text only updates when the DM moves the party or pushes a room; it is not a free-roam map you can wander alone.
+You pick your crawler at login. **Explore** is the default tab: sticky header (name, HP, pack, luck, tank, status) and the **Floor Feed** — shelved pins for characters, people, obstacles, and items in your room.
 
-IMG|assets/guide/01-explore.png|Explore — name, HP, and current room text
+IMG|assets/guide/01-explore.png|Explore — header and Floor Feed
 
-Along the top you get quick actions: **Try something**, your **pack**, **Archive**, and **Party**. The strip under the header is your stat row — tap a stat when the table asks for a check.
+Tap the **🎲** beside your name for the ability grid when the table calls for a check.
 
 IMG|assets/guide/02-abilities.png|Ability strip — tap to roll when the DM calls for it
 
-## Try something
+Room prose opens from the reader (**⌄ Read** on long cards). The **🗺** chip opens the zone map for rooms you have visited.
 
-**Try something** is an optional open roll when the scene allows it. Pick what you are doing, roll, and the result goes to the DM feed. It does not replace attack or cast on your combat turn.
+## Info tab (fold-outs)
 
-IMG|assets/guide/03-try-something.png|Try something sheet
+Tap **Info** (book icon) in the bottom nav. Folds stay shut until you open them; which folds are open is remembered on your device.
+
+| Fold | What it is |
+|------|------------|
+| **Quests** | Active quests, leads, and earned achievements (hints only — payouts are automatic) |
+| **Activity** | Tonight's log rows (expand inline) |
+| **Shop** | Sponsor booth when the table has one |
+| **Archive** | Per-crawler discoveries — rooms, NPCs, items, obstacles (undiscovered entries are not listed) |
+| **Sponsors / Bounty hunters** | Floor board rows; cook-off sandbox opens from the Stadium foot when you are there |
+
+IMG|assets/guide/05-archive.png|Archive inside Info
+
+**Floor map** also lives under Info (or the explore **🗺** chip) — zone diagram with room numbers that match the table.
+
+IMG|assets/guide/06-floor-map.png|Floor map
+
+## Me and Settings
+
+**Me** is your sheet: inventory grid, spells, class abilities, skills, achievements list, and profile edits.
+
+**Settings** (⚙) holds theme, text size, motion, contrast, alert level, warning pop-ups, and **Log out**.
 
 ## Pack and inventory
 
-The **pack** chip opens your gear: what you are carrying, what is worn, and (when the DM allows) use / give / equip flows. You cannot edit your sheet from the phone — HP changes and loot come from play at the table.
+The **pack** line in the header opens gear: equipped rig, pack list, give/drop when the rules allow. You cannot edit core sheet stats from the phone — HP and loot come from play.
 
 IMG|assets/guide/04-inventory.png|Inventory sheet
 
-## Archive
+## Moving: solo exits vs party votes
 
-**Archive** is tonight’s reference: session notes, **Floor map**, and anything the party has **discovered** (rooms, people, gear). Undiscovered content simply is not listed — same rule as the public wiki’s discovered sections.
+**Solo travel:** tap an exit on the Floor Feed shelf (optional stealth/storm/investigate toggles). Only **your** crawler moves; room text and the map marker follow you, not the DM focus room.
 
-IMG|assets/guide/05-archive.png|Archive sections
+**Party votes:** rest, call it a night, retreat, surrender, and scout use the vote bar when someone proposes them — a majority of crawlers **present** carries the vote. Solo exit chips do **not** open the vote bar.
 
-Open **Floor map** for the zone diagram with room numbers that match the table.
-
-IMG|assets/guide/06-floor-map.png|Floor map in Archive
-
-Tap a discovered card (or a room under **This Episode**) to read the full player-safe write-up in place.
-
-## Party
-
-**Party** shows who is at the table, presence, and party votes (travel, rest, calling the night). Votes need a majority of crawlers who are present — the server enforces what you can tap.
-
-IMG|assets/guide/08-party.png|Party panel
+IMG|assets/guide/08-party.png|Party-related controls (votes when a proposal is open)
 
 ## Combat (quick reminder)
 

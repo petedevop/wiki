@@ -408,7 +408,7 @@
           "steps": [
             {
               "met": false,
-              "label": "Start at The Location (303)",
+              "label": "Start at The Film Set (303)",
               "bonus": false
             },
             {
@@ -949,9 +949,7 @@
           "hint": "Now kill something in a fight with the blade. Up close and personal.",
           "group": "combat",
           "progress": "",
-          "earned_by": [
-            "Nick"
-          ]
+          "earned_by": []
         },
         {
           "name": "Dig Your Own!",
@@ -1450,7 +1448,7 @@
           "steps": [
             {
               "met": false,
-              "label": "Start at The Location (303)",
+              "label": "Start at The Film Set (303)",
               "bonus": false
             },
             {
@@ -1984,15 +1982,6 @@
               "label": "",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "Pointy End First!",
-          "hint": "Now kill something in a fight with the blade. Up close and personal.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": [
-            "Nick"
           ]
         },
         {
@@ -2506,7 +2495,7 @@
           "steps": [
             {
               "met": false,
-              "label": "Start at The Location (303)",
+              "label": "Start at The Film Set (303)",
               "bonus": false
             },
             {
@@ -3040,15 +3029,6 @@
               "label": "",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "Pointy End First!",
-          "hint": "Now kill something in a fight with the blade. Up close and personal.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": [
-            "Nick"
           ]
         },
         {

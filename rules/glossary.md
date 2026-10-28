@@ -32,4 +32,4 @@ A once-per-roll token that counts as **advantage** on that check. You can hold a
 
 ## Peek / live
 
-**Peek** restores the world when the DM stops the app. **Live** is the real Tuesday table — do not expect the wiki snapshot to match mid-fight.
+**Peek** restores the world when the DM stops the app. **Live** play can diverge from the wiki snapshot at any time.

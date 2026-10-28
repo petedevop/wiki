@@ -1,208 +1,4449 @@
 {
   "rows": [
     {
+      "id": "item-grandma_loves_you_socks",
+      "title": "\"Grandma Loves You\" socks",
+      "subtitle": "Floor 2",
+      "blurb": "Tube socks. The slogan is embroidered.",
+      "image": "assets/img/item/grandma_loves_you_socks.webp"
+    },
+    {
+      "id": "item-make_this_last_forever_potion",
+      "title": "\"Make This Last Forever\" Potion",
+      "subtitle": "Floor 2",
+      "blurb": "A potion whose kick lasts the hour.",
+      "image": "assets/img/item/make_this_last_forever_potion.webp"
+    },
+    {
       "id": "item-10_gp",
       "title": "10 gp",
       "subtitle": "Floor 2",
-      "preview": "10 gp A sodden coin purse dropped in the river mud.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# 10 gp\n\nA sodden coin purse dropped in the river mud.\n",
-      "body_html": "<h2>10 gp</h2>\n<p>A sodden coin purse dropped in the river mud.</p>"
+      "blurb": "A sodden coin purse dropped in the river mud.",
+      "image": "assets/img/item/10_gp.webp"
+    },
+    {
+      "id": "item-10_unsharpened_2_pencils",
+      "title": "10 unsharpened #2 pencils",
+      "subtitle": "Floor 2",
+      "blurb": "Classroom yellow. You could sharpen one, or just throw the bundle.",
+      "image": "assets/img/item/10_unsharpened_2_pencils.webp"
+    },
+    {
+      "id": "item-15_gp",
+      "title": "15 gp",
+      "subtitle": "Floor 2",
+      "blurb": "A paper bag of coins under the pension bench.",
+      "image": "assets/img/item/15_gp.webp"
+    },
+    {
+      "id": "item-20_gp",
+      "title": "20 gp",
+      "subtitle": "Floor 2",
+      "blurb": "A runner's belt pouch, spilled beside the relay box.",
+      "image": "assets/img/item/20_gp.webp"
+    },
+    {
+      "id": "item-200_loose_keys",
+      "title": "200 loose keys",
+      "subtitle": "Floor 2",
+      "blurb": "None of them are labeled. They throw better than they open.",
+      "image": "assets/img/item/200_loose_keys.webp"
+    },
+    {
+      "id": "item-30_hemp_rope",
+      "title": "30' hemp rope",
+      "subtitle": "Floor 2",
+      "blurb": "Frayed climbing rope. One good grab left in it.",
+      "image": "assets/img/item/30_hemp_rope.webp"
+    },
+    {
+      "id": "item-500_monkeys",
+      "title": "500 Monkeys",
+      "subtitle": "Floor 2",
+      "blurb": "An old typewriter that spits out a page a day.",
+      "image": "assets/img/item/500_monkeys.webp"
+    },
+    {
+      "id": "item-a_you_can_do_it_sign",
+      "title": "A \"You Can Do It\" sign",
+      "subtitle": "Floor 2",
+      "blurb": "Office poster. The cat is still hanging from the branch.",
+      "image": "assets/img/item/a_you_can_do_it_sign.webp"
+    },
+    {
+      "id": "item-a_bag_of_bags",
+      "title": "A Bag of Bags",
+      "subtitle": "Floor 2",
+      "blurb": "Grocery sacks inside a grocery sack.",
+      "image": "assets/img/item/a_bag_of_bags.webp"
+    },
+    {
+      "id": "item-a_bag_of_rubber_bands",
+      "title": "A bag of rubber bands",
+      "subtitle": "Floor 2",
+      "blurb": "Mixed sizes, half of them already snapped.",
+      "image": "assets/img/item/a_bag_of_rubber_bands.webp"
     },
     {
       "id": "item-a_bag_of_shiny_things",
       "title": "A Bag of Shiny Things",
       "subtitle": "Floor 2",
-      "preview": "A Bag of Shiny Things A sock full of watches, rings, a set of car keys and one gold tooth.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [
-        "Nick"
-      ],
-      "body_md": "# A Bag of Shiny Things\n\nA sock full of watches, rings, a set of car keys and one gold tooth.\n",
-      "body_html": "<h2>A Bag of Shiny Things</h2>\n<p>A sock full of watches, rings, a set of car keys and one gold tooth.</p>"
+      "blurb": "A sock full of watches, rings, a set of car keys and one gold tooth.",
+      "image": "assets/img/item/a_bag_of_shiny_things.webp"
+    },
+    {
+      "id": "item-a_ball_of_twine",
+      "title": "A ball of twine",
+      "subtitle": "Floor 2",
+      "blurb": "Kitchen twine, maybe thirty feet. One wrap around a grip.",
+      "image": "assets/img/item/a_ball_of_twine.webp"
+    },
+    {
+      "id": "item-a_bent_spoon",
+      "title": "A bent spoon",
+      "subtitle": "Floor 2",
+      "blurb": "Cafeteria stainless, folded in the middle.",
+      "image": "assets/img/item/a_bent_spoon.webp"
+    },
+    {
+      "id": "item-a_birthday_candle",
+      "title": "A birthday candle",
+      "subtitle": "Floor 2",
+      "blurb": "One candle, no cake. It burns long enough to give you away.",
+      "image": "assets/img/item/a_birthday_candle.webp"
+    },
+    {
+      "id": "item-a_blue_french_horn",
+      "title": "A blue French horn",
+      "subtitle": "Floor 2",
+      "blurb": "Dented, and only one note still comes out of it.",
+      "image": "assets/img/item/a_blue_french_horn.webp"
+    },
+    {
+      "id": "item-a_book_of_dad_jokes",
+      "title": "A Book of Dad Jokes",
+      "subtitle": "Floor 2",
+      "blurb": "Paperback. Every punchline is worse than the setup.",
+      "image": "assets/img/item/a_book_of_dad_jokes.webp"
+    },
+    {
+      "id": "item-a_bookmark",
+      "title": "A bookmark",
+      "subtitle": "Floor 2",
+      "blurb": "Tasselled, from a shop that no longer exists.",
+      "image": "assets/img/item/a_bookmark.webp"
+    },
+    {
+      "id": "item-a_box_of_50_plastic_sporks",
+      "title": "A box of 50 plastic sporks",
+      "subtitle": "Floor 2",
+      "blurb": "They snap if you mean it. They still have a point.",
+      "image": "assets/img/item/a_box_of_50_plastic_sporks.webp"
+    },
+    {
+      "id": "item-a_broken_bicycle_chain",
+      "title": "A broken bicycle chain",
+      "subtitle": "Floor 2",
+      "blurb": "Snapped, greased, and long enough to swing.",
+      "image": "assets/img/item/a_broken_bicycle_chain.webp"
+    },
+    {
+      "id": "item-a_can_of_spam",
+      "title": "A can of Spam",
+      "subtitle": "Floor 2",
+      "blurb": "Unopened. The key is on the bottom, which is the best part of it.",
+      "image": "assets/img/item/a_can_of_spam.webp"
+    },
+    {
+      "id": "item-a_cassette_of_whale_songs",
+      "title": "A cassette of whale songs",
+      "subtitle": "Floor 2",
+      "blurb": "Side A is whales. Side B is also whales.",
+      "image": "assets/img/item/a_cassette_of_whale_songs.webp"
+    },
+    {
+      "id": "item-a_chef_s_knife",
+      "title": "A Chef's Knife",
+      "subtitle": "Floor 2",
+      "blurb": "Eight-inch chef's knife. Sharp enough.",
+      "image": "assets/img/item/a_chef_s_knife.webp"
+    },
+    {
+      "id": "item-a_clothespin",
+      "title": "A clothespin",
+      "subtitle": "Floor 2",
+      "blurb": "Spring still mean. It pinches.",
+      "image": "assets/img/item/a_clothespin.webp"
+    },
+    {
+      "id": "item-a_coaster_from_a_bar",
+      "title": "A coaster from a bar",
+      "subtitle": "Floor 2",
+      "blurb": "Cork, one ring stained in. The bar's name is a smudge.",
+      "image": "assets/img/item/a_coaster_from_a_bar.webp"
+    },
+    {
+      "id": "item-a_coupon_for_a_new_bike",
+      "title": "A coupon for a new bike",
+      "subtitle": "Floor 2",
+      "blurb": "Expires 2009. The shop address is a parking lot.",
+      "image": "assets/img/item/a_coupon_for_a_new_bike.webp"
+    },
+    {
+      "id": "item-a_crushed_soda_can",
+      "title": "A crushed soda can",
+      "subtitle": "Floor 2",
+      "blurb": "Tab still on. Throws like trash, which it is.",
+      "image": "assets/img/item/a_crushed_soda_can.webp"
+    },
+    {
+      "id": "item-a_dead_crawler_s_shopping_list",
+      "title": "A Dead Crawler's Shopping List",
+      "subtitle": "Floor 2",
+      "blurb": "Somebody got close. On the back, in pencil, a note to themselves about where to go next.",
+      "image": "assets/img/item/a_dead_crawler_s_shopping_list.webp"
+    },
+    {
+      "id": "item-a_deck_of_marked_cards",
+      "title": "A Deck of Marked Cards",
+      "subtitle": "Floor 2",
+      "blurb": "Bicycle back, corners nicked, marks you can almost read.",
+      "image": "assets/img/item/a_deck_of_marked_cards.webp"
+    },
+    {
+      "id": "item-a_doll_s_backpack",
+      "title": "A doll's backpack",
+      "subtitle": "Floor 2",
+      "blurb": "Pink, tiny, and already full of nothing.",
+      "image": "assets/img/item/a_doll_s_backpack.webp"
+    },
+    {
+      "id": "item-a_five_year_old_twinkie",
+      "title": "A five-year-old Twinkie",
+      "subtitle": "Floor 2",
+      "blurb": "Still sponge. The cream has opinions.",
+      "image": "assets/img/item/a_five_year_old_twinkie.webp"
+    },
+    {
+      "id": "item-a_free_pass",
+      "title": "A Free Pass",
+      "subtitle": "Floor 2",
+      "blurb": "A celestial one-use item. The holder takes literally any action, of any kind, and then it disintegrates.",
+      "image": "assets/img/item/a_free_pass.webp"
+    },
+    {
+      "id": "item-a_fridge_magnet_of_a_cat",
+      "title": "A fridge magnet of a cat",
+      "subtitle": "Floor 2",
+      "blurb": "Hanging from a painted branch. There is no fridge.",
+      "image": "assets/img/item/a_fridge_magnet_of_a_cat.webp"
+    },
+    {
+      "id": "item-a_half_used_roll_of_duct_tape",
+      "title": "A half-used roll of duct tape",
+      "subtitle": "Floor 2",
+      "blurb": "Grey, gummy, and almost gone. Enough to wrap one handhold.",
+      "image": "assets/img/item/a_half_used_roll_of_duct_tape.webp"
+    },
+    {
+      "id": "item-a_hotel_do_not_disturb_sign",
+      "title": "A hotel Do Not Disturb sign",
+      "subtitle": "Floor 2",
+      "blurb": "Red card, string handle. The dungeon does not read.",
+      "image": "assets/img/item/a_hotel_do_not_disturb_sign.webp"
+    },
+    {
+      "id": "item-a_hotel_soap_still_wrapped",
+      "title": "A hotel soap, still wrapped",
+      "subtitle": "Floor 2",
+      "blurb": "Paper belt, tiny bar. Slick for a few minutes.",
+      "image": "assets/img/item/a_hotel_soap_still_wrapped.webp"
+    },
+    {
+      "id": "item-a_hotel_room_gideon_bible",
+      "title": "A hotel-room Gideon Bible",
+      "subtitle": "Floor 2",
+      "blurb": "Drawer copy. One sitting with it, if you can focus.",
+      "image": "assets/img/item/a_hotel_room_gideon_bible.webp"
+    },
+    {
+      "id": "item-a_joy_buzzer_pen",
+      "title": "A Joy Buzzer Pen",
+      "subtitle": "Floor 2",
+      "blurb": "Click it into a palm. One nasty little shock.",
+      "image": "assets/img/item/a_joy_buzzer_pen.webp"
+    },
+    {
+      "id": "item-a_live_fish_in_a_bag",
+      "title": "A live fish in a bag",
+      "subtitle": "Floor 2",
+      "blurb": "Carnival goldfish, still going. It is food if you are cruel, and then you smell like it.",
+      "image": "assets/img/item/a_live_fish_in_a_bag.webp"
+    },
+    {
+      "id": "item-a_lucky_rabbit_s_foot",
+      "title": "A lucky rabbit's foot",
+      "subtitle": "Floor 2",
+      "blurb": "Dyed pink, chain dull. Lucky for the length of a scare.",
+      "image": "assets/img/item/a_lucky_rabbit_s_foot.webp"
+    },
+    {
+      "id": "item-a_map_the_size_of_a_gum_wrapper",
+      "title": "A map the size of a gum wrapper",
+      "subtitle": "Floor 2",
+      "blurb": "All the streets are the width of a pen line.",
+      "image": "assets/img/item/a_map_the_size_of_a_gum_wrapper.webp"
+    },
+    {
+      "id": "item-a_mini_etch_a_sketch",
+      "title": "A mini Etch A Sketch",
+      "subtitle": "Floor 2",
+      "blurb": "Grey screen, two white knobs. One sketch, then you shake it blank.",
+      "image": "assets/img/item/a_mini_etch_a_sketch.webp"
+    },
+    {
+      "id": "item-a_mini_umbrella_that_won_t_open",
+      "title": "A mini umbrella that won't open",
+      "subtitle": "Floor 2",
+      "blurb": "Collapsed, and it stays that way. The shaft is the whole item.",
+      "image": "assets/img/item/a_mini_umbrella_that_won_t_open.webp"
+    },
+    {
+      "id": "item-a_mood_ring_stuck_on_anxious",
+      "title": "A mood ring stuck on anxious",
+      "subtitle": "Floor 2",
+      "blurb": "The stone will not change. Looking at it does not help.",
+      "image": "assets/img/item/a_mood_ring_stuck_on_anxious.webp"
+    },
+    {
+      "id": "item-a_motion_activated_singing_bass",
+      "title": "A motion-activated singing bass",
+      "subtitle": "Floor 2",
+      "blurb": "It sings when you move. You will hate it, and so will your concentration.",
+      "image": "assets/img/item/a_motion_activated_singing_bass.webp"
+    },
+    {
+      "id": "item-a_movie_ticket_stub",
+      "title": "A movie ticket stub",
+      "subtitle": "Floor 2",
+      "blurb": "Row H, seat 12. The title has rubbed off.",
+      "image": "assets/img/item/a_movie_ticket_stub.webp"
+    },
+    {
+      "id": "item-a_pack_of_diner_sugar",
+      "title": "A pack of diner sugar",
+      "subtitle": "Floor 2",
+      "blurb": "A fist of paper packets. Eat them dry if you are desperate.",
+      "image": "assets/img/item/a_pack_of_diner_sugar.webp"
+    },
+    {
+      "id": "item-a_packet_of_silica_gel",
+      "title": "A packet of silica gel",
+      "subtitle": "Floor 2",
+      "blurb": "DO NOT EAT. The packet is right, and you might do it anyway.",
+      "image": "assets/img/item/a_packet_of_silica_gel.webp"
+    },
+    {
+      "id": "item-a_pair_of_3d_glasses",
+      "title": "A pair of 3D glasses",
+      "subtitle": "Floor 2",
+      "blurb": "One red lens, one blue. The floor does not get more informative.",
+      "image": "assets/img/item/a_pair_of_3d_glasses.webp"
+    },
+    {
+      "id": "item-a_paperclip_chain",
+      "title": "A paperclip chain",
+      "subtitle": "Floor 2",
+      "blurb": "Forty clips, linked. Not a lockpick.",
+      "image": "assets/img/item/a_paperclip_chain.webp"
+    },
+    {
+      "id": "item-a_pop_vinyl_figure",
+      "title": "A Pop vinyl figure",
+      "subtitle": "Floor 2",
+      "blurb": "Big head, no show. Still in the crushed box.",
+      "image": "assets/img/item/a_pop_vinyl_figure.webp"
+    },
+    {
+      "id": "item-a_potion_of_breath_air",
+      "title": "A Potion of Breath Air",
+      "subtitle": "Floor 2",
+      "blurb": "A cloudy vial. The cork smells like a public pool.",
+      "image": "assets/img/item/a_potion_of_breath_air.webp"
+    },
+    {
+      "id": "item-a_rubber_duck",
+      "title": "A rubber duck",
+      "subtitle": "Floor 2",
+      "blurb": "Yellow, squeak intact. It has never helped anyone.",
+      "image": "assets/img/item/a_rubber_duck.webp"
+    },
+    {
+      "id": "item-a_rubber_band_ball",
+      "title": "A rubber-band ball",
+      "subtitle": "Floor 2",
+      "blurb": "The size of a fist. It bounces once, then it's someone else's problem.",
+      "image": "assets/img/item/a_rubber_band_ball.webp"
+    },
+    {
+      "id": "item-a_rubik_s_cube",
+      "title": "A Rubik's Cube",
+      "subtitle": "Floor 2",
+      "blurb": "One sticker missing. It will not be solved down here.",
+      "image": "assets/img/item/a_rubik_s_cube.webp"
+    },
+    {
+      "id": "item-a_salmon_pike_place_style",
+      "title": "A salmon, Pike Place style",
+      "subtitle": "Floor 2",
+      "blurb": "Whole, cold, and recently airborne.",
+      "image": "assets/img/item/a_salmon_pike_place_style.webp"
+    },
+    {
+      "id": "item-a_sentient_toaster",
+      "title": "A sentient toaster",
+      "subtitle": "Floor 2",
+      "blurb": "It knows your name and it runs hot.",
+      "image": "assets/img/item/a_sentient_toaster.webp"
+    },
+    {
+      "id": "item-a_shiny_canadian_quarter",
+      "title": "A shiny Canadian quarter",
+      "subtitle": "Floor 2",
+      "blurb": "1996, caribou side up. Spends as nothing down here.",
+      "image": "assets/img/item/a_shiny_canadian_quarter.webp"
+    },
+    {
+      "id": "item-a_single_croc_left_foot",
+      "title": "A single Croc, left foot",
+      "subtitle": "Floor 2",
+      "blurb": "Foam, a heel strap, and no mate. It is a club if you insist.",
+      "image": "assets/img/item/a_single_croc_left_foot.webp"
+    },
+    {
+      "id": "item-a_stadium_buddy",
+      "title": "A stadium buddy",
+      "subtitle": "Floor 2",
+      "blurb": "Inflatable thunderstick, half flat.",
+      "image": "assets/img/item/a_stadium_buddy.webp"
+    },
+    {
+      "id": "item-a_staples_that_was_easy_button",
+      "title": "A Staples \"That Was Easy\" button",
+      "subtitle": "Floor 2",
+      "blurb": "The button still believes in you. The sound is doing all the work.",
+      "image": "assets/img/item/a_staples_that_was_easy_button.webp"
+    },
+    {
+      "id": "item-a_starbucks_frappuccino",
+      "title": "A Starbucks Frappuccino",
+      "subtitle": "Floor 2",
+      "blurb": "Glass bottle, too sweet, still sealed.",
+      "image": "assets/img/item/a_starbucks_frappuccino.webp"
+    },
+    {
+      "id": "item-a_tangled_pair_of_earbuds",
+      "title": "A tangled pair of earbuds",
+      "subtitle": "Floor 2",
+      "blurb": "One side works. The song is whoever was listening last, and then your head hurts.",
+      "image": "assets/img/item/a_tangled_pair_of_earbuds.webp"
+    },
+    {
+      "id": "item-a_toe_ring",
+      "title": "A toe ring",
+      "subtitle": "Floor 2",
+      "blurb": "Adjustable, tarnished. You stand a little differently.",
+      "image": "assets/img/item/a_toe_ring.webp"
+    },
+    {
+      "id": "item-a_travel_size_bottle_of_lotion",
+      "title": "A travel-size bottle of lotion",
+      "subtitle": "Floor 2",
+      "blurb": "Hotel vanilla. Enough to slick your hands.",
+      "image": "assets/img/item/a_travel_size_bottle_of_lotion.webp"
+    },
+    {
+      "id": "item-a_wand_of_come_here",
+      "title": "A Wand of \"Come Here\"",
+      "subtitle": "Floor 2",
+      "blurb": "Painted dowel. The command works for about a minute, and only on manners.",
+      "image": "assets/img/item/a_wand_of_come_here.webp"
+    },
+    {
+      "id": "item-airtight_tupperware",
+      "title": "Airtight tupperware",
+      "subtitle": "Floor 2",
+      "blurb": "Stained lid. The seal still clicks.",
+      "image": "assets/img/item/airtight_tupperware.webp"
+    },
+    {
+      "id": "item-aluminum_bat",
+      "title": "Aluminum Bat",
+      "subtitle": "",
+      "blurb": "Light, loud and ready to ring someone's bell.",
+      "image": null
+    },
+    {
+      "id": "item-an_applause_button",
+      "title": "An applause button",
+      "subtitle": "Floor 2",
+      "blurb": "One press. A tinny crowd, then silence.",
+      "image": "assets/img/item/an_applause_button.webp"
+    },
+    {
+      "id": "item-an_emergency_whistle",
+      "title": "An emergency whistle",
+      "subtitle": "Floor 2",
+      "blurb": "Orange, on a lanyard. One blast, and you feel less alone for a minute.",
+      "image": "assets/img/item/an_emergency_whistle.webp"
+    },
+    {
+      "id": "item-an_old_pogo_stick",
+      "title": "An old pogo stick",
+      "subtitle": "Floor 2",
+      "blurb": "Rusted spring, no bounce. Two hands, and it still hits like a stick.",
+      "image": "assets/img/item/an_old_pogo_stick.webp"
+    },
+    {
+      "id": "item-an_unscratched_scratch_off",
+      "title": "An unscratched scratch-off",
+      "subtitle": "Floor 2",
+      "blurb": "Silver panel intact. No coin, and no cashier.",
+      "image": "assets/img/item/an_unscratched_scratch_off.webp"
+    },
+    {
+      "id": "item-arrows",
+      "title": "Arrows",
+      "subtitle": "",
+      "blurb": "pack 1.0 20 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-assless_chaps",
+      "title": "Assless chaps",
+      "subtitle": "Floor 2",
+      "blurb": "Leather, and honest about it. You feel bold, then you remember why.",
+      "image": "assets/img/item/assless_chaps.webp"
+    },
+    {
+      "id": "item-backpack",
+      "title": "Backpack",
+      "subtitle": "",
+      "blurb": "worn 1.0 1 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bamboo_blowgun",
+      "title": "Bamboo Blowgun",
+      "subtitle": "Floor 2",
+      "blurb": "A length of bamboo and a pouch of thorn darts with feathered tails.",
+      "image": "assets/img/item/bamboo_blowgun.webp"
+    },
+    {
+      "id": "item-bampf_ball",
+      "title": "Bampf Ball",
+      "subtitle": "Floor 2",
+      "blurb": "Be careful playing fetch with your dog with this magical little ball.",
+      "image": "assets/img/item/bampf_ball.webp"
+    },
+    {
+      "id": "item-bandages",
+      "title": "Bandages",
+      "subtitle": "",
+      "blurb": "pack 1.0 5 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bandolear",
+      "title": "BandolEAR",
+      "subtitle": "Floor 2",
+      "blurb": "A bandolier of detachable ears for remote listening.",
+      "image": "assets/img/item/bandolear.webp"
+    },
+    {
+      "id": "item-bark_net",
+      "title": "Bark Net",
+      "subtitle": "Floor 2",
+      "blurb": "A hand net of stripped bark fibre, weighted with river stones.",
+      "image": "assets/img/item/bark_net.webp"
+    },
+    {
+      "id": "item-barm_s_daughter",
+      "title": "Barm's Daughter",
+      "subtitle": "Floor 2",
+      "blurb": "A spoonful of bubbling starter in a little jar.",
+      "image": "assets/img/item/barm_s_daughter.webp"
+    },
+    {
+      "id": "item-barnaby_crumb_s_contract",
+      "title": "Barnaby Crumb's Contract",
+      "subtitle": "Floor 2",
+      "blurb": "An original Borant employment contract, filed under BARNABY CRUMB.",
+      "image": "assets/img/item/barnaby_crumb_s_contract.webp"
+    },
+    {
+      "id": "item-baseball_bat",
+      "title": "Baseball Bat",
+      "subtitle": "",
+      "blurb": "Ash wood and a grudge. Swing for the fences.",
+      "image": "assets/img/item/baseball_bat.webp"
+    },
+    {
+      "id": "item-batteries",
+      "title": "Batteries",
+      "subtitle": "",
+      "blurb": "pack 1.0 4 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bb_gun",
+      "title": "Bb Gun",
+      "subtitle": "",
+      "blurb": "A kid's toy with a mean streak. Pocket-sized, ping-sized pain.",
+      "image": null
+    },
+    {
+      "id": "item-bedspring_mail",
+      "title": "Bedspring Mail",
+      "subtitle": "",
+      "blurb": "worn mediumarmour 2.0 1 torso 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bee_brood",
+      "title": "Bee Brood",
+      "subtitle": "Floor 2",
+      "blurb": "A fat white grub the length of a forearm, still warm, curled in a wax cup.",
+      "image": "assets/img/item/bee_brood.webp"
+    },
+    {
+      "id": "item-big_red_button",
+      "title": "Big Red Button",
+      "subtitle": "Floor 2",
+      "blurb": "Press it. You hit harder for two rounds, and a fuse starts in you.",
+      "image": "assets/img/item/big_red_button.webp"
+    },
+    {
+      "id": "item-biker_leathers",
+      "title": "Biker Leathers",
+      "subtitle": "",
+      "blurb": "worn lightarmour 11 True 1.0 1 torso Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bilqis_blessing",
+      "title": "Bilqis Blessing",
+      "subtitle": "Floor 2",
+      "blurb": "Become your own botanist. The flowers you cultivate may do something useful for those who drink the tea.",
+      "image": "assets/img/item/bilqis_blessing.webp"
+    },
+    {
+      "id": "item-binoculars",
+      "title": "Binoculars",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bitter_lemon_sorbet",
+      "title": "Bitter Lemon Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. Four yellow scoops; cloche 4 bears a folded bolt.",
+      "image": "assets/img/item/bitter_lemon_sorbet.webp"
+    },
+    {
+      "id": "item-bitterroot",
+      "title": "Bitterroot",
+      "subtitle": "Floor 2",
+      "blurb": "Gingerbread folk use it for mortar.",
+      "image": "assets/img/item/bitterroot.webp"
+    },
+    {
+      "id": "item-black_kombu_twist",
+      "title": "Black Kombu Twist",
+      "subtitle": "Floor 2",
+      "blurb": "A paper twist of black dried seaweed, salty and dusty, smelling of the sea.",
+      "image": "assets/img/item/black_kombu_twist.webp"
+    },
+    {
+      "id": "item-blue_cookie_tin_sewing_kit",
+      "title": "Blue cookie-tin sewing kit",
+      "subtitle": "Floor 2",
+      "blurb": "Needles, a thimble, and three buttons.",
+      "image": "assets/img/item/blue_cookie_tin_sewing_kit.webp"
+    },
+    {
+      "id": "item-boar_spear",
+      "title": "Boar Spear",
+      "subtitle": "",
+      "blurb": "Long, ugly and made for things that charge.",
+      "image": null
+    },
+    {
+      "id": "item-boiler_plate",
+      "title": "Boiler Plate",
+      "subtitle": "",
+      "blurb": "worn heavyarmour 3.0 1 torso 2 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bolt_cutters",
+      "title": "Bolt Cutters",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bone_chains_of_the_rider",
+      "title": "Bone Chains of the Rider",
+      "subtitle": "Floor 2",
+      "blurb": "Any mount infused with them burns with hellfire, and the wearer is pact-bound to a demon of Sheol.",
+      "image": "assets/img/item/bone_chains_of_the_rider.webp"
+    },
+    {
+      "id": "item-bone_club",
+      "title": "Bone Club",
+      "subtitle": "Floor 2",
+      "blurb": "A thighbone from something big, handle wrapped in leather.",
+      "image": "assets/img/item/bone_club.webp"
+    },
+    {
+      "id": "item-bone_mech_with_meat_armor",
+      "title": "Bone Mech with Meat Armor",
+      "subtitle": "Floor 2",
+      "blurb": "A full-body upgrade. Flesh reinforced with meat armor, and bone hardened to titanium.",
+      "image": "assets/img/item/bone_mech_with_meat_armor.webp"
+    },
+    {
+      "id": "item-book_of_herbalgasm",
+      "title": "Book of Herbalgasm",
+      "subtitle": "Floor 2",
+      "blurb": "A semi-sentient waterproof herbalism guidebook.",
+      "image": "assets/img/item/book_of_herbalgasm.webp"
+    },
+    {
+      "id": "item-bottled_hive_venom",
+      "title": "Bottled Hive Venom",
+      "subtitle": "Floor 2",
+      "blurb": "A jar of clear liquid that smokes faintly at the rim.",
+      "image": "assets/img/item/bottled_hive_venom.webp"
+    },
+    {
+      "id": "item-bottled_water",
+      "title": "Bottled Water",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-bottomless_fak",
+      "title": "Bottomless FAK",
+      "subtitle": "Floor 2",
+      "blurb": "An endlessly restocking first-aid kit.",
+      "image": "assets/img/item/bottomless_fak.webp"
+    },
+    {
+      "id": "item-box_cutter",
+      "title": "Box Cutter",
+      "subtitle": "",
+      "blurb": "Tiny blade, big opinions. Easy to hide.",
+      "image": null
+    },
+    {
+      "id": "item-boxer_shorts",
+      "title": "Boxer Shorts",
+      "subtitle": "",
+      "blurb": "worn 1 legs Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-boxers_of_hold_onto_your_ass",
+      "title": "Boxers of Hold Onto Your Ass!",
+      "subtitle": "Floor 2",
+      "blurb": "Bright red. A 150% speed buff when fleeing, with an unmistakable side sensation.",
+      "image": "assets/img/item/boxers_of_hold_onto_your_ass.webp"
+    },
+    {
+      "id": "item-bracers_of_deflection",
+      "title": "Bracers of Deflection",
+      "subtitle": "Floor 2",
+      "blurb": "Stylish leather bracers with a chance to deflect incoming ranged attacks.",
+      "image": "assets/img/item/bracers_of_deflection.webp"
+    },
+    {
+      "id": "item-brass_knuckles",
+      "title": "Brass Knuckles",
+      "subtitle": "",
+      "blurb": "Four holes, one argument.",
+      "image": null
+    },
+    {
+      "id": "item-brigandine_of_the_bulwark_moose",
+      "title": "Brigandine of the Bulwark Moose",
+      "subtitle": "Floor 2",
+      "blurb": "Rare medium body armor. It reduces damage on hits and can grow protective moose horns for allies.",
+      "image": "assets/img/item/brigandine_of_the_bulwark_moose.webp"
+    },
+    {
+      "id": "item-brindle_grub_reduction",
+      "title": "Brindle Grub Reduction",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 2. Four spoonfuls of dark sauce.",
+      "image": "assets/img/item/brindle_grub_reduction.webp"
+    },
+    {
+      "id": "item-brinejaw_breakfast",
+      "title": "Brinejaw Breakfast",
+      "subtitle": "Floor 2",
+      "blurb": "A freshly killed little jungle antelope with enormous teeth. Breakfast, sort of.",
+      "image": "assets/img/item/brinejaw_breakfast.webp"
+    },
+    {
+      "id": "item-brinejaw_haunch",
+      "title": "Brinejaw Haunch",
+      "subtitle": "Floor 2",
+      "blurb": "A pale, heavy haunch beneath a slab of salt-crusted hide.",
+      "image": "assets/img/item/brinejaw_haunch.webp"
+    },
+    {
+      "id": "item-britney",
+      "title": "Britney",
+      "subtitle": "Floor 2",
+      "blurb": "A magical spear so easy to use that oops, you did it again.",
+      "image": "assets/img/item/britney.webp"
+    },
+    {
+      "id": "item-broach_of_unexpected_usefulness",
+      "title": "Broach of Unexpected Usefulness",
+      "subtitle": "Floor 2",
+      "blurb": "Pinned to a clothing item, it boosts one random power of that item by 50%.",
+      "image": "assets/img/item/broach_of_unexpected_usefulness.webp"
+    },
+    {
+      "id": "item-bronze_loot_box",
+      "title": "Bronze Loot Box",
+      "subtitle": "Floor 2",
+      "blurb": "Every achievement comes with one. The ribbon is real.",
+      "image": "assets/img/item/bronze_loot_box.webp"
+    },
+    {
+      "id": "item-brown_shelf_mushrooms",
+      "title": "Brown Shelf Mushrooms",
+      "subtitle": "Floor 2",
+      "blurb": "A basketful of firm brown mushrooms, smelling of butter and wet earth.",
+      "image": "assets/img/item/brown_shelf_mushrooms.webp"
+    },
+    {
+      "id": "item-buckler",
+      "title": "Buckler",
+      "subtitle": "",
+      "blurb": "hand 1 shields 1 1.0 1 Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-butcher_s_apron",
       "title": "Butcher's Apron",
       "subtitle": "Floor 2",
-      "preview": "Butcher's Apron A heavy canvas apron on a hook by the whiteboard, stiff with old stock, GLOVES FIRST stencilled across the bib.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Butcher's Apron\n\nA heavy canvas apron on a hook by the whiteboard, stiff with old stock, GLOVES FIRST stencilled across the bib.\n",
-      "body_html": "<h2>Butcher&#x27;s Apron</h2>\n<p>A heavy canvas apron on a hook by the whiteboard, stiff with old stock, GLOVES FIRST stencilled across the bib.</p>"
+      "blurb": "A heavy canvas apron on a hook by the whiteboard, stiff with old stock, GLOVES FIRST stencilled across the bib.",
+      "image": "assets/img/item/butcher_s_apron.webp"
+    },
+    {
+      "id": "item-butcher_s_claw_hammer",
+      "title": "Butcher's Claw Hammer",
+      "subtitle": "Floor 2",
+      "blurb": "A claw hammer hung by its loop between the hams, for the nails the hams hang on.",
+      "image": "assets/img/item/butcher_s_claw_hammer.webp"
+    },
+    {
+      "id": "item-cal_s_crowd_cowl",
+      "title": "Cal's Crowd Cowl",
+      "subtitle": "Floor 2",
+      "blurb": "It let Cal Ghort vanish into a crowd.",
+      "image": "assets/img/item/cal_s_crowd_cowl.webp"
+    },
+    {
+      "id": "item-calamari",
+      "title": "Calamari",
+      "subtitle": "Floor 2",
+      "blurb": "A white squid the size of a cat, finally, completely still.",
+      "image": "assets/img/item/calamari.webp"
+    },
+    {
+      "id": "item-call_sheet",
+      "title": "Call Sheet",
+      "subtitle": "Floor 2",
+      "blurb": "A crumpled, bloody call sheet in Benji's back pocket.",
+      "image": "assets/img/item/call_sheet.webp"
+    },
+    {
+      "id": "item-caltrops",
+      "title": "Caltrops",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-canned_food",
+      "title": "Canned Food",
+      "subtitle": "",
+      "blurb": "pack 1.0 3 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-canteen_that_refills",
+      "title": "Canteen That Refills",
+      "subtitle": "Floor 2",
+      "blurb": "It refills. It tastes like the last place you almost died.",
+      "image": "assets/img/item/canteen_that_refills.webp"
+    },
+    {
+      "id": "item-celestial_compass",
+      "title": "Celestial Compass",
+      "subtitle": "Floor 2",
+      "blurb": "North always points to the nearest stairwell.",
+      "image": "assets/img/item/celestial_compass.webp"
+    },
+    {
+      "id": "item-celestial_panchangala",
+      "title": "Celestial Panchangala",
+      "subtitle": "Floor 2",
+      "blurb": "Five rings and a wristband. Massive stat bonuses, a shield, teleport-style movement, and a knockback.",
+      "image": "assets/img/item/celestial_panchangala.webp"
+    },
+    {
+      "id": "item-centaminotaurtaur_figurine",
+      "title": "Centaminotaurtaur figurine",
+      "subtitle": "Floor 2",
+      "blurb": "A plastic centaur taped to a minotaur.",
+      "image": "assets/img/item/centaminotaurtaur_figurine.webp"
+    },
+    {
+      "id": "item-chainsaw",
+      "title": "Chainsaw",
+      "subtitle": "",
+      "blurb": "Loud, heavy and deeply unsubtle.",
+      "image": null
+    },
+    {
+      "id": "item-chaos_letter_opener",
+      "title": "Chaos Letter Opener",
+      "subtitle": "Floor 2",
+      "blurb": "A tiny katana. Its first three cuts leave the target brittle, so the next physical hit bites for two more.",
+      "image": "assets/img/item/chaos_letter_opener.webp"
+    },
+    {
+      "id": "item-charm_bracelet_of_helpfulness",
+      "title": "Charm Bracelet of Helpfulness",
+      "subtitle": "Floor 2",
+      "blurb": "Silver, holding 18 removable charms.",
+      "image": "assets/img/item/charm_bracelet_of_helpfulness.webp"
+    },
+    {
+      "id": "item-charming_colander_of_protection",
+      "title": "Charming Colander of Protection",
+      "subtitle": "Floor 2",
+      "blurb": "A kitchen utensil turned psychic-defense helmet. Brain worms hate it.",
+      "image": "assets/img/item/charming_colander_of_protection.webp"
+    },
+    {
+      "id": "item-chest_plate_tick",
+      "title": "Chest Plate Tick",
+      "subtitle": "Floor 2",
+      "blurb": "A symbiotic tick that attaches to your torso, growing armor for five days before bloating off.",
+      "image": "assets/img/item/chest_plate_tick.webp"
+    },
+    {
+      "id": "item-children_s_sidewalk_chalk",
+      "title": "Children's sidewalk chalk",
+      "subtitle": "Floor 2",
+      "blurb": "A few nubs. Enough to mark a corner and think about it.",
+      "image": "assets/img/item/children_s_sidewalk_chalk.webp"
+    },
+    {
+      "id": "item-claw_hammer",
+      "title": "Claw Hammer",
+      "subtitle": "",
+      "blurb": "Builds things. Un-builds things faster.",
+      "image": null
+    },
+    {
+      "id": "item-clay_ember_pot",
+      "title": "Clay Ember Pot",
+      "subtitle": "Floor 2",
+      "blurb": "A fist-sized clay pot with a lid of green leaves, warm as a cup of tea.",
+      "image": "assets/img/item/clay_ember_pot.webp"
+    },
+    {
+      "id": "item-cleaver_of_the_cleaving_cannibal",
+      "title": "Cleaver of the Cleaving Cannibal",
+      "subtitle": "Floor 2",
+      "blurb": "It develops an appetite once it tastes blood.",
+      "image": "assets/img/item/cleaver_of_the_cleaving_cannibal.webp"
+    },
+    {
+      "id": "item-climbing_hooks",
+      "title": "Climbing Hooks",
+      "subtitle": "Floor 2",
+      "blurb": "A pair of bone hooks on wrist loops, the points filed sharp.",
+      "image": "assets/img/item/climbing_hooks.webp"
+    },
+    {
+      "id": "item-cloak_of_liquid_darkness",
+      "title": "Cloak of Liquid Darkness",
+      "subtitle": "Floor 2",
+      "blurb": "Shadow you can wear. Puts invisibility cloaks to shame.",
+      "image": "assets/img/item/cloak_of_liquid_darkness.webp"
+    },
+    {
+      "id": "item-cloak_of_protection",
+      "title": "Cloak of Protection",
+      "subtitle": "Floor 2",
+      "blurb": "A cloak of clean hands. It turns one point of every blow, and the first three hits each leave a two-point guard on the blow after.",
+      "image": "assets/img/item/cloak_of_protection.webp"
+    },
+    {
+      "id": "item-clockwork_relay",
+      "title": "Clockwork Relay",
+      "subtitle": "Floor 2",
+      "blurb": "A brass insignia that impersonates a machine empire's authority.",
+      "image": "assets/img/item/clockwork_relay.webp"
+    },
+    {
+      "id": "item-coin",
+      "title": "Coin",
+      "subtitle": "",
+      "blurb": "pack 1.0 100 100 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-coinsequences",
+      "title": "Coinsequences",
+      "subtitle": "Floor 2",
+      "blurb": "A gambler's coin. It puts the emphasis on all-in for your next bet.",
+      "image": "assets/img/item/coinsequences.webp"
+    },
+    {
+      "id": "item-collar_of_the_faithful_hound",
+      "title": "Collar of the Faithful Hound",
+      "subtitle": "Floor 2",
+      "blurb": "Clipped on the pet. Once, it steps in front of a blow and takes two points of it.",
+      "image": "assets/img/item/collar_of_the_faithful_hound.webp"
+    },
+    {
+      "id": "item-cometshard_shiv",
+      "title": "Cometshard Shiv",
+      "subtitle": "Floor 2",
+      "blurb": "A comet-core blade. Backstabs deal cosmic burn over time, and a critical hit opens a brief zero-gravity field.",
+      "image": "assets/img/item/cometshard_shiv.webp"
+    },
+    {
+      "id": "item-compound_bow",
+      "title": "Compound Bow",
+      "subtitle": "",
+      "blurb": "Pulleys, cams and a long reach.",
+      "image": null
+    },
+    {
+      "id": "item-corvid_kazoo",
+      "title": "Corvid Kazoo",
+      "subtitle": "Floor 2",
+      "blurb": "See through them, and direct them by thought.",
+      "image": "assets/img/item/corvid_kazoo.webp"
+    },
+    {
+      "id": "item-countdown_watch",
+      "title": "Countdown Watch",
+      "subtitle": "Floor 2",
+      "blurb": "A heavy gold wristwatch. Where the hands should be is the floor's timer, ticking in time with the ceiling.",
+      "image": "assets/img/item/countdown_watch.webp"
+    },
+    {
+      "id": "item-crawler_cooler",
+      "title": "Crawler Cooler",
+      "subtitle": "Floor 2",
+      "blurb": "A white plastic cool box with a Borant logo, a strap and a lid that clicks.",
+      "image": "assets/img/item/crawler_cooler.webp"
+    },
+    {
+      "id": "item-crayons",
+      "title": "Crayons",
+      "subtitle": "Floor 2",
+      "blurb": "Eight colours, tips rounded. One picture, then they're wax.",
+      "image": "assets/img/item/crayons.webp"
+    },
+    {
+      "id": "item-credits_pepper",
+      "title": "Credits Pepper",
+      "subtitle": "Floor 2",
+      "blurb": "One small, wrinkled, glowing red pepper in a gift box addressed to Edwardo.",
+      "image": "assets/img/item/credits_pepper.webp"
+    },
+    {
+      "id": "item-cretin_viagra",
+      "title": "Cretin Viagra",
+      "subtitle": "Floor 2",
+      "blurb": "Chalky, star-etched tablets. Temporarily become a Cretin, keeping your race and class perks and gaining the Cretin's.",
+      "image": "assets/img/item/cretin_viagra.webp"
+    },
+    {
+      "id": "item-crew_contract_ledger",
+      "title": "Crew Contract Ledger",
+      "subtitle": "Floor 2",
+      "blurb": "A fat green ledger stamped BORANT HOSPITALITY, CREW.",
+      "image": "assets/img/item/crew_contract_ledger.webp"
+    },
+    {
+      "id": "item-crew_sandwich",
+      "title": "Crew Sandwich",
+      "subtitle": "Floor 2",
+      "blurb": "Ham, probably. Two days old in jungle heat.",
+      "image": "assets/img/item/crew_sandwich.webp"
     },
     {
       "id": "item-crew_survey_stake",
       "title": "Crew Survey Stake",
       "subtitle": "Floor 2",
-      "preview": "Crew Survey Stake A pointed wooden stake with pink flagging tape, for marking camera positions.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Crew Survey Stake\n\nA pointed wooden stake with pink flagging tape, for marking camera positions.\n",
-      "body_html": "<h2>Crew Survey Stake</h2>\n<p>A pointed wooden stake with pink flagging tape, for marking camera positions.</p>"
+      "blurb": "A pointed wooden stake with pink flagging tape, for marking camera positions.",
+      "image": "assets/img/item/crew_survey_stake.webp"
+    },
+    {
+      "id": "item-crew_walkie",
+      "title": "Crew Walkie",
+      "subtitle": "Floor 2",
+      "blurb": "A crew walkie on Benji's lanyard, sticky with blood, still on.",
+      "image": "assets/img/item/crew_walkie.webp"
+    },
+    {
+      "id": "item-croc_scale_vest",
+      "title": "Croc-Scale Vest",
+      "subtitle": "Floor 2",
+      "blurb": "Overlapping green-black scales stitched to a hide vest.",
+      "image": "assets/img/item/croc_scale_vest.webp"
+    },
+    {
+      "id": "item-crocs_of_scintilating_cinderella",
+      "title": "Crocs of Scintilating Cinderella",
+      "subtitle": "Floor 2",
+      "blurb": "Magical hot pink Crocs. Bling, in the dungeon.",
+      "image": "assets/img/item/crocs_of_scintilating_cinderella.webp"
+    },
+    {
+      "id": "item-crowbar",
+      "title": "Crowbar",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-crown_of_teeth",
+      "title": "Crown of Teeth",
+      "subtitle": "Floor 2",
+      "blurb": "Every kind of creature adds a tooth, and every tooth adds strength.",
+      "image": "assets/img/item/crown_of_teeth.webp"
+    },
+    {
+      "id": "item-crumb_s_recipe_book",
+      "title": "Crumb's Recipe Book",
+      "subtitle": "Floor 2",
+      "blurb": "A grease-marked notebook with encouraging corrections in red pencil.",
+      "image": "assets/img/item/crumb_s_recipe_book.webp"
+    },
+    {
+      "id": "item-cured_alpha_haunch",
+      "title": "Cured Alpha Haunch",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 5. Four pink slices under salt crystals.",
+      "image": "assets/img/item/cured_alpha_haunch.webp"
+    },
+    {
+      "id": "item-cured_hide_brisket",
+      "title": "Cured Hide Brisket",
+      "subtitle": "Floor 2",
+      "blurb": "A slab of black-barked brisket the size of a suitcase, pink and wet inside.",
+      "image": "assets/img/item/cured_hide_brisket.webp"
+    },
+    {
+      "id": "item-cursed_socks_and_sandals",
+      "title": "Cursed Socks and Sandals",
+      "subtitle": "Floor 2",
+      "blurb": "Fashionable, and mobs treat the wearer as the last-priority target.",
+      "image": "assets/img/item/cursed_socks_and_sandals.webp"
+    },
+    {
+      "id": "item-cyclops_ring_of_krull",
+      "title": "Cyclops Ring of Krull",
+      "subtitle": "Floor 2",
+      "blurb": "Shows the wearer a vision of their own death. Never says when.",
+      "image": "assets/img/item/cyclops_ring_of_krull.webp"
+    },
+    {
+      "id": "item-dagger",
+      "title": "Dagger",
+      "subtitle": "",
+      "blurb": "Short, sharp and always there when you need it.",
+      "image": null
+    },
+    {
+      "id": "item-dagger_of_the_backstabbing_bitch",
+      "title": "Dagger of the Backstabbing Bitch",
+      "subtitle": "Floor 2",
+      "blurb": "A crawler-killing dagger. A quick, permanent solution to crawlers giving you a hard time.",
+      "image": "assets/img/item/dagger_of_the_backstabbing_bitch.webp"
+    },
+    {
+      "id": "item-dead_keychain_flashlight",
+      "title": "Dead keychain flashlight",
+      "subtitle": "Floor 2",
+      "blurb": "The battery is a rumor. It flares once, and everyone sees you.",
+      "image": "assets/img/item/dead_keychain_flashlight.webp"
+    },
+    {
+      "id": "item-dead_smartphone",
+      "title": "Dead Smartphone",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-deckmaster_s_cheater_cuff",
+      "title": "Deckmaster's Cheater Cuff",
+      "subtitle": "Floor 2",
+      "blurb": "A sentient cuff hosting a card-game savant.",
+      "image": "assets/img/item/deckmaster_s_cheater_cuff.webp"
+    },
+    {
+      "id": "item-definitely_not_a_lightsaber",
+      "title": "Definitely NOT a Lightsaber",
+      "subtitle": "Floor 2",
+      "blurb": "A plasma blade. It cauterizes wounds so they will not heal, and it can deflect ranged attacks.",
+      "image": "assets/img/item/definitely_not_a_lightsaber.webp"
+    },
+    {
+      "id": "item-deliberately_boring_books",
+      "title": "Deliberately boring books",
+      "subtitle": "Floor 2",
+      "blurb": "A three-pack. Tax code, grout, and the history of linen.",
+      "image": "assets/img/item/deliberately_boring_books.webp"
+    },
+    {
+      "id": "item-director_s_megaphone",
+      "title": "Director's Megaphone",
+      "subtitle": "Floor 2",
+      "blurb": "A red megaphone with a folding-chair decal.",
+      "image": "assets/img/item/director_s_megaphone.webp"
+    },
+    {
+      "id": "item-dish_pit_degreaser",
+      "title": "Dish Pit Degreaser",
+      "subtitle": "Floor 2",
+      "blurb": "A dented spray bottle of industrial degreaser, label worn off by eight hands.",
+      "image": "assets/img/item/dish_pit_degreaser.webp"
+    },
+    {
+      "id": "item-distracting_mood_calf_socks",
+      "title": "Distracting Mood Calf Socks",
+      "subtitle": "Floor 2",
+      "blurb": "Mood-and-sanity-colored socks that pull enemy eyes off softer targets.",
+      "image": "assets/img/item/distracting_mood_calf_socks.webp"
+    },
+    {
+      "id": "item-double_cream_sorbet",
+      "title": "Double Cream Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. Four white scoops; cloche 5 bears a half-circle.",
+      "image": "assets/img/item/double_cream_sorbet.webp"
+    },
+    {
+      "id": "item-drag_cage",
+      "title": "Drag Cage",
+      "subtitle": "Floor 2",
+      "blurb": "A steel transport cage on skids, a tow chain at one end and a drop door painted LIVE TALENT.",
+      "image": "assets/img/item/drag_cage.webp"
+    },
+    {
+      "id": "item-dreadnought_plate",
+      "title": "Dreadnought Plate",
+      "subtitle": "",
+      "blurb": "worn heavyarmour 14 3.0 1 torso 2 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-duct_tape",
+      "title": "Duct Tape",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-duffel_bag",
+      "title": "Duffel Bag",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-eel_velout",
+      "title": "Eel Velouté",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 3. Four cups of pale sauce, tiny sparks on their rims.",
+      "image": "assets/img/item/eel_velout.webp"
     },
     {
       "id": "item-electric_eel",
       "title": "Electric Eel",
       "subtitle": "Floor 2",
-      "preview": "Electric Eel A brown eel as long as an arm, still twitching, still faintly blue.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Electric Eel\n\nA brown eel as long as an arm, still twitching, still faintly blue.\n",
-      "body_html": "<h2>Electric Eel</h2>\n<p>A brown eel as long as an arm, still twitching, still faintly blue.</p>"
+      "blurb": "A brown eel as long as an arm, still twitching, still faintly blue.",
+      "image": "assets/img/item/electric_eel.webp"
+    },
+    {
+      "id": "item-elvenwood_cloak",
+      "title": "Elvenwood Cloak",
+      "subtitle": "Floor 2",
+      "blurb": "Warm, waterproof, hooded dark green wool.",
+      "image": "assets/img/item/elvenwood_cloak.webp"
+    },
+    {
+      "id": "item-emergency_nut_huggers",
+      "title": "Emergency Nut-Huggers",
+      "subtitle": "Floor 2",
+      "blurb": "A snug fit, and a brief one. They heal you unprompted the moment a fight turns against you.",
+      "image": "assets/img/item/emergency_nut_huggers.webp"
+    },
+    {
+      "id": "item-enchanted_dagger_of_dread",
+      "title": "Enchanted Dagger of Dread",
+      "subtitle": "Floor 2",
+      "blurb": "A wavy kris, Damascus-patterned. Oddly calming in the hand.",
+      "image": "assets/img/item/enchanted_dagger_of_dread.webp"
+    },
+    {
+      "id": "item-enchanted_microphone_of_the_deep",
+      "title": "Enchanted Microphone of the Deep",
+      "subtitle": "Floor 2",
+      "blurb": "Louder, far more charming, and strangely likely to turn up more gear from the Deep.",
+      "image": "assets/img/item/enchanted_microphone_of_the_deep.webp"
+    },
+    {
+      "id": "item-enchanted_staff_of_the_thunderer",
+      "title": "Enchanted Staff of the Thunderer",
+      "subtitle": "Floor 2",
+      "blurb": "Six feet of ebony inlaid with copper lightning.",
+      "image": "assets/img/item/enchanted_staff_of_the_thunderer.webp"
+    },
+    {
+      "id": "item-encore_bell",
+      "title": "Encore Bell",
+      "subtitle": "Floor 2",
+      "blurb": "A polished brass service bell on a red velvet strap.",
+      "image": "assets/img/item/encore_bell.webp"
+    },
+    {
+      "id": "item-end_of_the_world_survival_pack",
+      "title": "End of the World Survival Pack",
+      "subtitle": "Floor 2",
+      "blurb": "A pouch that promised the apocalypse and packed a snack and a bandage.",
+      "image": "assets/img/item/end_of_the_world_survival_pack.webp"
+    },
+    {
+      "id": "item-energy_drink",
+      "title": "Energy Drink",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-energy_drinks_coffee_or_tea",
+      "title": "Energy drinks, coffee or tea",
+      "subtitle": "Floor 2",
+      "blurb": "Lukewarm, and the label has sweated off.",
+      "image": "assets/img/item/energy_drinks_coffee_or_tea.webp"
+    },
+    {
+      "id": "item-enhanced_pet_biscuit",
+      "title": "Enhanced Pet Biscuit",
+      "subtitle": "Floor 2",
+      "blurb": "You eat it anywhere, so long as something is under you.",
+      "image": "assets/img/item/enhanced_pet_biscuit.webp"
+    },
+    {
+      "id": "item-eris_snake_egg",
+      "title": "Eris' Snake Egg",
+      "subtitle": "Floor 2",
+      "blurb": "A gift from the Goddess of Chaos. The jeweled egg is certainly helpful.",
+      "image": "assets/img/item/eris_snake_egg.webp"
+    },
+    {
+      "id": "item-escargot",
+      "title": "Escargot",
+      "subtitle": "Floor 2",
+      "blurb": "A snail the size of a car, minus the shell.",
+      "image": "assets/img/item/escargot.webp"
+    },
+    {
+      "id": "item-falsetto_codpiece",
+      "title": "Falsetto Codpiece",
+      "subtitle": "Floor 2",
+      "blurb": "A magical cup that supports the wearer and grants a beautiful falsetto.",
+      "image": "assets/img/item/falsetto_codpiece.webp"
+    },
+    {
+      "id": "item-fate_changing_knuckleduster",
+      "title": "Fate-Changing Knuckleduster",
+      "subtitle": "Floor 2",
+      "blurb": "Gold knuckledusters with five ring slots.",
+      "image": "assets/img/item/fate_changing_knuckleduster.webp"
+    },
+    {
+      "id": "item-feather_fall_umbrella",
+      "title": "Feather Fall Umbrella",
+      "subtitle": "Floor 2",
+      "blurb": "Deployed, it negates fall damage from any height.",
+      "image": "assets/img/item/feather_fall_umbrella.webp"
+    },
+    {
+      "id": "item-fedora_of_the_friendzone",
+      "title": "Fedora of the Friendzone",
+      "subtitle": "Floor 2",
+      "blurb": "Someone with this hat was happy to open the door.",
+      "image": "assets/img/item/fedora_of_the_friendzone.webp"
+    },
+    {
+      "id": "item-fiddlehead_ferns",
+      "title": "Fiddlehead Ferns",
+      "subtitle": "Floor 2",
+      "blurb": "Young ferns, curled like violin heads.",
+      "image": "assets/img/item/fiddlehead_ferns.webp"
+    },
+    {
+      "id": "item-fire_axe",
+      "title": "Fire Axe",
+      "subtitle": "",
+      "blurb": "Break glass, break doors, break heads.",
+      "image": null
+    },
+    {
+      "id": "item-fire_extinguisher",
+      "title": "Fire Extinguisher",
+      "subtitle": "",
+      "blurb": "Red, heavy and surprisingly good in a brawl.",
+      "image": null
+    },
+    {
+      "id": "item-fire_glass",
+      "title": "Fire-Glass",
+      "subtitle": "Floor 2",
+      "blurb": "An obsidian spearhead that glows dull red and never cools, warm through a glove.",
+      "image": "assets/img/item/fire_glass.webp"
+    },
+    {
+      "id": "item-fire_hardened_spear",
+      "title": "Fire-Hardened Spear",
+      "subtitle": "Floor 2",
+      "blurb": "A straight bamboo shaft, its point blackened and hardened in a fire.",
+      "image": "assets/img/item/fire_hardened_spear.webp"
+    },
+    {
+      "id": "item-first_aid_kit",
+      "title": "First Aid Kit",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-first_edition_charizard_card",
+      "title": "First-edition Charizard card",
+      "subtitle": "Floor 2",
+      "blurb": "Sleeved, corners soft. Nobody on this floor is buying.",
+      "image": "assets/img/item/first_edition_charizard_card.webp"
+    },
+    {
+      "id": "item-flashlight",
+      "title": "Flashlight",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-flask_or_bottle",
+      "title": "Flask Or Bottle",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-flo_pain_bottom_armor",
+      "title": "Flo Pain Bottom Armor",
+      "subtitle": "Floor 2",
+      "blurb": "Shoes and pants in one, styled like apple-patched jeans.",
+      "image": "assets/img/item/flo_pain_bottom_armor.webp"
+    },
+    {
+      "id": "item-football_shoulder_pads",
+      "title": "Football Shoulder Pads",
+      "subtitle": "",
+      "blurb": "worn 1.0 1 arms 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-fresh_plum_sorbet",
+      "title": "Fresh Plum Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. Four purple scoops; cloche 2 bears a bandage.",
+      "image": "assets/img/item/fresh_plum_sorbet.webp"
+    },
+    {
+      "id": "item-frightened_goth_nail_polish",
+      "title": "Frightened Goth Nail Polish",
+      "subtitle": "Floor 2",
+      "blurb": "Dark polish. Melee strikes bleed, and a free slash reaction when you are surprised.",
+      "image": "assets/img/item/frightened_goth_nail_polish.webp"
+    },
+    {
+      "id": "item-frost_horn_helm",
+      "title": "Frost-Horn Helm",
+      "subtitle": "Floor 2",
+      "blurb": "The Subzero Bull's horn bolted to a cooking pot.",
+      "image": "assets/img/item/frost_horn_helm.webp"
+    },
+    {
+      "id": "item-fuzzy_boots_of_ug_gorot",
+      "title": "Fuzzy Boots of Ug'gorot",
+      "subtitle": "Floor 2",
+      "blurb": "Ugly enough to loop back around to cute.",
+      "image": "assets/img/item/fuzzy_boots_of_ug_gorot.webp"
+    },
+    {
+      "id": "item-gambler_s_elixir",
+      "title": "Gambler's Elixir",
+      "subtitle": "Floor 2",
+      "blurb": "Cursed. Doubles half your stats and halves the other half, randomly, and not your choice which.",
+      "image": "assets/img/item/gambler_s_elixir.webp"
+    },
+    {
+      "id": "item-garrote",
+      "title": "Garrote",
+      "subtitle": "",
+      "blurb": "Quiet, close and cruel.",
+      "image": null
+    },
+    {
+      "id": "item-gas_mask",
+      "title": "Gas Mask",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-gem",
+      "title": "Gem",
+      "subtitle": "",
+      "blurb": "pack 1.0 10 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-get_the_wrench",
+      "title": "Get The Wrench",
+      "subtitle": "Floor 2",
+      "blurb": "A magical wrench. Repair, building, and throwing-wrench all go up.",
+      "image": "assets/img/item/get_the_wrench.webp"
+    },
+    {
+      "id": "item-geta_sandals_of_deflection",
+      "title": "Geta Sandals of Deflection",
+      "subtitle": "Floor 2",
+      "blurb": "Semeru geta shod with dwarven plate.",
+      "image": "assets/img/item/geta_sandals_of_deflection.webp"
+    },
+    {
+      "id": "item-gigachad_pauldrons",
+      "title": "Gigachad Pauldrons",
+      "subtitle": "Floor 2",
+      "blurb": "You look like a plate-wearer from a very large online game.",
+      "image": "assets/img/item/gigachad_pauldrons.webp"
+    },
+    {
+      "id": "item-gingerbread_dough",
+      "title": "Gingerbread Dough",
+      "subtitle": "Floor 2",
+      "blurb": "A warm, sweet, sticky lump scraped off the cobbles after the rain.",
+      "image": "assets/img/item/gingerbread_dough.webp"
+    },
+    {
+      "id": "item-gingerbread_proof",
+      "title": "Gingerbread Proof",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 2. Four gingerbread figures, each rising slightly from its plate.",
+      "image": "assets/img/item/gingerbread_proof.webp"
+    },
+    {
+      "id": "item-glow_lichen",
+      "title": "Glow Lichen",
+      "subtitle": "Floor 2",
+      "blurb": "A different colour from the rest of the heap.",
+      "image": "assets/img/item/glow_lichen.webp"
+    },
+    {
+      "id": "item-glow_sticks",
+      "title": "Glow Sticks",
+      "subtitle": "",
+      "blurb": "pack 1.0 3 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-glowcap",
+      "title": "Glowcap",
+      "subtitle": "Floor 2",
+      "blurb": "A small blue mushroom that lights up the palm holding it, like a phone screen.",
+      "image": "assets/img/item/glowcap.webp"
+    },
+    {
+      "id": "item-go_go_gadget_stilts",
+      "title": "Go, Go Gadget Stilts",
+      "subtitle": "Floor 2",
+      "blurb": "Mechanized extendable titanium stilts.",
+      "image": "assets/img/item/go_go_gadget_stilts.webp"
+    },
+    {
+      "id": "item-gold_loot_box",
+      "title": "Gold Loot Box",
+      "subtitle": "Floor 2",
+      "blurb": "A gold loot box. The fanfare is louder than the deed.",
+      "image": "assets/img/item/gold_loot_box.webp"
+    },
+    {
+      "id": "item-golf_club",
+      "title": "Golf Club",
+      "subtitle": "",
+      "blurb": "Fore! Nobody yells it after the swing.",
+      "image": null
+    },
+    {
+      "id": "item-gore_fiend_hand_crossbow",
+      "title": "Gore Fiend Hand Crossbow",
+      "subtitle": "Floor 2",
+      "blurb": "It finishes what something else started.",
+      "image": "assets/img/item/gore_fiend_hand_crossbow.webp"
+    },
+    {
+      "id": "item-gossip_girl_s_drama_dagger",
+      "title": "Gossip Girl's Drama Dagger",
+      "subtitle": "Floor 2",
+      "blurb": "Silver. Crits more easily on a backstab, and shouts one of the victim's secrets whenever it draws blood.",
+      "image": "assets/img/item/gossip_girl_s_drama_dagger.webp"
+    },
+    {
+      "id": "item-gourd_canteen",
+      "title": "Gourd Canteen",
+      "subtitle": "Floor 2",
+      "blurb": "A hollow gourd with a wooden stopper and a vine strap.",
+      "image": "assets/img/item/gourd_canteen.webp"
+    },
+    {
+      "id": "item-gourd_mother_s_heart",
+      "title": "Gourd Mother's Heart",
+      "subtitle": "Floor 2",
+      "blurb": "A dense orange heart the size of a beanbag, veined in green, smelling of autumn.",
+      "image": "assets/img/item/gourd_mother_s_heart.webp"
+    },
+    {
+      "id": "item-grand_master_box_incomplete",
+      "title": "Grand Master Box (Incomplete)",
+      "subtitle": "Floor 2",
+      "blurb": "An enchanted chess set that might be the last game your opponents ever play.",
+      "image": "assets/img/item/grand_master_box_incomplete.webp"
+    },
+    {
+      "id": "item-grappling_hook",
+      "title": "Grappling Hook",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-green_room_mop",
       "title": "Green Room Mop",
       "subtitle": "Floor 2",
-      "preview": "Green Room Mop A string mop still grey from the last party's blood. Somebody wrote MINE on the handle.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [
-        "Lety"
-      ],
-      "body_md": "# Green Room Mop\n\nA string mop still grey from the last party's blood. Somebody wrote MINE on the handle.\n",
-      "body_html": "<h2>Green Room Mop</h2>\n<p>A string mop still grey from the last party&#x27;s blood. Somebody wrote MINE on the handle.</p>"
+      "blurb": "A string mop still grey from the last party's blood.",
+      "image": "assets/img/item/green_room_mop.webp"
+    },
+    {
+      "id": "item-grip_s_man_catcher",
+      "title": "Grip's Man Catcher",
+      "subtitle": "Floor 2",
+      "blurb": "A two-metre aluminium pole with sprung jaws at one end, gaffer-taped grip, GRIP DEPT.",
+      "image": "assets/img/item/grip_s_man_catcher.webp"
+    },
+    {
+      "id": "item-grub_skewer",
+      "title": "Grub Skewer",
+      "subtitle": "Floor 2",
+      "blurb": "Three fat grubs on a bamboo splinter, smoked over the stall fire until they stop moving.",
+      "image": "assets/img/item/grub_skewer.webp"
+    },
+    {
+      "id": "item-guest_bed_bedspring_mail",
+      "title": "Guest-Bed Bedspring Mail",
+      "subtitle": "Floor 2",
+      "blurb": "The guest bed's springs, wired into a vest with oven twine.",
+      "image": "assets/img/item/guest_bed_bedspring_mail.webp"
+    },
+    {
+      "id": "item-gummi_berry_juice",
+      "title": "Gummi Berry Juice",
+      "subtitle": "Floor 2",
+      "blurb": "Fruity, brimming with vitamin C, and the power to bounce like a ball off objects.",
+      "image": "assets/img/item/gummi_berry_juice.webp"
+    },
+    {
+      "id": "item-hacksaw",
+      "title": "Hacksaw",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-hall_pass",
+      "title": "Hall Pass",
+      "subtitle": "Floor 2",
+      "blurb": "Celestial. VIP-level neutrality from mobs, and access to restricted areas.",
+      "image": "assets/img/item/hall_pass.webp"
+    },
+    {
+      "id": "item-hanky_of_offensive_odor_immunity",
+      "title": "Hanky of Offensive Odor Immunity",
+      "subtitle": "Floor 2",
+      "blurb": "Silk.",
+      "image": "assets/img/item/hanky_of_offensive_odor_immunity.webp"
+    },
+    {
+      "id": "item-hard_hat",
+      "title": "Hard Hat",
+      "subtitle": "",
+      "blurb": "worn 1.0 1 head 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-hat_of_hypocrisy",
+      "title": "Hat of Hypocrisy",
+      "subtitle": "Floor 2",
+      "blurb": "A stylish top hat with huge power and a vicious price for anyone who breaks their own words.",
+      "image": "assets/img/item/hat_of_hypocrisy.webp"
+    },
+    {
+      "id": "item-hatchet",
+      "title": "Hatchet",
+      "subtitle": "",
+      "blurb": "Camp tool, crawler weapon.",
+      "image": null
+    },
+    {
+      "id": "item-hatchet_of_utility",
+      "title": "Hatchet of Utility",
+      "subtitle": "Floor 2",
+      "blurb": "Chops, bludgeons, throws, sparks on impact, and helps you climb.",
+      "image": "assets/img/item/hatchet_of_utility.webp"
+    },
+    {
+      "id": "item-head_torch",
+      "title": "Head Torch",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-headdress_of_the_heavenly_dragon",
+      "title": "Headdress of the Heavenly Dragon",
+      "subtitle": "Floor 2",
+      "blurb": "Unique, fleeting, and divine, forged from the 12 Crystals of Dragonkind.",
+      "image": "assets/img/item/headdress_of_the_heavenly_dragon.webp"
+    },
+    {
+      "id": "item-healing_potion",
+      "title": "Healing Potion",
+      "subtitle": "Floor 2",
+      "blurb": "The show's standard red vial. Cherry cough syrup.",
+      "image": "assets/img/item/healing_potion.webp"
+    },
+    {
+      "id": "item-hellbreach_combat_shotgun",
+      "title": "Hellbreach Combat Shotgun",
+      "subtitle": "Floor 2",
+      "blurb": "A demon-plated double-barreled shotgun.",
+      "image": "assets/img/item/hellbreach_combat_shotgun.webp"
+    },
+    {
+      "id": "item-hem_s_remote",
+      "title": "Hem's Remote",
+      "subtitle": "Floor 2",
+      "blurb": "A fat red remote with one button, the same logo as the collar, warm from her pocket.",
+      "image": "assets/img/item/hem_s_remote.webp"
+    },
+    {
+      "id": "item-hide_shield",
+      "title": "Hide Shield",
+      "subtitle": "Floor 2",
+      "blurb": "A turtle shell with a hide strap. Somebody has painted a smiley face on it.",
+      "image": "assets/img/item/hide_shield.webp"
+    },
+    {
+      "id": "item-hockey_chest_protector",
+      "title": "Hockey Chest Protector",
+      "subtitle": "",
+      "blurb": "worn mediumarmour 2.0 1 torso 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-hockey_stick",
+      "title": "Hockey Stick",
+      "subtitle": "",
+      "blurb": "Cross-check first, ask questions never.",
+      "image": null
+    },
+    {
+      "id": "item-holey_sword",
+      "title": "Holey Sword",
+      "subtitle": "Floor 2",
+      "blurb": "Hole-riddled. Damage multiplies on numbers with holes in them.",
+      "image": "assets/img/item/holey_sword.webp"
+    },
+    {
+      "id": "item-homerun_derby_bat",
+      "title": "Homerun Derby Bat",
+      "subtitle": "Floor 2",
+      "blurb": "The trick is not hitting heads with it.",
+      "image": "assets/img/item/homerun_derby_bat.webp"
+    },
+    {
+      "id": "item-honey_glazed_swine",
+      "title": "Honey-Glazed Swine",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 5. Four sticky pork medallions.",
+      "image": "assets/img/item/honey_glazed_swine.webp"
+    },
+    {
+      "id": "item-hoodie_of_slouching",
+      "title": "Hoodie of Slouching",
+      "subtitle": "Floor 2",
+      "blurb": "Oversized and shapeless. Remarkably good at making people's eyes slide straight past you.",
+      "image": "assets/img/item/hoodie_of_slouching.webp"
+    },
+    {
+      "id": "item-hot_lava_wand",
+      "title": "Hot Lava Wand",
+      "subtitle": "Floor 2",
+      "blurb": "Turns fifty feet of floor into something nobody wants to stand on.",
+      "image": "assets/img/item/hot_lava_wand.webp"
+    },
+    {
+      "id": "item-hotel_sewing_kit_bent_needle",
+      "title": "Hotel sewing kit, bent needle",
+      "subtitle": "Floor 2",
+      "blurb": "Two colours of thread and a needle that leans left.",
+      "image": "assets/img/item/hotel_sewing_kit_bent_needle.webp"
+    },
+    {
+      "id": "item-hunter_s_smoke_pot",
+      "title": "Hunter's Smoke Pot",
+      "subtitle": "Floor 2",
+      "blurb": "A tin can with a spout and a little leather bellows, black with soot, full of hickory chips.",
+      "image": "assets/img/item/hunter_s_smoke_pot.webp"
+    },
+    {
+      "id": "item-i_aint_got_time_to_bleed_boonie",
+      "title": "I Aint got Time to Bleed Boonie.",
+      "subtitle": "Floor 2",
+      "blurb": "A 70s tactical hat that refuses to let you bleed out.",
+      "image": "assets/img/item/i_aint_got_time_to_bleed_boonie.webp"
+    },
+    {
+      "id": "item-itsy_bitsy_polka_dot_bikini",
+      "title": "Itsy bitsy polka dot bikini",
+      "subtitle": "Floor 2",
+      "blurb": "Dry, folded, and not armour. People look anyway.",
+      "image": "assets/img/item/itsy_bitsy_polka_dot_bikini.webp"
+    },
+    {
+      "id": "item-iv_bag_of_autodelivery",
+      "title": "IV Bag of Autodelivery",
+      "subtitle": "Floor 2",
+      "blurb": "Worn outside inventory.",
+      "image": "assets/img/item/iv_bag_of_autodelivery.webp"
+    },
+    {
+      "id": "item-jabbadayah_s_ankle_bracelet",
+      "title": "Jabbadayah's Ankle Bracelet",
+      "subtitle": "Floor 2",
+      "blurb": "Gold, charming, and good for a spot of rooting enemies in place.",
+      "image": "assets/img/item/jabbadayah_s_ankle_bracelet.webp"
+    },
+    {
+      "id": "item-jeans",
+      "title": "Jeans",
+      "subtitle": "",
+      "blurb": "worn 1 legs Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-jungle_honey",
       "title": "Jungle Honey",
       "subtitle": "Floor 2",
-      "preview": "Jungle Honey A slab of dark honeycomb the size of a door, dripping.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Jungle Honey\n\nA slab of dark honeycomb the size of a door, dripping.\n",
-      "body_html": "<h2>Jungle Honey</h2>\n<p>A slab of dark honeycomb the size of a door, dripping.</p>"
+      "blurb": "A slab of dark honeycomb the size of a door, dripping.",
+      "image": "assets/img/item/jungle_honey.webp"
+    },
+    {
+      "id": "item-kevlar_vest",
+      "title": "Kevlar Vest",
+      "subtitle": "",
+      "blurb": "worn heavyarmour 2.0 1 torso 2 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-key_to_the_town",
+      "title": "Key to the Town",
+      "subtitle": "Floor 2",
+      "blurb": "A big gingerbread key on a red ribbon, iced with the town crest.",
+      "image": "assets/img/item/key_to_the_town.webp"
+    },
+    {
+      "id": "item-kitchen_glossary_strips",
+      "title": "Kitchen Glossary Strips",
+      "subtitle": "Floor 2",
+      "blurb": "Thin printed strips, cut from a larger book, tucked between archive dividers.",
+      "image": "assets/img/item/kitchen_glossary_strips.webp"
+    },
+    {
+      "id": "item-kitchen_knife",
+      "title": "Kitchen Knife",
+      "subtitle": "",
+      "blurb": "Chef's pick, crawler's problem.",
+      "image": null
+    },
+    {
+      "id": "item-kite_shield_of_the_thorny_devil",
+      "title": "Kite Shield of the Thorny Devil",
+      "subtitle": "Floor 2",
+      "blurb": "Spiked demon-forged plate. It blocks well, and anyone who closes to melee regrets it.",
+      "image": "assets/img/item/kite_shield_of_the_thorny_devil.webp"
+    },
+    {
+      "id": "item-knee_pads",
+      "title": "Knee Pads",
+      "subtitle": "",
+      "blurb": "worn 1 legs 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-knitted_likeness",
+      "title": "Knitted Likeness",
+      "subtitle": "Floor 2",
+      "blurb": "A tiny wool version of you. Worthless.",
+      "image": "assets/img/item/knitted_likeness.webp"
+    },
+    {
+      "id": "item-knuckle_duster_combo_gloves",
+      "title": "Knuckle Duster Combo Gloves",
+      "subtitle": "Floor 2",
+      "blurb": "Studded fingerless gloves. Unbreakable fists, and a stacking combo bonus for alternating punches.",
+      "image": "assets/img/item/knuckle_duster_combo_gloves.webp"
+    },
+    {
+      "id": "item-krakaren_flesh",
+      "title": "Krakaren Flesh",
+      "subtitle": "Floor 2",
+      "blurb": "A slab of white flesh the size of a door, cold and slick, faintly glowing at the cut edge.",
+      "image": "assets/img/item/krakaren_flesh.webp"
+    },
+    {
+      "id": "item-krakaren_ink_cloak",
+      "title": "Krakaren Ink Cloak",
+      "subtitle": "Floor 2",
+      "blurb": "A cloak of pale squid-skin with the ink sac stitched into the lining.",
+      "image": "assets/img/item/krakaren_ink_cloak.webp"
+    },
+    {
+      "id": "item-krakaren_ink_risotto",
+      "title": "Krakaren Ink Risotto",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 3. Four black rice bowls.",
+      "image": "assets/img/item/krakaren_ink_risotto.webp"
+    },
+    {
+      "id": "item-lamp_oil_molotov_cocktail",
+      "title": "Lamp-Oil Molotov Cocktail",
+      "subtitle": "Floor 2",
+      "blurb": "Wine bottles of lamp oil with rag wicks, set well back from the hearth by someone sensible.",
+      "image": "assets/img/item/lamp_oil_molotov_cocktail.webp"
+    },
+    {
+      "id": "item-lanyard",
+      "title": "Lanyard",
+      "subtitle": "",
+      "blurb": "worn 1 gear Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-last_plate",
+      "title": "Last Plate",
+      "subtitle": "Floor 2",
+      "blurb": "Heavy plate. It turns two points of a blow.",
+      "image": "assets/img/item/last_plate.webp"
+    },
+    {
+      "id": "item-lead_pipe",
+      "title": "Lead Pipe",
+      "subtitle": "",
+      "blurb": "Plumber's favorite, mugger's second favorite.",
+      "image": null
+    },
+    {
+      "id": "item-leash_of_the_reckless_child",
+      "title": "Leash of the Reckless Child",
+      "subtitle": "Floor 2",
+      "blurb": "A platinum harness and leash.",
+      "image": "assets/img/item/leash_of_the_reckless_child.webp"
+    },
+    {
+      "id": "item-leather_duster_of_long_walks",
+      "title": "Leather Duster of Long Walks",
+      "subtitle": "Floor 2",
+      "blurb": "An epic long coat. Endurance and constitution, cursed so short-statured beings find the wearer irresistible.",
+      "image": "assets/img/item/leather_duster_of_long_walks.webp"
+    },
+    {
+      "id": "item-leather_gauntlets_of_dexterity",
+      "title": "Leather Gauntlets of Dexterity",
+      "subtitle": "Floor 2",
+      "blurb": "Supple leather that molds to your hands and steadies them for whatever you do next.",
+      "image": "assets/img/item/leather_gauntlets_of_dexterity.webp"
+    },
+    {
+      "id": "item-leather_jacket",
+      "title": "Leather Jacket",
+      "subtitle": "",
+      "blurb": "worn lightarmour 11 True 1.0 1 torso Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-library_prize_token",
+      "title": "Library Prize Token",
+      "subtitle": "Floor 2",
+      "blurb": "A brass fork stamped ONE DISH.",
+      "image": "assets/img/item/library_prize_token.webp"
+    },
+    {
+      "id": "item-library_wine_list",
+      "title": "Library Wine List",
+      "subtitle": "Floor 2",
+      "blurb": "A laminated pairing list on a short wrist chain.",
+      "image": "assets/img/item/library_wine_list.webp"
+    },
+    {
+      "id": "item-lipstick_stained_cigarettes",
+      "title": "Lipstick-stained cigarettes",
+      "subtitle": "Floor 2",
+      "blurb": "Three left in a crushed soft pack.",
+      "image": "assets/img/item/lipstick_stained_cigarettes.webp"
+    },
+    {
+      "id": "item-liquid_courage",
+      "title": "Liquid Courage",
+      "subtitle": "Floor 2",
+      "blurb": "A large temporary boost to Constitution, Charisma, and Strength, with a rough hangover to match.",
+      "image": "assets/img/item/liquid_courage.webp"
+    },
+    {
+      "id": "item-living_jam_reduction",
+      "title": "Living Jam Reduction",
+      "subtitle": "Floor 2",
+      "blurb": "One jar of dark red jam, still warm, its last bubble bursting with a tiny sigh.",
+      "image": "assets/img/item/living_jam_reduction.webp"
+    },
+    {
+      "id": "item-loaded_die",
+      "title": "Loaded Die",
+      "subtitle": "Floor 2",
+      "blurb": "Spend it. The next check is easier, and the one after is harder.",
+      "image": "assets/img/item/loaded_die.webp"
+    },
+    {
+      "id": "item-lockpick_set",
+      "title": "Lockpick Set",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-loki_s_lockpicks",
+      "title": "Loki's Lockpicks",
+      "subtitle": "Floor 2",
+      "blurb": "Cufflinks made by Loki. They pick any lock, and spot and defuse any hazard in a 15-foot radius.",
+      "image": "assets/img/item/loki_s_lockpicks.webp"
+    },
+    {
+      "id": "item-longbow_of_accuracy",
+      "title": "Longbow of Accuracy",
+      "subtitle": "Floor 2",
+      "blurb": "Yew reinforced with grafted horn, carved with leaves and vines.",
+      "image": "assets/img/item/longbow_of_accuracy.webp"
+    },
+    {
+      "id": "item-longsword_of_flaming_retribution",
+      "title": "Longsword of Flaming Retribution",
+      "subtitle": "Floor 2",
+      "blurb": "A silvery blade that never quite cools.",
+      "image": "assets/img/item/longsword_of_flaming_retribution.webp"
+    },
+    {
+      "id": "item-longsword_of_the_tempest",
+      "title": "Longsword of the Tempest",
+      "subtitle": "Floor 2",
+      "blurb": "A forked bolt etched down the blade, and a static charge in the grip.",
+      "image": "assets/img/item/longsword_of_the_tempest.webp"
+    },
+    {
+      "id": "item-low_grade_autographed_cards",
+      "title": "Low-grade autographed cards",
+      "subtitle": "Floor 2",
+      "blurb": "Signed by someone. The name is not one you know.",
+      "image": "assets/img/item/low_grade_autographed_cards.webp"
+    },
+    {
+      "id": "item-mace_of_bluntness",
+      "title": "Mace of Bluntness",
+      "subtitle": "Floor 2",
+      "blurb": "Blunt force trauma with a built-in bullshit detector.",
+      "image": "assets/img/item/mace_of_bluntness.webp"
+    },
+    {
+      "id": "item-machete",
+      "title": "Machete",
+      "subtitle": "",
+      "blurb": "Cuts brush, cuts vines, cuts in.",
+      "image": null
+    },
+    {
+      "id": "item-maribel_s_socks",
+      "title": "Maribel's Socks",
+      "subtitle": "Floor 2",
+      "blurb": "A warm pair from Maribel, who knows your shoe size and should not.",
+      "image": "assets/img/item/maribel_s_socks.webp"
+    },
+    {
+      "id": "item-mask_of_the_dead",
+      "title": "Mask of the Dead",
+      "subtitle": "Floor 2",
+      "blurb": "A fleeting celestial skull mask. A 60-second bond window to gain a scaling resurrection spell, with steep upkeep.",
+      "image": "assets/img/item/mask_of_the_dead.webp"
+    },
+    {
+      "id": "item-master_chef_dagger",
+      "title": "Master Chef Dagger",
+      "subtitle": "Floor 2",
+      "blurb": "Anything it slices tastes better. Unremarkable in a fight, indispensable in a kitchen.",
+      "image": "assets/img/item/master_chef_dagger.webp"
+    },
+    {
+      "id": "item-matches_and_bic_lighters",
+      "title": "Matches and Bic lighters",
+      "subtitle": "Floor 2",
+      "blurb": "A half-full Bic and a damp matchbook.",
+      "image": "assets/img/item/matches_and_bic_lighters.webp"
+    },
+    {
+      "id": "item-megaphone_of_doom",
+      "title": "Megaphone of Doom",
+      "subtitle": "Floor 2",
+      "blurb": "Enhances all voice and sonic performances and attacks by 50%.",
+      "image": "assets/img/item/megaphone_of_doom.webp"
+    },
+    {
+      "id": "item-memorial_card",
+      "title": "Memorial Card",
+      "subtitle": "Floor 2",
+      "blurb": "A card with your face. The stats were wrong.",
+      "image": "assets/img/item/memorial_card.webp"
+    },
+    {
+      "id": "item-mighty_spatula",
+      "title": "Mighty Spatula",
+      "subtitle": "Floor 2",
+      "blurb": "Do not question the sturdiness of this spatula, nor the bulging muscles of the frycook wielding it.",
+      "image": "assets/img/item/mighty_spatula.webp"
+    },
+    {
+      "id": "item-miracle_max_s_magical_mixture",
+      "title": "Miracle Max's Magical Mixture",
+      "subtitle": "Floor 2",
+      "blurb": "One use. Slowly restores a mostly dead crawler back to life over four dungeon days.",
+      "image": "assets/img/item/miracle_max_s_magical_mixture.webp"
+    },
+    {
+      "id": "item-mirror",
+      "title": "Mirror",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-molotov_cocktail",
+      "title": "Molotov Cocktail",
+      "subtitle": "",
+      "blurb": "Bottle, rag, regret. Throw it far away.",
+      "image": null
     },
     {
       "id": "item-monkey_wine",
       "title": "Monkey Wine",
       "subtitle": "Floor 2",
-      "preview": "Monkey Wine A gourd of cloudy fermented fruit, fizzing at the neck. Strong enough to strip paint.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [
-        "Lety"
-      ],
-      "body_md": "# Monkey Wine\n\nA gourd of cloudy fermented fruit, fizzing at the neck. Strong enough to strip paint.\n",
-      "body_html": "<h2>Monkey Wine</h2>\n<p>A gourd of cloudy fermented fruit, fizzing at the neck. Strong enough to strip paint.</p>"
+      "blurb": "A gourd of cloudy fermented fruit, fizzing at the neck.",
+      "image": "assets/img/item/monkey_wine.webp"
     },
     {
       "id": "item-monkey_s_slingshot",
       "title": "Monkey's Slingshot",
       "subtitle": "Floor 2",
-      "preview": "Monkey's Slingshot A forked stick and a strip of surgical tubing, buried under the monkeys' shiny things.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [
-        "Edwardo"
-      ],
-      "body_md": "# Monkey's Slingshot\n\nA forked stick and a strip of surgical tubing, buried under the monkeys' shiny things.\n",
-      "body_html": "<h2>Monkey&#x27;s Slingshot</h2>\n<p>A forked stick and a strip of surgical tubing, buried under the monkeys&#x27; shiny things.</p>"
+      "blurb": "A forked stick and a strip of surgical tubing, buried under the monkeys' shiny things.",
+      "image": "assets/img/item/monkey_s_slingshot.webp"
+    },
+    {
+      "id": "item-mop",
+      "title": "Mop",
+      "subtitle": "",
+      "blurb": "Clean up or club up. Yes, really.",
+      "image": null
+    },
+    {
+      "id": "item-motorcycle_helmet",
+      "title": "Motorcycle Helmet",
+      "subtitle": "",
+      "blurb": "worn 1.0 1 head 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-motorcycle_jacket",
+      "title": "Motorcycle Jacket",
+      "subtitle": "",
+      "blurb": "worn lightarmour 11 True 1.0 1 torso Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-mr_miyagi_mitts",
+      "title": "Mr. Miyagi Mitts",
+      "subtitle": "Floor 2",
+      "blurb": "Wrist wraps that boost dexterity and dodge, with a small chance to simply not be where an attack lands.",
+      "image": "assets/img/item/mr_miyagi_mitts.webp"
+    },
+    {
+      "id": "item-mre_kits",
+      "title": "MRE kits",
+      "subtitle": "Floor 2",
+      "blurb": "Chili mac, or whatever the brown one is.",
+      "image": "assets/img/item/mre_kits.webp"
+    },
+    {
+      "id": "item-multitool",
+      "title": "Multitool",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-nail_bat",
+      "title": "Nail Bat",
+      "subtitle": "",
+      "blurb": "A bat that went to finishing school for bad ideas.",
+      "image": null
+    },
+    {
+      "id": "item-nail_gun",
+      "title": "Nail Gun",
+      "subtitle": "",
+      "blurb": "Fast, loud and pointy.",
+      "image": null
+    },
+    {
+      "id": "item-nose_ring_of_entrancement",
+      "title": "Nose Ring of Entrancement",
+      "subtitle": "Floor 2",
+      "blurb": "Gold, hypnotic, and carried on a trance of mouth-sounds.",
+      "image": "assets/img/item/nose_ring_of_entrancement.webp"
+    },
+    {
+      "id": "item-obsidian_spear",
+      "title": "Obsidian Spear",
+      "subtitle": "Floor 2",
+      "blurb": "A black glass leaf of a spearhead on a bamboo shaft.",
+      "image": "assets/img/item/obsidian_spear.webp"
+    },
+    {
+      "id": "item-old_baking_spices",
+      "title": "Old Baking Spices",
+      "subtitle": "Floor 2",
+      "blurb": "A dented communal biscuit tin. Every household has signed the lid.",
+      "image": "assets/img/item/old_baking_spices.webp"
+    },
+    {
+      "id": "item-old_barm",
+      "title": "Old Barm",
+      "subtitle": "Floor 2",
+      "blurb": "A stoneware crock of grey, bubbling sourdough starter with a cloth over the top.",
+      "image": "assets/img/item/old_barm.webp"
+    },
+    {
+      "id": "item-old_cured_hide_s_hide",
+      "title": "Old Cured Hide's Hide",
+      "subtitle": "Floor 2",
+      "blurb": "A sheet of black smoked hide, stiff as a door, smelling overwhelmingly of bacon.",
+      "image": "assets/img/item/old_cured_hide_s_hide.webp"
+    },
+    {
+      "id": "item-old_country_cinnamon",
+      "title": "Old-Country Cinnamon",
+      "subtitle": "Floor 2",
+      "blurb": "A curl of dark bark, warm in the hand, sold by a tiny old woman for a copper and a compliment.",
+      "image": "assets/img/item/old_country_cinnamon.webp"
+    },
+    {
+      "id": "item-olu_s_glossary_page",
+      "title": "Olu's Glossary Page",
+      "subtitle": "Floor 2",
+      "blurb": "A grease-spotted page with two columns: IN THE PAN and IN THE EATER.",
+      "image": "assets/img/item/olu_s_glossary_page.webp"
+    },
+    {
+      "id": "item-overclock_cap",
+      "title": "Overclock Cap",
+      "subtitle": "Floor 2",
+      "blurb": "Once. Two rounds of overclock, then a round of exhaustion.",
+      "image": "assets/img/item/overclock_cap.webp"
+    },
+    {
+      "id": "item-overripe_mango",
+      "title": "Overripe Mango",
+      "subtitle": "Floor 2",
+      "blurb": "Penny flicks the flies off before she hands it over.",
+      "image": "assets/img/item/overripe_mango.webp"
+    },
+    {
+      "id": "item-painkillers",
+      "title": "Painkillers",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-paperback_copy_of_a_doll_s_house",
+      "title": "Paperback copy of A Doll's House",
+      "subtitle": "Floor 2",
+      "blurb": "Ibsen, spine cracked. Nora has already left.",
+      "image": "assets/img/item/paperback_copy_of_a_doll_s_house.webp"
+    },
+    {
+      "id": "item-paracord_50",
+      "title": "Paracord 50",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-paradox_codex_of_witnessed_deeds",
+      "title": "Paradox Codex of Witnessed Deeds",
+      "subtitle": "Floor 2",
+      "blurb": "A sentient hovering tome. It records everything its owner does and can replay past actions for a combat bonus.",
+      "image": "assets/img/item/paradox_codex_of_witnessed_deeds.webp"
+    },
+    {
+      "id": "item-park_ranger_s_kevlar_vest",
+      "title": "Park Ranger's Kevlar Vest",
+      "subtitle": "Floor 2",
+      "blurb": "A ranger's vest, RAPTOR CONTROL across the back, with three long claw grooves that stopped just short.",
+      "image": "assets/img/item/park_ranger_s_kevlar_vest.webp"
+    },
+    {
+      "id": "item-parkour_shoes",
+      "title": "Parkour Shoes",
+      "subtitle": "Floor 2",
+      "blurb": "A Dexterity boost, wall-walking, and freerunning, plus fluent French.",
+      "image": "assets/img/item/parkour_shoes.webp"
+    },
+    {
+      "id": "item-party_crasher",
+      "title": "Party Crasher",
+      "subtitle": "Floor 2",
+      "blurb": "An enchanted mace, a party favorite among people who frequent Oktoberfest or wish their local warm-beer party had been the idea and not…",
+      "image": "assets/img/item/party_crasher.webp"
+    },
+    {
+      "id": "item-pauldrons_of_damage_reflection",
+      "title": "Pauldrons of Damage Reflection",
+      "subtitle": "Floor 2",
+      "blurb": "Articulated steel shoulders in deep red and black enamel, flared into a bulwark.",
+      "image": "assets/img/item/pauldrons_of_damage_reflection.webp"
+    },
+    {
+      "id": "item-pearl_s_steam_hose",
+      "title": "Pearl's Steam Hose",
+      "subtitle": "Floor 2",
+      "blurb": "A coiled insulated hose, a brass nozzle and a pair of thick washing-up gloves.",
+      "image": "assets/img/item/pearl_s_steam_hose.webp"
+    },
+    {
+      "id": "item-pepper_spray",
+      "title": "Pepper Spray",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-pet_biscuit",
+      "title": "Pet Biscuit",
+      "subtitle": "Floor 2",
+      "blurb": "A pet treat. Nobody admits to eating one.",
+      "image": "assets/img/item/pet_biscuit.webp"
+    },
+    {
+      "id": "item-petrol_can",
+      "title": "Petrol Can",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-phoenix_souffl",
+      "title": "Phoenix Soufflé",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 6. The engraved plinth reads UNVERIFIED DONATION.",
+      "image": "assets/img/item/phoenix_souffl.webp"
+    },
+    {
+      "id": "item-pickaxe",
+      "title": "Pickaxe",
+      "subtitle": "",
+      "blurb": "Digs ore, digs trouble.",
+      "image": null
+    },
+    {
+      "id": "item-pink_crocs",
+      "title": "Pink Crocs",
+      "subtitle": "",
+      "blurb": "Bright pink, squishy and completely unapologetic.",
+      "image": null
+    },
+    {
+      "id": "item-pip_s_gaffer_tape",
+      "title": "Pip's Gaffer Tape",
+      "subtitle": "Floor 2",
+      "blurb": "A half roll of black gaffer tape with RUNNER written inside in marker.",
+      "image": "assets/img/item/pip_s_gaffer_tape.webp"
+    },
+    {
+      "id": "item-pipe_bomb",
+      "title": "Pipe Bomb",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-pipe_of_mystery",
+      "title": "Pipe of Mystery",
+      "subtitle": "Floor 2",
+      "blurb": "Smoked, it produces a cloud of literal mystery.",
+      "image": "assets/img/item/pipe_of_mystery.webp"
+    },
+    {
+      "id": "item-pipe_wrench",
+      "title": "Pipe Wrench",
+      "subtitle": "",
+      "blurb": "Heavy, adjustable and not meant for pipes anymore.",
+      "image": null
+    },
+    {
+      "id": "item-pitch_torch",
+      "title": "Pitch Torch",
+      "subtitle": "Floor 2",
+      "blurb": "A bundle of reed dipped in tree pitch.",
+      "image": "assets/img/item/pitch_torch.webp"
+    },
+    {
+      "id": "item-plodder_rump",
+      "title": "Plodder Rump",
+      "subtitle": "Floor 2",
+      "blurb": "A grey rump steak the size of a suitcase, marbled green from a life of ferns.",
+      "image": "assets/img/item/plodder_rump.webp"
+    },
+    {
+      "id": "item-plug_in_wall_air_fresheners",
+      "title": "Plug-in wall air fresheners",
+      "subtitle": "Floor 2",
+      "blurb": "Ocean mist, still in the blister pack.",
+      "image": "assets/img/item/plug_in_wall_air_fresheners.webp"
+    },
+    {
+      "id": "item-plumb_compass",
+      "title": "Plumb Compass",
+      "subtitle": "Floor 2",
+      "blurb": "A brass compass with no N on the dial.",
+      "image": "assets/img/item/plumb_compass.webp"
+    },
+    {
+      "id": "item-pocket_protector_of_convenience",
+      "title": "Pocket Protector of Convenience",
+      "subtitle": "Floor 2",
+      "blurb": "Clips into a shirt pocket and quietly buys three more Hotlist slots, for anything small enough to fit.",
+      "image": "assets/img/item/pocket_protector_of_convenience.webp"
+    },
+    {
+      "id": "item-pocket_sand",
+      "title": "Pocket sand",
+      "subtitle": "Floor 2",
+      "blurb": "A bandana knotted around a handful of grit.",
+      "image": "assets/img/item/pocket_sand.webp"
+    },
+    {
+      "id": "item-pocket_star",
+      "title": "Pocket Star",
+      "subtitle": "Floor 2",
+      "blurb": "A marble of starfire.",
+      "image": "assets/img/item/pocket_star.webp"
+    },
+    {
+      "id": "item-pointed_stick",
+      "title": "Pointed Stick",
+      "subtitle": "Floor 2",
+      "blurb": "Green bamboo, one end chewed to a point.",
+      "image": "assets/img/item/pointed_stick.webp"
+    },
+    {
+      "id": "item-polaroid_camera",
+      "title": "Polaroid Camera",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-poppy_mint_sorbet",
+      "title": "Poppy-Mint Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. A black-speckled green ice; cloche 1 bears a claw.",
+      "image": "assets/img/item/poppy_mint_sorbet.webp"
+    },
+    {
+      "id": "item-pot_lid_plate",
+      "title": "Pot-Lid Plate",
+      "subtitle": "Floor 2",
+      "blurb": "Saucepan lids and a roasting tray, riveted onto apron straps.",
+      "image": "assets/img/item/pot_lid_plate.webp"
+    },
+    {
+      "id": "item-potion_of_as_you_wish",
+      "title": "Potion of \"As You Wish\"",
+      "subtitle": "Floor 2",
+      "blurb": "Guarantees success on any action committed to for 10 seconds, with no way to change your mind mid-action.",
+      "image": "assets/img/item/potion_of_as_you_wish.webp"
+    },
+    {
+      "id": "item-potion_of_on_your_left",
+      "title": "Potion of \"On Your Left\"",
+      "subtitle": "Floor 2",
+      "blurb": "A speed potion. Loop past enemies and leave afterimages, then total exhaustion.",
+      "image": "assets/img/item/potion_of_on_your_left.webp"
+    },
+    {
+      "id": "item-potion_of_anaphylaxis",
+      "title": "Potion of Anaphylaxis",
+      "subtitle": "Floor 2",
+      "blurb": "A poison that induces an allergic reaction and cuts off the target's ability to breathe.",
+      "image": "assets/img/item/potion_of_anaphylaxis.webp"
+    },
+    {
+      "id": "item-potion_of_flowing_lochs",
+      "title": "Potion of Flowing Lochs",
+      "subtitle": "Floor 2",
+      "blurb": "A coin flip. Either water shoots from the drinker's fingertips, or extreme, unstoppable hair growth.",
+      "image": "assets/img/item/potion_of_flowing_lochs.webp"
+    },
+    {
+      "id": "item-potion_of_luck",
+      "title": "Potion of Luck",
+      "subtitle": "Floor 2",
+      "blurb": "Hours of unspecified luck.",
+      "image": "assets/img/item/potion_of_luck.webp"
+    },
+    {
+      "id": "item-potion_of_mild_overconfidence",
+      "title": "Potion of Mild Overconfidence",
+      "subtitle": "Floor 2",
+      "blurb": "Fizzy and purple. Absolute, unearned certainty for persuasion, bluffing, and terrible ideas.",
+      "image": "assets/img/item/potion_of_mild_overconfidence.webp"
+    },
+    {
+      "id": "item-potion_of_personal_soundtrack",
+      "title": "Potion of Personal Soundtrack",
+      "subtitle": "Floor 2",
+      "blurb": "Plays the drinker's favorite song in their head.",
+      "image": "assets/img/item/potion_of_personal_soundtrack.webp"
+    },
+    {
+      "id": "item-potion_of_psychic_manipulation",
+      "title": "Potion of Psychic Manipulation",
+      "subtitle": "Floor 2",
+      "blurb": "Control a single target's perception of reality.",
+      "image": "assets/img/item/potion_of_psychic_manipulation.webp"
+    },
+    {
+      "id": "item-potion_of_spike_growth",
+      "title": "Potion of Spike Growth",
+      "subtitle": "Floor 2",
+      "blurb": "Dozens of thorny spikes sprout from the drinker's body.",
+      "image": "assets/img/item/potion_of_spike_growth.webp"
+    },
+    {
+      "id": "item-potion_of_water_walking",
+      "title": "Potion of Water Walking",
+      "subtitle": "Floor 2",
+      "blurb": "A dark blue potion. Walk on water for a few hours.",
+      "image": "assets/img/item/potion_of_water_walking.webp"
+    },
+    {
+      "id": "item-pouch_of_foraging",
+      "title": "Pouch of Foraging",
+      "subtitle": "Floor 2",
+      "blurb": "Holds foraged items, and slowly duplicates them.",
+      "image": "assets/img/item/pouch_of_foraging.webp"
+    },
+    {
+      "id": "item-power_bank",
+      "title": "Power Bank",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-pre_collapse_parking_ticket",
+      "title": "Pre-Collapse parking ticket",
+      "subtitle": "Floor 2",
+      "blurb": "Unpaid. The meter maid is not coming.",
+      "image": "assets/img/item/pre_collapse_parking_ticket.webp"
+    },
+    {
+      "id": "item-premiere_jacket",
+      "title": "Premiere Jacket",
+      "subtitle": "Floor 2",
+      "blurb": "A satin show jacket, your crawler number in sequins across the back.",
+      "image": "assets/img/item/premiere_jacket.webp"
+    },
+    {
+      "id": "item-prince_albert_of_destiny",
+      "title": "Prince Albert of Destiny",
+      "subtitle": "Floor 2",
+      "blurb": "A piercing that tells the wearer whether their luck is high, neutral, or low, based on the strength of their erection.",
+      "image": "assets/img/item/prince_albert_of_destiny.webp"
     },
     {
       "id": "item-prop_hockey_chest_protector",
       "title": "Prop Hockey Chest Protector",
       "subtitle": "Floor 2",
-      "preview": "Prop Hockey Chest Protector A hockey chest protector from a sports-show set, foam showing at every seam.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Prop Hockey Chest Protector\n\nA hockey chest protector from a sports-show set, foam showing at every seam.\n",
-      "body_html": "<h2>Prop Hockey Chest Protector</h2>\n<p>A hockey chest protector from a sports-show set, foam showing at every seam.</p>"
+      "blurb": "A hockey chest protector from a sports-show set, foam showing at every seam.",
+      "image": "assets/img/item/prop_hockey_chest_protector.webp"
     },
     {
       "id": "item-prop_steak_knife",
       "title": "Prop Steak Knife",
       "subtitle": "Floor 2",
-      "preview": "Prop Steak Knife A serrated steak knife from a catering tray, tagged PROP in red tape. It is not a prop.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Prop Steak Knife\n\nA serrated steak knife from a catering tray, tagged PROP in red tape. It is not a prop.\n",
-      "body_html": "<h2>Prop Steak Knife</h2>\n<p>A serrated steak knife from a catering tray, tagged PROP in red tape. It is not a prop.</p>"
+      "blurb": "A serrated steak knife from a catering tray, tagged PROP in red tape.",
+      "image": "assets/img/item/prop_steak_knife.webp"
     },
     {
       "id": "item-prop_table_leg",
       "title": "Prop Table Leg",
       "subtitle": "Floor 2",
-      "preview": "Prop Table Leg A turned oak leg off a breakaway table, snapped clean at the joint.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Prop Table Leg\n\nA turned oak leg off a breakaway table, snapped clean at the joint.\n",
-      "body_html": "<h2>Prop Table Leg</h2>\n<p>A turned oak leg off a breakaway table, snapped clean at the joint.</p>"
+      "blurb": "A turned oak leg off a breakaway table, snapped clean at the joint.",
+      "image": "assets/img/item/prop_table_leg.webp"
     },
     {
       "id": "item-propolis_salve",
       "title": "Propolis Salve",
       "subtitle": "Floor 2",
-      "preview": "Propolis Salve A wad of dark, resinous gum cut from the seam of the wax door. It smells of pine and cough drops.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Propolis Salve\n\nA wad of dark, resinous gum cut from the seam of the wax door. It smells of pine and cough drops.\n",
-      "body_html": "<h2>Propolis Salve</h2>\n<p>A wad of dark, resinous gum cut from the seam of the wax door. It smells of pine and cough drops.</p>"
+      "blurb": "A wad of dark, resinous gum cut from the seam of the wax door.",
+      "image": "assets/img/item/propolis_salve.webp"
+    },
+    {
+      "id": "item-protein_bars",
+      "title": "Protein Bars",
+      "subtitle": "",
+      "blurb": "pack 1.0 5 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-quarry_sack",
+      "title": "Quarry Sack",
+      "subtitle": "Floor 2",
+      "blurb": "The bag holds a room of torn-out fixtures.",
+      "image": "assets/img/item/quarry_sack.webp"
+    },
+    {
+      "id": "item-quarter_full_bottle_of_soy_sauce",
+      "title": "Quarter-full bottle of soy sauce",
+      "subtitle": "Floor 2",
+      "blurb": "Takeout packet's meaner cousin. Salty enough to count.",
+      "image": "assets/img/item/quarter_full_bottle_of_soy_sauce.webp"
+    },
+    {
+      "id": "item-queen_cell",
+      "title": "Queen Cell",
+      "subtitle": "Floor 2",
+      "blurb": "A wax capsule the size of a beer keg, peanut-shaped, warm, and moving.",
+      "image": "assets/img/item/queen_cell.webp"
+    },
+    {
+      "id": "item-queen_mellifera_s_stinger",
+      "title": "Queen Mellifera's Stinger",
+      "subtitle": "Floor 2",
+      "blurb": "A stinger as long as a forearm, a bead of venom still at the tip.",
+      "image": "assets/img/item/queen_mellifera_s_stinger.webp"
+    },
+    {
+      "id": "item-queen_s_venom_sac",
+      "title": "Queen's Venom Sac",
+      "subtitle": "Floor 2",
+      "blurb": "A translucent bag the size of a melon, sloshing, with the stinger still attached.",
+      "image": "assets/img/item/queen_s_venom_sac.webp"
+    },
+    {
+      "id": "item-radiant_moonglow_longsword",
+      "title": "Radiant Moonglow Longsword",
+      "subtitle": "Floor 2",
+      "blurb": "Drawn, it spills the soft light of a full moon twenty feet in every direction.",
+      "image": "assets/img/item/radiant_moonglow_longsword.webp"
+    },
+    {
+      "id": "item-random_bags_of_snack_foods",
+      "title": "Random bags of snack foods",
+      "subtitle": "Floor 2",
+      "blurb": "Crumbs, salt, and a cheese puff that survived the Collapse.",
+      "image": "assets/img/item/random_bags_of_snack_foods.webp"
+    },
+    {
+      "id": "item-random_over_the_counter_drugs",
+      "title": "Random over-the-counter drugs",
+      "subtitle": "Floor 2",
+      "blurb": "A ziplock of cold pills and something for joints.",
+      "image": "assets/img/item/random_over_the_counter_drugs.webp"
+    },
+    {
+      "id": "item-rapier_of_repositioning",
+      "title": "Rapier of Repositioning",
+      "subtitle": "Floor 2",
+      "blurb": "Basket-hilted. Once per combat, teleport along line of sight.",
+      "image": "assets/img/item/rapier_of_repositioning.webp"
+    },
+    {
+      "id": "item-raptor_egg",
+      "title": "Raptor Egg",
+      "subtitle": "Floor 2",
+      "blurb": "A speckled egg the size of a football, warm, heavy, and every so often it moves.",
+      "image": "assets/img/item/raptor_egg.webp"
+    },
+    {
+      "id": "item-raptor_steak",
+      "title": "Raptor Steak",
+      "subtitle": "Floor 2",
+      "blurb": "A lean red steak off a pack raptor, a little gamey.",
+      "image": "assets/img/item/raptor_steak.webp"
+    },
+    {
+      "id": "item-raptor_tartare",
+      "title": "Raptor Tartare",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 5. Raw raptor on four small plates.",
+      "image": "assets/img/item/raptor_tartare.webp"
+    },
+    {
+      "id": "item-rebar",
+      "title": "Rebar",
+      "subtitle": "",
+      "blurb": "A bar of construction steel. Hit something with it.",
+      "image": null
+    },
+    {
+      "id": "item-rebar_spikes",
+      "title": "Rebar Spikes",
+      "subtitle": "",
+      "blurb": "pack 1.0 10 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-reserve_caviar_tin",
+      "title": "Reserve Caviar Tin",
+      "subtitle": "Floor 2",
+      "blurb": "A gold tin of black caviar, cold and sealed beneath a smear of amber jelly.",
+      "image": "assets/img/item/reserve_caviar_tin.webp"
+    },
+    {
+      "id": "item-reserve_packing_ice",
+      "title": "Reserve Packing Ice",
+      "subtitle": "Floor 2",
+      "blurb": "A sack of fresh ice cubes wrapped in silver insulation.",
+      "image": "assets/img/item/reserve_packing_ice.webp"
+    },
+    {
+      "id": "item-retractable_shield_of_repulsion",
+      "title": "Retractable Shield of Repulsion",
+      "subtitle": "Floor 2",
+      "blurb": "Retracts to a wrist bracer. Reverses metal weapon attacks, ranged and melee alike.",
+      "image": "assets/img/item/retractable_shield_of_repulsion.webp"
+    },
+    {
+      "id": "item-returning_carving_knife",
+      "title": "Returning Carving Knife",
+      "subtitle": "Floor 2",
+      "blurb": "A polished carving knife with a little whistle set into its handle.",
+      "image": "assets/img/item/returning_carving_knife.webp"
+    },
+    {
+      "id": "item-ring_around_the_rosie",
+      "title": "Ring Around the Rosie",
+      "subtitle": "Floor 2",
+      "blurb": "Gold. Once per scene, teleport behind an adjacent target, set them alight, and knock them down.",
+      "image": "assets/img/item/ring_around_the_rosie.webp"
+    },
+    {
+      "id": "item-ring_of_divine_intervention",
+      "title": "Ring of Divine Intervention",
+      "subtitle": "Floor 2",
+      "blurb": "Bound.",
+      "image": "assets/img/item/ring_of_divine_intervention.webp"
+    },
+    {
+      "id": "item-ring_of_five_rings",
+      "title": "Ring of Five Rings",
+      "subtitle": "Floor 2",
+      "blurb": "Summons up to five floating magical discs that can carry weight.",
+      "image": "assets/img/item/ring_of_five_rings.webp"
+    },
+    {
+      "id": "item-ring_of_regeneration",
+      "title": "Ring of Regeneration",
+      "subtitle": "Floor 2",
+      "blurb": "Wear it. The first blow that lands puts two points back.",
+      "image": "assets/img/item/ring_of_regeneration.webp"
+    },
+    {
+      "id": "item-ring_of_situational_unawareness",
+      "title": "Ring of Situational Unawareness",
+      "subtitle": "Floor 2",
+      "blurb": "A silver band. Put it on and you stop noticing things.",
+      "image": "assets/img/item/ring_of_situational_unawareness.webp"
+    },
+    {
+      "id": "item-ring_of_the_baddie_bride",
+      "title": "Ring of the Baddie Bride",
+      "subtitle": "Floor 2",
+      "blurb": "One half of a paired gold set. While both are worn, each crawler gains their partner's highest stat, topped up every floor.",
+      "image": "assets/img/item/ring_of_the_baddie_bride.webp"
+    },
+    {
+      "id": "item-ring_of_the_groovy_groom",
+      "title": "Ring of the Groovy Groom",
+      "subtitle": "Floor 2",
+      "blurb": "The other half of the paired gold set.",
+      "image": "assets/img/item/ring_of_the_groovy_groom.webp"
+    },
+    {
+      "id": "item-ring_of_the_hound",
+      "title": "Ring of the Hound",
+      "subtitle": "Floor 2",
+      "blurb": "A bloodhound's sense of smell, and the habit of snuffling the ground.",
+      "image": "assets/img/item/ring_of_the_hound.webp"
+    },
+    {
+      "id": "item-ring_of_welcome_warmth",
+      "title": "Ring of Welcome Warmth",
+      "subtitle": "Floor 2",
+      "blurb": "Black enamel. Any frozen environment feels like a mild spring day, and Constitution goes up.",
+      "image": "assets/img/item/ring_of_welcome_warmth.webp"
+    },
+    {
+      "id": "item-riot_armor",
+      "title": "Riot Armor",
+      "subtitle": "",
+      "blurb": "worn heavyarmour 3.0 1 torso 2 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-riot_helmet",
+      "title": "Riot Helmet",
+      "subtitle": "",
+      "blurb": "worn 1.0 1 head 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-ripe_pumpkin_bomb",
+      "title": "Ripe Pumpkin Bomb",
+      "subtitle": "Floor 2",
+      "blurb": "A glowing orange pumpkin, humming, too hot to hold for long.",
+      "image": "assets/img/item/ripe_pumpkin_bomb.webp"
+    },
+    {
+      "id": "item-risky_potion_of_identity_crisis",
+      "title": "Risky Potion of Identity Crisis",
+      "subtitle": "Floor 2",
+      "blurb": "A risky potion that leaves you unsure who you are.",
+      "image": "assets/img/item/risky_potion_of_identity_crisis.webp"
+    },
+    {
+      "id": "item-ritual_dagger_of_the_spell_thief",
+      "title": "Ritual Dagger of the Spell Thief",
+      "subtitle": "Floor 2",
+      "blurb": "Gold. Intercept an incoming spell, store it in the hilt, and cast it back the same round.",
+      "image": "assets/img/item/ritual_dagger_of_the_spell_thief.webp"
+    },
+    {
+      "id": "item-road_flare",
+      "title": "Road Flare",
+      "subtitle": "",
+      "blurb": "Burns bright, burns hot, burns out.",
+      "image": null
+    },
+    {
+      "id": "item-rope_60",
+      "title": "Rope 60",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-rosa_s_secateurs",
+      "title": "Rosa's Secateurs",
+      "subtitle": "Floor 2",
+      "blurb": "Red-handled pruning shears, sticky with sap, very sharp.",
+      "image": "assets/img/item/rosa_s_secateurs.webp"
+    },
+    {
+      "id": "item-rose_of_stoppage",
+      "title": "Rose of Stoppage",
+      "subtitle": "Floor 2",
+      "blurb": "Crystalline rose-shaped throwing daggers.",
+      "image": "assets/img/item/rose_of_stoppage.webp"
+    },
+    {
+      "id": "item-royal_jelly",
+      "title": "Royal Jelly",
+      "subtitle": "Floor 2",
+      "blurb": "A pale wobbling mass from the hive's core, warm, faintly glowing.",
+      "image": "assets/img/item/royal_jelly.webp"
+    },
+    {
+      "id": "item-running_raspberry_sorbet",
+      "title": "Running Raspberry Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. Four red scoops; cloche 7 bears flowing footprints.",
+      "image": "assets/img/item/running_raspberry_sorbet.webp"
+    },
+    {
+      "id": "item-rusk_s_bread_pudding",
+      "title": "Rusk's Bread Pudding",
+      "subtitle": "Floor 2",
+      "blurb": "A wedge of the old-country bread pudding in a twist of baking paper, cinnamon on top.",
+      "image": "assets/img/item/rusk_s_bread_pudding.webp"
+    },
+    {
+      "id": "item-rusk_s_golf_club",
+      "title": "Rusk's Golf Club",
+      "subtitle": "Floor 2",
+      "blurb": "A gingerbread-handled seven iron. Grandpa Rusk says he was a scratch golfer before the icing.",
+      "image": "assets/img/item/rusk_s_golf_club.webp"
+    },
+    {
+      "id": "item-rusk_s_knuckle",
+      "title": "Rusk's Knuckle",
+      "subtitle": "Floor 2",
+      "blurb": "A dry brown knuckle of gingerbread, faded piping, a paper label in shaky handwriting.",
+      "image": "assets/img/item/rusk_s_knuckle.webp"
+    },
+    {
+      "id": "item-sabatier_s_trick_shot_compound_bow",
+      "title": "Sabatier's Trick-Shot Compound Bow",
+      "subtitle": "Floor 2",
+      "blurb": "The compound bow from Sabatier's trick-shot act, sights set for apples on heads.",
+      "image": "assets/img/item/sabatier_s_trick_shot_compound_bow.webp"
+    },
+    {
+      "id": "item-sadomasochist_s_jewellery_set",
+      "title": "Sadomasochist's Jewellery Set",
+      "subtitle": "Floor 2",
+      "blurb": "Necklace, ring, nipple ring, earring, and bracelet.",
+      "image": "assets/img/item/sadomasochist_s_jewellery_set.webp"
+    },
+    {
+      "id": "item-sai",
+      "title": "Sai",
+      "subtitle": "",
+      "blurb": "Twin prongs, trick moves.",
+      "image": null
+    },
+    {
+      "id": "item-salt_cellar",
+      "title": "Salt Cellar",
+      "subtitle": "Floor 2",
+      "blurb": "A glass salt cellar, full. The kitchen always runs short.",
+      "image": "assets/img/item/salt_cellar.webp"
+    },
+    {
+      "id": "item-salt_lick_crystal",
+      "title": "Salt Lick Crystal",
+      "subtitle": "Floor 2",
+      "blurb": "A fist-sized salt crystal. Pale light moves inside it like water under ice.",
+      "image": "assets/img/item/salt_lick_crystal.webp"
+    },
+    {
+      "id": "item-sample_can",
+      "title": "Sample Can",
+      "subtitle": "Floor 2",
+      "blurb": "One can. Three rounds where you hit harder, then you stun out for a round.",
+      "image": "assets/img/item/sample_can.webp"
+    },
+    {
+      "id": "item-sandals_of_the_storm_bringer",
+      "title": "Sandals of the Storm Bringer",
+      "subtitle": "Floor 2",
+      "blurb": "Winged sandals. Flight, and elemental spellcasting over wind and electricity, once or daily depending on the ability.",
+      "image": "assets/img/item/sandals_of_the_storm_bringer.webp"
+    },
+    {
+      "id": "item-santa_s_sack",
+      "title": "Santa's Sack",
+      "subtitle": "Floor 2",
+      "blurb": "Once per crawler. A mystery reward suited to the recipient, plus chimney travel and universal goodwill from elves and deer.",
+      "image": "assets/img/item/santa_s_sack.webp"
+    },
+    {
+      "id": "item-scabbard_of_wtf",
+      "title": "Scabbard of WTF",
+      "subtitle": "Floor 2",
+      "blurb": "Any sword drawn from it gains a bonus that scales with level.",
+      "image": "assets/img/item/scabbard_of_wtf.webp"
+    },
+    {
+      "id": "item-scabbard_of_wtf_celestial",
+      "title": "Scabbard of WTF (Celestial)",
+      "subtitle": "Floor 2",
+      "blurb": "Empowers any sword drawn from it.",
+      "image": "assets/img/item/scabbard_of_wtf_celestial.webp"
     },
     {
       "id": "item-scorch_sauce",
       "title": "Scorch Sauce",
       "subtitle": "Floor 2",
-      "preview": "Scorch Sauce A bottle of luminous orange sauce with a cartoon flame grinning on the label. SCORCH! THE TASTE THAT BITES BACK.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [],
-      "body_md": "# Scorch Sauce\n\nA bottle of luminous orange sauce with a cartoon flame grinning on the label. SCORCH! THE TASTE THAT BITES BACK.\n",
-      "body_html": "<h2>Scorch Sauce</h2>\n<p>A bottle of luminous orange sauce with a cartoon flame grinning on the label. SCORCH! THE TASTE THAT BITES BACK.</p>"
+      "blurb": "A bottle of luminous orange sauce with a cartoon flame grinning on the label.",
+      "image": "assets/img/item/scorch_sauce.webp"
+    },
+    {
+      "id": "item-scout_this_monocle",
+      "title": "Scout This Monocle",
+      "subtitle": "Floor 2",
+      "blurb": "A single lens. It picks out what matters at range and tells you where to put the shot.",
+      "image": "assets/img/item/scout_this_monocle.webp"
+    },
+    {
+      "id": "item-scrabble_board",
+      "title": "Scrabble Board",
+      "subtitle": "Floor 2",
+      "blurb": "An upgradable Scrabble set. Permanently rename and alter your own spells with found letter tiles.",
+      "image": "assets/img/item/scrabble_board.webp"
+    },
+    {
+      "id": "item-second_helping_cooler",
+      "title": "Second Helping Cooler",
+      "subtitle": "Floor 2",
+      "blurb": "A double-width white cool box with six numbered compartments and a padded back strap.",
+      "image": "assets/img/item/second_helping_cooler.webp"
+    },
+    {
+      "id": "item-sedative_darts",
+      "title": "Sedative Darts",
+      "subtitle": "Floor 2",
+      "blurb": "Six fat darts in a foam case, each labelled NIGHTY-NIGHT in a children's font.",
+      "image": "assets/img/item/sedative_darts.webp"
+    },
+    {
+      "id": "item-self_repair_all_purpose_towel",
+      "title": "Self Repair All Purpose Towel",
+      "subtitle": "Floor 2",
+      "blurb": "It repairs itself.",
+      "image": "assets/img/item/self_repair_all_purpose_towel.webp"
+    },
+    {
+      "id": "item-set_builder_s_nail_gun",
+      "title": "Set Builder's Nail gun",
+      "subtitle": "Floor 2",
+      "blurb": "A cordless framing nailer Pearl fished out of the drains, still loaded from building the Last Set.",
+      "image": "assets/img/item/set_builder_s_nail_gun.webp"
+    },
+    {
+      "id": "item-shield",
+      "title": "Shield",
+      "subtitle": "",
+      "blurb": "hand 1 shields 2 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-shillelagh_full_o_bees",
+      "title": "Shillelagh Full o' Bees",
+      "subtitle": "Floor 2",
+      "blurb": "A blackthorn club.",
+      "image": "assets/img/item/shillelagh_full_o_bees.webp"
+    },
+    {
+      "id": "item-shock_collar",
+      "title": "Shock Collar",
+      "subtitle": "Floor 2",
+      "blurb": "A chrome collar with a blinking sponsor logo and a handheld remote with one huge red button.",
+      "image": "assets/img/item/shock_collar.webp"
+    },
+    {
+      "id": "item-shop_steward_s_key",
+      "title": "Shop Steward's Key",
+      "subtitle": "Floor 2",
+      "blurb": "Carry it and the first three spells you land sharpen the next page or mechanism you study.",
+      "image": "assets/img/item/shop_steward_s_key.webp"
+    },
+    {
+      "id": "item-shopping_list",
+      "title": "Shopping List",
+      "subtitle": "Floor 2",
+      "blurb": "A stiff menu card, gold-edged, BEST CHEF across the top.",
+      "image": "assets/img/item/shopping_list.webp"
+    },
+    {
+      "id": "item-shopping_trolley",
+      "title": "Shopping Trolley",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-short_sword_of_sharpness",
+      "title": "Short Sword of Sharpness",
+      "subtitle": "Floor 2",
+      "blurb": "A razor-edged gladius, mahogany and silver hilt.",
+      "image": "assets/img/item/short_sword_of_sharpness.webp"
+    },
+    {
+      "id": "item-shotgun",
+      "title": "Shotgun",
+      "subtitle": "",
+      "blurb": "Close range, last word.",
+      "image": null
+    },
+    {
+      "id": "item-shotgun_shells",
+      "title": "Shotgun Shells",
+      "subtitle": "",
+      "blurb": "pack 1.0 20 bullets Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-shovel",
+      "title": "Shovel",
+      "subtitle": "",
+      "blurb": "Dig a hole, fill a hole, or fill someone's day.",
+      "image": null
+    },
+    {
+      "id": "item-shr_dinger_s_hat",
+      "title": "Shrödinger's Hat",
+      "subtitle": "Floor 2",
+      "blurb": "A pointy wizard hat that fires a random combat spell each use, possibly at you instead of the enemy.",
+      "image": "assets/img/item/shr_dinger_s_hat.webp"
+    },
+    {
+      "id": "item-sickle_claw_knife",
+      "title": "Sickle-Claw Knife",
+      "subtitle": "Floor 2",
+      "blurb": "The alpha's sickle claw, knapped to an edge and lashed to a bone grip with gut.",
+      "image": "assets/img/item/sickle_claw_knife.webp"
+    },
+    {
+      "id": "item-siempre_viva",
+      "title": "Siempre Viva",
+      "subtitle": "Floor 2",
+      "blurb": "A pulsing potion of eternal life. On a wound, instant healing.",
+      "image": "assets/img/item/siempre_viva.webp"
+    },
+    {
+      "id": "item-silver_loot_box",
+      "title": "Silver Loot Box",
+      "subtitle": "Floor 2",
+      "blurb": "Heavier than bronze, and it rattles like something was taken off a set for you.",
+      "image": "assets/img/item/silver_loot_box.webp"
+    },
+    {
+      "id": "item-silver_ring_of_agility",
+      "title": "Silver Ring of Agility",
+      "subtitle": "Floor 2",
+      "blurb": "A simple silver ring that quickens your feet.",
+      "image": "assets/img/item/silver_ring_of_agility.webp"
+    },
+    {
+      "id": "item-silver_ring_of_might",
+      "title": "Silver Ring of Might",
+      "subtitle": "Floor 2",
+      "blurb": "A simple silver ring that thickens your arms.",
+      "image": "assets/img/item/silver_ring_of_might.webp"
+    },
+    {
+      "id": "item-silver_ring_of_wits",
+      "title": "Silver Ring of Wits",
+      "subtitle": "Floor 2",
+      "blurb": "A simple silver ring that sharpens your head.",
+      "image": "assets/img/item/silver_ring_of_wits.webp"
+    },
+    {
+      "id": "item-silver_tasting_spoon",
+      "title": "Silver Tasting Spoon",
+      "subtitle": "Floor 2",
+      "blurb": "A heavy silver spoon with Vell's initials and a bent handle.",
+      "image": "assets/img/item/silver_tasting_spoon.webp"
+    },
+    {
+      "id": "item-sinew_cord",
+      "title": "Sinew Cord",
+      "subtitle": "Floor 2",
+      "blurb": "A coil of pale dried sinew, tough as fishing line.",
+      "image": "assets/img/item/sinew_cord.webp"
+    },
+    {
+      "id": "item-singing_whetstone",
+      "title": "Singing Whetstone",
+      "subtitle": "Floor 2",
+      "blurb": "A pale, glassy stone that hums one clear note when a blade crosses it.",
+      "image": "assets/img/item/singing_whetstone.webp"
+    },
+    {
+      "id": "item-ski_goggles",
+      "title": "Ski Goggles",
+      "subtitle": "",
+      "blurb": "worn 1 head Source: items.yaml",
+      "image": "assets/img/item/ski_goggles.webp"
+    },
+    {
+      "id": "item-sledgehammer",
+      "title": "Sledgehammer",
+      "subtitle": "",
+      "blurb": "One swing, one dent.",
+      "image": null
+    },
+    {
+      "id": "item-sleeping_bag",
+      "title": "Sleeping Bag",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-sling",
+      "title": "Sling",
+      "subtitle": "Floor 2",
+      "blurb": "Braided vine and a leather cup. Comes with a pouch of river stones.",
+      "image": "assets/img/item/sling.webp"
+    },
+    {
+      "id": "item-sling_stones",
+      "title": "Sling Stones",
+      "subtitle": "Floor 2",
+      "blurb": "A leaf pouch of smooth river stones, tied with vine.",
+      "image": "assets/img/item/sling_stones.webp"
+    },
+    {
+      "id": "item-slingshot",
+      "title": "Slingshot",
+      "subtitle": "",
+      "blurb": "Small stones, big pest energy.",
+      "image": null
+    },
+    {
+      "id": "item-slippers_of_shhhh",
+      "title": "Slippers of Shhhh",
+      "subtitle": "Floor 2",
+      "blurb": "Cozy, fragile bedroom slippers. The wearer moves silently.",
+      "image": "assets/img/item/slippers_of_shhhh.webp"
+    },
+    {
+      "id": "item-small_cave_truffle",
+      "title": "Small Cave Truffle",
+      "subtitle": "Floor 2",
+      "blurb": "A knobbly black truffle, warm from a pig's snout, smelling sharply of garlic.",
+      "image": "assets/img/item/small_cave_truffle.webp"
+    },
+    {
+      "id": "item-small_pack_of_alchemy_herbs",
+      "title": "Small pack of alchemy herbs",
+      "subtitle": "Floor 2",
+      "blurb": "Mostly stems. Enough for a poultice if you don't ask what kind.",
+      "image": "assets/img/item/small_pack_of_alchemy_herbs.webp"
+    },
+    {
+      "id": "item-small_pack_of_scrap_metal",
+      "title": "Small pack of scrap metal",
+      "subtitle": "Floor 2",
+      "blurb": "Nuts, a hinge, and something that used to be a bracket.",
+      "image": "assets/img/item/small_pack_of_scrap_metal.webp"
+    },
+    {
+      "id": "item-smokebombs_and_firecrackers",
+      "title": "Smokebombs and firecrackers",
+      "subtitle": "Floor 2",
+      "blurb": "A fist of crackers and one smoke pellet.",
+      "image": "assets/img/item/smokebombs_and_firecrackers.webp"
+    },
+    {
+      "id": "item-smoked_black_garlic_heart",
+      "title": "Smoked Black Garlic Heart",
+      "subtitle": "Floor 2",
+      "blurb": "A dried, smoked, fermented black garlic bulb in a cage of crisp bread ribs.",
+      "image": "assets/img/item/smoked_black_garlic_heart.webp"
+    },
+    {
+      "id": "item-smoked_chili_twist",
+      "title": "Smoked Chili Twist",
+      "subtitle": "Floor 2",
+      "blurb": "A paper twist of dark red flakes that make your eyes water from a foot away.",
+      "image": "assets/img/item/smoked_chili_twist.webp"
+    },
+    {
+      "id": "item-smoked_ham_hock",
+      "title": "Smoked Ham Hock",
+      "subtitle": "Floor 2",
+      "blurb": "A glossy brown hock on a twist of wire, smelling of bacon and campfire.",
+      "image": "assets/img/item/smoked_ham_hock.webp"
+    },
+    {
+      "id": "item-smoked_pear_sorbet",
+      "title": "Smoked Pear Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. Four grey-green scoops; cloche 6 bears a bee.",
+      "image": "assets/img/item/smoked_pear_sorbet.webp"
+    },
+    {
+      "id": "item-smokehide_coat",
+      "title": "Smokehide Coat",
+      "subtitle": "Floor 2",
+      "blurb": "A long coat of black smoked hide, stiff as a door.",
+      "image": "assets/img/item/smokehide_coat.webp"
+    },
+    {
+      "id": "item-snail_slime",
+      "title": "Snail Slime",
+      "subtitle": "Floor 2",
+      "blurb": "Thick, clear and endlessly slippery.",
+      "image": "assets/img/item/snail_slime.webp"
+    },
+    {
+      "id": "item-snail_shell_shield",
+      "title": "Snail-Shell Shield",
+      "subtitle": "Floor 2",
+      "blurb": "A slab of the Giant Snail's shell, cut round and strapped with hide.",
+      "image": "assets/img/item/snail_shell_shield.webp"
+    },
+    {
+      "id": "item-sneaking_suit",
+      "title": "Sneaking Suit",
+      "subtitle": "Floor 2",
+      "blurb": "Full black leather armor, a strong stealth bonus, and movement that makes no noise.",
+      "image": "assets/img/item/sneaking_suit.webp"
+    },
+    {
+      "id": "item-snow_globe_of_a_dead_city",
+      "title": "Snow globe of a dead city",
+      "subtitle": "Floor 2",
+      "blurb": "The glitter is the only light in it.",
+      "image": "assets/img/item/snow_globe_of_a_dead_city.webp"
+    },
+    {
+      "id": "item-socks_of_the_space_cadet",
+      "title": "Socks of the Space Cadet",
+      "subtitle": "Floor 2",
+      "blurb": "Mismatched socks. Put them on and the thoughts will not line up.",
+      "image": "assets/img/item/socks_of_the_space_cadet.webp"
+    },
+    {
+      "id": "item-soft_tread_boots",
+      "title": "Soft-Tread Boots",
+      "subtitle": "Floor 2",
+      "blurb": "Knee-high leather. Stealth, and you can hear plants scream when you step on them.",
+      "image": "assets/img/item/soft_tread_boots.webp"
+    },
+    {
+      "id": "item-some_ring",
+      "title": "Some Ring",
+      "subtitle": "Floor 2",
+      "blurb": "Ancient and unassuming. Permanent invisibility, and it draws a host of incompetent ring-hunters.",
+      "image": "assets/img/item/some_ring.webp"
+    },
+    {
+      "id": "item-someone_else_s_luggage_tag",
+      "title": "Someone else's luggage tag",
+      "subtitle": "Floor 2",
+      "blurb": "A name, a phone number, a flight that landed years ago.",
+      "image": "assets/img/item/someone_else_s_luggage_tag.webp"
+    },
+    {
+      "id": "item-sow_heart_truffle",
+      "title": "Sow-Heart Truffle",
+      "subtitle": "Floor 2",
+      "blurb": "A pale truffle the size of a heart, threaded with red veins and smelling of hot butter.",
+      "image": "assets/img/item/sow_heart_truffle.webp"
+    },
+    {
+      "id": "item-space_blanket",
+      "title": "Space Blanket",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-spade",
+      "title": "Spade",
+      "subtitle": "",
+      "blurb": "A short digger with a sharp edge.",
+      "image": null
+    },
+    {
+      "id": "item-spare_stock_seal",
+      "title": "Spare Stock Seal",
+      "subtitle": "Floor 2",
+      "blurb": "A numbered wire seal and its matching crimping pliers.",
+      "image": "assets/img/item/spare_stock_seal.webp"
+    },
+    {
+      "id": "item-spear",
+      "title": "Spear",
+      "subtitle": "",
+      "blurb": "Reach beats strength.",
+      "image": null
+    },
+    {
+      "id": "item-speargun",
+      "title": "Speargun",
+      "subtitle": "",
+      "blurb": "Underwater tech with a topside mean streak.",
+      "image": null
+    },
+    {
+      "id": "item-speargun_bolts",
+      "title": "Speargun Bolts",
+      "subtitle": "",
+      "blurb": "pack 1.0 20 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-spetznaz_shovel_of_fortification",
+      "title": "Spetznaz Shovel of Fortification",
+      "subtitle": "Floor 2",
+      "blurb": "Celestial, and it bonds to one crawler for good.",
+      "image": "assets/img/item/spetznaz_shovel_of_fortification.webp"
+    },
+    {
+      "id": "item-splayed_travel_toothbrush",
+      "title": "Splayed travel toothbrush",
+      "subtitle": "Floor 2",
+      "blurb": "Bristles in every direction. The handle is the dangerous part.",
+      "image": "assets/img/item/splayed_travel_toothbrush.webp"
+    },
+    {
+      "id": "item-splint",
+      "title": "Splint",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-spray_paint",
+      "title": "Spray Paint",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-sprinkler_valve_wheel",
+      "title": "Sprinkler Valve Wheel",
+      "subtitle": "Floor 2",
+      "blurb": "A red iron valve wheel the size of a cartwheel, stamped GANTRY, with a broken spindle.",
+      "image": "assets/img/item/sprinkler_valve_wheel.webp"
+    },
+    {
+      "id": "item-stab_vest_of_hypermasculinity",
+      "title": "Stab Vest of HyperMasculinity",
+      "subtitle": "Floor 2",
+      "blurb": "The odor takes a serious toll on Charisma.",
+      "image": "assets/img/item/stab_vest_of_hypermasculinity.webp"
+    },
+    {
+      "id": "item-stage_flare",
+      "title": "Stage Flare",
+      "subtitle": "Floor 2",
+      "blurb": "A red cardboard tube with a pull-cord and a warning label: PYRO: REAL.",
+      "image": "assets/img/item/stage_flare.webp"
+    },
+    {
+      "id": "item-stagehand_s_garrote",
+      "title": "Stagehand's Garrote",
+      "subtitle": "Floor 2",
+      "blurb": "A length of piano wire between two wooden pegs, coiled in a box marked RIGGING.",
+      "image": "assets/img/item/stagehand_s_garrote.webp"
+    },
+    {
+      "id": "item-stall_wine",
+      "title": "Stall Wine",
+      "subtitle": "Floor 2",
+      "blurb": "A coconut cup of the troop's wine, watered until it only smells dangerous.",
+      "image": "assets/img/item/stall_wine.webp"
+    },
+    {
+      "id": "item-star_anise_twist",
+      "title": "Star Anise Twist",
+      "subtitle": "Floor 2",
+      "blurb": "A paper twist of brown star-shaped pods that smell of liquorice.",
+      "image": "assets/img/item/star_anise_twist.webp"
+    },
+    {
+      "id": "item-starvein_earring",
+      "title": "Starvein Earring",
+      "subtitle": "Floor 2",
+      "blurb": "Stores charges from nearby spellcasting for temporary HP or bonus damage, and the wearer can sense magic.",
+      "image": "assets/img/item/starvein_earring.webp"
+    },
+    {
+      "id": "item-steak_knife",
+      "title": "Steak Knife",
+      "subtitle": "",
+      "blurb": "Serrated and rude.",
+      "image": null
+    },
+    {
+      "id": "item-steed_automaton",
+      "title": "Steed - Automaton",
+      "subtitle": "Floor 2",
+      "blurb": "An upgradable, soul-crystal-powered warhorse automaton.",
+      "image": "assets/img/item/steed_automaton.webp"
+    },
+    {
+      "id": "item-steel_toe_boots",
+      "title": "Steel Toe Boots",
+      "subtitle": "",
+      "blurb": "Work boots that kick like they mean it.",
+      "image": null
+    },
+    {
+      "id": "item-stickers",
+      "title": "Stickers",
+      "subtitle": "Floor 2",
+      "blurb": "A sheet of stars and one skull. They stick to themselves.",
+      "image": "assets/img/item/stickers.webp"
+    },
+    {
+      "id": "item-stillwater_lime_sorbet",
+      "title": "Stillwater Lime Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. Four pale green scoops, perfectly smooth; cloche 3 bears a tentacle.",
+      "image": "assets/img/item/stillwater_lime_sorbet.webp"
+    },
+    {
+      "id": "item-stinger_spear",
+      "title": "Stinger Spear",
+      "subtitle": "Floor 2",
+      "blurb": "Queen Mellifera's stinger, as long as a forearm, bound to a spear shaft with waxed thread.",
+      "image": "assets/img/item/stinger_spear.webp"
+    },
+    {
+      "id": "item-stone_knife",
+      "title": "Stone Knife",
+      "subtitle": "Floor 2",
+      "blurb": "A knapped flint blade bound to an antler handle.",
+      "image": "assets/img/item/stone_knife.webp"
+    },
+    {
+      "id": "item-stone_skin_girdle",
+      "title": "Stone Skin Girdle",
+      "subtitle": "Floor 2",
+      "blurb": "Slimming and uncomfortable. Once a day the wearer's skin turns to stone and shrugs off heavy melee.",
+      "image": "assets/img/item/stone_skin_girdle.webp"
+    },
+    {
+      "id": "item-strangler_net",
+      "title": "Strangler Net",
+      "subtitle": "Floor 2",
+      "blurb": "A bark net threaded through with living strangler vine.",
+      "image": "assets/img/item/strangler_net.webp"
+    },
+    {
+      "id": "item-strangler_vine",
+      "title": "Strangler Vine",
+      "subtitle": "Floor 2",
+      "blurb": "A length of strangler vine as thick as a thumb.",
+      "image": "assets/img/item/strangler_vine.webp"
+    },
+    {
+      "id": "item-strangler_whip",
+      "title": "Strangler Whip",
+      "subtitle": "Floor 2",
+      "blurb": "A length of the Gourd Mother's strangler vine on a bone handle.",
+      "image": "assets/img/item/strangler_whip.webp"
+    },
+    {
+      "id": "item-strawberry_shortcake_bandaids",
+      "title": "Strawberry shortcake bandaids",
+      "subtitle": "Floor 2",
+      "blurb": "A strip of them, still stuck to the wax paper.",
+      "image": "assets/img/item/strawberry_shortcake_bandaids.webp"
+    },
+    {
+      "id": "item-stress_balls_and_a_yam_yacht",
+      "title": "Stress balls and a Yam Yacht",
+      "subtitle": "Floor 2",
+      "blurb": "Foam yam, and a ball that's gone a little sticky.",
+      "image": "assets/img/item/stress_balls_and_a_yam_yacht.webp"
+    },
+    {
+      "id": "item-strong_flour",
+      "title": "Strong Flour",
+      "subtitle": "Floor 2",
+      "blurb": "A heavy paper sack, DOUGHTY'S STRONG, floury handprints on both sides.",
+      "image": "assets/img/item/strong_flour.webp"
+    },
+    {
+      "id": "item-stud_of_stud_detection",
+      "title": "Stud of Stud Detection",
+      "subtitle": "Floor 2",
+      "blurb": "A diamond stud. It unerringly points toward the nearest Desperado Club entrance.",
+      "image": "assets/img/item/stud_of_stud_detection.webp"
+    },
+    {
+      "id": "item-stunt_double",
+      "title": "Stunt Double",
+      "subtitle": "Floor 2",
+      "blurb": "A folded paper crawler with your face on it in careful marker.",
+      "image": "assets/img/item/stunt_double.webp"
+    },
+    {
+      "id": "item-stunt_double_s_leather_jacket",
+      "title": "Stunt Double's Leather Jacket",
+      "subtitle": "Floor 2",
+      "blurb": "A scuffed leather jacket on a hook, name tape inside the collar reading DOUBLE 2.",
+      "image": "assets/img/item/stunt_double_s_leather_jacket.webp"
+    },
+    {
+      "id": "item-succubus_incubus_kiss_potion",
+      "title": "Succubus/Incubus Kiss Potion",
+      "subtitle": "Floor 2",
+      "blurb": "A chosen target becomes infatuated with the drinker for 30 hours, with a real risk of obsessive backlash.",
+      "image": "assets/img/item/succubus_incubus_kiss_potion.webp"
+    },
+    {
+      "id": "item-sugar_cane",
+      "title": "Sugar Cane",
+      "subtitle": "Floor 2",
+      "blurb": "Chew it, crush it, or cook it down.",
+      "image": "assets/img/item/sugar_cane.webp"
+    },
+    {
+      "id": "item-sunglasses",
+      "title": "Sunglasses",
+      "subtitle": "",
+      "blurb": "worn 1 gear Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-superhero_landing_sandals",
+      "title": "Superhero Landing Sandals",
+      "subtitle": "Floor 2",
+      "blurb": "Springy magenta-strapped sandals. Less fall damage, and the steady effect.",
+      "image": "assets/img/item/superhero_landing_sandals.webp"
+    },
+    {
+      "id": "item-survey_stake",
+      "title": "Survey Stake",
+      "subtitle": "",
+      "blurb": "A sharpened marker stake. Throw it, stab it, leave it.",
+      "image": null
+    },
+    {
+      "id": "item-sweatband_of_the_sponsor",
+      "title": "Sweatband of the Sponsor",
+      "subtitle": "Floor 2",
+      "blurb": "Once. It clears exhaustion and steadies the next climb.",
+      "image": "assets/img/item/sweatband_of_the_sponsor.webp"
+    },
+    {
+      "id": "item-swiftblade_longsword",
+      "title": "Swiftblade - Longsword",
+      "subtitle": "Floor 2",
+      "blurb": "Dual-edged, etched with double chevrons, humming in the grip.",
+      "image": "assets/img/item/swiftblade_longsword.webp"
+    },
+    {
+      "id": "item-swinging_vine_bracelets",
+      "title": "Swinging Vine Bracelets",
+      "subtitle": "Floor 2",
+      "blurb": "A matching pair. Vines for swinging through trees, and a level-5 Tarzan skill.",
+      "image": "assets/img/item/swinging_vine_bracelets.webp"
+    },
+    {
+      "id": "item-sword_of_reversed_rolls",
+      "title": "Sword of Reversed Rolls",
+      "subtitle": "Floor 2",
+      "blurb": "Twenties become ones and ones become twenties.",
+      "image": "assets/img/item/sword_of_reversed_rolls.webp"
+    },
+    {
+      "id": "item-table_leg",
+      "title": "Table Leg",
+      "subtitle": "",
+      "blurb": "A bar-brawl classic.",
+      "image": null
+    },
+    {
+      "id": "item-tank_top_of_recklessness",
+      "title": "Tank Top of Recklessness",
+      "subtitle": "Floor 2",
+      "blurb": "Faintly damp salamander hide. It toughens you, and in under two weeks it regrows a limb you were careless with.",
+      "image": "assets/img/item/tank_top_of_recklessness.webp"
+    },
+    {
+      "id": "item-tank_top_of_the_tough_guy",
+      "title": "Tank Top of the Tough Guy",
+      "subtitle": "Floor 2",
+      "blurb": "It makes you look like a badass and, unusually for a tank top, it can sometimes back that up.",
+      "image": "assets/img/item/tank_top_of_the_tough_guy.webp"
+    },
+    {
+      "id": "item-teddy_of_manasecurity",
+      "title": "Teddy of ManaSecurity",
+      "subtitle": "Floor 2",
+      "blurb": "A small plush.",
+      "image": "assets/img/item/teddy_of_manasecurity.webp"
+    },
+    {
+      "id": "item-terrace_waders",
+      "title": "Terrace Waders",
+      "subtitle": "Floor 2",
+      "blurb": "Chest-high rubber waders, patched at both knees, smelling of brine and ranger stations.",
+      "image": "assets/img/item/terrace_waders.webp"
+    },
+    {
+      "id": "item-terraformer",
+      "title": "Terraformer",
+      "subtitle": "Floor 2",
+      "blurb": "Jewelry that transmutes stone, air, and sand into other mundane materials stored inside it.",
+      "image": "assets/img/item/terraformer.webp"
+    },
+    {
+      "id": "item-the_alpha_s_haunch",
+      "title": "The Alpha's Haunch",
+      "subtitle": "Floor 2",
+      "blurb": "A raptor thigh the size of a crawler, grey feathers still on, scarred under the skin.",
+      "image": "assets/img/item/the_alpha_s_haunch.webp"
+    },
+    {
+      "id": "item-the_alpha_s_sickle_claw",
+      "title": "The Alpha's Sickle Claw",
+      "subtitle": "Floor 2",
+      "blurb": "A black claw as long as a hand, sharp enough to shave with.",
+      "image": "assets/img/item/the_alpha_s_sickle_claw.webp"
+    },
+    {
+      "id": "item-the_amulet_of_fastra_vel",
+      "title": "The Amulet of Fastra Vel",
+      "subtitle": "Floor 2",
+      "blurb": "A rainbow gem on a platinum chain.",
+      "image": "assets/img/item/the_amulet_of_fastra_vel.webp"
+    },
+    {
+      "id": "item-the_black_kite_sigil",
+      "title": "The Black Kite Sigil",
+      "subtitle": "Floor 2",
+      "blurb": "A unique divine folded-metal sigil.",
+      "image": "assets/img/item/the_black_kite_sigil.webp"
+    },
+    {
+      "id": "item-the_blue_drink",
+      "title": "The Blue Drink",
+      "subtitle": "Floor 2",
+      "blurb": "Any single being follows the drinker's commands for two minutes, with a small chance the effect reverses instead.",
+      "image": "assets/img/item/the_blue_drink.webp"
+    },
+    {
+      "id": "item-the_borrowed_phylactery",
+      "title": "The Borrowed Phylactery",
+      "subtitle": "Floor 2",
+      "blurb": "A cursed lich's reliquary.",
+      "image": "assets/img/item/the_borrowed_phylactery.webp"
+    },
+    {
+      "id": "item-the_brinejaw_s_back_scales",
+      "title": "The Brinejaw's Back Scales",
+      "subtitle": "Floor 2",
+      "blurb": "A plate of green-black scales, salt-crusted, prised off in one piece.",
+      "image": "assets/img/item/the_brinejaw_s_back_scales.webp"
+    },
+    {
+      "id": "item-the_buyer_s_clipboard",
+      "title": "The Buyer's Clipboard",
+      "subtitle": "Floor 2",
+      "blurb": "A white clipboard with a silver pen on a chain.",
+      "image": "assets/img/item/the_buyer_s_clipboard.webp"
+    },
+    {
+      "id": "item-the_capture_net",
+      "title": "The Capture Net",
+      "subtitle": "Floor 2",
+      "blurb": "A strangler net with the hunter's smoker woven into its knot, leaking a thin grey thread of hickory.",
+      "image": "assets/img/item/the_capture_net.webp"
+    },
+    {
+      "id": "item-the_choir_of_silent_stars",
+      "title": "The Choir of Silent Stars",
+      "subtitle": "Floor 2",
+      "blurb": "Silently humming lights in orbit. Passive stealth, and a pulse that silences a radius.",
+      "image": "assets/img/item/the_choir_of_silent_stars.webp"
+    },
+    {
+      "id": "item-the_finale_plate",
+      "title": "The Finale Plate",
+      "subtitle": "Floor 2",
+      "blurb": "A covered steel dish, still warm, with a little card in Saffron's handwriting: FOR THE JUDGES.",
+      "image": "assets/img/item/the_finale_plate.webp"
+    },
+    {
+      "id": "item-the_forge_of_the_sundered_stars",
+      "title": "The Forge of the Sundered Stars",
+      "subtitle": "Floor 2",
+      "blurb": "A unique divine anvil pulled from a neutron star.",
+      "image": "assets/img/item/the_forge_of_the_sundered_stars.webp"
+    },
+    {
+      "id": "item-the_gauntlets_of_tubthumping",
+      "title": "The Gauntlets of Tubthumping",
+      "subtitle": "Floor 2",
+      "blurb": "Silver gauntlets. Softer falls, temporary health, and a day's worth of drinks if you sing for them.",
+      "image": "assets/img/item/the_gauntlets_of_tubthumping.webp"
+    },
+    {
+      "id": "item-the_giant_snail_s_shell_slab",
+      "title": "The Giant Snail's Shell Slab",
+      "subtitle": "Floor 2",
+      "blurb": "A curved slab of brown shell the size of a car door.",
+      "image": "assets/img/item/the_giant_snail_s_shell_slab.webp"
+    },
+    {
+      "id": "item-the_halo_of_unpaid_debts",
+      "title": "The Halo of Unpaid Debts",
+      "subtitle": "Floor 2",
+      "blurb": "A cracked golden halo. Damage taken becomes debt stacks, unleashed as a burst, or it starts draining your own health.",
+      "image": "assets/img/item/the_halo_of_unpaid_debts.webp"
+    },
+    {
+      "id": "item-the_hand_of_cena",
+      "title": "The Hand of Cena",
+      "subtitle": "Floor 2",
+      "blurb": "A four-fingered hand. Four uses of invisibility, then it fuses into a tattoo that sends enemies fleeing.",
+      "image": "assets/img/item/the_hand_of_cena.webp"
+    },
+    {
+      "id": "item-the_hearthspear",
+      "title": "The Hearthspear",
+      "subtitle": "Floor 2",
+      "blurb": "A fire-hardened shaft bound with sinew, its glass point glowing red and never cooling.",
+      "image": "assets/img/item/the_hearthspear.webp"
+    },
+    {
+      "id": "item-the_honeyguard_mantle",
+      "title": "The Honeyguard Mantle",
+      "subtitle": "Floor 2",
+      "blurb": "A long coat of smoked black hide under a mantle of golden waxcloth.",
+      "image": "assets/img/item/the_honeyguard_mantle.webp"
+    },
+    {
+      "id": "item-the_house_collar",
+      "title": "The House Collar",
+      "subtitle": "Floor 2",
+      "blurb": "A chrome collar with a blinking Pettigrew & Collar logo.",
+      "image": "assets/img/item/the_house_collar.webp"
+    },
+    {
+      "id": "item-the_house_frock",
+      "title": "The House Frock",
+      "subtitle": "Floor 2",
+      "blurb": "A short black maid's frock, white petticoat sewn in, buttons down the front.",
+      "image": "assets/img/item/the_house_frock.webp"
+    },
+    {
+      "id": "item-the_house_heels",
+      "title": "The House Heels",
+      "subtitle": "Floor 2",
+      "blurb": "Black heels, almost your size, the backs already scuffed by other crawlers.",
+      "image": "assets/img/item/the_house_heels.webp"
+    },
+    {
+      "id": "item-the_house_stockings",
+      "title": "The House Stockings",
+      "subtitle": "Floor 2",
+      "blurb": "Black stockings, a white garter belt, and the panties she chose.",
+      "image": "assets/img/item/the_house_stockings.webp"
+    },
+    {
+      "id": "item-the_hunger_prism",
+      "title": "The Hunger Prism",
+      "subtitle": "Floor 2",
+      "blurb": "A cursed crystal vial. Absorb nearby spells into spell slots.",
+      "image": "assets/img/item/the_hunger_prism.webp"
+    },
+    {
+      "id": "item-the_insta_model_sole_serum",
+      "title": "The Insta-Model Sole Serum",
+      "subtitle": "Floor 2",
+      "blurb": "An epic-rarity foot oil that biases the AI in the drinker's favor, softening traps and boosting loot quality during combat.",
+      "image": "assets/img/item/the_insta_model_sole_serum.webp"
+    },
+    {
+      "id": "item-the_knowledgepack_of_strength",
+      "title": "The Knowledgepack of Strength",
+      "subtitle": "Floor 2",
+      "blurb": "An ordinary backpack that refuses to carry anything but books, and pays you in brains and mana for every one you cram in.",
+      "image": "assets/img/item/the_knowledgepack_of_strength.webp"
+    },
+    {
+      "id": "item-the_krakaren_s_ink_sac",
+      "title": "The Krakaren's Ink Sac",
+      "subtitle": "Floor 2",
+      "blurb": "A black bladder the size of a melon.",
+      "image": "assets/img/item/the_krakaren_s_ink_sac.webp"
+    },
+    {
+      "id": "item-the_last_episode",
+      "title": "The Last Episode",
+      "subtitle": "Floor 2",
+      "blurb": "An unlabelled VHS tape in a cracked case, the tape worn nearly clear from being played.",
+      "image": "assets/img/item/the_last_episode.webp"
+    },
+    {
+      "id": "item-the_leviathan_wrangler",
+      "title": "The Leviathan Wrangler",
+      "subtitle": "Floor 2",
+      "blurb": "A unique fishing rod and spear. Strength times ten for grappling and catching creatures.",
+      "image": "assets/img/item/the_leviathan_wrangler.webp"
+    },
+    {
+      "id": "item-the_martyr_s_spotlight",
+      "title": "The Martyr's Spotlight",
+      "subtitle": "Floor 2",
+      "blurb": "Neon platemail reading HIT ME front and back.",
+      "image": "assets/img/item/the_martyr_s_spotlight.webp"
+    },
+    {
+      "id": "item-the_master_s_cleaver",
+      "title": "The Master's Cleaver",
+      "subtitle": "Floor 2",
+      "blurb": "The Master's bronze-handled knife, reground on a singing stone, with a raptor's black sickle claw set in the spine.",
+      "image": "assets/img/item/the_master_s_cleaver.webp"
+    },
+    {
+      "id": "item-the_master_s_cut",
+      "title": "The Master's Cut",
+      "subtitle": "Floor 2",
+      "blurb": "Whatever you took off the Master, wrapped in his own black jacket.",
+      "image": "assets/img/item/the_master_s_cut.webp"
+    },
+    {
+      "id": "item-the_master_s_knife",
+      "title": "The Master's Knife",
+      "subtitle": "Floor 2",
+      "blurb": "The blade is older than the floor.",
+      "image": "assets/img/item/the_master_s_knife.webp"
+    },
+    {
+      "id": "item-the_pantry_key",
+      "title": "The Pantry Key",
+      "subtitle": "Floor 2",
+      "blurb": "A heavy brass key on a red velvet lanyard, stamped TWENTY-FIVE.",
+      "image": "assets/img/item/the_pantry_key.webp"
+    },
+    {
+      "id": "item-the_pink_slippered_predator",
+      "title": "The Pink Slippered Predator",
+      "subtitle": "Floor 2",
+      "blurb": "Neon-pink stiletto throwing weapons.",
+      "image": "assets/img/item/the_pink_slippered_predator.webp"
+    },
+    {
+      "id": "item-the_plaid_o_flannel",
+      "title": "The Plaid-O-Flannel",
+      "subtitle": "Floor 2",
+      "blurb": "A cozy stealth flannel, with a rare chance of violently and loudly betraying your position.",
+      "image": "assets/img/item/the_plaid_o_flannel.webp"
+    },
+    {
+      "id": "item-the_radiant_quiver",
+      "title": "The Radiant Quiver",
+      "subtitle": "Floor 2",
+      "blurb": "Enemies struck by these arrows remember your name for as long as they remain alive.",
+      "image": "assets/img/item/the_radiant_quiver.webp"
+    },
+    {
+      "id": "item-the_re_re_r_revisor",
+      "title": "The RE-RE-R-Revisor!",
+      "subtitle": "Floor 2",
+      "blurb": "Your jolly revisions can revive the old word-quip routine.",
+      "image": "assets/img/item/the_re_re_r_revisor.webp"
+    },
+    {
+      "id": "item-the_rushes",
+      "title": "The Rushes",
+      "subtitle": "Floor 2",
+      "blurb": "A camera memory card labelled SURVIVAL CHEF — RUSHES — DO NOT WIPE, in a plastic case with a thumbprint of something red on it.",
+      "image": "assets/img/item/the_rushes.webp"
+    },
+    {
+      "id": "item-the_sighing_bomb_satchel",
+      "title": "The Sighing Bomb Satchel",
+      "subtitle": "Floor 2",
+      "blurb": "Explosives go off whenever you are near them.",
+      "image": "assets/img/item/the_sighing_bomb_satchel.webp"
+    },
+    {
+      "id": "item-the_subzero_bull_s_horn",
+      "title": "The Subzero Bull's Horn",
+      "subtitle": "Floor 2",
+      "blurb": "A horn as long as an arm, white with rime that comes back as fast as you wipe it.",
+      "image": "assets/img/item/the_subzero_bull_s_horn.webp"
+    },
+    {
+      "id": "item-the_truffle_sow_s_tusk",
+      "title": "The Truffle Sow's Tusk",
+      "subtitle": "Floor 2",
+      "blurb": "A pale tusk as long as a forearm, stained yellow with puffball dust.",
+      "image": "assets/img/item/the_truffle_sow_s_tusk.webp"
+    },
+    {
+      "id": "item-the_twinning_potion",
+      "title": "The Twinning Potion",
+      "subtitle": "Floor 2",
+      "blurb": "Short shelf life. Grows an exact duplicate of the drinker over 30 hours, memories, mannerisms, and all.",
+      "image": "assets/img/item/the_twinning_potion.webp"
+    },
+    {
+      "id": "item-the_villain_storyboard",
+      "title": "The Villain Storyboard",
+      "subtitle": "Floor 2",
+      "blurb": "A fat ring binder of storyboard frames, coffee-stained, tabbed CRAWLER SEASON.",
+      "image": "assets/img/item/the_villain_storyboard.webp"
+    },
+    {
+      "id": "item-the_yam_yacht_celestial",
+      "title": "The Yam Yacht (Celestial)",
+      "subtitle": "Floor 2",
+      "blurb": "A yam-sized figurine that becomes a full-size pleasure craft on command.",
+      "image": "assets/img/item/the_yam_yacht_celestial.webp"
+    },
+    {
+      "id": "item-the_yam_yacht_magic_item",
+      "title": "The Yam Yacht (Magic Item)",
+      "subtitle": "Floor 2",
+      "blurb": "A yam-sized figurine that becomes a full pleasure craft on command, complete with a glitter-hating NPC captain.",
+      "image": "assets/img/item/the_yam_yacht_magic_item.webp"
+    },
+    {
+      "id": "item-thorn_darts",
+      "title": "Thorn Darts",
+      "subtitle": "Floor 2",
+      "blurb": "Six thorn darts with scraped feather tails, in a bamboo tube.",
+      "image": "assets/img/item/thorn_darts.webp"
+    },
+    {
+      "id": "item-thoughts_and_prayers",
+      "title": "Thoughts and Prayers",
+      "subtitle": "Floor 2",
+      "blurb": "The Sacred Cow's paired brass knuckles.",
+      "image": "assets/img/item/thoughts_and_prayers.webp"
+    },
+    {
+      "id": "item-three_pairs_of_holey_socks",
+      "title": "Three pairs of holey socks",
+      "subtitle": "Floor 2",
+      "blurb": "Heels gone. They are a wad of cotton you can swing.",
+      "image": "assets/img/item/three_pairs_of_holey_socks.webp"
+    },
+    {
+      "id": "item-time_out_potion",
+      "title": "Time Out Potion",
+      "subtitle": "Floor 2",
+      "blurb": "The target and their hotbar items turn noncorporeal for a set duration, with a small chance of summoning a hostile ghost.",
+      "image": "assets/img/item/time_out_potion.webp"
+    },
+    {
+      "id": "item-tire_iron",
+      "title": "Tire Iron",
+      "subtitle": "",
+      "blurb": "Roadside tool, roadside weapon.",
+      "image": null
+    },
+    {
+      "id": "item-titanium",
+      "title": "Titanium",
+      "subtitle": "",
+      "blurb": "A light, strong plate worn over the chest.",
+      "image": null
+    },
+    {
+      "id": "item-toe_ring_of_shared_suffering",
+      "title": "Toe Ring of Shared Suffering",
+      "subtitle": "Floor 2",
+      "blurb": "Cursed. Combat perks, and each use costs a random painful side effect.",
+      "image": "assets/img/item/toe_ring_of_shared_suffering.webp"
+    },
+    {
+      "id": "item-toe_ring_of_unstable_insanity",
+      "title": "Toe Ring of Unstable Insanity",
+      "subtitle": "Floor 2",
+      "blurb": "Divine and unremovable. It perfects the wearer's feet while the obsession with them creeps in.",
+      "image": "assets/img/item/toe_ring_of_unstable_insanity.webp"
+    },
+    {
+      "id": "item-tome_of_42",
+      "title": "Tome of 42",
+      "subtitle": "Floor 2",
+      "blurb": "Locked. It answers any question its bound crawler asks, for a price it decides.",
+      "image": "assets/img/item/tome_of_42.webp"
+    },
+    {
+      "id": "item-tome_of_discovery",
+      "title": "Tome of Discovery",
+      "subtitle": "Floor 2",
+      "blurb": "The sum knowledge of Earth.",
+      "image": "assets/img/item/tome_of_discovery.webp"
+    },
+    {
+      "id": "item-tommy_the_gun",
+      "title": "Tommy the Gun",
+      "subtitle": "Floor 2",
+      "blurb": "The Mobfather's platinum submachine gun.",
+      "image": "assets/img/item/tommy_the_gun.webp"
+    },
+    {
+      "id": "item-toque_of_power",
+      "title": "Toque of Power",
+      "subtitle": "Floor 2",
+      "blurb": "Doubles the damage of all axe-class weapons, melee or thrown.",
+      "image": "assets/img/item/toque_of_power.webp"
+    },
+    {
+      "id": "item-tortoise_shell_armor",
+      "title": "Tortoise Shell Armor",
+      "subtitle": "Floor 2",
+      "blurb": "Race-specific fur-bound armor. Skin becomes impenetrable, and dexterity pays for it.",
+      "image": "assets/img/item/tortoise_shell_armor.webp"
+    },
+    {
+      "id": "item-trade_beads",
+      "title": "Trade Beads",
+      "subtitle": "Floor 2",
+      "blurb": "Bottle-glass beads, three bottle caps and a bent spoon, strung on gut.",
+      "image": "assets/img/item/trade_beads.webp"
+    },
+    {
+      "id": "item-transport_scissors",
+      "title": "Transport Scissors",
+      "subtitle": "Floor 2",
+      "blurb": "They cut reality. Teleport anywhere you have seen in the last 24 hours.",
+      "image": "assets/img/item/transport_scissors.webp"
+    },
+    {
+      "id": "item-trash_bags",
+      "title": "Trash Bags",
+      "subtitle": "",
+      "blurb": "pack 1.0 10 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-treacle_s_cookbook",
+      "title": "Treacle's Cookbook",
+      "subtitle": "Floor 2",
+      "blurb": "A fat, cracked cookbook in brown handwriting, pages stuck together with fingerprints and treacle.",
+      "image": "assets/img/item/treacle_s_cookbook.webp"
+    },
+    {
+      "id": "item-treacle_s_cutter",
+      "title": "Treacle's Cutter",
+      "subtitle": "Floor 2",
+      "blurb": "A heavy brass biscuit cutter in the shape of a tall, thin woman, warm to the touch and polished bright.",
+      "image": "assets/img/item/treacle_s_cutter.webp"
+    },
+    {
+      "id": "item-treacle_s_oven_mitts",
+      "title": "Treacle's Oven Mitts",
+      "subtitle": "Floor 2",
+      "blurb": "A pair of quilted oven mitts, scorched black at the fingertips, TREACLE'S KITCHEN stitched on the cuffs.",
+      "image": "assets/img/item/treacle_s_oven_mitts.webp"
+    },
+    {
+      "id": "item-treacle_s_signature_recipe",
+      "title": "Treacle's Signature Recipe",
+      "subtitle": "Floor 2",
+      "blurb": "A recipe written inside a folded sugar packet.",
+      "image": "assets/img/item/treacle_s_signature_recipe.webp"
+    },
+    {
+      "id": "item-tunnel_slime_aspic",
+      "title": "Tunnel Slime Aspic",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 5. Four transparent jelly moulds.",
+      "image": "assets/img/item/tunnel_slime_aspic.webp"
+    },
+    {
+      "id": "item-tusk_pike",
+      "title": "Tusk Pike",
+      "subtitle": "Floor 2",
+      "blurb": "The Truffle Sow's tusk on a shaft of bamboo as thick as a wrist.",
+      "image": "assets/img/item/tusk_pike.webp"
+    },
+    {
+      "id": "item-twitching_jerky",
+      "title": "Twitching Jerky",
+      "subtitle": "Floor 2",
+      "blurb": "A strip of dark cured something that curls and uncurls in your hand, slowly.",
+      "image": "assets/img/item/twitching_jerky.webp"
+    },
+    {
+      "id": "item-two_used_floss_picks_one_new",
+      "title": "Two used floss picks, one new",
+      "subtitle": "Floor 2",
+      "blurb": "The new one is still in its paper.",
+      "image": "assets/img/item/two_used_floss_picks_one_new.webp"
+    },
+    {
+      "id": "item-undead_beacon_sword",
+      "title": "Undead Beacon Sword",
+      "subtitle": "Floor 2",
+      "blurb": "A longsword that becomes a crit-fishing blade on command and draws in every nearby undead and stranger.",
+      "image": "assets/img/item/undead_beacon_sword.webp"
+    },
+    {
+      "id": "item-unripe_gourd",
+      "title": "Unripe Gourd",
+      "subtitle": "Floor 2",
+      "blurb": "A hard green gourd the size of a football, still warm on one side.",
+      "image": "assets/img/item/unripe_gourd.webp"
     },
     {
       "id": "item-usher_s_leather_jacket",
       "title": "Usher's Leather Jacket",
       "subtitle": "Floor 2",
-      "preview": "Usher's Leather Jacket A cracked black usher's jacket, FRONT OF HOUSE across the back, a size too big for everyone.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [
-        "Edwardo"
-      ],
-      "body_md": "# Usher's Leather Jacket\n\nA cracked black usher's jacket, FRONT OF HOUSE across the back, a size too big for everyone.\n",
-      "body_html": "<h2>Usher&#x27;s Leather Jacket</h2>\n<p>A cracked black usher&#x27;s jacket, FRONT OF HOUSE across the back, a size too big for everyone.</p>"
+      "blurb": "A cracked black usher's jacket, FRONT OF HOUSE across the back, a size too big for everyone.",
+      "image": "assets/img/item/usher_s_leather_jacket.webp"
+    },
+    {
+      "id": "item-val_neria",
+      "title": "Val'neria",
+      "subtitle": "Floor 2",
+      "blurb": "A battle axe with a fiery temper. You will never be alone wielding this in battle.",
+      "image": "assets/img/item/val_neria.webp"
+    },
+    {
+      "id": "item-valhalla_party_blower",
+      "title": "Valhalla Party Blower",
+      "subtitle": "Floor 2",
+      "blurb": "Blow it. For three rounds blows have trouble finding you, and nothing can grab you or slow you.",
+      "image": "assets/img/item/valhalla_party_blower.webp"
+    },
+    {
+      "id": "item-vial_of_the_great_spit",
+      "title": "Vial of the Great Spit",
+      "subtitle": "Floor 2",
+      "blurb": "One spit, in a fight. Miss, and the smell stays on you.",
+      "image": "assets/img/item/vial_of_the_great_spit.webp"
+    },
+    {
+      "id": "item-vine_loop",
+      "title": "Vine Loop",
+      "subtitle": "Floor 2",
+      "blurb": "A short loop of green vine, knotted for a handhold.",
+      "image": "assets/img/item/vine_loop.webp"
+    },
+    {
+      "id": "item-vine_rope",
+      "title": "Vine Rope",
+      "subtitle": "Floor 2",
+      "blurb": "Fifty feet of twisted jungle vine, coiled and tied off with a bow.",
+      "image": "assets/img/item/vine_rope.webp"
+    },
+    {
+      "id": "item-walkie_talkies",
+      "title": "Walkie Talkies",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-warm_off_brand_cans_of_soda",
+      "title": "Warm, off-brand cans of soda",
+      "subtitle": "Floor 2",
+      "blurb": "Shaken, sweet, and not the brand on the can.",
+      "image": "assets/img/item/warm_off_brand_cans_of_soda.webp"
+    },
+    {
+      "id": "item-warrior_s_aluminum_bat",
+      "title": "Warrior's Aluminum Bat",
+      "subtitle": "Floor 2",
+      "blurb": "An aluminum bat engraved WARRIOR'S in Syndicate Standard, with a dent exactly the shape of a goblin.",
+      "image": "assets/img/item/warrior_s_aluminum_bat.webp"
+    },
+    {
+      "id": "item-water_filter_bottle",
+      "title": "Water Filter Bottle",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-waxberry_sorbet",
+      "title": "Waxberry Sorbet",
+      "subtitle": "Floor 2",
+      "blurb": "Gallery 4. Four glossy berry scoops; cloche 8 bears a loaf.",
+      "image": "assets/img/item/waxberry_sorbet.webp"
+    },
+    {
+      "id": "item-waxcloth",
+      "title": "Waxcloth",
+      "subtitle": "Floor 2",
+      "blurb": "A stiff golden cloth of rope fibre soaked in hive resin.",
+      "image": "assets/img/item/waxcloth.webp"
+    },
+    {
+      "id": "item-welding_gloves",
+      "title": "Welding Gloves",
+      "subtitle": "",
+      "blurb": "worn 1 hands 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-whisperweave_leathers",
+      "title": "Whisperweave Leathers",
+      "subtitle": "Floor 2",
+      "blurb": "Lightweight shadow-threaded leathers.",
+      "image": "assets/img/item/whisperweave_leathers.webp"
+    },
+    {
+      "id": "item-white_lightnin_chalk",
+      "title": "White Lightnin' Chalk",
+      "subtitle": "Floor 2",
+      "blurb": "Draw a working portal on a compliant surface.",
+      "image": "assets/img/item/white_lightnin_chalk.webp"
+    },
+    {
+      "id": "item-wicker_armour",
+      "title": "Wicker Armour",
+      "subtitle": "Floor 2",
+      "blurb": "A breastplate and skirt of tight-woven wicker.",
+      "image": "assets/img/item/wicker_armour.webp"
+    },
+    {
+      "id": "item-wild_garlic",
+      "title": "Wild Garlic",
+      "subtitle": "Floor 2",
+      "blurb": "Broad leaves, white stars, and a smell that follows you.",
+      "image": "assets/img/item/wild_garlic.webp"
+    },
+    {
+      "id": "item-wild_pepper_pods",
+      "title": "Wild Pepper Pods",
+      "subtitle": "Floor 2",
+      "blurb": "Small, red and furious.",
+      "image": "assets/img/item/wild_pepper_pods.webp"
+    },
+    {
+      "id": "item-wild_saffron",
+      "title": "Wild Saffron",
+      "subtitle": "Floor 2",
+      "blurb": "Saffron Wilde's own stash, dropped running.",
+      "image": "assets/img/item/wild_saffron.webp"
     },
     {
       "id": "item-wild_yams",
       "title": "Wild Yams",
       "subtitle": "Floor 2",
-      "preview": "Wild Yams A knot of grey jungle yams, hairy and a bit soft.",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "",
-      "owners": [
-        "Lety"
-      ],
-      "body_md": "# Wild Yams\n\nA knot of grey jungle yams, hairy and a bit soft.\n",
-      "body_html": "<h2>Wild Yams</h2>\n<p>A knot of grey jungle yams, hairy and a bit soft.</p>"
+      "blurb": "A knot of grey jungle yams, hairy and a bit soft.",
+      "image": "assets/img/item/wild_yams.webp"
+    },
+    {
+      "id": "item-wind_up_torch",
+      "title": "Wind Up Torch",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-winter_bull_heart",
+      "title": "Winter Bull Heart",
+      "subtitle": "Floor 2",
+      "blurb": "A huge bull heart, white with frost, beating once as it leaves the chest.",
+      "image": "assets/img/item/winter_bull_heart.webp"
+    },
+    {
+      "id": "item-work_gloves",
+      "title": "Work Gloves",
+      "subtitle": "",
+      "blurb": "worn 1 hands Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-world_s_okayest_crawler_koozie",
+      "title": "World's Okayest Crawler koozie",
+      "subtitle": "Floor 2",
+      "blurb": "Foam sleeve. The slogan is doing its best.",
+      "image": "assets/img/item/world_s_okayest_crawler_koozie.webp"
+    },
+    {
+      "id": "item-wrist_watch_of_slight_pause",
+      "title": "Wrist Watch of Slight Pause",
+      "subtitle": "Floor 2",
+      "blurb": "A stylish watch. A limited number of brief time-pauses per day, each one a free extra action.",
+      "image": "assets/img/item/wrist_watch_of_slight_pause.webp"
+    },
+    {
+      "id": "item-wristwatch",
+      "title": "Wristwatch",
+      "subtitle": "",
+      "blurb": "worn 1 gear Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-yes_i_am_a_ranger_bow",
+      "title": "Yes, I Am a Ranger Bow",
+      "subtitle": "Floor 2",
+      "blurb": "Doubles firing speed and range, with magically enhanced arrows.",
+      "image": "assets/img/item/yes_i_am_a_ranger_bow.webp"
+    },
+    {
+      "id": "item-yinto_the_frying_pan",
+      "title": "Yinto, the Frying Pan",
+      "subtitle": "Floor 2",
+      "blurb": "A large wok, good for offense and defense on a full belly.",
+      "image": "assets/img/item/yinto_the_frying_pan.webp"
+    },
+    {
+      "id": "item-zip_ties",
+      "title": "Zip Ties",
+      "subtitle": "",
+      "blurb": "pack 1.0 20 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-zippo_lighter",
+      "title": "Zippo Lighter",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
     }
   ]
 }

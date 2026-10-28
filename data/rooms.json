@@ -2,75 +2,273 @@
   "rows": [
     {
       "id": "room-300",
+      "num": 300,
       "title": "Green Room",
-      "subtitle": "Floor 2",
-      "preview": "Room 300 — Green Room Zone: Floortwo What You See Ginger, wet leaves, and garlic frying far below. The stair ends high in a giant tree: a platform with a velvet rope. Past the rai…",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "Room",
-      "owners": [],
-      "body_md": "# Room 300 — Green Room\n\n**Zone:** Floortwo\n\n## What You See\n\nGinger, wet leaves, and garlic frying far below. The stair ends high in a giant tree: a platform with a velvet rope. Past the rail, canopy under steam and floodlights in the vines. Far off, lit like a stadium, a kitchen, with a glass tower above it.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Vine Slide; 302: the Rope Bridge.\n\nThe torn poster has been smoothed flat and pinned back. Someone else will read it tonight.\n\n## Achievements\n\nHere's One I Made Earlier! · Gloves First!\n\n## Quests\n\n- Homework! — Chef Barnaby Crumb · 5 gp\n- Crumb's Resignation Dinner — Chef Barnaby Crumb\n- The Full Larder! — Best Chef · 150 gp\n- Return the Talent! — Best Chef · 45 gp\n",
-      "body_html": "<h2>Room 300 — Green Room</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Ginger, wet leaves, and garlic frying far below. The stair ends high in a giant tree: a platform with a velvet rope. Past the rail, canopy under steam and floodlights in the vines. Far off, lit like a stadium, a kitchen, with a glass tower above it.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Vine Slide; 302: the Rope Bridge.</li></ul>\n<p>The torn poster has been smoothed flat and pinned back. Someone else will read it tonight.</p>\n<h2>Achievements</h2>\n<p>Here&#x27;s One I Made Earlier! · Gloves First!</p>\n<h2>Quests</h2>\n<ul><li>Homework! — Chef Barnaby Crumb · 5 gp</li><li>Crumb&#x27;s Resignation Dinner — Chef Barnaby Crumb</li><li>The Full Larder! — Best Chef · 150 gp</li><li>Return the Talent! — Best Chef · 45 gp</li></ul>"
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Ginger, wet leaves, and garlic frying far below. The stair ends high in a giant tree: a platform with a velvet rope.",
+      "image": "assets/img/room/floortwo/300.webp",
+      "image_thumb": "assets/img/room/floortwo/300.s.webp"
     },
     {
       "id": "room-301",
+      "num": 301,
       "title": "Jungle Clearing",
-      "subtitle": "Floor 2",
-      "preview": "Room 301 — Jungle Clearing Zone: Floortwo What You See Honey, ozone, and wet earth, warm underfoot. You land in a mound of grey-green lichen, soft and deep. The clearing is floodl…",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "Room",
-      "owners": [],
-      "body_md": "# Room 301 — Jungle Clearing\n\n**Zone:** Floortwo\n\n## What You See\n\nHoney, ozone, and wet earth, warm underfoot.\n\nYou land in a mound of grey-green lichen, soft and deep. The clearing is floodlit like a set, too bright in the middle and black at the edges. Steam rises off the ground. Crew tape on the trunks: LOCATION 3. DO NOT FEED THE TALENT.\n\nA brown river crackles along one side and runs out of the light. A hive the size of a house hums in the branches. Past the lights, black ferns and hard-candy cobbles climbing uphill in the mud.\n\n## Obvious Exits / Features\n\n- **Exits:** 300: the Ladder Rungs Up; 314: the Hive Branch; 305: the Raptor Trail; 325: the Candy Cobbles; 303: the Cave Mouth; 322: the Crew Door.\n\nAn eel pot sits cocked on the bank, still wet. Something has already nosed it.\n\nThe lichen heap is dug flat. The next crawler down the vine slide is going to feel it.\n",
-      "body_html": "<h2>Room 301 — Jungle Clearing</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Honey, ozone, and wet earth, warm underfoot.</p>\n<p>You land in a mound of grey-green lichen, soft and deep. The clearing is floodlit like a set, too bright in the middle and black at the edges. Steam rises off the ground. Crew tape on the trunks: LOCATION 3. DO NOT FEED THE TALENT.</p>\n<p>A brown river crackles along one side and runs out of the light. A hive the size of a house hums in the branches. Past the lights, black ferns and hard-candy cobbles climbing uphill in the mud.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 300: the Ladder Rungs Up; 314: the Hive Branch; 305: the Raptor Trail; 325: the Candy Cobbles; 303: the Cave Mouth; 322: the Crew Door.</li></ul>\n<p>An eel pot sits cocked on the bank, still wet. Something has already nosed it.</p>\n<p>The lichen heap is dug flat. The next crawler down the vine slide is going to feel it.</p>"
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Honey, ozone, and wet earth, warm underfoot. You land in a mound of grey-green lichen, soft and deep.",
+      "image": "assets/img/room/floortwo/301.webp",
+      "image_thumb": "assets/img/room/floortwo/301.s.webp"
+    },
+    {
+      "id": "room-302",
+      "num": 302,
+      "title": "Gingerbread Town",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Ginger, burnt sugar, and wet icing.",
+      "image": "assets/img/room/floortwo/302.webp",
+      "image_thumb": "assets/img/room/floortwo/302.s.webp"
+    },
+    {
+      "id": "room-303",
+      "num": 303,
+      "title": "Film Set",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Wet stone, cold river, and frying garlic. Somebody is cooking.",
+      "image": "assets/img/room/floortwo/303.webp",
+      "image_thumb": "assets/img/room/floortwo/303.s.webp"
+    },
+    {
+      "id": "room-304",
+      "num": 304,
+      "title": "Last Set",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Cold, burnt plastic, and the sea. A wrecked studio in a cave.",
+      "image": "assets/img/room/floortwo/304.webp",
+      "image_thumb": "assets/img/room/floortwo/304.s.webp"
     },
     {
       "id": "room-305",
+      "num": 305,
       "title": "Fern Hollow",
-      "subtitle": "Floor 2",
-      "preview": "Room 305 — Fern Hollow Zone: Floortwo What You See Aviation fuel, wet feathers, and something rotten in the heat. The raptor trail ends at a crashed helicopter, nose down in the f…",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "Room",
-      "owners": [],
-      "body_md": "# Room 305 — Fern Hollow\n\n**Zone:** Floortwo\n\n## What You See\n\nAviation fuel, wet feathers, and something rotten in the heat.\n\nThe raptor trail ends at a crashed helicopter, nose down in the ferns, BEST CHEF on its tail. Its cabin is a nest of chewed fern, headsets and gaffer tape. Floodlights on a tree, clicking.\n\nNothing moves. In the cabin, a clutch of speckled eggs the size of footballs, still warm.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Ferns; 312: the White Hoof Trail; 318: the High Bridge Down.\n\nThe pack is restless, noses up at a smudge of smoke over the clearing.\n\nThe pack is still out. Fresh prints all point away from the nest.\n\n## Achievements\n\nTender Moment! · Live Bait! · Raptor Rodeo! · Extinction Event!\n\n## Quests\n\n- The Alpha! — The Clutch · 25 gp\n- Live Stock! — The Capture Cage · 35 gp\n",
-      "body_html": "<h2>Room 305 — Fern Hollow</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Aviation fuel, wet feathers, and something rotten in the heat.</p>\n<p>The raptor trail ends at a crashed helicopter, nose down in the ferns, BEST CHEF on its tail. Its cabin is a nest of chewed fern, headsets and gaffer tape. Floodlights on a tree, clicking.</p>\n<p>Nothing moves. In the cabin, a clutch of speckled eggs the size of footballs, still warm.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Ferns; 312: the White Hoof Trail; 318: the High Bridge Down.</li></ul>\n<p>The pack is restless, noses up at a smudge of smoke over the clearing.</p>\n<p>The pack is still out. Fresh prints all point away from the nest.</p>\n<h2>Achievements</h2>\n<p>Tender Moment! · Live Bait! · Raptor Rodeo! · Extinction Event!</p>\n<h2>Quests</h2>\n<ul><li>The Alpha! — The Clutch · 25 gp</li><li>Live Stock! — The Capture Cage · 35 gp</li></ul>"
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Aviation fuel, wet feathers, and something rotten in the heat. The raptor trail ends at a crashed helicopter, nose down in the ferns, BEST CHEF on its tail.",
+      "image": "assets/img/room/floortwo/305.webp",
+      "image_thumb": "assets/img/room/floortwo/305.s.webp"
+    },
+    {
+      "id": "room-306",
+      "num": 306,
+      "title": "Gingerbread Cottage",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Treacle, hot iron, and old cigarette smoke. The lane ends at a cottage far too perfect: gingerbread walls, icing on the eaves.",
+      "image": "assets/img/room/floortwo/306.webp",
+      "image_thumb": "assets/img/room/floortwo/306.s.webp"
+    },
+    {
+      "id": "room-307",
+      "num": 307,
+      "title": "Kitchen Stadium",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Burnt sugar, hot fat, and sawdust.",
+      "image": "assets/img/room/floortwo/307.webp",
+      "image_thumb": "assets/img/room/floortwo/307.s.webp"
+    },
+    {
+      "id": "room-308",
+      "num": 308,
+      "title": "Cookbook Stacks",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Butter and cold mint. A brass menu in the glass tower lists quality gear and one-shot abilities.",
+      "image": "assets/img/room/floortwo/308.webp",
+      "image_thumb": "assets/img/room/floortwo/308.s.webp"
+    },
+    {
+      "id": "room-309",
+      "num": 309,
+      "title": "Fungus Cave",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Butter, damp earth, and a deep animal stink. Brown mushroom shelves climb the cave walls above beds of yellow puffballs and red cups.",
+      "image": "assets/img/room/floortwo/309.webp",
+      "image_thumb": "assets/img/room/floortwo/309.s.webp"
+    },
+    {
+      "id": "room-310",
+      "num": 310,
+      "title": "Season Reserve",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Cold bites your teeth. Blue lamps shine through four thick glass shutters.",
+      "image": "assets/img/room/floortwo/310.webp",
+      "image_thumb": "assets/img/room/floortwo/310.s.webp"
+    },
+    {
+      "id": "room-311",
+      "num": 311,
+      "title": "Dish Pit",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Hot soap, old gravy, and rain from sweating pipes. Plates rattle down a conveyor into three sinks: SCRAPE, WASH, RINSE.",
+      "image": "assets/img/room/floortwo/311.webp",
+      "image_thumb": "assets/img/room/floortwo/311.s.webp"
+    },
+    {
+      "id": "room-312",
+      "num": 312,
+      "title": "Salt Lick",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Salt dust catches in your throat. White terraces step down to a dripping pipe.",
+      "image": "assets/img/room/floortwo/312.webp",
+      "image_thumb": "assets/img/room/floortwo/312.s.webp"
+    },
+    {
+      "id": "room-313",
+      "num": 313,
+      "title": "Knife-Throwing Tent",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Hot canvas, lamp oil and popcorn. Knives hammer into a revolving dinner plate ten feet across.",
+      "image": "assets/img/room/floortwo/313.webp",
+      "image_thumb": "assets/img/room/floortwo/313.s.webp"
     },
     {
       "id": "room-314",
+      "num": 314,
       "title": "Comb Gate",
-      "subtitle": "Floor 2",
-      "preview": "Room 314 — Comb Gate Zone: Floortwo What You See Warm wax and a buzzing you feel in your teeth. The knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high…",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "Room",
-      "owners": [],
-      "body_md": "# Room 314 — Comb Gate\n\n**Zone:** Floortwo\n\n## What You See\n\nWarm wax and a buzzing you feel in your teeth. The knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high as you can see. Honey slides down the walls in sheets. Twenty bees the size of terriers stand in a line across a wall of wax, facing you. Every few seconds one of them wiggles, and the whole line shifts.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Knot Hole Down.\n\n## Achievements\n\nBee Line!\n",
-      "body_html": "<h2>Room 314 — Comb Gate</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Warm wax and a buzzing you feel in your teeth. The knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high as you can see. Honey slides down the walls in sheets. Twenty bees the size of terriers stand in a line across a wall of wax, facing you. Every few seconds one of them wiggles, and the whole line shifts.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Knot Hole Down.</li></ul>\n<h2>Achievements</h2>\n<p>Bee Line!</p>"
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Warm wax and a buzzing you feel in your teeth. The knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high as you can see.",
+      "image": "assets/img/room/floortwo/314.webp",
+      "image_thumb": "assets/img/room/floortwo/314.s.webp"
+    },
+    {
+      "id": "room-315",
+      "num": 315,
+      "title": "Brood Galleries",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Warm milk, yeast, and something sour. A long gallery of six-sided cells, floor to ceiling.",
+      "image": "assets/img/room/floortwo/315.webp",
+      "image_thumb": "assets/img/room/floortwo/315.s.webp"
+    },
+    {
+      "id": "room-316",
+      "num": 316,
+      "title": "Drip Works",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Vinegar and hot metal, sharp enough to make your eyes water. Wax vats as big as bathtubs line the walls, brimming with something clear that smokes where it drips.",
+      "image": "assets/img/room/floortwo/316.webp",
+      "image_thumb": "assets/img/room/floortwo/316.s.webp"
+    },
+    {
+      "id": "room-317",
+      "num": 317,
+      "title": "Inner Comb",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Hot. Sweet enough to make you gag.",
+      "image": "assets/img/room/floortwo/317.webp",
+      "image_thumb": "assets/img/room/floortwo/317.s.webp"
     },
     {
       "id": "room-318",
+      "num": 318,
       "title": "Canopy Market",
-      "subtitle": "Floor 2",
-      "preview": "Room 318 — Canopy Market Zone: Floortwo What You See Overripe fruit, cheap wine, and monkey. A hundred feet up, rope bridges sag between trunks as wide as houses. Bamboo platforms…",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "Room",
-      "owners": [],
-      "body_md": "# Room 318 — Canopy Market\n\n**Zone:** Floortwo\n\n## What You See\n\nOverripe fruit, cheap wine, and monkey. A hundred feet up, rope bridges sag between trunks as wide as houses. Bamboo platforms hang off them like shelves. Monkeys in waistcoats run the stalls. On the biggest platform an old grey mandrill in pearls watches you. A monkey with a bottle walks past at eye level, upside down, looking at your pockets.\n\n## Obvious Exits / Features\n\n- **Exits:** 305: the High Bridge; 319: the Smoke Trail; 320: the Rope Drop.\n\nA rope bridge hangs snapped where the chase went wrong. The long way round, now.\n\nThe troop has counted its gourds. They are watching your pockets.\n\n## Achievements\n\nMonkey Business! · Some Assembly Required!\n\n## Quests\n\n- Gourd Season — Auntie Tamarind\n- A Painted Spoon — Auntie Tamarind\n- Smoke and Vine! — Auntie Tamarind · 175 gp\n- Shiny Things — Penny · 30 gp\n",
-      "body_html": "<h2>Room 318 — Canopy Market</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Overripe fruit, cheap wine, and monkey. A hundred feet up, rope bridges sag between trunks as wide as houses. Bamboo platforms hang off them like shelves. Monkeys in waistcoats run the stalls. On the biggest platform an old grey mandrill in pearls watches you. A monkey with a bottle walks past at eye level, upside down, looking at your pockets.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 305: the High Bridge; 319: the Smoke Trail; 320: the Rope Drop.</li></ul>\n<p>A rope bridge hangs snapped where the chase went wrong. The long way round, now.</p>\n<p>The troop has counted its gourds. They are watching your pockets.</p>\n<h2>Achievements</h2>\n<p>Monkey Business! · Some Assembly Required!</p>\n<h2>Quests</h2>\n<ul><li>Gourd Season — Auntie Tamarind</li><li>A Painted Spoon — Auntie Tamarind</li><li>Smoke and Vine! — Auntie Tamarind · 175 gp</li><li>Shiny Things — Penny · 30 gp</li></ul>"
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Overripe fruit, cheap wine, and monkey. A hundred feet up, rope bridges sag between trunks as wide as houses.",
+      "image": "assets/img/room/floortwo/318.webp",
+      "image_thumb": "assets/img/room/floortwo/318.s.webp"
+    },
+    {
+      "id": "room-319",
+      "num": 319,
+      "title": "Smokehouse",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Hickory smoke so thick you can chew it, and under it, bacon. A hunting lodge has fallen in on itself.",
+      "image": "assets/img/room/floortwo/319.webp",
+      "image_thumb": "assets/img/room/floortwo/319.s.webp"
     },
     {
       "id": "room-320",
+      "num": 320,
       "title": "Vine Pit",
-      "subtitle": "Floor 2",
-      "preview": "Room 320 — Vine Pit Zone: Floortwo What You See Wet leaf mould, sap, and something sweet like a pie left on a sill. A sinkhole drops away under the canopy, choked with strangler v…",
-      "group": "floortwo",
-      "group_label": "Floor 2",
-      "type": "Room",
-      "owners": [],
-      "body_md": "# Room 320 — Vine Pit\n\n**Zone:** Floortwo\n\n## What You See\n\nWet leaf mould, sap, and something sweet like a pie left on a sill. A sinkhole drops away under the canopy, choked with strangler vines thick as arms. Daylight comes in through a ring of leaves forty feet up. The floor is soft black mulch, full of bones.\n\nIn the middle, a knot of vines rises like a tree, and pumpkins hang all over it. One of them is glowing.\n\n## Obvious Exits / Features\n\n- **Exits:** 301: the Vine Climb.\n\n## Achievements\n\nPumpkin Spice! · Hoist by Her Own Pumpkin!\n\n## Quests\n\n- The Gourd Mother! — The Gourd Clock · 25 gp\n",
-      "body_html": "<h2>Room 320 — Vine Pit</h2>\n<p><strong>Zone:</strong> Floortwo</p>\n<h2>What You See</h2>\n<p>Wet leaf mould, sap, and something sweet like a pie left on a sill. A sinkhole drops away under the canopy, choked with strangler vines thick as arms. Daylight comes in through a ring of leaves forty feet up. The floor is soft black mulch, full of bones.</p>\n<p>In the middle, a knot of vines rises like a tree, and pumpkins hang all over it. One of them is glowing.</p>\n<h2>Obvious Exits / Features</h2>\n<ul><li><strong>Exits:</strong> 301: the Vine Climb.</li></ul>\n<h2>Achievements</h2>\n<p>Pumpkin Spice! · Hoist by Her Own Pumpkin!</p>\n<h2>Quests</h2>\n<ul><li>The Gourd Mother! — The Gourd Clock · 25 gp</li></ul>"
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Wet leaf mould, sap, and something sweet like a pie left on a sill. A sinkhole drops away under the canopy, choked with strangler vines thick as arms.",
+      "image": "assets/img/room/floortwo/320.webp",
+      "image_thumb": "assets/img/room/floortwo/320.s.webp"
+    },
+    {
+      "id": "room-321",
+      "num": 321,
+      "title": "First Hearth",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Woodsmoke and wet stone under a soot-black overhang. A banked fire; figures in hides stop chewing and watch you like prey.",
+      "image": "assets/img/room/floortwo/321.webp",
+      "image_thumb": "assets/img/room/floortwo/321.s.webp"
+    },
+    {
+      "id": "room-322",
+      "num": 322,
+      "title": "Cave of Safe",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "A CREW ONLY door in the quiet bank opens on a fake cave: foam rock, LED mammoths, speaker fire with real heat.",
+      "image": "assets/img/room/floortwo/322.webp",
+      "image_thumb": "assets/img/room/floortwo/322.s.webp"
+    },
+    {
+      "id": "room-325",
+      "num": 325,
+      "title": "Candy Mile",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Burnt sugar, hot mud, and a sweet rot. Hard-candy cobbles climb through the ferns, slick and half sunk.",
+      "image": "assets/img/room/floortwo/325.webp",
+      "image_thumb": "assets/img/room/floortwo/325.s.webp"
+    },
+    {
+      "id": "room-327",
+      "num": 327,
+      "title": "Back Stile",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Sugar, mushroom, and warm canvas. A low gap in the back wall, behind the cottages.",
+      "image": "assets/img/room/floortwo/327.webp",
+      "image_thumb": "assets/img/room/floortwo/327.s.webp"
+    },
+    {
+      "id": "room-328",
+      "num": 328,
+      "title": "Bleacher Tunnel",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Sawdust, hot canvas, and a fryer somewhere above. A cinderblock tunnel under the seats.",
+      "image": "assets/img/room/floortwo/328.webp",
+      "image_thumb": "assets/img/room/floortwo/328.s.webp"
+    },
+    {
+      "id": "room-329",
+      "num": 329,
+      "title": "Fitting Room",
+      "zone_key": "floortwo",
+      "zone_label": "Floor 2",
+      "blurb": "Hairspray, hot cloth, and leather warmed under a bulb. A narrow room off the tunnel.",
+      "image": "assets/img/room/floortwo/329.webp",
+      "image_thumb": "assets/img/room/floortwo/329.s.webp"
     }
   ]
 }

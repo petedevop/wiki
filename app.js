@@ -7,16 +7,23 @@ const NAV_ITEMS = [
   { key: "rooms", label: "Rooms" },
   { key: "people", label: "People" },
   { key: "items", label: "Gear" },
+  { key: "obstacles", label: "Obstacles" },
   { key: "bounties", label: "Bounties" },
   { key: "board", label: "Board" },
   { key: "wall", label: "Wall" },
   { key: "quests", label: "Quests" },
   { key: "rivals", label: "Rivals" },
   { key: "tonight", label: "Tonight" },
-  { key: "cast", label: "Cast" },
   { key: "sponsors", label: "Sponsors" },
   { key: "achievements", label: "Achievements" },
   { key: "sessions", label: "Sessions" },
+];
+
+const NAV_GROUPS = [
+  { label: "Crew", keys: ["party", "people"] },
+  { label: "Dungeon", keys: ["map", "rooms", "obstacles", "items"] },
+  { label: "Show", keys: ["bounties", "board", "sponsors", "wall", "achievements", "rivals", "tonight", "quests"] },
+  { label: "Reference", keys: ["rules", "sessions"] },
 ];
 
 const SEARCH_SKIP_SECTIONS = new Set(["map"]);
@@ -56,6 +63,8 @@ function matches(row, q) {
       row.dish,
       row.zone_label,
       row.blurb,
+      row.kind,
+      row.faction,
       row.role,
       row.invite_pitch,
       row.giver,
@@ -160,7 +169,7 @@ function hitLabel(row) {
 }
 
 function hitSubtitle(row) {
-  return row.subtitle || row.zone_label || row.preview || row.hint || "";
+  return row.blurb || row.subtitle || row.zone_label || row.preview || row.hint || "";
 }
 
 async function gatherSearchHits(q) {
@@ -250,6 +259,22 @@ function achievementBadges(row) {
   return wrap.children.length ? wrap : null;
 }
 
+function thumbEl(src, alt, extraClass) {
+  // Undiscovered or art-less entries get a "?" so layout stays steady.
+  if (!src) {
+    const ph = el("span", "thumb thumb-ph" + (extraClass ? " " + extraClass : ""), "?");
+    ph.setAttribute("aria-hidden", "true");
+    return ph;
+  }
+  const img = document.createElement("img");
+  img.className = "thumb" + (extraClass ? " " + extraClass : "");
+  img.src = src;
+  img.alt = alt || "";
+  img.loading = "lazy";
+  img.decoding = "async";
+  return img;
+}
+
 function cardDetails(row, bodyHtml) {
   const details = el("details", "card");
   const summary = el("summary");
@@ -285,56 +310,6 @@ function renderList(rows, renderRow) {
     );
   }
   return ul;
-}
-
-function roomNumFromArchiveId(id) {
-  const m = String(id || "").match(/(\d+)/);
-  return m ? parseInt(m[1], 10) : null;
-}
-
-function renderRoomIndex(rows, discoveredByNum) {
-  const q = normalize(state.query);
-  const filtered = rows.filter((row) => {
-    if (matches(row, q)) return true;
-    const found = discoveredByNum.get(row.num);
-    return found && matches(found, q);
-  });
-  if (!filtered.length) {
-    return el(
-      "p",
-      "empty-state",
-      q ? "No matches for that search." : "No rooms in the index yet.",
-    );
-  }
-  const wrap = el("div", "room-groups");
-  let lastZone = "";
-  let ul = null;
-  for (const row of filtered) {
-    const zone = row.zone_label || row.zone_key || "Floor";
-    if (zone !== lastZone) {
-      wrap.appendChild(el("div", "group-label", zone));
-      ul = el("ul", "card-list");
-      wrap.appendChild(ul);
-      lastZone = zone;
-    }
-    const li = document.createElement("li");
-    const found = discoveredByNum.get(row.num);
-    const card = el("details", "card" + (found ? " room-found" : ""));
-    const summary = el("summary");
-    summary.appendChild(el("span", "card-title", `${row.num} — ${row.title}`));
-    if (found) {
-      summary.appendChild(el("span", "card-sub", "Discovered"));
-    }
-    card.appendChild(summary);
-    if (found?.body_html) {
-      const body = el("div", "card-body");
-      body.innerHTML = found.body_html;
-      card.appendChild(body);
-    }
-    li.appendChild(card);
-    ul.appendChild(li);
-  }
-  return wrap;
 }
 
 async function renderRules(main) {
@@ -579,7 +554,7 @@ async function renderQuests(main) {
   );
   panel.appendChild(
     renderList(data.rows || [], (row) => {
-      const subtitle = [row.giver, row.gp ? `${row.gp} gp` : "", row.prize]
+      const subtitle = [row.pc_name, row.giver, row.gp ? `${row.gp} gp` : "", row.prize]
         .filter(Boolean)
         .join(" · ");
       let body = "";
@@ -658,35 +633,10 @@ async function renderTonight(main) {
   main.appendChild(panel);
 }
 
-async function renderCast(main) {
-  const data = await loadJson(state.manifest.sections.cast);
-  const panel = el("div", "panel");
-  panel.appendChild(
-    panelHeader(
-      "Cast index",
-      "Everyone on the floor — met names match People; others stay as silhouettes until you find them.",
-      "cast",
-    ),
-  );
-  panel.appendChild(
-    renderList(data.rows || [], (row) => {
-      const card = el("details", "card" + (row.discovered ? " cast-met" : ""));
-      const summary = el("summary");
-      summary.appendChild(el("span", "card-title", row.name));
-      summary.appendChild(
-        el("span", "card-sub", row.discovered ? "Met" : "Not met"),
-      );
-      if (row.role) summary.appendChild(el("span", "card-sub", row.role));
-      card.appendChild(summary);
-      return card;
-    }),
-  );
-  main.appendChild(panel);
-}
-
 async function renderSponsors(main) {
   const data = await loadJson(state.manifest.sections.sponsors);
   const panel = el("div", "panel");
+  if (data.crest) panel.appendChild(thumbEl(data.crest, "Sponsors", "crest-banner"));
   panel.appendChild(
     panelHeader(
       "Sponsors",
@@ -799,29 +749,128 @@ async function renderAchievements(main) {
   main.appendChild(panel);
 }
 
-async function renderRooms(main) {
-  const [dirData, roomsData] = await Promise.all([
-    loadJson(state.manifest.sections.room_directory),
-    loadJson(state.manifest.sections.rooms),
-  ]);
-  const discoveredByNum = new Map();
-  for (const row of roomsData.rows || []) {
-    const num = roomNumFromArchiveId(row.id);
-    if (num != null) discoveredByNum.set(num, row);
-  }
-  const panel = el("div", "panel");
-  const foundCount = state.manifest?.counts?.rooms;
-  panel.appendChild(
-    panelHeader(
-      "Rooms",
-      foundCount
-        ? "Every room on the floor; expand discovered places for full text."
-        : "Every room name on the floor — grouped by zone.",
-      "rooms",
-    ),
+// One catalog entry: thumb, title, a one-line blurb. Expands only when it has more to show.
+function entryRow(row, { title = row.title, meta = [], body = null } = {}) {
+  const root = body ? el("details", "card") : el("div", "card card-flat");
+  const head = body ? el("summary") : el("div", "card-head");
+  const isRoom = row.num !== undefined;
+  head.appendChild(
+    thumbEl(isRoom ? row.image_thumb || row.image : row.image, row.title, isRoom ? "thumb-room" : ""),
   );
-  panel.appendChild(renderRoomIndex(dirData.rows || [], discoveredByNum));
+  head.appendChild(el("span", "card-title", title));
+  for (const node of meta) head.appendChild(node);
+  if (row.blurb) head.appendChild(el("span", "card-blurb", row.blurb));
+  root.appendChild(head);
+  if (body) root.appendChild(body);
+  return root;
+}
+
+function factionLine(row) {
+  if (!row.faction_image) return [];
+  const line = el("span", "card-sub faction-line");
+  line.appendChild(thumbEl(row.faction_image, row.faction, "faction-badge"));
+  line.appendChild(document.createTextNode(" " + (row.faction || "")));
+  return [line];
+}
+
+function groupedList(rows, groupOf, renderRow) {
+  const q = normalize(state.query);
+  const wrap = el("div", "room-groups");
+  let last = null;
+  let ul = null;
+  for (const row of rows) {
+    if (!matches(row, q)) continue;
+    const label = groupOf(row);
+    if (label !== last) {
+      wrap.appendChild(el("div", "group-label", label));
+      ul = el("ul", "card-list");
+      wrap.appendChild(ul);
+      last = label;
+    }
+    const li = document.createElement("li");
+    li.appendChild(renderRow(row));
+    ul.appendChild(li);
+  }
+  if (!ul) return el("p", "empty-state", "No matches for that search.");
+  return wrap;
+}
+
+async function renderCatalog(main, key, title, intro, render) {
+  const data = await loadJson(state.manifest.sections[key]);
+  const panel = el("div", "panel");
+  panel.appendChild(panelHeader(title, intro, key));
+  panel.appendChild(render(data.rows || []));
   main.appendChild(panel);
+}
+
+function renderRooms(main) {
+  return renderCatalog(
+    main,
+    "rooms",
+    "Rooms",
+    "Every room on the floor, in a line.",
+    (rows) =>
+      groupedList(
+        rows,
+        (r) => r.zone_label || r.zone_key || "Floor",
+        (row) => {
+          let body = null;
+          if (row.image) {
+            body = el("div", "card-body");
+            body.appendChild(thumbEl(row.image, row.title, "room-art"));
+          }
+          return entryRow(row, { title: `${row.num} — ${row.title}`, body });
+        },
+      ),
+  );
+}
+
+function renderPeople(main) {
+  return renderCatalog(main, "people", "People", "Everyone you might meet on the floor.", (rows) =>
+    renderList(rows, (row) => entryRow(row, { meta: factionLine(row) })),
+  );
+}
+
+function renderGear(main) {
+  return renderCatalog(main, "items", "Gear", "Everything you might find, wear or wield.", (rows) =>
+    renderList(rows, (row) => entryRow(row)),
+  );
+}
+
+function optionsBody(options) {
+  const body = el("div", "card-body");
+  body.appendChild(el("p", "party-skills-label", "What you can try"));
+  const ul = el("ul", "options");
+  for (const opt of options) {
+    const li = document.createElement("li");
+    li.appendChild(el("strong", null, opt.label));
+    const bits = [];
+    if (opt.stat) bits.push(opt.stat);
+    if (opt.skills?.length) bits.push("helped by " + opt.skills.join(", "));
+    if (bits.length) li.appendChild(document.createTextNode(" · " + bits.join(" · ")));
+    ul.appendChild(li);
+  }
+  body.appendChild(ul);
+  return body;
+}
+
+function renderObstacles(main) {
+  return renderCatalog(
+    main,
+    "obstacles",
+    "Obstacles",
+    "Hazards, puzzles and scenery — and what you can try against them.",
+    (rows) =>
+      groupedList(
+        rows,
+        (r) => (r.room ? `Room ${r.room}${r.room_title ? " — " + r.room_title : ""}` : "Elsewhere"),
+        (row) =>
+          entryRow(row, {
+            meta: row.kind ? [el("span", "chip kind-chip", row.kind)] : [],
+            body: row.options?.length ? optionsBody(row.options) : null,
+          }),
+      ),
+  );
 }
 
 function partyAbilityPills(abilities) {
@@ -913,7 +962,11 @@ async function renderParty(main) {
       const skills = el("ul", "party-skills");
       for (const skill of row.skills) {
         const li = document.createElement("li");
-        li.textContent = `${skill.name} +${skill.bonus} (${skill.stat}, rank ${skill.rank})`;
+        li.className = "skill-row";
+        li.appendChild(thumbEl(skill.image, skill.name, "skill-thumb"));
+        li.appendChild(
+          document.createTextNode(` ${skill.name} +${skill.bonus} (${skill.stat}, rank ${skill.rank})`),
+        );
         skills.appendChild(li);
       }
       card.appendChild(el("p", "party-skills-label", "Trained skills"));
@@ -961,16 +1014,14 @@ async function renderSection() {
     else if (key === "quests") await renderQuests(main);
     else if (key === "rivals") await renderRivals(main);
     else if (key === "tonight") await renderTonight(main);
-    else if (key === "cast") await renderCast(main);
     else if (key === "sponsors") await renderSponsors(main);
     else if (key === "achievements") await renderAchievements(main);
     else if (key === "party") await renderParty(main);
     else if (key === "rooms") await renderRooms(main);
-    else if (key === "people") {
-      await renderSimpleSection(main, "people", "People", "NPCs the party has met.");
-    } else if (key === "items") {
-      await renderSimpleSection(main, "items", "Gear", "Items the party has discovered.");
-    } else if (key === "sessions") {
+    else if (key === "obstacles") await renderObstacles(main);
+    else if (key === "people") await renderPeople(main);
+    else if (key === "items") await renderGear(main);
+    else if (key === "sessions") {
       await renderSimpleSection(main, "sessions", "Sessions", "Player recaps from past nights.");
     }
   } catch (err) {
@@ -1070,7 +1121,11 @@ function syncNavUi() {
   nav.querySelectorAll("[data-section]").forEach((node) => {
     const key = node.dataset.section;
     if (!key) return;
-    node.classList.toggle("active", key === state.section);
+    const on = key === state.section;
+    node.classList.toggle("active", on);
+    if (on && window.matchMedia("(max-width: 61.99rem)").matches) {
+      node.scrollIntoView({ inline: "center", block: "nearest" });
+    }
   });
 }
 
@@ -1078,21 +1133,34 @@ function buildNav() {
   const nav = document.getElementById("nav");
   nav.innerHTML = "";
 
-  const row = el("div", "nav-row nav-row--pills");
-  for (const item of NAV_ITEMS) {
-    if (!sectionExists(item.key)) continue;
-    const btn = document.createElement("button");
-    btn.type = "button";
-    btn.className = "nav-pill";
-    btn.textContent = item.label;
-    btn.dataset.section = item.key;
-    btn.addEventListener("click", () => {
-      clearSearchInput();
-      goToSection(item.key);
-    });
-    row.appendChild(btn);
+  const grouped = new Set(NAV_GROUPS.flatMap((g) => g.keys));
+  const groups = [
+    ...NAV_GROUPS,
+    { label: "More", keys: NAV_ITEMS.map((i) => i.key).filter((k) => !grouped.has(k)) },
+  ];
+  for (const group of groups) {
+    const items = group.keys
+      .map((key) => NAV_ITEMS.find((i) => i.key === key))
+      .filter((item) => item && sectionExists(item.key));
+    if (!items.length) continue;
+    const wrap = el("div", "nav-group");
+    wrap.appendChild(el("span", "nav-group-label", group.label));
+    const links = el("div", "nav-links");
+    for (const item of items) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "nav-pill";
+      btn.textContent = item.label;
+      btn.dataset.section = item.key;
+      btn.addEventListener("click", () => {
+        clearSearchInput();
+        goToSection(item.key);
+      });
+      links.appendChild(btn);
+    }
+    wrap.appendChild(links);
+    nav.appendChild(wrap);
   }
-  nav.appendChild(row);
   syncNavUi();
 }
 
@@ -1114,6 +1182,8 @@ async function init() {
     state.ruleAnchor = null;
   }
   buildNav();
+  const floor = document.getElementById("brand-floor");
+  if (floor && state.manifest.zone_label) floor.textContent = state.manifest.zone_label;
   syncFooter();
   syncOpenGraphMeta();
   syncLocationHash();

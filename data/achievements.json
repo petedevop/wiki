@@ -41,6 +41,16 @@
       ]
     },
     {
+      "name": "Arc in the Water!",
+      "group": "dungeon",
+      "hint": "Wet metal sings.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Arts and Crafts Hour!",
       "group": "evening",
       "hint": "Glue, tape, and prayer. The segment ends in two minutes.",
@@ -281,6 +291,16 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Brushfire!",
+      "group": "dungeon",
+      "hint": "Fire clears the green.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Brutal Ratings!",
       "group": "evening",
       "hint": "Keep the numbers rolling. The viewers love a running total.",
@@ -424,7 +444,7 @@
       "steps": [
         {
           "met": false,
-          "label": "Start at The Location (303)",
+          "label": "Start at The Film Set (303)",
           "bonus": false
         },
         {
@@ -561,6 +581,16 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Curse Broken!",
+      "group": "dungeon",
+      "hint": "Sacred air returns.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Dig Your Own!",
       "group": "combat",
       "hint": "Now kill something in a fight with the spade. Saves a trip later.",
@@ -608,6 +638,16 @@
       "group": "stunts",
       "hint": "You know how this story goes. So does she.",
       "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Doused Flame!",
+      "group": "dungeon",
+      "hint": "Water beats fire on the body.",
+      "loot": "Bronze Loot Box",
       "nightly": false,
       "earned_by": [],
       "touched": false,
@@ -932,6 +972,26 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Green Kindling!",
+      "group": "combat",
+      "hint": "Flames love the green.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Ground Buckles!",
+      "group": "dungeon",
+      "hint": "Blasphemy wins the tile.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Guess Who's Coming to Dinner!",
       "group": "shame",
       "hint": "When in the Stone Age.",
@@ -1051,6 +1111,16 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Heat Crack!",
+      "group": "combat",
+      "hint": "Brittle meets flame.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Heavy Hitter!",
       "group": "evening",
       "hint": "Swing like the camera is on you. It is.",
@@ -1125,6 +1195,16 @@
           60
         ]
       }
+    },
+    {
+      "name": "Ice Breaker!",
+      "group": "dungeon",
+      "hint": "Heat meets frost.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
     },
     {
       "name": "Ice Ice Baby!",
@@ -1329,6 +1409,16 @@
       }
     },
     {
+      "name": "Kindling!",
+      "group": "dungeon",
+      "hint": "One flame becomes two.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Knife Skills!",
       "group": "combat",
       "hint": "Now kill something in a fight with the knife. Mise en place.",
@@ -1372,6 +1462,16 @@
       "name": "Live Delivery!",
       "group": "stunts",
       "hint": "Fresh is best. Freshest is still kicking.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Living Circuit!",
+      "group": "combat",
+      "hint": "Wet metal conducts.",
       "loot": "Silver Loot Box",
       "nightly": false,
       "earned_by": [],
@@ -1685,10 +1785,8 @@
       "hint": "Now kill something in a fight with the blade. Up close and personal.",
       "loot": "",
       "nightly": false,
-      "earned_by": [
-        "Nick"
-      ],
-      "touched": true,
+      "earned_by": [],
+      "touched": false,
       "progress_by_pc": {}
     },
     {
@@ -1878,6 +1976,16 @@
           3
         ]
       }
+    },
+    {
+      "name": "Sacred Burn!",
+      "group": "combat",
+      "hint": "Light unmakes undeath.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
     },
     {
       "name": "Sashimi Grade!",
@@ -2089,6 +2197,16 @@
       }
     },
     {
+      "name": "Skating the Flood!",
+      "group": "dungeon",
+      "hint": "Frost skins the flood.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Skewered!",
       "group": "combat",
       "hint": "Now kill something in a fight with the spear. Pointy end towards the dinner.",
@@ -2219,6 +2337,16 @@
       "hint": "Charm is a skill. Skills are content.",
       "loot": "Bronze Loot Box",
       "nightly": true,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Soaked Fuse!",
+      "group": "dungeon",
+      "hint": "Water beats the slow burn.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
@@ -2629,6 +2757,16 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Torch in the Drink!",
+      "group": "dungeon",
+      "hint": "Floods hate firelight.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Tough Crowd!",
       "group": "evening",
       "hint": "Everyone in the building has had a go.",
@@ -2650,6 +2788,16 @@
           5
         ]
       }
+    },
+    {
+      "name": "Toxin Flash!",
+      "group": "combat",
+      "hint": "Heat pops the venom.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
     },
     {
       "name": "Variety Hour!",

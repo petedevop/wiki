@@ -1,6 +1,12 @@
 {
   "rows": [
     {
+      "num": 400,
+      "title": "Stair Landing",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
       "num": 300,
       "title": "Green Room",
       "zone_key": "floortwo",
@@ -20,7 +26,7 @@
     },
     {
       "num": 303,
-      "title": "Location",
+      "title": "Film Set",
       "zone_key": "floortwo",
       "zone_label": "Floor 2"
     },

@@ -1,0 +1,100 @@
+{
+  "rows": [
+    {
+      "id": "combo:fire-thaw",
+      "reaction_id": "fire-thaws-frozen",
+      "discovered": "false",
+      "hint": "Fire Thaw"
+    },
+    {
+      "id": "combo:fire-thaw",
+      "reaction_id": "fire-thaws-frozen-combat",
+      "discovered": "false",
+      "hint": "Fire Thaw"
+    },
+    {
+      "id": "combo:water-burning",
+      "reaction_id": "water-extinguishes-burning",
+      "discovered": "false",
+      "hint": "Water Burning"
+    },
+    {
+      "id": "combo:water-smoulder",
+      "reaction_id": "water-cures-smouldering",
+      "discovered": "false",
+      "hint": "Water Smoulder"
+    },
+    {
+      "id": "combo:fire-overgrown",
+      "reaction_id": "fire-clears-overgrown",
+      "discovered": "false",
+      "hint": "Fire Overgrown"
+    },
+    {
+      "id": "combo:cold-flooded",
+      "reaction_id": "cold-freezes-flooded-floor",
+      "discovered": "false",
+      "hint": "Cold Flooded"
+    },
+    {
+      "id": "combo:water-shock",
+      "reaction_id": "water-shocks-electrified",
+      "discovered": "false",
+      "hint": "Water Shock"
+    },
+    {
+      "id": "combo:fire-poison",
+      "reaction_id": "fire-poison-burst",
+      "discovered": "false",
+      "hint": "Fire Poison"
+    },
+    {
+      "id": "combo:holy-cursed",
+      "reaction_id": "holy-cleanses-cursed-room",
+      "discovered": "false",
+      "hint": "Holy Cursed"
+    },
+    {
+      "id": "combo:unholy-hallowed",
+      "reaction_id": "unholy-pierces-hallowed",
+      "discovered": "false",
+      "hint": "Unholy Hallowed"
+    },
+    {
+      "id": "combo:shock-conductive",
+      "reaction_id": "shock-conductive-discovery",
+      "discovered": "false",
+      "hint": "Shock Conductive"
+    },
+    {
+      "id": "combo:fire-plant",
+      "reaction_id": "fire-plant-double",
+      "discovered": "false",
+      "hint": "Fire Plant"
+    },
+    {
+      "id": "combo:holy-undead",
+      "reaction_id": "holy-undead-double",
+      "discovered": "false",
+      "hint": "Holy Undead"
+    },
+    {
+      "id": "combo:fire-brittle",
+      "reaction_id": "fire-brittle-detonate",
+      "discovered": "false",
+      "hint": "Fire Brittle"
+    },
+    {
+      "id": "combo:flooded-torch",
+      "reaction_id": "flooded-torch-out",
+      "discovered": "false",
+      "hint": "Flooded Torch"
+    },
+    {
+      "id": "combo:fire-spread",
+      "reaction_id": "burning-spread",
+      "discovered": "false",
+      "hint": "Fire Spread"
+    }
+  ]
+}

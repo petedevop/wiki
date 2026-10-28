@@ -1,20 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#d4af6a" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#5a3c28" stop-opacity="0.08"/>
-    </linearGradient>
-    <radialGradient id="spot" cx="50%" cy="0%" r="80%">
-      <stop offset="0%" stop-color="#d4af6a" stop-opacity="0.18"/>
-      <stop offset="55%" stop-color="#0c0a09" stop-opacity="0"/>
+    <radialGradient id="spot" cx="85%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#f4b73f" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0d1512" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect width="1200" height="630" fill="#0c0a09"/>
+  <rect width="1200" height="630" fill="#0d1512"/>
   <rect width="1200" height="630" fill="url(#spot)"/>
-  <rect x="48" y="48" width="1104" height="534" rx="28" fill="#141210" stroke="#d4af6a" stroke-opacity="0.35" stroke-width="2"/>
-  <rect x="48" y="48" width="1104" height="534" rx="28" fill="url(#glow)" opacity="0.5"/>
-  <text x="600" y="248" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="500" fill="#f5f0e6" letter-spacing="0.04em">Shadowdark DCC Wiki</text>
-  <text x="600" y="318" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" fill="#a89f8f">Floor Two · party, map, rules, discoveries</text>
-  <rect x="520" y="368" width="160" height="160" rx="36" fill="#1a1714" stroke="#d4af6a" stroke-opacity="0.75" stroke-width="3"/>
-  <text x="600" y="468" text-anchor="middle" font-family="Georgia, serif" font-size="88" font-weight="600" fill="#d4af6a">II</text>
+  <text x="80" y="330" font-family="Helvetica Neue, Arial, sans-serif" font-size="230" font-weight="800" letter-spacing="-10" fill="#f4b73f">Floor 2</text>
+  <text x="86" y="420" font-family="Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="600" fill="#f2ecda">Shadowdark DCC Wiki</text>
+  <text x="88" y="486" font-family="Georgia, serif" font-size="32" font-style="italic" fill="#c9ccb9">Rooms, people, gear and obstacles â€” spoiler-free.</text>
 </svg>

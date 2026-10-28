@@ -273,5 +273,6 @@
       "unique": false
     }
   ],
-  "scoreboard": []
+  "scoreboard": [],
+  "crest": "assets/img/faction/sponsors.webp"
 }

@@ -1,0 +1,2663 @@
+{
+  "rows": [
+    {
+      "id": "obstacle-best_chef",
+      "title": "Best Chef",
+      "kind": "Scenery",
+      "room": 300,
+      "room_title": "Green Room",
+      "blurb": "The brass bell rings. Floodlights swing over the canopy: BEST CHEF.",
+      "image": "assets/img/obstacle/best_chef.webp",
+      "options": []
+    },
+    {
+      "id": "obstacle-crawler_cookery_101",
+      "title": "Crawler Cookery 101",
+      "kind": "Scenery",
+      "room": 300,
+      "room_title": "Green Room",
+      "blurb": "Crumb's whiteboard: MEAT. VEG.",
+      "image": "assets/img/obstacle/crawler_cookery_101.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-lost_property_bin",
+      "title": "Lost Property Bin",
+      "kind": "Scenery",
+      "room": 300,
+      "room_title": "Green Room",
+      "blurb": "A plastic LOST PROPERTY bin under the arrival bench, spilling cheap props: a steak knife still tagged PROP, and a mop somebody marked MINE.",
+      "image": "assets/img/obstacle/lost_property_bin.webp",
+      "options": []
+    },
+    {
+      "id": "obstacle-the_chef_s_lift",
+      "title": "The Chef's Lift",
+      "kind": "Scenery",
+      "room": 300,
+      "room_title": "Green Room",
+      "blurb": "A brass service lift behind the podium, its gate stencilled CHEF ONLY.",
+      "image": "assets/img/obstacle/the_chef_s_lift.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_way_down",
+      "title": "The Way Down",
+      "kind": "Terrain",
+      "room": 300,
+      "room_title": "Green Room",
+      "blurb": "Three ways off the platform. A rope bridge strung with fairy lights, crumbs on every plank.",
+      "image": "assets/img/obstacle/the_way_down.webp",
+      "options": [
+        {
+          "label": "Slide",
+          "stat": "DEX",
+          "skills": [
+            "Parkour",
+            "Acrobat"
+          ]
+        },
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Goblin Engineering",
+            "Chainsaws (Power Tools)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-raptor_tracks",
+      "title": "Raptor Tracks",
+      "kind": "Scenery",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "Three-toed prints in the mud, circling the lichen heap.",
+      "image": "assets/img/obstacle/raptor_tracks.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Search Dungeon",
+            "Trap Sense"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_eel_river",
+      "title": "The Eel River",
+      "kind": "Terrain",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "A brown river along one side of the clearing, warm as a bath and crackling.",
+      "image": "assets/img/obstacle/the_eel_river.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        },
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        },
+        {
+          "label": "Throw",
+          "stat": "DEX",
+          "skills": [
+            "Hot Potato"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_five",
+      "title": "The Five",
+      "kind": "Terrain",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "Five wrong shapes in the ferns, just past the light line from the clearing.",
+      "image": "assets/img/obstacle/the_five.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Cross",
+          "stat": "DEX",
+          "skills": [
+            "Parkour",
+            "Acrobat"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_honey_hive",
+      "title": "The Honey Hive",
+      "kind": "Trap",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "A hive the size of a house hangs over the clearing from one thick branch, humming.",
+      "image": "assets/img/obstacle/the_honey_hive.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_lichen_heap",
+      "title": "The Lichen Heap",
+      "kind": "Scenery",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "A mound of grey-green lichen at the foot of the vine slide, soft and deep, and shaped by everyone who has landed on it.",
+      "image": "assets/img/obstacle/the_lichen_heap.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Search Dungeon",
+            "Shiny Finder"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_talent_arrows",
+      "title": "The Talent Arrows",
+      "kind": "Scenery",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "Two arrows in gaffer tape on the wet rock. One is fresh.",
+      "image": "assets/img/obstacle/the_talent_arrows.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Search Dungeon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_yam_patch",
+      "title": "The Yam Patch",
+      "kind": "Scenery",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "Broad leaves in the warm ground off the edge of the heap.",
+      "image": "assets/img/obstacle/the_yam_patch.webp",
+      "options": [
+        {
+          "label": "Dig",
+          "stat": "STR",
+          "skills": [
+            "Grave Shift"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-mayor_snap_s_procession",
+      "title": "Mayor Snap's Procession",
+      "kind": "Puzzle",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "The Mayor sits in a wheelbarrow outside the town hall in her chain of office, crumbling.",
+      "image": "assets/img/obstacle/mayor_snap_s_procession.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_bitten_merlon",
+      "title": "The Bitten Merlon",
+      "kind": "Scenery",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "High on the gate wall, a bite. Gingerbread bricks gone.",
+      "image": "assets/img/obstacle/the_bitten_merlon.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Search Dungeon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_bridge_gantry",
+      "title": "The Bridge Gantry",
+      "kind": "Scenery",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "The rope bridge from the canopy lands on a crew gantry bolted to the gate wall.",
+      "image": "assets/img/obstacle/the_bridge_gantry.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_crumb_pension",
+      "title": "The Crumb Pension",
+      "kind": "Scenery",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "A row of benches in the sun outside the bakery.",
+      "image": "assets/img/obstacle/the_crumb_pension.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_meat_guest_room",
+      "title": "The Meat Guest Room",
+      "kind": "Scenery",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "A cottage on the corner. The family insists.",
+      "image": "assets/img/obstacle/the_meat_guest_room.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_missing_bite",
+      "title": "The Missing Bite",
+      "kind": "Puzzle",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "The baker's wife sits on the edge of the fountain with a crescent bitten out of her shoulder, sobbing into her apron.",
+      "image": "assets/img/obstacle/the_missing_bite.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_rain_bell",
+      "title": "The Rain Bell",
+      "kind": "Trap",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "A stagehand with a clipboard and a headset stands beside the brass bell, checking his watch.",
+      "image": "assets/img/obstacle/the_rain_bell.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        },
+        {
+          "label": "Offer",
+          "stat": "CHA",
+          "skills": [
+            "Cooking",
+            "Negotiate"
+          ]
+        },
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-saffron_s_pitch",
+      "title": "Saffron's Pitch",
+      "kind": "Scenery",
+      "room": 303,
+      "room_title": "Film Set",
+      "blurb": "One episode. The finale of SURVIVAL CHEF: INTO THE DARK.",
+      "image": "assets/img/obstacle/saffron_s_pitch.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-saffron_s_prep_table",
+      "title": "Saffron's Prep Table",
+      "kind": "Puzzle",
+      "room": 303,
+      "room_title": "Film Set",
+      "blurb": "She cooks with her back to the water and never looks round.",
+      "image": "assets/img/obstacle/saffron_s_prep_table.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_empty_chairs",
+      "title": "The Empty Chairs",
+      "kind": "Scenery",
+      "room": 303,
+      "room_title": "Film Set",
+      "blurb": "Six canvas director's chairs in a row, facing the water.",
+      "image": "assets/img/obstacle/the_empty_chairs.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_lanyard_hook",
+      "title": "The Lanyard Hook",
+      "kind": "Scenery",
+      "room": 303,
+      "room_title": "Film Set",
+      "blurb": "A tent peg hammered into the rock behind the chairs, with eleven crew lanyards on it.",
+      "image": "assets/img/obstacle/the_lanyard_hook.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_mopped_trail",
+      "title": "The Mopped Trail",
+      "kind": "Terrain",
+      "room": 303,
+      "room_title": "Film Set",
+      "blurb": "A smear on the white shingle, wide as a cart, from the water's edge to the chairs and back.",
+      "image": "assets/img/obstacle/the_mopped_trail.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_rushes_monitor",
+      "title": "The Rushes Monitor",
+      "kind": "Scenery",
+      "room": 303,
+      "room_title": "Film Set",
+      "blurb": "In the back of her tent, a battered laptop on an equipment case, battery at four percent.",
+      "image": "assets/img/obstacle/the_rushes_monitor.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-krakaren_carcass",
+      "title": "Krakaren Carcass",
+      "kind": "Scenery",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "The Great White's first body, folded on the shingle where it fell, already splitting.",
+      "image": "assets/img/obstacle/krakaren_carcass.webp",
+      "options": [
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_action_loop",
+      "title": "The ACTION Loop",
+      "kind": "Trap",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A crew walkie on a dead assistant director's chest, taped to TALK, looping his last call.",
+      "image": "assets/img/obstacle/the_action_loop.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        },
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_black_water",
+      "title": "The Black Water",
+      "kind": "Terrain",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A pool of black water the width of the set, lit from above.",
+      "image": "assets/img/obstacle/the_black_water.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_camera_jib",
+      "title": "The Camera Jib",
+      "kind": "Scenery",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A camera crane leaning out over the pool, its camera still recording on the end of the arm, the counterweight swinging.",
+      "image": "assets/img/obstacle/the_camera_jib.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_dead_crew",
+      "title": "The Dead Crew",
+      "kind": "Scenery",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "The crew are still at their posts: a woman holding a boom up over nothing, a focus puller on an apple box, a grip under a sandbag.",
+      "image": "assets/img/obstacle/the_dead_crew.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        },
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_hanging_truss",
+      "title": "The Hanging Truss",
+      "kind": "Trap",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A lighting truss hung from one chain over the middle of the pool, the other chain snapped.",
+      "image": "assets/img/obstacle/the_hanging_truss.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_lamp_board",
+      "title": "The Lamp Board",
+      "kind": "Scenery",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A lighting desk on a flight case, a man in headphones slumped over the faders.",
+      "image": "assets/img/obstacle/the_lamp_board.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_live_cable",
+      "title": "The Live Cable",
+      "kind": "Trap",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A fat, sparking power cable lying an arm's length from the water.",
+      "image": "assets/img/obstacle/the_live_cable.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_props_tent",
+      "title": "The Props Tent",
+      "kind": "Scenery",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A collapsed tent of crates marked PROPS. Rubber knives, foam rocks, a fire extinguisher made of cardboard, a fake severed hand.",
+      "image": "assets/img/obstacle/the_props_tent.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_abandoned_nest",
+      "title": "The Abandoned Nest",
+      "kind": "Scenery",
+      "room": 305,
+      "room_title": "Fern Hollow",
+      "blurb": "The matriarch's nest by the crashed chopper is abandoned.",
+      "image": "assets/img/obstacle/the_abandoned_nest.webp",
+      "options": [
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Crafting",
+            "Goblin Engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_capture_cage",
+      "title": "The Capture Cage",
+      "kind": "Trap",
+      "room": 305,
+      "room_title": "Fern Hollow",
+      "blurb": "A crew capture cage for the nature segment: steel bars, a drop gate on a rope, big enough for a horse.",
+      "image": "assets/img/obstacle/the_capture_cage.webp",
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_clutch",
+      "title": "The Clutch",
+      "kind": "Scenery",
+      "room": 305,
+      "room_title": "Fern Hollow",
+      "blurb": "In the chopper's cabin, a nest of fern, foam and headsets, and in it a clutch of speckled eggs the size of footballs, warm to the touch.",
+      "image": "assets/img/obstacle/the_clutch.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_floodlight_timer",
+      "title": "The Floodlight Timer",
+      "kind": "Scenery",
+      "room": 305,
+      "room_title": "Fern Hollow",
+      "blurb": "Six floodlights strapped to a tree, wired to a grey timer box at its foot.",
+      "image": "assets/img/obstacle/the_floodlight_timer.webp",
+      "options": [
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Crafting",
+            "Goblin Engineering"
+          ]
+        },
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_nature_segment",
+      "title": "The Nature Segment",
+      "kind": "Scenery",
+      "room": 305,
+      "room_title": "Fern Hollow",
+      "blurb": "A camera on a tripod, still recording, and three dead crew in the ferns around it.",
+      "image": "assets/img/obstacle/the_nature_segment.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_sponsor_drop",
+      "title": "The Sponsor Drop",
+      "kind": "Scenery",
+      "room": 305,
+      "room_title": "Fern Hollow",
+      "blurb": "Mid-fight, a jingle plays from nowhere and a crate floats down on a striped parachute into the middle of the clearing: SCORCH!",
+      "image": "assets/img/obstacle/the_sponsor_drop.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_birdcage",
+      "title": "The Birdcage",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "A gilded birdcage the size of a wardrobe, a velvet cushion on the floor, crumbs everywhere.",
+      "image": "assets/img/obstacle/the_birdcage.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_bone_bargain",
+      "title": "The Bone Bargain",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "Four little saucers beside the teapot. Mother Treacle taps each with a silver teaspoon.",
+      "image": "assets/img/obstacle/the_bone_bargain.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Offer",
+          "stat": "CHA",
+          "skills": [
+            "Cooking",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_dough_trough",
+      "title": "The Dough Trough",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "A long wooden trough under a damp cloth, heaving gently.",
+      "image": "assets/img/obstacle/the_dough_trough.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_forbidden_shelf",
+      "title": "The Forbidden Shelf",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "A high shelf over the counter, out of camera, behind a curtain: jars with handwritten labels and one fat cookbook, its spine cracked.",
+      "image": "assets/img/obstacle/the_forbidden_shelf.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_good_oven",
+      "title": "The Good Oven",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "A black iron range at the back of the set, the oven door big enough to walk into, orange light round its edges.",
+      "image": "assets/img/obstacle/the_good_oven.webp",
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        },
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        },
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_studio_audience",
+      "title": "The Studio Audience",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "Bleachers in the dark behind the cameras, and on them rows of pale, unbaked gingerbread folk, sitting very still.",
+      "image": "assets/img/obstacle/the_studio_audience.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_tape_shelf",
+      "title": "The Tape Shelf",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "A row of VHS tapes in cracked cases, hand-labelled: TREACLE'S KITCHEN, series one to six.",
+      "image": "assets/img/obstacle/the_tape_shelf.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_tasting",
+      "title": "The Tasting",
+      "kind": "Scenery",
+      "room": 306,
+      "room_title": "Gingerbread Cottage",
+      "blurb": "The counter, laid for tea under the dead cameras: a tiered stand of treacle tart, cream horns, sticky toffee, a pot of something brown and sweet.",
+      "image": "assets/img/obstacle/the_tasting.webp",
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-calls_service",
+      "title": "Calls Service",
+      "kind": "Trap",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "A silver glass bell beside the judge's chair.",
+      "image": "assets/img/obstacle/calls_service.webp",
+      "options": [
+        {
+          "label": "Cross",
+          "stat": "DEX",
+          "skills": [
+            "Acrobatics"
+          ]
+        },
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Crafting",
+            "Goblin Engineering"
+          ]
+        },
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-loading_dock_forklift",
+      "title": "Loading Dock Forklift",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "A yellow stadium forklift with a sponsor wrap, a flashing amber beacon and a seat sticker reading OPERATOR MUST BE CERTIFIED (NOBODY IS).",
+      "image": "assets/img/obstacle/loading_dock_forklift.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_cloche",
+      "title": "The Cloche",
+      "kind": "Trap",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "A silver dome the size of a house hangs over the dais on four chains.",
+      "image": "assets/img/obstacle/the_cloche.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_frozen_vault_door",
+      "title": "The Frozen Vault Door",
+      "kind": "Puzzle",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "Rime rims a blank steel recess behind the loading-dock dumpsters.",
+      "image": "assets/img/obstacle/the_frozen_vault_door.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        },
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_kill_floor",
+      "title": "The Kill Floor",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "The stadium floor splits open onto conveyor lanes, fryer vats and laser emitters.",
+      "image": "assets/img/obstacle/the_kill_floor.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_mystery_basket",
+      "title": "The Mystery Basket",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "At a service gong, two wicker baskets float down from the stadium roof on striped parachutes, one to each kitchen, lids strapped shut.",
+      "image": "assets/img/obstacle/the_mystery_basket.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_pantry_wall",
+      "title": "The Pantry Wall",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "A wall of glass lockers under the scoreboard, one per kitchen.",
+      "image": "assets/img/obstacle/the_pantry_wall.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_prize_placard",
+      "title": "The Prize Placard",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "Five brass plates sit under the scoreboard: 15, 25, 40, 55, 65.",
+      "image": "assets/img/obstacle/the_prize_placard.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_restock_ledger",
+      "title": "The Restock Ledger",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "An usher changes the date with a wooden slider.",
+      "image": "assets/img/obstacle/the_restock_ledger.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_rival_kitchen",
+      "title": "The Rival Kitchen",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "The other kitchen, ten paces across the dais: the same steel, the same knives, and tonight's opponent's name in lights over it.",
+      "image": "assets/img/obstacle/the_rival_kitchen.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_scoreboard",
+      "title": "The Scoreboard",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "A scoreboard the size of a house in the trees over the stadium, a bulb for every digit, two kitchen names in lights.",
+      "image": "assets/img/obstacle/the_scoreboard.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        },
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_usher_alarm",
+      "title": "The Usher Alarm",
+      "kind": "Scenery",
+      "room": 307,
+      "room_title": "Kitchen Stadium",
+      "blurb": "A red beacon over the pass, dark for now, wired to every usher's radio.",
+      "image": "assets/img/obstacle/the_usher_alarm.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-gallery_suppression",
+      "title": "Gallery Suppression",
+      "kind": "Scenery",
+      "room": 308,
+      "room_title": "Cookbook Stacks",
+      "blurb": "Every gallery has a red lever beneath a sprinkler head.",
+      "image": "assets/img/obstacle/gallery_suppression.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-preserving_cloches",
+      "title": "Preserving Cloches",
+      "kind": "Scenery",
+      "room": 308,
+      "room_title": "Cookbook Stacks",
+      "blurb": "Steel retaining collars secure the glass covers.",
+      "image": "assets/img/obstacle/preserving_cloches.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_brass_bell",
+      "title": "The Brass Bell",
+      "kind": "Scenery",
+      "room": 308,
+      "room_title": "Cookbook Stacks",
+      "blurb": "A brass bell on the attendant desk. Folded menu napkins stand in every gallery.",
+      "image": "assets/img/obstacle/the_brass_bell.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_cellar_archive",
+      "title": "The Cellar Archive",
+      "kind": "Scenery",
+      "room": 308,
+      "room_title": "Cookbook Stacks",
+      "blurb": "The service lift stops at a glass-covered latch below the walk-in.",
+      "image": "assets/img/obstacle/the_cellar_archive.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_founder_s_plate",
+      "title": "The Founder's Plate",
+      "kind": "Scenery",
+      "room": 308,
+      "room_title": "Cookbook Stacks",
+      "blurb": "At the Pass, a photograph of an old chef holding a steaming bowl, beside a cooking method engraved in steel.",
+      "image": "assets/img/obstacle/the_founder_s_plate.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_sorbet_gallery",
+      "title": "The Sorbet Gallery",
+      "kind": "Scenery",
+      "room": 308,
+      "room_title": "Cookbook Stacks",
+      "blurb": "Eight numbered dishes under green glass, each containing four scoops.",
+      "image": "assets/img/obstacle/the_sorbet_gallery.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_tasting_pot",
+      "title": "The Tasting Pot",
+      "kind": "Scenery",
+      "room": 308,
+      "room_title": "Cookbook Stacks",
+      "blurb": "An induction pan with a porcelain crawler standing inside.",
+      "image": "assets/img/obstacle/the_tasting_pot.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-rent_a_snout",
+      "title": "Rent-a-Snout",
+      "kind": "Scenery",
+      "room": 309,
+      "room_title": "Fungus Cave",
+      "blurb": "A leather lead hangs from a trolley beside an open biscuit tin.",
+      "image": "assets/img/obstacle/rent_a_snout.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_fairy_ring",
+      "title": "The Fairy Ring",
+      "kind": "Scenery",
+      "room": 309,
+      "room_title": "Fungus Cave",
+      "blurb": "In an alcove off the entrance ledge, a perfect ring of mushrooms glows violet, green, blue and gold.",
+      "image": "assets/img/obstacle/the_fairy_ring.webp",
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_mushroom_shelves",
+      "title": "The Mushroom Shelves",
+      "kind": "Scenery",
+      "room": 309,
+      "room_title": "Fungus Cave",
+      "blurb": "Brown shelves climb the walls above yellow puffballs and red cups.",
+      "image": "assets/img/obstacle/the_mushroom_shelves.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_puffball_lanes",
+      "title": "The Puffball Lanes",
+      "kind": "Scenery",
+      "room": 309,
+      "room_title": "Fungus Cave",
+      "blurb": "Three straight furrows cross the cave between yellow puffballs.",
+      "image": "assets/img/obstacle/the_puffball_lanes.webp",
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_sow_s_carcass",
+      "title": "The Sow's Carcass",
+      "kind": "Scenery",
+      "room": 309,
+      "room_title": "Fungus Cave",
+      "blurb": "A split, fungal-armored sow with a red-veined lump pulsing beneath the breastbone.",
+      "image": "assets/img/obstacle/the_sow_s_carcass.webp",
+      "options": [
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_truffle_beds",
+      "title": "The Truffle Beds",
+      "kind": "Scenery",
+      "room": 309,
+      "room_title": "Fungus Cave",
+      "blurb": "Two patches of loose black soil beneath the mushroom shelves are covered in little hoofprints.",
+      "image": "assets/img/obstacle/the_truffle_beds.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        },
+        {
+          "label": "Dig",
+          "stat": "STR",
+          "skills": [
+            "Grave Shift"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-dinner_bell_vapour",
+      "title": "Dinner Bell Vapour",
+      "kind": "Trap",
+      "room": 310,
+      "room_title": "Season Reserve",
+      "blurb": "The smell changes from warm sugar and garlic to a fresh meal.",
+      "image": "assets/img/obstacle/dinner_bell_vapour.webp",
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-qualifier_stock",
+      "title": "Qualifier Stock",
+      "kind": "Puzzle",
+      "room": 310,
+      "room_title": "Season Reserve",
+      "blurb": "A steel crate stencilled STOCK: CHECK MANIFEST.",
+      "image": "assets/img/obstacle/qualifier_stock.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_audit_basket",
+      "title": "The Audit Basket",
+      "kind": "Scenery",
+      "room": 310,
+      "room_title": "Season Reserve",
+      "blurb": "A dot-matrix printer feeds curling paper into a wire cage.",
+      "image": "assets/img/obstacle/the_audit_basket.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_dry_ice_machine",
+      "title": "The Dry Ice Machine",
+      "kind": "Scenery",
+      "room": 310,
+      "room_title": "Season Reserve",
+      "blurb": "A battered machine says DRY ICE. Its empty water tank has a sight glass; below it, a steel trolley holds folded insulated sacks.",
+      "image": "assets/img/obstacle/the_dry_ice_machine.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_season_selector",
+      "title": "The Season Selector",
+      "kind": "Scenery",
+      "room": 310,
+      "room_title": "Season Reserve",
+      "blurb": "Four brass selectors point to numbered pens.",
+      "image": "assets/img/obstacle/the_season_selector.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Crafting",
+            "Goblin Engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_grease_trap_hatch",
+      "title": "The Grease Trap Hatch",
+      "kind": "Scenery",
+      "room": 311,
+      "room_title": "Dish Pit",
+      "blurb": "A wall tile behind the grease trap, cleaner than its neighbours, with a chalk mammoth drawn on it.",
+      "image": "assets/img/obstacle/the_grease_trap_hatch.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_hungry_disposal",
+      "title": "The Hungry Disposal",
+      "kind": "Trap",
+      "room": 311,
+      "room_title": "Dish Pit",
+      "blurb": "A silver spoon lies below steel teeth.",
+      "image": "assets/img/obstacle/the_hungry_disposal.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_judges_returns",
+      "title": "The Judges' Returns",
+      "kind": "Scenery",
+      "room": 311,
+      "room_title": "Dish Pit",
+      "blurb": "Three returned plates wait beside the scraper.",
+      "image": "assets/img/obstacle/the_judges_returns.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_scullery_manifold",
+      "title": "The Scullery Manifold",
+      "kind": "Puzzle",
+      "room": 311,
+      "room_title": "Dish Pit",
+      "blurb": "TAP shows a blue cup.",
+      "image": "assets/img/obstacle/the_scullery_manifold.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-three_dirty_trays",
+      "title": "Three Dirty Trays",
+      "kind": "Puzzle",
+      "room": 311,
+      "room_title": "Dish Pit",
+      "blurb": "A brush, tongs and thick gloves hang between the three sinks.",
+      "image": "assets/img/obstacle/three_dirty_trays.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_crystal_seam",
+      "title": "The Crystal Seam",
+      "kind": "Scenery",
+      "room": 312,
+      "room_title": "Salt Lick",
+      "blurb": "Three fist-sized crystal clusters glitter beside the pool.",
+      "image": "assets/img/obstacle/the_crystal_seam.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_pool_wheel",
+      "title": "The Pool Wheel",
+      "kind": "Scenery",
+      "room": 312,
+      "room_title": "Salt Lick",
+      "blurb": "A red wheel behind the crocodile's tail. Three grooves run from its pipe to empty basins.",
+      "image": "assets/img/obstacle/the_pool_wheel.webp",
+      "options": [
+        {
+          "label": "Cross",
+          "stat": "DEX",
+          "skills": [
+            "Acrobatics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_quiet_mudbank",
+      "title": "The Quiet Mudbank",
+      "kind": "Scenery",
+      "room": 312,
+      "room_title": "Salt Lick",
+      "blurb": "The salt channel is still. The Brinejaw's bib floats on the brine, and gulls pick at the mudbank where it used to bask.",
+      "image": "assets/img/obstacle/the_quiet_mudbank.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_soft_terraces",
+      "title": "The Soft Terraces",
+      "kind": "Terrain",
+      "room": 312,
+      "room_title": "Salt Lick",
+      "blurb": "Deep hoofprints fill with grey brine. Cracks divide the white ledges; a fallen branch bridges one wet patch.",
+      "image": "assets/img/obstacle/the_soft_terraces.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_dinner_wheel",
+      "title": "The Dinner Wheel",
+      "kind": "Scenery",
+      "room": 313,
+      "room_title": "Knife-Throwing Tent",
+      "blurb": "Three brass rings surround the strapped volunteer.",
+      "image": "assets/img/obstacle/the_dinner_wheel.webp",
+      "options": [
+        {
+          "label": "Throw",
+          "stat": "DEX",
+          "skills": [
+            "Hot Potato"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_glazed_walls",
+      "title": "The Glazed Walls",
+      "kind": "Scenery",
+      "room": 314,
+      "room_title": "Comb Gate",
+      "blurb": "The inside of the trunk is ribbed with comb, glazed amber from the floor to as high as you can see.",
+      "image": "assets/img/obstacle/the_glazed_walls.webp",
+      "options": [
+        {
+          "label": "Soak — Honey",
+          "stat": "DEX",
+          "skills": [
+            "Swimming"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_wax_door",
+      "title": "The Wax Door",
+      "kind": "Puzzle",
+      "room": 314,
+      "room_title": "Comb Gate",
+      "blurb": "A wall of soft amber wax seals the trunk from side to side.",
+      "image": "assets/img/obstacle/the_wax_door.webp",
+      "options": [
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        },
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_brood_cells",
+      "title": "The Brood Cells",
+      "kind": "Scenery",
+      "room": 315,
+      "room_title": "Brood Galleries",
+      "blurb": "Six-sided cells, floor to ceiling, each holding a fat white grub.",
+      "image": "assets/img/obstacle/the_brood_cells.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_hornet_breach",
+      "title": "The Hornet Breach",
+      "kind": "Scenery",
+      "room": 315,
+      "room_title": "Brood Galleries",
+      "blurb": "A ragged hole chewed through the brood wall halfway down the gallery, daylight showing through it, wax crumbs on the floor.",
+      "image": "assets/img/obstacle/the_hornet_breach.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        },
+        {
+          "label": "Cross",
+          "stat": "DEX",
+          "skills": [
+            "Acrobatics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_capped_ceiling",
+      "title": "The Capped Ceiling",
+      "kind": "Scenery",
+      "room": 316,
+      "room_title": "Drip Works",
+      "blurb": "A ceiling of capped wax cells over Dolly's head.",
+      "image": "assets/img/obstacle/the_capped_ceiling.webp",
+      "options": [
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_drone_run",
+      "title": "The Drone Run",
+      "kind": "Trap",
+      "room": 316,
+      "room_title": "Drip Works",
+      "blurb": "A narrow drain channel behind the vats, slick with old venom, climbing steeply into the dark.",
+      "image": "assets/img/obstacle/the_drone_run.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_venom_vats",
+      "title": "The Venom Vats",
+      "kind": "Trap",
+      "room": 316,
+      "room_title": "Drip Works",
+      "blurb": "Wax vats as big as bathtubs line the walls, brimming with clear venom that smokes where it drips.",
+      "image": "assets/img/obstacle/the_venom_vats.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        },
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_empty_brood_chamber",
+      "title": "The Empty Brood Chamber",
+      "kind": "Scenery",
+      "room": 317,
+      "room_title": "Inner Comb",
+      "blurb": "The throne comb is cooling. Workers wander without orders, and wax drips from the ceiling.",
+      "image": "assets/img/obstacle/the_empty_brood_chamber.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_honey_pool",
+      "title": "The Honey Pool",
+      "kind": "Terrain",
+      "room": 317,
+      "room_title": "Inner Comb",
+      "blurb": "The chamber floor is flooded knee-deep with warm honey.",
+      "image": "assets/img/obstacle/the_honey_pool.webp",
+      "options": [
+        {
+          "label": "Cross",
+          "stat": "DEX",
+          "skills": [
+            "Acrobatics"
+          ]
+        },
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_royal_cell",
+      "title": "The Royal Cell",
+      "kind": "Scenery",
+      "room": 317,
+      "room_title": "Inner Comb",
+      "blurb": "One cell behind the throne glows pale, like a nightlight, brimming with something that wobbles.",
+      "image": "assets/img/obstacle/the_royal_cell.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-field_handling",
+      "title": "Field Handling",
+      "kind": "Scenery",
+      "room": 318,
+      "room_title": "Canopy Market",
+      "blurb": "A chalk beast wears a net, a harness and an expression of deep personal betrayal.",
+      "image": "assets/img/obstacle/field_handling.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_bone_stall",
+      "title": "The Bone Stall",
+      "kind": "Scenery",
+      "room": 318,
+      "room_title": "Canopy Market",
+      "blurb": "A workbench lashed between two trunks, scarred with knife marks: a vice made from a turtle's jaw, pots of glue, coils of gut, and Tamarind's eldest.",
+      "image": "assets/img/obstacle/the_bone_stall.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_rope_bridges",
+      "title": "The Rope Bridges",
+      "kind": "Terrain",
+      "room": 318,
+      "room_title": "Canopy Market",
+      "blurb": "Sagging rope bridges between trunks the width of houses, planks missing, a hundred feet of air under them.",
+      "image": "assets/img/obstacle/the_rope_bridges.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_stalls",
+      "title": "The Stalls",
+      "kind": "Scenery",
+      "room": 318,
+      "room_title": "Canopy Market",
+      "blurb": "Bamboo platforms lashed to the trunks like shelves, each one a stall: spears stacked like umbrellas, turtle-shell shields, wicker armour hung on pegs.",
+      "image": "assets/img/obstacle/the_stalls.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_stash_nest",
+      "title": "The Stash Nest",
+      "kind": "Puzzle",
+      "room": 318,
+      "room_title": "Canopy Market",
+      "blurb": "A ball of woven leaves high in the tallest trunk, glinting with things that do not grow on trees.",
+      "image": "assets/img/obstacle/the_stash_nest.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_wine_gourds",
+      "title": "The Wine Gourds",
+      "kind": "Scenery",
+      "room": 318,
+      "room_title": "Canopy Market",
+      "blurb": "Gourds as big as barrels hang in a cluster from one branch, fizzing, a few of them leaking something cloudy and sweet.",
+      "image": "assets/img/obstacle/the_wine_gourds.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_empty_lodge",
+      "title": "The Empty Lodge",
+      "kind": "Scenery",
+      "room": 319,
+      "room_title": "Smokehouse",
+      "blurb": "The rail of hams swings in a draught that used to be a breath.",
+      "image": "assets/img/obstacle/the_empty_lodge.webp",
+      "options": [
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Crafting",
+            "Goblin Engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_hanging_rail",
+      "title": "The Hanging Rail",
+      "kind": "Scenery",
+      "room": 319,
+      "room_title": "Smokehouse",
+      "blurb": "A long iron rail under the rafters, hung with half-cured monsters on hooks: haunches, hocks, things with too many legs.",
+      "image": "assets/img/obstacle/the_hanging_rail.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        },
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_roof_vents",
+      "title": "The Roof Vents",
+      "kind": "Puzzle",
+      "room": 319,
+      "room_title": "Smokehouse",
+      "blurb": "Three soot-black shutters in what's left of the roof, all closed, reached by a slope of fallen beams.",
+      "image": "assets/img/obstacle/the_roof_vents.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_smoke_pit",
+      "title": "The Smoke Pit",
+      "kind": "Trap",
+      "room": 319,
+      "room_title": "Smokehouse",
+      "blurb": "A wide pit of glowing hickory in the middle of the floor, banked high, pouring smoke into the room.",
+      "image": "assets/img/obstacle/the_smoke_pit.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_talking_trophy",
+      "title": "The Talking Trophy",
+      "kind": "Scenery",
+      "room": 319,
+      "room_title": "Smokehouse",
+      "blurb": "A man's head mounted on a varnished plaque above the door, cured to leather, beard and all.",
+      "image": "assets/img/obstacle/the_talking_trophy.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_warm_rock",
+      "title": "The Warm Rock",
+      "kind": "Scenery",
+      "room": 319,
+      "room_title": "Smokehouse",
+      "blurb": "A boulder at the back of the cold smoker, warm to the touch, with no fire anywhere near it.",
+      "image": "assets/img/obstacle/the_warm_rock.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_gourd_clock",
+      "title": "The Gourd Clock",
+      "kind": "Trap",
+      "room": 320,
+      "room_title": "Vine Pit",
+      "blurb": "Pumpkins hang all over the plant, five of them, green going orange.",
+      "image": "assets/img/obstacle/the_gourd_clock.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_quiet_pit",
+      "title": "The Quiet Pit",
+      "kind": "Scenery",
+      "room": 320,
+      "room_title": "Vine Pit",
+      "blurb": "Vines hang slack. Pumpkin bombs sit unexploded in the loam, and a wrapped bundle is wedged in the roots.",
+      "image": "assets/img/obstacle/the_quiet_pit.webp",
+      "options": [
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_rope_drop",
+      "title": "The Rope Drop",
+      "kind": "Scenery",
+      "room": 320,
+      "room_title": "Vine Pit",
+      "blurb": "A frayed rope hangs from the canopy forty feet up, swinging.",
+      "image": "assets/img/obstacle/the_rope_drop.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_strangler_vines",
+      "title": "The Strangler Vines",
+      "kind": "Terrain",
+      "room": 320,
+      "room_title": "Vine Pit",
+      "blurb": "Strangler vines thick as arms climb every wall of the sinkhole to a ring of daylight forty feet up.",
+      "image": "assets/img/obstacle/the_strangler_vines.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-tell_the_hunt",
+      "title": "Tell the Hunt",
+      "kind": "Scenery",
+      "room": 321,
+      "room_title": "First Hearth",
+      "blurb": "Ochre pats the bare stone at the end of the wall, taps her own chest, then points at you.",
+      "image": "assets/img/obstacle/tell_the_hunt.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_first_fire",
+      "title": "The First Fire",
+      "kind": "Scenery",
+      "room": 321,
+      "room_title": "First Hearth",
+      "blurb": "A fire in a ring of stones so old the stones have glazed, banked with bone.",
+      "image": "assets/img/obstacle/the_first_fire.webp",
+      "options": [
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_guest_of_honour",
+      "title": "The Guest of Honour",
+      "kind": "Puzzle",
+      "room": 321,
+      "room_title": "First Hearth",
+      "blurb": "A tall, very old man in a black chef's jacket, trussed to a green pole over the coals like a fish, conscious and furious.",
+      "image": "assets/img/obstacle/the_guest_of_honour.webp",
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
+          ]
+        },
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_hunting_wall",
+      "title": "The Hunting Wall",
+      "kind": "Scenery",
+      "room": 321,
+      "room_title": "First Hearth",
+      "blurb": "The back wall, floor to ceiling, in red ochre and charcoal: every beast on this floor, running.",
+      "image": "assets/img/obstacle/the_hunting_wall.webp",
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_cobble_prints",
+      "title": "The Cobble Prints",
+      "kind": "Terrain",
+      "room": 325,
+      "room_title": "Candy Mile",
+      "blurb": "Three-toed prints pressed into the icing of the cobbles, one line of them, still sharp in the sugar.",
+      "image": "assets/img/obstacle/the_cobble_prints.webp",
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Search Dungeon",
+            "Trap Sense"
+          ]
+        },
+        {
+          "label": "Cross",
+          "stat": "DEX",
+          "skills": [
+            "Parkour",
+            "Acrobat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_hotel_pan",
+      "title": "The Hotel Pan",
+      "kind": "Scenery",
+      "room": 325,
+      "room_title": "Candy Mile",
+      "blurb": "One hotel pan still clipped shut in the torn cooler.",
+      "image": "assets/img/obstacle/the_hotel_pan.webp",
+      "options": [
+        {
+          "label": "Smash",
+          "stat": "STR",
+          "skills": [
+            "Iron Punch",
+            "Smithing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_picker_s_basket",
+      "title": "The Picker's Basket",
+      "kind": "Scenery",
+      "room": 327,
+      "room_title": "Back Stile",
+      "blurb": "A basket on the stile. Brown shelves, red cups, and a sugar-scrawled slate: ASK BEFORE YOU EAT.",
+      "image": "assets/img/obstacle/the_picker_s_basket.webp",
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Search Dungeon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-pearl_s_drag",
+      "title": "Pearl's Drag",
+      "kind": "Scenery",
+      "room": 328,
+      "room_title": "Bleacher Tunnel",
+      "blurb": "A cigarette in a tentacle-shaped ring, still burning, left on a crate by the WASH UP stair.",
+      "image": "assets/img/obstacle/pearl_s_drag.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_backstage_service_rail",
+      "title": "The Backstage Service Rail",
+      "kind": "Scenery",
+      "room": 328,
+      "room_title": "Bleacher Tunnel",
+      "blurb": "Three cards hang on the rail: BURNT, LOOSE, COLD.",
+      "image": "assets/img/obstacle/the_backstage_service_rail.webp",
+      "options": [
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Crafting",
+            "Goblin Engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_velvet_rope",
+      "title": "The Velvet Rope",
+      "kind": "Scenery",
+      "room": 328,
+      "room_title": "Bleacher Tunnel",
+      "blurb": "A gingerbread usher in an undone red coat holds a velvet rope across the stair up into the floodlights.",
+      "image": "assets/img/obstacle/the_velvet_rope.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_fitting_chair",
+      "title": "The Fitting Chair",
+      "kind": "Scenery",
+      "room": 329,
+      "room_title": "Fitting Room",
+      "blurb": "One wooden chair under the bulb, a tape measure hung on the back.",
+      "image": "assets/img/obstacle/the_fitting_chair.webp",
+      "options": [
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_giant_snail",
+      "title": "The Giant Snail",
+      "kind": "Terrain",
+      "room": 0,
+      "room_title": "",
+      "blurb": "A shell the size of a car, and a slime trail you could skate on.",
+      "image": "assets/img/obstacle/the_giant_snail.webp",
+      "options": [
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
+          ]
+        }
+      ]
+    }
+  ]
+}
