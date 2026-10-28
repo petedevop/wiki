@@ -1,6 +1,6 @@
 {
   "meta": {
-    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Floor purses are smaller than the posted board gold — see Bounties for stats on the top ten.",
+    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Floor purses are smaller than the posted board gold — see Bounties for stats and portraits on the top twenty.",
     "posted_name": "Li Na",
     "top_ten_pool": 10,
     "board_size": 20
@@ -28,7 +28,9 @@
         "hd": 6,
         "attacks": "machete +6, 1d6",
         "specials": "Point; Worse"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/lucia_mar.webp"
     },
     {
       "rank": 2,
@@ -52,7 +54,9 @@
         "hd": 6,
         "attacks": "spear +6, 1d8",
         "specials": "Shield step; Plant"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/hekla.webp"
     },
     {
       "rank": 3,
@@ -76,7 +80,9 @@
         "hd": 5,
         "attacks": "headbutt +5, 1d6",
         "specials": "The answer; The scream"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/prepotente.webp"
     },
     {
       "rank": 4,
@@ -100,7 +106,9 @@
         "hd": 5,
         "attacks": "sword +6, 1d8",
         "specials": "Read it back; Already written"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/florin.webp"
     },
     {
       "rank": 5,
@@ -124,7 +132,9 @@
         "hd": 5,
         "attacks": "knife +7, 1d8",
         "specials": "On three; Messy"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/quan_ch.webp"
     },
     {
       "rank": 6,
@@ -148,7 +158,9 @@
         "hd": 4,
         "attacks": "quills +6, 1d6",
         "specials": "Pop quiz; Hold still"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/miss_quill.webp"
     },
     {
       "rank": 7,
@@ -172,7 +184,9 @@
         "hd": 4,
         "attacks": "heel +5, 1d6",
         "specials": "Look at me; Off-script"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/gwendolyn_duet.webp"
     },
     {
       "rank": 8,
@@ -196,7 +210,9 @@
         "hd": 4,
         "attacks": "knife +6, 1d6",
         "specials": "Offer; Blood price"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/signet.webp"
     },
     {
       "rank": 9,
@@ -220,7 +236,9 @@
         "hd": 4,
         "attacks": "knives (×2) +7, 1d6",
         "specials": "Already past; The gap"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/li_jun.webp"
     },
     {
       "rank": 10,
@@ -244,7 +262,264 @@
         "hd": 5,
         "attacks": "palm +6, 1d8",
         "specials": "The late hit; You first"
-      }
+      },
+      "on_floor": true,
+      "image": "assets/img/npc/li_na.webp"
+    },
+    {
+      "rank": 11,
+      "name": "Elle McGibbons",
+      "level": 25,
+      "kills": 612,
+      "board_bounty": 350,
+      "blurb": "Crowd favorite who never wastes a moment.",
+      "role": "Crawler. Crowd favorite.",
+      "voice": "Bright and fast, plays to the room. \"Hi, everyone! Watch this. Don't blink.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 12,
+        "dex": 16,
+        "con": 13,
+        "int": 12,
+        "cha": 17,
+        "ac": 14,
+        "hp": 12,
+        "hd": 3,
+        "attacks": "stage rapier +5, 1d6",
+        "specials": "Dazzle"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 12,
+      "name": "Daniel Bautista",
+      "level": 25,
+      "kills": 590,
+      "board_bounty": 325,
+      "blurb": "Dependable and frighteningly efficient.",
+      "role": "Crawler. Dependable.",
+      "voice": "Flat, polite, efficient. \"Done. Next.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 14,
+        "dex": 13,
+        "con": 14,
+        "int": 12,
+        "cha": 10,
+        "ac": 14,
+        "hp": 14,
+        "hd": 4,
+        "attacks": "hand axe +5, 1d8"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 13,
+      "name": "Frank Q",
+      "level": 24,
+      "kills": 566,
+      "board_bounty": 300,
+      "blurb": "Shooter with a calm voice.",
+      "role": "Crawler. Shooter.",
+      "voice": "Calm and unhurried. \"Easy now. One at a time.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 11,
+        "dex": 17,
+        "con": 12,
+        "int": 12,
+        "cha": 13,
+        "ac": 14,
+        "hp": 12,
+        "hd": 4,
+        "attacks": "revolver +6, 1d8"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 14,
+      "name": "Maggie My",
+      "level": 24,
+      "kills": 541,
+      "board_bounty": 275,
+      "blurb": "Talker who can survive the answer.",
+      "role": "Crawler. Talker.",
+      "voice": "Quick and teasing. Answers a question with a better question. \"Is that really what you want to ask?\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 9,
+        "dex": 13,
+        "con": 12,
+        "int": 15,
+        "cha": 17,
+        "ac": 12,
+        "hp": 10,
+        "hd": 3,
+        "attacks": "kitchen knife +3, 1d4",
+        "specials": "Talk Circles"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 15,
+      "name": "Katia Grim",
+      "level": 23,
+      "kills": 518,
+      "board_bounty": 250,
+      "blurb": "Adaptable crawler with iron resolve.",
+      "role": "Crawler. Adaptable.",
+      "voice": "Level and stubborn. \"I've done worse. I can do this.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 13,
+        "dex": 14,
+        "con": 15,
+        "int": 12,
+        "cha": 11,
+        "ac": 14,
+        "hp": 13,
+        "hd": 3,
+        "attacks": "short sword +4, 1d6"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 16,
+      "name": "Rosa \"Chainsaw\" Delgado",
+      "level": 22,
+      "kills": 489,
+      "board_bounty": 225,
+      "blurb": "Never met a barricade she respected.",
+      "role": "Crawler. Barricade breaker.",
+      "voice": "Cheerful and loud. \"Doors are suggestions!\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 16,
+        "dex": 11,
+        "con": 15,
+        "int": 10,
+        "cha": 12,
+        "ac": 12,
+        "hp": 15,
+        "hd": 3,
+        "attacks": "chainsaw +4, 1d10",
+        "specials": "Rip Through"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 17,
+      "name": "Big Tom Okafor",
+      "level": 22,
+      "kills": 466,
+      "board_bounty": 200,
+      "blurb": "Gentle voice and wrecking-ball shoulders.",
+      "role": "Crawler. Gentle giant.",
+      "voice": "Soft and kind. \"Sorry about this. Please stand back.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 18,
+        "dex": 9,
+        "con": 16,
+        "int": 10,
+        "cha": 12,
+        "ac": 12,
+        "hp": 20,
+        "hd": 4,
+        "attacks": "sledgehammer +4, 1d10",
+        "specials": "Wrecking Shoulder"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 18,
+      "name": "Dmitri Volkov",
+      "level": 21,
+      "kills": 443,
+      "board_bounty": 175,
+      "blurb": "Patient hunter with an accountant's memory.",
+      "role": "Crawler. Patient hunter.",
+      "voice": "Dry and quiet. Remembers every debt and every date. \"You owe me four. I counted.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 11,
+        "dex": 16,
+        "con": 12,
+        "int": 14,
+        "cha": 10,
+        "ac": 14,
+        "hp": 11,
+        "hd": 3,
+        "attacks": "hunting rifle +5, 1d10"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 19,
+      "name": "Sister Agnes Mbeki",
+      "level": 21,
+      "kills": 421,
+      "board_bounty": 150,
+      "blurb": "Merciful until mercy stops working.",
+      "role": "Crawler. Merciful until not.",
+      "voice": "Gentle and warm until it is not. \"Mercy first. Then the staff.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 12,
+        "dex": 12,
+        "con": 13,
+        "int": 13,
+        "cha": 16,
+        "ac": 13,
+        "hp": 12,
+        "hd": 3,
+        "attacks": "iron-bound staff +3, 1d8",
+        "specials": "Last Mercy"
+      },
+      "on_floor": false,
+      "image": null
+    },
+    {
+      "rank": 20,
+      "name": "Kenji \"Two-Tap\" Mori",
+      "level": 20,
+      "kills": 398,
+      "board_bounty": 150,
+      "blurb": "Every motion measured twice.",
+      "role": "Crawler. Two-Tap.",
+      "voice": "Measured and exact. \"Measure twice. Tap twice.\"",
+      "floor_gp": null,
+      "quest": "",
+      "stats": {
+        "str": 10,
+        "dex": 18,
+        "con": 11,
+        "int": 13,
+        "cha": 9,
+        "ac": 15,
+        "hp": 11,
+        "hd": 3,
+        "attacks": "compact pistol (×2) +7, 1d6"
+      },
+      "on_floor": false,
+      "image": null
     }
   ]
 }

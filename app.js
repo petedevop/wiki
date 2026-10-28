@@ -401,7 +401,7 @@ async function renderBounties(main) {
   const panel = el("div", "panel");
   const meta = data.meta || {};
   let intro =
-    "Top ten on the world board. Each night the app may put one on the floor — the rest stay off-map.";
+    "Top twenty on the world board. Each night the app may put one of the top ten on the floor — the rest stay off-map.";
   if (meta.explainer) intro = meta.explainer;
   if (meta.posted_name) {
     intro += ` Tonight's roll put ${meta.posted_name} on the floor (if anyone came).`;
@@ -413,6 +413,7 @@ async function renderBounties(main) {
         row.board_bounty ? `Board ${Number(row.board_bounty).toLocaleString()} gp` : "",
         row.floor_gp ? `Floor ${row.floor_gp} gp` : "",
         row.level ? `Lv ${row.level}` : "",
+        row.on_floor ? "Top ten pool" : "",
       ]
         .filter(Boolean)
         .join(" · ");
@@ -427,6 +428,8 @@ async function renderBounties(main) {
         { title: `#${row.rank} ${row.name}`, subtitle, preview: "" },
         body,
       );
+      const head = card.querySelector("summary");
+      if (head) head.insertBefore(thumbEl(row.image, row.name), head.firstChild);
       return card;
     }),
   );

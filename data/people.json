@@ -19,6 +19,15 @@
       "faction_image": "assets/img/faction/market.webp"
     },
     {
+      "id": "npc-big_tom_okafor",
+      "title": "Big Tom Okafor",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Gentle giant. A gentle giant of a man with huge shoulders and a kind smile, holding a sledgehammer lightly in one hand, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
       "id": "npc-biscuit_bill",
       "title": "Biscuit Bill",
       "subtitle": "Floor 2",
@@ -114,6 +123,24 @@
       "faction_image": "assets/img/faction/gingerbread.webp"
     },
     {
+      "id": "npc-daniel_bautista",
+      "title": "Daniel Bautista",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Dependable. A solid steady man in a worn work vest with a calm focused expression, tools at his belt, arms crossed, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
+      "id": "npc-dmitri_volkov",
+      "title": "Dmitri Volkov",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Patient hunter. A lean patient man in a weathered coat with a small notebook in one hand and a rifle slung over his shoulder, watching from cover, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
       "id": "npc-dolly_fenn",
       "title": "Dolly Fenn",
       "subtitle": "Floor 2",
@@ -141,11 +168,29 @@
       "faction_image": "assets/img/faction/kitchen.webp"
     },
     {
+      "id": "npc-elle_mcgibbons",
+      "title": "Elle McGibbons",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Crowd favorite. A radiant woman in a sequined jacket waving to a cheering crowd, big confident grin, one fist raised, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
       "id": "npc-florin",
       "title": "Florin",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Old, still counting. A grey-haired man in a stitched flak jacket and kitchen clogs, sword oiled, notebook in the off hand, standing where the floodlight misses.",
       "image": "assets/img/npc/florin.webp",
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
+      "id": "npc-frank_q",
+      "title": "Frank Q",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Shooter. A tall quiet man in a long coat holding a revolver steadily with one hand, calm half-smile, bright cartoon style, no text.",
+      "image": null,
       "faction": "Fellow Crawlers",
       "faction_image": "assets/img/faction/crawlers.webp"
     },
@@ -222,6 +267,24 @@
       "faction_image": "assets/img/faction/borant.webp"
     },
     {
+      "id": "npc-katia_grim",
+      "title": "Katia Grim",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Adaptable. A determined woman with short hair and a scarred jaw standing in a battered crawler's kit, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
+      "id": "npc-kenji_two_tap_mori",
+      "title": "Kenji \"Two-Tap\" Mori",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Two-Tap. A precise lean man in a sleek dark jacket with two fingers lifted in a measured gesture, a compact pistol in his other hand, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
       "id": "npc-krakaren_spawn",
       "title": "Krakaren Spawn",
       "subtitle": "Floor 2",
@@ -272,6 +335,15 @@
       "subtitle": "Floor 2",
       "blurb": "Knife-thrower. Rival chef. An adult knife-thrower in a sequinned chef's jacket with a bandolier of cleavers across her chest, hair scraped up under a toque.",
       "image": "assets/img/npc/madame_sabatier.webp"
+    },
+    {
+      "id": "npc-maggie_my",
+      "title": "Maggie My",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Talker. A sharp-eyed woman with a wide smirk leaning on a table, one hand mid-gesture as if mid-argument, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
     },
     {
       "id": "npc-mayor_snap",
@@ -427,6 +499,15 @@
       "faction_image": "assets/img/faction/crawlers.webp"
     },
     {
+      "id": "npc-rosa_chainsaw_delgado",
+      "title": "Rosa \"Chainsaw\" Delgado",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Barricade breaker. A grinning muscular woman in a welding apron holding a roaring chainsaw, sparks flying, a smashed barricade behind her, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
       "id": "npc-rosa_quint",
       "title": "Rosa Quint",
       "subtitle": "Floor 2",
@@ -470,6 +551,15 @@
       "image": "assets/img/npc/sir_wobble_the_butterscotch_golem.webp",
       "faction": "The Borant Corporation",
       "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
+      "id": "npc-sister_agnes_mbeki",
+      "title": "Sister Agnes Mbeki",
+      "subtitle": "Floor 2",
+      "blurb": "Crawler. Merciful until not. A calm older woman in a plain grey habit with a heavy iron-bound staff and a kind but unyielding gaze, bright cartoon style, no text.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
     },
     {
       "id": "npc-soot",
