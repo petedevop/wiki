@@ -290,7 +290,7 @@
         "specials": "Dazzle"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/elle_mcgibbons.webp"
     },
     {
       "rank": 12,
@@ -315,7 +315,7 @@
         "attacks": "hand axe +5, 1d8"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/daniel_bautista.webp"
     },
     {
       "rank": 13,
@@ -340,7 +340,7 @@
         "attacks": "revolver +6, 1d8"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/frank_q.webp"
     },
     {
       "rank": 14,
@@ -391,7 +391,7 @@
         "attacks": "short sword +4, 1d6"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/katia_grim.webp"
     },
     {
       "rank": 16,
@@ -443,7 +443,7 @@
         "specials": "Wrecking Shoulder"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/big_tom_okafor.webp"
     },
     {
       "rank": 18,
@@ -468,7 +468,7 @@
         "attacks": "hunting rifle +5, 1d10"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/dmitri_volkov.webp"
     },
     {
       "rank": 19,
