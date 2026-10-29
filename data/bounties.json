@@ -366,7 +366,7 @@
         "specials": "Talk Circles"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/maggie_my.webp"
     },
     {
       "rank": 15,
@@ -417,7 +417,7 @@
         "specials": "Rip Through"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/rosa_chainsaw_delgado.webp"
     },
     {
       "rank": 17,
@@ -494,7 +494,7 @@
         "specials": "Last Mercy"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/sister_agnes_mbeki.webp"
     },
     {
       "rank": 20,
@@ -519,7 +519,7 @@
         "attacks": "compact pistol (×2) +7, 1d6"
       },
       "on_floor": false,
-      "image": null
+      "image": "assets/img/npc/kenji_two_tap_mori.webp"
     }
   ]
 }

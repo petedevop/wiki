@@ -280,7 +280,7 @@
       "title": "Kenji \"Two-Tap\" Mori",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Two-Tap. A precise lean man in a sleek dark jacket with two fingers lifted in a measured gesture, a compact pistol in his other hand, bright cartoon style, no text.",
-      "image": null,
+      "image": "assets/img/npc/kenji_two_tap_mori.webp",
       "faction": "Fellow Crawlers",
       "faction_image": "assets/img/faction/crawlers.webp"
     },
@@ -341,7 +341,7 @@
       "title": "Maggie My",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Talker. A sharp-eyed woman with a wide smirk leaning on a table, one hand mid-gesture as if mid-argument, bright cartoon style, no text.",
-      "image": null,
+      "image": "assets/img/npc/maggie_my.webp",
       "faction": "Fellow Crawlers",
       "faction_image": "assets/img/faction/crawlers.webp"
     },
@@ -503,7 +503,7 @@
       "title": "Rosa \"Chainsaw\" Delgado",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Barricade breaker. A grinning muscular woman in a welding apron holding a roaring chainsaw, sparks flying, a smashed barricade behind her, bright cartoon style, no text.",
-      "image": null,
+      "image": "assets/img/npc/rosa_chainsaw_delgado.webp",
       "faction": "Fellow Crawlers",
       "faction_image": "assets/img/faction/crawlers.webp"
     },
@@ -557,7 +557,7 @@
       "title": "Sister Agnes Mbeki",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Merciful until not. A calm older woman in a plain grey habit with a heavy iron-bound staff and a kind but unyielding gaze, bright cartoon style, no text.",
-      "image": null,
+      "image": "assets/img/npc/sister_agnes_mbeki.webp",
       "faction": "Fellow Crawlers",
       "faction_image": "assets/img/faction/crawlers.webp"
     },

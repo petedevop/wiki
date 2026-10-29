@@ -470,6 +470,13 @@
       "image": "assets/img/item/a_wand_of_come_here.webp"
     },
     {
+      "id": "item-ai_favourite_sash",
+      "title": "AI Favourite Sash",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-airtight_tupperware",
       "title": "Airtight tupperware",
       "subtitle": "Floor 2",
@@ -524,6 +531,13 @@
       "subtitle": "Floor 2",
       "blurb": "Leather, and honest about it. You feel bold, then you remember why.",
       "image": "assets/img/item/assless_chaps.webp"
+    },
+    {
+      "id": "item-autograph_pen_cursed",
+      "title": "Autograph Pen (Cursed)",
+      "subtitle": "",
+      "blurb": "Sign anything — Charming two hours, then Cursed four hours.",
+      "image": null
     },
     {
       "id": "item-backpack",
@@ -988,6 +1002,13 @@
       "image": "assets/img/item/climbing_hooks.webp"
     },
     {
+      "id": "item-clip_on_studio_audience",
+      "title": "Clip-On Studio Audience",
+      "subtitle": "",
+      "blurb": "Applause grants Inspired ten minutes — the clap track leaves you Distracted and Reeking an hour.",
+      "image": null
+    },
+    {
       "id": "item-cloak_of_liquid_darkness",
       "title": "Cloak of Liquid Darkness",
       "subtitle": "Floor 2",
@@ -1205,6 +1226,13 @@
       "image": null
     },
     {
+      "id": "item-death_threat_fan_letter_framed",
+      "title": "Death Threat Fan Letter (Framed)",
+      "subtitle": "",
+      "blurb": "3 temp HP, Mighty three rounds, and Scent-marked two hours — proof you matter to someone awful.",
+      "image": null
+    },
+    {
       "id": "item-deckmaster_s_cheater_cuff",
       "title": "Deckmaster's Cheater Cuff",
       "subtitle": "Floor 2",
@@ -1385,6 +1413,13 @@
       "subtitle": "Floor 2",
       "blurb": "A magical cup that supports the wearer and grants a beautiful falsetto.",
       "image": "assets/img/item/falsetto_codpiece.webp"
+    },
+    {
+      "id": "item-fan_s_cursed_lucky_socks",
+      "title": "Fan's Cursed Lucky Socks",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-fate_changing_knuckleduster",
@@ -1597,6 +1632,13 @@
       "image": "assets/img/item/glowcap.webp"
     },
     {
+      "id": "item-glowstick_gauntlets",
+      "title": "Glowstick Gauntlets",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-go_go_gadget_stilts",
       "title": "Go, Go Gadget Stilts",
       "subtitle": "Floor 2",
@@ -1609,6 +1651,13 @@
       "subtitle": "Floor 2",
       "blurb": "A gold loot box. The fanfare is louder than the deed.",
       "image": "assets/img/item/gold_loot_box.webp"
+    },
+    {
+      "id": "item-golden_retweet_amulet",
+      "title": "Golden Retweet Amulet",
+      "subtitle": "",
+      "blurb": "Once per fight, a natural 1 on an active check becomes Inspired instead — then Disadvantaged and Cursed until rest.",
+      "image": null
     },
     {
       "id": "item-golf_club",
@@ -1835,6 +1884,13 @@
       "image": "assets/img/item/hot_lava_wand.webp"
     },
     {
+      "id": "item-hot_mic_earring",
+      "title": "Hot Mic Earring",
+      "subtitle": "",
+      "blurb": "Keen for thirty minutes of perfect takes — then Silenced two hours when your thought hits the PA.",
+      "image": null
+    },
+    {
       "id": "item-hotel_sewing_kit_bent_needle",
       "title": "Hotel sewing kit, bent needle",
       "subtitle": "Floor 2",
@@ -2038,6 +2094,13 @@
       "image": "assets/img/item/library_wine_list.webp"
     },
     {
+      "id": "item-limousine_door_portable",
+      "title": "Limousine Door (Portable)",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-lipstick_stained_cigarettes",
       "title": "Lipstick-stained cigarettes",
       "subtitle": "Floor 2",
@@ -2162,6 +2225,13 @@
       "subtitle": "Floor 2",
       "blurb": "A card with your face. The stats were wrong.",
       "image": "assets/img/item/memorial_card.webp"
+    },
+    {
+      "id": "item-merch_table_shield",
+      "title": "Merch Table Shield",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-mighty_spatula",
@@ -2640,6 +2710,13 @@
       "image": "assets/img/item/prince_albert_of_destiny.webp"
     },
     {
+      "id": "item-producer_s_burn_notice",
+      "title": "Producer's Burn Notice",
+      "subtitle": "",
+      "blurb": "Fearless for a full fight — then Frightened for an hour.",
+      "image": null
+    },
+    {
       "id": "item-prop_hockey_chest_protector",
       "title": "Prop Hockey Chest Protector",
       "subtitle": "Floor 2",
@@ -2934,6 +3011,13 @@
       "image": "assets/img/item/royal_jelly.webp"
     },
     {
+      "id": "item-rubber_chicken_of_remorse",
+      "title": "Rubber Chicken of Remorse",
+      "subtitle": "",
+      "blurb": "One heroic squeak — Inspired reroll round, then Off-balance and Reeking so the whole zone heard you.",
+      "image": null
+    },
+    {
       "id": "item-running_raspberry_sorbet",
       "title": "Running Raspberry Sorbet",
       "subtitle": "Floor 2",
@@ -3170,6 +3254,13 @@
       "subtitle": "Floor 2",
       "blurb": "A pulsing potion of eternal life. On a wound, instant healing.",
       "image": "assets/img/item/siempre_viva.webp"
+    },
+    {
+      "id": "item-signed_headshot_of_a_rival",
+      "title": "Signed Headshot of a Rival",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-silver_loot_box",
@@ -4082,6 +4173,13 @@
       "image": "assets/img/item/time_out_potion.webp"
     },
     {
+      "id": "item-tinfoil_crown",
+      "title": "Tinfoil Crown",
+      "subtitle": "",
+      "blurb": "Turn away the psychic nonsense (Steeled each turn) but you cannot whisper to allies (Silenced each turn end).",
+      "image": null
+    },
+    {
       "id": "item-tire_iron",
       "title": "Tire Iron",
       "subtitle": "",
@@ -4150,6 +4248,13 @@
       "subtitle": "Floor 2",
       "blurb": "Bottle-glass beads, three bottle caps and a bent spoon, strung on gut.",
       "image": "assets/img/item/trade_beads.webp"
+    },
+    {
+      "id": "item-trail_ration",
+      "title": "Trail Ration",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-transport_scissors",
@@ -4229,6 +4334,13 @@
       "image": "assets/img/item/undead_beacon_sword.webp"
     },
     {
+      "id": "item-unlabelled_energy_drink",
+      "title": "Unlabelled Energy Drink",
+      "subtitle": "",
+      "blurb": "One fight on Hasted time — then Exhaustion for an hour.",
+      "image": null
+    },
+    {
       "id": "item-unripe_gourd",
       "title": "Unripe Gourd",
       "subtitle": "Floor 2",
@@ -4255,6 +4367,13 @@
       "subtitle": "Floor 2",
       "blurb": "Blow it. For three rounds blows have trouble finding you, and nothing can grab you or slow you.",
       "image": "assets/img/item/valhalla_party_blower.webp"
+    },
+    {
+      "id": "item-verified_blue_check_cape",
+      "title": "Verified Blue Check Cape",
+      "subtitle": "",
+      "blurb": "Your next three hits strike as Mighty — every hit you take leaves you Disadvantaged after.",
+      "image": null
     },
     {
       "id": "item-vial_of_the_great_spit",
@@ -4402,6 +4521,13 @@
       "subtitle": "Floor 2",
       "blurb": "Foam sleeve. The slogan is doing its best.",
       "image": "assets/img/item/world_s_okayest_crawler_koozie.webp"
+    },
+    {
+      "id": "item-world_s_okayest_crawler_mug",
+      "title": "World's Okayest Crawler Mug",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-wrist_watch_of_slight_pause",

@@ -5,7 +5,7 @@
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
-      "prize": "Crumb's Recipe Book · 3 XP each",
+      "prize": "Crumb's Recipe Book · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -23,7 +23,7 @@
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
-      "prize": "5 gp · 3 XP each",
+      "prize": "5 gp · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -71,7 +71,7 @@
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
-      "prize": "Crumb's Recipe Book · 3 XP each",
+      "prize": "Crumb's Recipe Book · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -89,7 +89,7 @@
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
-      "prize": "5 gp · 3 XP each",
+      "prize": "5 gp · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -137,7 +137,7 @@
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
-      "prize": "Crumb's Recipe Book · 3 XP each",
+      "prize": "Crumb's Recipe Book · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -155,7 +155,7 @@
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
-      "prize": "5 gp · 3 XP each",
+      "prize": "5 gp · 500 XP each",
       "pending": false,
       "steps": [
         {
