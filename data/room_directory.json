@@ -7,6 +7,30 @@
       "zone_label": "Floor 3"
     },
     {
+      "num": 401,
+      "title": "Tutorial Corridor",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 402,
+      "title": "Hidden Cell",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 403,
+      "title": "Behind the Mortar",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 404,
+      "title": "Past the Far Door",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
       "num": 300,
       "title": "Green Room",
       "zone_key": "floortwo",

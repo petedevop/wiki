@@ -1275,6 +1275,13 @@
       "image": "assets/img/item/distracting_mood_calf_socks.webp"
     },
     {
+      "id": "item-do_over_coin",
+      "title": "Do-Over Coin",
+      "subtitle": "Floor 3",
+      "blurb": "A brass coin stamped TRY AGAIN on both sides.",
+      "image": null
+    },
+    {
       "id": "item-double_cream_sorbet",
       "title": "Double Cream Sorbet",
       "subtitle": "Floor 2",
@@ -1293,6 +1300,13 @@
       "title": "Dreadnought Plate",
       "subtitle": "",
       "blurb": "worn heavyarmour 14 3.0 1 torso 2 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-dropped_sponsor_lanyard",
+      "title": "Dropped Sponsor Lanyard",
+      "subtitle": "Floor 3",
+      "blurb": "A sponsor lanyard with the badge torn off.",
       "image": null
     },
     {
@@ -2077,6 +2091,13 @@
       "title": "Leather Jacket",
       "subtitle": "",
       "blurb": "worn lightarmour 11 True 1.0 1 torso Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-lever_code_scrap",
+      "title": "Lever Code Scrap",
+      "subtitle": "Floor 3",
+      "blurb": "A scrap of jumpsuit lining, written in charcoal: III · I.",
       "image": null
     },
     {
@@ -3135,6 +3156,13 @@
       "subtitle": "Floor 2",
       "blurb": "An upgradable Scrabble set. Permanently rename and alter your own spells with found letter tiles.",
       "image": "assets/img/item/scrabble_board.webp"
+    },
+    {
+      "id": "item-second_glance",
+      "title": "Second Glance",
+      "subtitle": "Floor 3",
+      "blurb": "A cloudy glass monocle. Look again at the stretch you're standing in; this time, properly.",
+      "image": null
     },
     {
       "id": "item-second_helping_cooler",
@@ -4297,6 +4325,13 @@
       "subtitle": "Floor 2",
       "blurb": "A recipe written inside a folded sugar packet.",
       "image": "assets/img/item/treacle_s_signature_recipe.webp"
+    },
+    {
+      "id": "item-trip_wire",
+      "title": "Trip Wire",
+      "subtitle": "Floor 3",
+      "blurb": "A coil of hair-thin, very strong wire, recovered from a tutorial trap.",
+      "image": null
     },
     {
       "id": "item-tunnel_slime_aspic",

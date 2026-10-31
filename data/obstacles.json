@@ -2642,6 +2642,128 @@
       ]
     },
     {
+      "id": "obstacle-the_cold_vent",
+      "title": "The Cold Vent",
+      "kind": "Terrain",
+      "room": 401,
+      "room_title": "",
+      "blurb": "A rusted grille at ankle height, breathing cold air.",
+      "image": null,
+      "options": [
+        {
+          "label": "Squeeze Into The Vent",
+          "stat": "CON",
+          "skills": []
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_far_door",
+      "title": "The Far Door",
+      "kind": "Terrain",
+      "room": 401,
+      "room_title": "",
+      "blurb": "A plain wooden door with a brass plate reading TUTORIAL EXIT.",
+      "image": null,
+      "options": [
+        {
+          "label": "Knock — We'Re Done",
+          "stat": "",
+          "skills": []
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_loose_flagstone",
+      "title": "The Loose Flagstone",
+      "kind": "Scenery",
+      "room": 401,
+      "room_title": "",
+      "blurb": "A flagstone that rocks, just slightly, when stepped on.",
+      "image": null,
+      "options": [
+        {
+          "label": "Lift The Flagstone",
+          "stat": "STR",
+          "skills": []
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_new_mortar",
+      "title": "The New Mortar",
+      "kind": "Terrain",
+      "room": 401,
+      "room_title": "",
+      "blurb": "A patch of wall with soft, new mortar and a seam shaped like a lever slot.",
+      "image": null,
+      "options": [
+        {
+          "label": "Work The Lever Code",
+          "stat": "",
+          "skills": []
+        },
+        {
+          "label": "Saw The Mortar With The Trip Wire",
+          "stat": "INT",
+          "skills": []
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_tripwire",
+      "title": "The Tripwire",
+      "kind": "Scenery",
+      "room": 401,
+      "room_title": "",
+      "blurb": "A hair-thin wire stretched across the corridor at shin height.",
+      "image": null,
+      "options": [
+        {
+          "label": "Disarm",
+          "stat": "DEX",
+          "skills": []
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_whispering_wall",
+      "title": "The Whispering Wall",
+      "kind": "Scenery",
+      "room": 401,
+      "room_title": "",
+      "blurb": "The far wall, where a voice keeps asking what time it is.",
+      "image": null,
+      "options": [
+        {
+          "label": "Talk Through The Wall",
+          "stat": "CHA",
+          "skills": []
+        }
+      ]
+    },
+    {
+      "id": "obstacle-motts_cell",
+      "title": "Mott's Cell",
+      "kind": "Scenery",
+      "room": 402,
+      "room_title": "",
+      "blurb": "A barred cell door, locked from the corridor side.",
+      "image": null,
+      "options": [
+        {
+          "label": "Show Mott The Scrap",
+          "stat": "",
+          "skills": []
+        },
+        {
+          "label": "Talk Mott Out",
+          "stat": "CHA",
+          "skills": []
+        }
+      ]
+    },
+    {
       "id": "obstacle-the_giant_snail",
       "title": "The Giant Snail",
       "kind": "Terrain",

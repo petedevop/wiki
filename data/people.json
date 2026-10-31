@@ -391,6 +391,15 @@
       "faction_image": "assets/img/faction/gingerbread.webp"
     },
     {
+      "id": "npc-mott",
+      "title": "Mott",
+      "subtitle": "Floor 3",
+      "blurb": "Ex-crawler, tutorial fail. A thin, hollow-eyed man in his thirties in a torn orange crawler jumpsuit with a sponsor patch ripped off the chest, sitting against the wall of a stone cell.",
+      "image": null,
+      "faction": "Fellow Crawlers",
+      "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
       "id": "npc-ochre",
       "title": "Ochre",
       "subtitle": "Floor 2",

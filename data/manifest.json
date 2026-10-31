@@ -1,5 +1,5 @@
 {
-  "exported_at": 1793295099.877185,
+  "exported_at": 1793412935.130423,
   "site_base_url": "https://petedevop.github.io/wiki",
   "zone_key": "floortwo",
   "zone_label": "Floor 2",
@@ -25,11 +25,11 @@
   },
   "counts": {
     "rules": 20,
-    "room_directory": 28,
+    "room_directory": 32,
     "rooms": 27,
-    "people": 76,
-    "items": 653,
-    "obstacles": 126,
+    "people": 77,
+    "items": 658,
+    "obstacles": 133,
     "achievements": 182,
     "party": 3,
     "sessions": 0,
@@ -41,7 +41,7 @@
     "rivals": 0,
     "tonight": 3,
     "loot_boxes": 3,
-    "images": 873,
+    "images": 874,
     "image_kb": 13161
   },
   "public_party_sheets": true
