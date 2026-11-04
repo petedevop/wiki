@@ -177,22 +177,22 @@
     {
       "id": "kipperjim_pip",
       "name": "Pip",
-      "class_level": "lvl 1",
+      "class_level": "Cryak Draconian Biker Knight from Mars - Pennsylvania 2",
       "powers": [
         {
           "name": "Minor Heal",
           "kind": "spell"
         }
       ],
-      "hp": 1,
-      "hp_max": 1,
+      "hp": 13,
+      "hp_max": 13,
       "temp_hp": 0,
       "ac": 10,
       "abilities": [
         {
           "id": "STR",
-          "score": 10,
-          "modifier": 0
+          "score": 13,
+          "modifier": 1
         },
         {
           "id": "DEX",
@@ -211,8 +211,8 @@
         },
         {
           "id": "CHA",
-          "score": 10,
-          "modifier": 0
+          "score": 9,
+          "modifier": -1
         }
       ],
       "statuses": [],
@@ -221,14 +221,15 @@
       "favour_score": 0,
       "load": "Pip",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n</ul>\n</div>",
-      "ancestry": "",
-      "class_name": "",
-      "level": 1,
-      "xp": 3000,
+      "ancestry": "Cryak Draconian",
+      "class_name": "Biker Knight from Mars - Pennsylvania",
+      "level": 2,
+      "xp": 0,
       "alignment": "Lawful",
       "title": "",
       "appearance": "khaki, a bite on the forearm, keys that fit nothing here",
-      "skills": []
+      "skills": [],
+      "class_blurb": "A knight's oath, and a chopper that answers to it."
     }
   ],
   "skipped": false
