@@ -2648,7 +2648,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A rusted grille at ankle height, breathing cold air.",
-      "image": null,
+      "image": "assets/img/obstacle/the_cold_vent.webp",
       "options": [
         {
           "label": "Squeeze Into The Vent",
@@ -2664,7 +2664,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A plain wooden door with a brass plate reading TUTORIAL EXIT.",
-      "image": null,
+      "image": "assets/img/obstacle/the_far_door.webp",
       "options": [
         {
           "label": "Knock — We'Re Done",
@@ -2680,7 +2680,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A flagstone that rocks, just slightly, when stepped on.",
-      "image": null,
+      "image": "assets/img/obstacle/the_loose_flagstone.webp",
       "options": [
         {
           "label": "Lift The Flagstone",
@@ -2696,7 +2696,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A patch of wall with soft, new mortar and a seam shaped like a lever slot.",
-      "image": null,
+      "image": "assets/img/obstacle/the_new_mortar.webp",
       "options": [
         {
           "label": "Work The Lever Code",
@@ -2717,7 +2717,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A hair-thin wire stretched across the corridor at shin height.",
-      "image": null,
+      "image": "assets/img/obstacle/the_tripwire.webp",
       "options": [
         {
           "label": "Disarm",
@@ -2733,7 +2733,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "The far wall, where a voice keeps asking what time it is.",
-      "image": null,
+      "image": "assets/img/obstacle/the_whispering_wall.webp",
       "options": [
         {
           "label": "Talk Through The Wall",
@@ -2749,7 +2749,7 @@
       "room": 402,
       "room_title": "",
       "blurb": "A barred cell door, locked from the corridor side.",
-      "image": null,
+      "image": "assets/img/obstacle/motts_cell.webp",
       "options": [
         {
           "label": "Show Mott The Scrap",

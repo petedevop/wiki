@@ -64,4 +64,10 @@ When a fight starts, the UI **stays on this app** and switches to combat mode: o
 - Not a spoiler browser — archive and map only show what you have earned in play.
 - Not a substitute for the **Shadowdark DCC Wiki** between sessions; the wiki is a static snapshot (rules stubs, hints, party export). During the night, this app is live.
 
+## Table closed (wiki fallback)
+
+If the game Mac goes offline while you are in the player app, the site may send you to the wiki.
+When that happens, the wiki shows a short banner and checks every so often whether the table is
+back. You return to the game automatically — tap **Try now** if you do not want to wait.
+
 _Questions at the table? Ask the DM. Between sessions, check Rules here on the wiki or the handbook search._

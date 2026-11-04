@@ -91,9 +91,14 @@ function scrollToTop() {
 }
 
 function wikiBaseUrl() {
+  const fromLocation = `${window.location.origin}${window.location.pathname
+    .replace(/\/?index\.html$/, "")
+    .replace(/\/$/, "")}`;
+  const proto = window.location.protocol;
+  if (proto === "http:" || proto === "https:") return fromLocation;
   const fromManifest = state.manifest?.site_base_url;
   if (fromManifest) return String(fromManifest).replace(/\/$/, "");
-  return `${window.location.origin}${window.location.pathname.replace(/\/?index\.html$/, "").replace(/\/$/, "")}`;
+  return fromLocation;
 }
 
 function wikiLink(sectionKey, ruleId) {

@@ -41,9 +41,7 @@
           "modifier": 1
         }
       ],
-      "statuses": [
-        "Enraged"
-      ],
+      "statuses": [],
       "tank": false,
       "ai_favour": false,
       "favour_score": 0,
@@ -175,6 +173,62 @@
       "skills": [],
       "portrait": "assets/img/party/crawler_e.webp",
       "class_blurb": "A far bolt, a trap switched off, and one die rolled again."
+    },
+    {
+      "id": "kipperjim_pip",
+      "name": "Pip",
+      "class_level": "lvl 1",
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 1,
+      "hp_max": 1,
+      "temp_hp": 0,
+      "ac": 10,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 10,
+          "modifier": 0
+        },
+        {
+          "id": "DEX",
+          "score": 11,
+          "modifier": 0
+        },
+        {
+          "id": "CON",
+          "score": 16,
+          "modifier": 3
+        },
+        {
+          "id": "INT",
+          "score": 9,
+          "modifier": -1
+        },
+        {
+          "id": "CHA",
+          "score": 10,
+          "modifier": 0
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Pip",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n</ul>\n</div>",
+      "ancestry": "",
+      "class_name": "",
+      "level": 1,
+      "xp": 3000,
+      "alignment": "Lawful",
+      "title": "",
+      "appearance": "khaki, a bite on the forearm, keys that fit nothing here",
+      "skills": []
     }
   ],
   "skipped": false

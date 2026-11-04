@@ -1284,3 +1284,43 @@ img.room-art {
   font-family: var(--font-ui);
   margin-top: 0.9rem;
 }
+
+.table-closed-banner {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 1rem;
+  padding: 0.55rem 1rem;
+  background: linear-gradient(180deg, rgba(238, 106, 77, 0.18), rgba(17, 28, 24, 0.92));
+  border-bottom: 1px solid var(--line-strong);
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+  color: var(--text-2);
+}
+
+.table-closed-banner__text {
+  margin: 0;
+  flex: 1 1 12rem;
+}
+
+.table-closed-banner__try {
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(244, 183, 63, 0.45);
+  background: var(--saffron-wash);
+  color: var(--saffron);
+  cursor: pointer;
+}
+
+.table-closed-banner__try:hover {
+  border-color: var(--saffron-dim);
+  color: var(--text);
+}
