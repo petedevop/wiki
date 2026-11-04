@@ -3,7 +3,10 @@
     {
       "pc_id": "crawler_b",
       "pc_name": "Nick",
-      "story": [],
+      "story": [
+        "Dry Jack turned Curious",
+        "Dry Jack turned Friendly"
+      ],
       "achievements": [
         {
           "name": "Gloves First!",
@@ -230,6 +233,13 @@
               "bonus": false
             }
           ]
+        },
+        {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
         },
         {
           "name": "Hoist by Her Own Pumpkin!",
@@ -1281,6 +1291,13 @@
               "bonus": false
             }
           ]
+        },
+        {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
         },
         {
           "name": "Hoist by Her Own Pumpkin!",
@@ -2348,6 +2365,13 @@
           ]
         },
         {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Hoist by Her Own Pumpkin!",
           "hint": "Kill the Gourd Mother in a fight. Return to sender.",
           "group": "stunts",
@@ -3411,6 +3435,13 @@
               "bonus": false
             }
           ]
+        },
+        {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
         },
         {
           "name": "Monster Hunter!",

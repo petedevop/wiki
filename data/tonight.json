@@ -5,16 +5,5 @@
     "top_ten_pool": 10,
     "board_size": 20
   },
-  "rooms": [
-    {
-      "num": 314,
-      "title": "Comb Gate",
-      "has_text": true
-    },
-    {
-      "num": 301,
-      "title": "Jungle Clearing",
-      "has_text": true
-    }
-  ]
+  "rooms": []
 }
