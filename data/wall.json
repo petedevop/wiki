@@ -256,6 +256,13 @@
           "earned_by": []
         },
         {
+          "name": "Extinction Event!",
+          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "The Whole Hog!",
           "hint": "The cave, the sow, the heart, home. In that order, all you.",
           "group": "combat",
@@ -1296,6 +1303,13 @@
           "name": "Some Assembly Required!",
           "hint": "Craft something here. The monkey makes it look easy. It isn't.",
           "group": "dungeon",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Extinction Event!",
+          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
           "progress": "",
           "earned_by": []
         },
@@ -2358,6 +2372,13 @@
           "earned_by": []
         },
         {
+          "name": "Extinction Event!",
+          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "The Whole Hog!",
           "hint": "The cave, the sow, the heart, home. In that order, all you.",
           "group": "combat",
@@ -3399,6 +3420,13 @@
             0,
             3
           ],
+          "earned_by": []
+        },
+        {
+          "name": "Extinction Event!",
+          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
+          "progress": "",
           "earned_by": []
         },
         {
