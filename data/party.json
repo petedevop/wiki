@@ -3,7 +3,7 @@
     {
       "id": "crawler_b",
       "name": "Nick",
-      "class_level": "Human Overcompensating Mechanic 1",
+      "class_level": "Human Overcompensating Mech 1",
       "powers": [
         {
           "name": "Minor Heal",
@@ -48,7 +48,7 @@
       "load": "Nick",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Survey stake</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Bag of Shiny Things</span></li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Spade</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n</ul>\n</div>",
       "ancestry": "Human",
-      "class_name": "Overcompensating Mechanic",
+      "class_name": "Overcompensating Mech",
       "level": 1,
       "xp": 3,
       "alignment": "",
@@ -177,7 +177,7 @@
     {
       "id": "kipperjim_pip",
       "name": "Pip",
-      "class_level": "Cryak Draconian Biker Knight from Mars - Pennsylvania 2",
+      "class_level": "Cryak Draconian Biker Knight (Mars, PA) 2",
       "powers": [
         {
           "name": "Minor Heal",
@@ -222,7 +222,7 @@
       "load": "Pip",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n</ul>\n</div>",
       "ancestry": "Cryak Draconian",
-      "class_name": "Biker Knight from Mars - Pennsylvania",
+      "class_name": "Biker Knight (Mars, PA)",
       "level": 2,
       "xp": 0,
       "alignment": "Lawful",
