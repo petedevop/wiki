@@ -332,9 +332,7 @@
             0,
             5
           ],
-          "earned_by": [
-            "Edwardo"
-          ]
+          "earned_by": []
         },
         {
           "name": "Signed in Triplicate!",
@@ -968,9 +966,7 @@
           "hint": "Now kill something in a fight with the blade. Up close and personal.",
           "group": "combat",
           "progress": "",
-          "earned_by": [
-            "Nick"
-          ]
+          "earned_by": []
         },
         {
           "name": "Dig Your Own!",
@@ -1390,9 +1386,7 @@
             0,
             5
           ],
-          "earned_by": [
-            "Edwardo"
-          ]
+          "earned_by": []
         },
         {
           "name": "Signed in Triplicate!",
@@ -2019,15 +2013,6 @@
               "label": "",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "Pointy End First!",
-          "hint": "Now kill something in a fight with the blade. Up close and personal.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": [
-            "Nick"
           ]
         },
         {
@@ -2462,9 +2447,7 @@
             0,
             5
           ],
-          "earned_by": [
-            "Edwardo"
-          ]
+          "earned_by": []
         },
         {
           "name": "Signed in Triplicate!",
@@ -3091,15 +3074,6 @@
               "label": "",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "Pointy End First!",
-          "hint": "Now kill something in a fight with the blade. Up close and personal.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": [
-            "Nick"
           ]
         },
         {
@@ -3520,9 +3494,7 @@
             0,
             5
           ],
-          "earned_by": [
-            "Edwardo"
-          ]
+          "earned_by": []
         },
         {
           "name": "Signed in Triplicate!",
@@ -4149,15 +4121,6 @@
               "label": "",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "Pointy End First!",
-          "hint": "Now kill something in a fight with the blade. Up close and personal.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": [
-            "Nick"
           ]
         },
         {

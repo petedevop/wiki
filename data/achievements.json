@@ -1945,10 +1945,8 @@
       "hint": "Now kill something in a fight with the blade. Up close and personal.",
       "loot": "",
       "nightly": false,
-      "earned_by": [
-        "Nick"
-      ],
-      "touched": true,
+      "earned_by": [],
+      "touched": false,
       "progress_by_pc": {}
     },
     {
@@ -3259,10 +3257,8 @@
       "hint": "You miss every shot you don't declare. Also most of the ones you do.",
       "loot": "Bronze Loot Box",
       "nightly": false,
-      "earned_by": [
-        "Edwardo"
-      ],
-      "touched": true,
+      "earned_by": [],
+      "touched": false,
       "progress_by_pc": {
         "Nick": [
           0,
