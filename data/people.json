@@ -123,6 +123,15 @@
       "faction_image": "assets/img/faction/gingerbread.webp"
     },
     {
+      "id": "npc-craft_services_rat",
+      "title": "Craft Services Rat",
+      "subtitle": "Floor 2",
+      "blurb": "Fat off the catering table. A plump brown rat clutching a stolen bagel on a film set catering table, gaffer tape stuck to its tail, cables and folding chairs behind it.",
+      "image": null,
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
       "id": "npc-daniel_bautista",
       "title": "Daniel Bautista",
       "subtitle": "Floor 2",
@@ -211,6 +220,15 @@
       "image": "assets/img/npc/greta.webp",
       "faction": "Fellow Crawlers",
       "faction_image": "assets/img/faction/crawlers.webp"
+    },
+    {
+      "id": "npc-gummy_cub",
+      "title": "Gummy Cub",
+      "subtitle": "Floor 2",
+      "blurb": "Sticky. Sulking. Soft. A translucent red gummy bear cub the size of a dog, wobbling on a candy-cobbled lane, sugar crystals on its back, round and cross.",
+      "image": null,
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
     },
     {
       "id": "npc-gwendolyn_duet",
@@ -472,6 +490,15 @@
       "faction_image": "assets/img/faction/crawlers.webp"
     },
     {
+      "id": "npc-prop_goose",
+      "title": "Prop Goose",
+      "subtitle": "Floor 2",
+      "blurb": "Escaped set dressing. A furious white goose wearing a tiny production lanyard, wings flared, hissing in a cluttered television green room, a chewed call sheet at its feet.",
+      "image": null,
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
       "id": "npc-quan_ch",
       "title": "Quan Ch",
       "subtitle": "Floor 2",
@@ -682,6 +709,15 @@
       "subtitle": "Floor 2",
       "blurb": "Giant mushroom-crusted sow. A sow the size of a delivery van in a limestone cave, fungal plates covering her eyes, pale tusks lowered over a straight furrow between yellow puffballs.",
       "image": "assets/img/npc/the_truffle_sow.webp",
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
+      "id": "npc-vine_slug",
+      "title": "Vine Slug",
+      "subtitle": "Floor 2",
+      "blurb": "Slow. Slippery. Practice. A fat, glistening green slug the length of a forearm, draped over a jungle vine, trailing thick slime, harmless little eye stalks swivelling.",
+      "image": null,
       "faction": "The Borant Corporation",
       "faction_image": "assets/img/faction/borant.webp"
     }

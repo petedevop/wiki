@@ -3198,6 +3198,16 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Warm-Up Act!",
+      "group": "combat",
+      "hint": "Everybody starts somewhere. Something near the Green Room is asking for it.",
+      "loot": "Bronze Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Whiff Parade!",
       "group": "evening",
       "hint": "Swing. Miss. Smile for the camera.",
