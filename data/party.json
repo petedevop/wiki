@@ -37,20 +37,16 @@
         },
         {
           "id": "CHA",
-          "score": 11,
-          "modifier": 0
+          "score": 12,
+          "modifier": 1
         }
       ],
-      "statuses": [
-        "Poisoned",
-        "Overloaded — drop gear",
-        "Haggard −1"
-      ],
+      "statuses": [],
       "tank": false,
       "ai_favour": false,
       "favour_score": 0,
       "load": "Nick",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Bag of Shiny Things</span></li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Spade</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Survey stake</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Bag of Shiny Things</span></li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Spade</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n</ul>\n</div>",
       "ancestry": "Human",
       "class_name": "Overcompensating Mech",
       "level": 1,
