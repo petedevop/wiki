@@ -599,7 +599,7 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          1,
           10
         ],
         "Lety": [
@@ -676,7 +676,7 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          1,
           5
         ],
         "Lety": [
@@ -1650,7 +1650,7 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          1,
           5
         ],
         "Lety": [
@@ -2244,8 +2244,10 @@
       "hint": "A heartwarming moment. The AI is almost moved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Nick"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -2575,8 +2577,10 @@
       "hint": "The special effects budget has been approved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Nick"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -2924,25 +2928,25 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          1,
           4
         ],
         "Lety": [
-          0,
+          1,
           4
         ],
         "Edwardo": [
-          0,
+          1,
           4
         ],
         "Pip": [
-          0,
+          1,
           4
         ]
       },
       "steps": [
         {
-          "met": false,
+          "met": true,
           "label": "Reach the Fungus Cave (309)",
           "bonus": false
         },
@@ -3020,7 +3024,7 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          1,
           5
         ],
         "Lety": [
@@ -3234,7 +3238,7 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          1,
           3
         ],
         "Lety": [
