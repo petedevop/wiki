@@ -5,7 +5,10 @@
       "pc_name": "Nick",
       "story": [
         "Dry Jack turned Curious",
-        "Dry Jack turned Friendly"
+        "Dry Jack turned Friendly",
+        "Mayor Snap turned Neutral",
+        "Saffron Wilde turned Ally",
+        "Calloway Pruett turned Curious"
       ],
       "achievements": [
         {
@@ -339,13 +342,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": false,
+              "met": true,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },
@@ -1393,13 +1396,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": false,
+              "met": true,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },
@@ -2454,13 +2457,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": false,
+              "met": true,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },
@@ -3501,13 +3504,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": false,
+              "met": true,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },

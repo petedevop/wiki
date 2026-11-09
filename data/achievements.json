@@ -358,7 +358,7 @@
     {
       "name": "Carb Loading!",
       "group": "combat",
-      "hint": "Kill the Garlic Breadwinner in a fight. Hit the bread hard. Harder.",
+      "hint": "Kill a loaf with fists in a fight. Hit the bread hard. Harder.",
       "loot": "Bronze Loot Box",
       "nightly": false,
       "earned_by": [],
@@ -1321,7 +1321,7 @@
     {
       "name": "Ice Ice Baby!",
       "group": "combat",
-      "hint": "Kill the Subzero Bull in a fight. It's leaving. Don't let it.",
+      "hint": "Kill the horned thing made of frost in a fight. It's leaving. Don't let it.",
       "loot": "Silver Loot Box",
       "nightly": false,
       "earned_by": [],
@@ -2325,25 +2325,25 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          0,
+          1,
           5
         ],
         "Lety": [
-          0,
+          1,
           5
         ],
         "Edwardo": [
-          0,
+          1,
           5
         ],
         "Pip": [
-          0,
+          1,
           5
         ]
       },
       "steps": [
         {
-          "met": false,
+          "met": true,
           "label": "Get into the Cookbook Stacks (308)",
           "bonus": false
         },

@@ -1,5 +1,5 @@
 {
-  "exported_at": 1793895929.577827,
+  "exported_at": 1794189377.5462332,
   "site_base_url": "https://petedevop.github.io/wiki",
   "zone_key": "floortwo",
   "zone_label": "Floor 2",
@@ -28,8 +28,8 @@
     "room_directory": 32,
     "rooms": 27,
     "people": 77,
-    "items": 658,
-    "obstacles": 133,
+    "items": 670,
+    "obstacles": 136,
     "achievements": 182,
     "party": 4,
     "sessions": 0,

@@ -897,6 +897,13 @@
       "image": null
     },
     {
+      "id": "item-candied_fig_peel",
+      "title": "Candied Fig Peel",
+      "subtitle": "Floor 2",
+      "blurb": "Strips of fig skin boiled in sugar until they stopped looking like anything.",
+      "image": null
+    },
+    {
       "id": "item-canned_food",
       "title": "Canned Food",
       "subtitle": "",
@@ -1660,6 +1667,13 @@
       "image": "assets/img/item/go_go_gadget_stilts.webp"
     },
     {
+      "id": "item-goblin_dynamite",
+      "title": "Goblin Dynamite",
+      "subtitle": "Floor 2",
+      "blurb": "A stick of something wrapped in an old menu.",
+      "image": null
+    },
+    {
       "id": "item-gold_loot_box",
       "title": "Gold Loot Box",
       "subtitle": "Floor 2",
@@ -1744,6 +1758,13 @@
       "image": "assets/img/item/grub_skewer.webp"
     },
     {
+      "id": "item-guard_thorax",
+      "title": "Guard Thorax",
+      "subtitle": "Floor 2",
+      "blurb": "A hive guard's armoured middle, packed with something like honeyed pate.",
+      "image": null
+    },
+    {
       "id": "item-guest_bed_bedspring_mail",
       "title": "Guest-Bed Bedspring Mail",
       "subtitle": "Floor 2",
@@ -1777,6 +1798,13 @@
       "subtitle": "Floor 2",
       "blurb": "Silk.",
       "image": "assets/img/item/hanky_of_offensive_odor_immunity.webp"
+    },
+    {
+      "id": "item-hard_candy_cobble",
+      "title": "Hard Candy Cobble",
+      "subtitle": "Floor 2",
+      "blurb": "A fist of boiled sugar, dirty on one side, with half a three-toed print in the icing.",
+      "image": null
     },
     {
       "id": "item-hard_hat",
@@ -1889,6 +1917,13 @@
       "subtitle": "Floor 2",
       "blurb": "Oversized and shapeless. Remarkably good at making people's eyes slide straight past you.",
       "image": "assets/img/item/hoodie_of_slouching.webp"
+    },
+    {
+      "id": "item-hornet_thorax",
+      "title": "Hornet Thorax",
+      "subtitle": "Floor 2",
+      "blurb": "A jungle hornet's thorax the size of a fist.",
+      "image": null
     },
     {
       "id": "item-hot_lava_wand",
@@ -2213,6 +2248,13 @@
       "image": "assets/img/item/maribel_s_socks.webp"
     },
     {
+      "id": "item-marzipan_ham",
+      "title": "Marzipan Ham",
+      "subtitle": "Floor 2",
+      "blurb": "A whole ham in pink marzipan, made by someone who has only had ham described to them.",
+      "image": null
+    },
+    {
       "id": "item-mask_of_the_dead",
       "title": "Mask of the Dead",
       "subtitle": "Floor 2",
@@ -2280,6 +2322,13 @@
       "title": "Molotov Cocktail",
       "subtitle": "",
       "blurb": "Bottle, rag, regret. Throw it far away.",
+      "image": null
+    },
+    {
+      "id": "item-monkey_scraps",
+      "title": "Monkey Scraps",
+      "subtitle": "Floor 2",
+      "blurb": "Thin, sinewy cuts off a pickpocket.",
       "image": null
     },
     {
@@ -2563,6 +2612,13 @@
       "image": "assets/img/item/plodder_rump.webp"
     },
     {
+      "id": "item-plodder_tail",
+      "title": "Plodder Tail",
+      "subtitle": "Floor 2",
+      "blurb": "A heavy length of tail, mostly gristle.",
+      "image": null
+    },
+    {
       "id": "item-plug_in_wall_air_fresheners",
       "title": "Plug-in wall air fresheners",
       "subtitle": "Floor 2",
@@ -2841,6 +2897,13 @@
       "subtitle": "Floor 2",
       "blurb": "A speckled egg the size of a football, warm, heavy, and every so often it moves.",
       "image": "assets/img/item/raptor_egg.webp"
+    },
+    {
+      "id": "item-raptor_flesh",
+      "title": "Raptor Flesh",
+      "subtitle": "Floor 2",
+      "blurb": "Stringy grey meat with a smell of wet feathers.",
+      "image": null
     },
     {
       "id": "item-raptor_steak",
@@ -3410,6 +3473,13 @@
       "image": "assets/img/item/small_pack_of_scrap_metal.webp"
     },
     {
+      "id": "item-smoke_pot",
+      "title": "Smoke Pot",
+      "subtitle": "Floor 2",
+      "blurb": "A clay pot packed with damp moss and a wick.",
+      "image": null
+    },
+    {
       "id": "item-smokebombs_and_firecrackers",
       "title": "Smokebombs and firecrackers",
       "subtitle": "Floor 2",
@@ -3450,6 +3520,13 @@
       "subtitle": "Floor 2",
       "blurb": "A long coat of black smoked hide, stiff as a door.",
       "image": "assets/img/item/smokehide_coat.webp"
+    },
+    {
+      "id": "item-snail_foot",
+      "title": "Snail Foot",
+      "subtitle": "Floor 2",
+      "blurb": "A slab of giant snail foot, pale and rubbery.",
+      "image": null
     },
     {
       "id": "item-snail_slime",
@@ -3534,6 +3611,13 @@
       "subtitle": "Floor 2",
       "blurb": "A numbered wire seal and its matching crimping pliers.",
       "image": "assets/img/item/spare_stock_seal.webp"
+    },
+    {
+      "id": "item-spawn_tentacle",
+      "title": "Spawn Tentacle",
+      "subtitle": "Floor 2",
+      "blurb": "A white tentacle, still gripping at nothing.",
+      "image": null
     },
     {
       "id": "item-spear",

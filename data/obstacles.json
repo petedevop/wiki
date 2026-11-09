@@ -1850,6 +1850,40 @@
       ]
     },
     {
+      "id": "obstacle-the_foot_brake",
+      "title": "The Foot Brake",
+      "kind": "Scenery",
+      "room": 313,
+      "room_title": "Knife-Throwing Tent",
+      "blurb": "A brass pedal behind the curtain, worn bright by one foot.",
+      "image": null,
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
+          "label": "Repair",
+          "stat": "INT",
+          "skills": [
+            "Crafting",
+            "Goblin Engineering"
+          ]
+        },
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
+        }
+      ]
+    },
+    {
       "id": "obstacle-the_glazed_walls",
       "title": "The Glazed Walls",
       "kind": "Scenery",
@@ -2549,6 +2583,24 @@
       ]
     },
     {
+      "id": "obstacle-the_loose_cobbles",
+      "title": "The Loose Cobbles",
+      "kind": "Scenery",
+      "room": 325,
+      "room_title": "Candy Mile",
+      "blurb": "Cobbles of boiled sugar, half sunk in the mud.",
+      "image": null,
+      "options": [
+        {
+          "label": "Dig",
+          "stat": "STR",
+          "skills": [
+            "Grave Shift"
+          ]
+        }
+      ]
+    },
+    {
       "id": "obstacle-the_picker_s_basket",
       "title": "The Picker's Basket",
       "kind": "Scenery",
@@ -2562,6 +2614,13 @@
           "stat": "INT",
           "skills": [
             "Search Dungeon"
+          ]
+        },
+        {
+          "label": "Pick",
+          "stat": "DEX",
+          "skills": [
+            "Lockpicking"
           ]
         }
       ]
@@ -2618,6 +2677,24 @@
           "skills": [
             "Animal Handling",
             "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-under_the_seats",
+      "title": "Under the Seats",
+      "kind": "Scenery",
+      "room": 328,
+      "room_title": "Bleacher Tunnel",
+      "blurb": "Slatted bleachers overhead. Everything the crowd has dropped this season has ended up down here.",
+      "image": null,
+      "options": [
+        {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
           ]
         }
       ]
