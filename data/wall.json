@@ -342,13 +342,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": true,
+              "met": false,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },
@@ -1396,13 +1396,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": true,
+              "met": false,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },
@@ -2457,13 +2457,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": true,
+              "met": false,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },
@@ -3504,13 +3504,13 @@
           "hint": "The stacks, the cloche, the contract, Crumb. In that order, all you.",
           "group": "dungeon",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": true,
+              "met": false,
               "label": "Get into the Cookbook Stacks (308)",
               "bonus": false
             },

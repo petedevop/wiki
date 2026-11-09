@@ -2325,25 +2325,25 @@
       "touched": false,
       "progress_by_pc": {
         "Nick": [
-          1,
+          0,
           5
         ],
         "Lety": [
-          1,
+          0,
           5
         ],
         "Edwardo": [
-          1,
+          0,
           5
         ],
         "Pip": [
-          1,
+          0,
           5
         ]
       },
       "steps": [
         {
-          "met": true,
+          "met": false,
           "label": "Get into the Cookbook Stacks (308)",
           "bonus": false
         },
