@@ -901,7 +901,7 @@
       "title": "Candied Fig Peel",
       "subtitle": "Floor 2",
       "blurb": "Strips of fig skin boiled in sugar until they stopped looking like anything.",
-      "image": null
+      "image": "assets/img/item/candied_fig_peel.webp"
     },
     {
       "id": "item-canned_food",
@@ -1671,7 +1671,7 @@
       "title": "Goblin Dynamite",
       "subtitle": "Floor 2",
       "blurb": "A stick of something wrapped in an old menu.",
-      "image": null
+      "image": "assets/img/item/goblin_dynamite.webp"
     },
     {
       "id": "item-gold_loot_box",
@@ -1762,7 +1762,7 @@
       "title": "Guard Thorax",
       "subtitle": "Floor 2",
       "blurb": "A hive guard's armoured middle, packed with something like honeyed pate.",
-      "image": null
+      "image": "assets/img/item/guard_thorax.webp"
     },
     {
       "id": "item-guest_bed_bedspring_mail",
@@ -1804,7 +1804,7 @@
       "title": "Hard Candy Cobble",
       "subtitle": "Floor 2",
       "blurb": "A fist of boiled sugar, dirty on one side, with half a three-toed print in the icing.",
-      "image": null
+      "image": "assets/img/item/hard_candy_cobble.webp"
     },
     {
       "id": "item-hard_hat",
@@ -1923,7 +1923,7 @@
       "title": "Hornet Thorax",
       "subtitle": "Floor 2",
       "blurb": "A jungle hornet's thorax the size of a fist.",
-      "image": null
+      "image": "assets/img/item/hornet_thorax.webp"
     },
     {
       "id": "item-hot_lava_wand",
@@ -2252,7 +2252,7 @@
       "title": "Marzipan Ham",
       "subtitle": "Floor 2",
       "blurb": "A whole ham in pink marzipan, made by someone who has only had ham described to them.",
-      "image": null
+      "image": "assets/img/item/marzipan_ham.webp"
     },
     {
       "id": "item-mask_of_the_dead",
@@ -2329,7 +2329,7 @@
       "title": "Monkey Scraps",
       "subtitle": "Floor 2",
       "blurb": "Thin, sinewy cuts off a pickpocket.",
-      "image": null
+      "image": "assets/img/item/monkey_scraps.webp"
     },
     {
       "id": "item-monkey_wine",
@@ -2616,7 +2616,7 @@
       "title": "Plodder Tail",
       "subtitle": "Floor 2",
       "blurb": "A heavy length of tail, mostly gristle.",
-      "image": null
+      "image": "assets/img/item/plodder_tail.webp"
     },
     {
       "id": "item-plug_in_wall_air_fresheners",
@@ -2903,7 +2903,7 @@
       "title": "Raptor Flesh",
       "subtitle": "Floor 2",
       "blurb": "Stringy grey meat with a smell of wet feathers.",
-      "image": null
+      "image": "assets/img/item/raptor_flesh.webp"
     },
     {
       "id": "item-raptor_steak",
@@ -3477,7 +3477,7 @@
       "title": "Smoke Pot",
       "subtitle": "Floor 2",
       "blurb": "A clay pot packed with damp moss and a wick.",
-      "image": null
+      "image": "assets/img/item/smoke_pot.webp"
     },
     {
       "id": "item-smokebombs_and_firecrackers",
@@ -3526,7 +3526,7 @@
       "title": "Snail Foot",
       "subtitle": "Floor 2",
       "blurb": "A slab of giant snail foot, pale and rubbery.",
-      "image": null
+      "image": "assets/img/item/snail_foot.webp"
     },
     {
       "id": "item-snail_slime",
@@ -3617,7 +3617,7 @@
       "title": "Spawn Tentacle",
       "subtitle": "Floor 2",
       "blurb": "A white tentacle, still gripping at nothing.",
-      "image": null
+      "image": "assets/img/item/spawn_tentacle.webp"
     },
     {
       "id": "item-spear",
