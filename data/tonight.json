@@ -5,11 +5,5 @@
     "top_ten_pool": 10,
     "board_size": 20
   },
-  "rooms": [
-    {
-      "num": 304,
-      "title": "Last Set",
-      "has_text": true
-    }
-  ]
+  "rooms": []
 }

@@ -1,83 +1,7 @@
 {
   "rows": [
     {
-      "pc_name": "Hana",
-      "name": "A Painted Spoon",
-      "giver": "Auntie Tamarind",
-      "gp": 0,
-      "prize": "Sinew Cord · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Get one over on Madame Sabatier, on camera",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "A Town That Doesn't Need Its Witch",
-      "giver": "Doughty the Baker",
-      "gp": 0,
-      "prize": "Strong Flour · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
-          "met": false
-        },
-        {
-          "label": "Bring it home to Doughty alive",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "A Wall of Boiled Sweets",
-      "giver": "Mayor Snap",
-      "gp": 25,
-      "prize": "25 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Cut Sugar Cane in the jungle",
-          "met": false
-        },
-        {
-          "label": "Scrape Snail Slime off the Giant Snail",
-          "met": false
-        },
-        {
-          "label": "Bring both to Gingerbread Town (302)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "Bring Back the Crew",
-      "giver": "Pip",
-      "gp": 0,
-      "prize": "Pip's Gaffer Tape · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Go into the Last Set (304)",
-          "met": true
-        },
-        {
-          "label": "Kill the ACTION loop so the bodies can be pulled",
-          "met": false
-        },
-        {
-          "label": "Carry the crew back to Pip at The Film Set (303)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
+      "pc_name": "Edwardo",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
@@ -95,39 +19,7 @@
       ]
     },
     {
-      "pc_name": "Hana",
-      "name": "Finish the Act",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Returning Carving Knife · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Finish the act, or give the audience a substitute",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "Gourd Season",
-      "giver": "Auntie Tamarind",
-      "gp": 0,
-      "prize": "Climbing Hooks · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Reach the market with a Ripe Pumpkin Bomb",
-          "met": false
-        },
-        {
-          "label": "Hand it to Tamarind",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
+      "pc_name": "Edwardo",
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
@@ -141,7 +33,7 @@
       ]
     },
     {
-      "pc_name": "Hana",
+      "pc_name": "Edwardo",
       "name": "Jack's Licence",
       "giver": "Dry Jack",
       "gp": 35,
@@ -159,163 +51,37 @@
       ]
     },
     {
-      "pc_name": "Hana",
-      "name": "Roll the Real Footage",
-      "giver": "Pip",
-      "gp": 40,
-      "prize": "40 gp · 4 XP each",
+      "pc_name": "Edwardo",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Find the Villain Storyboard in the Props Tent (304)",
-          "met": false
-        },
-        {
-          "label": "The residents' channel is on the air",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "Salt Run",
-      "giver": "Clove",
-      "gp": 0,
-      "prize": "Black Kombu Twist · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Clove walks with you",
-          "met": false
-        },
-        {
-          "label": "Get Clove to the Salt Lick (312)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "Serve the Witch Her Own Childhood",
-      "giver": "Grandpa Rusk",
-      "gp": 0,
-      "prize": "Rusk's Bread Pudding · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Take Rusk's Old-Country Cinnamon from the Crumb Pension",
-          "met": false
-        },
-        {
-          "label": "Bake the bread pudding in Treacle's Good Oven (306)",
-          "met": false
-        },
-        {
-          "label": "Serve it to Mother Treacle",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "Shiny Things",
-      "giver": "Penny",
-      "gp": 30,
-      "prize": "30 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Give Penny the bag of shiny things",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Open at the Knife-Throwing Tent (313)",
+          "label": "Come out to the Salt Lick (312)",
           "met": true
         },
         {
-          "label": "Throw a knife true",
+          "label": "Deal with the crocodile, one way or another",
           "met": false
         },
         {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Take the Salt Lick Crystal",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Carry it to the Kitchen Stadium (307)",
           "met": false
         },
         {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Hana",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": false
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Hana",
+      "pc_name": "Edwardo",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -328,7 +94,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -349,97 +115,21 @@
       ]
     },
     {
-      "pc_name": "Hana",
-      "name": "The Rain Bell Is on the Schedule",
-      "giver": "Mayor Snap",
+      "pc_name": "Edwardo",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
       "gp": 0,
-      "prize": "Old Baking Spices · 500 XP each",
+      "prize": "Salt Lick Crystal · 500 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Stop the scheduled rain",
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Mo",
-      "name": "A Painted Spoon",
-      "giver": "Auntie Tamarind",
-      "gp": 0,
-      "prize": "Sinew Cord · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Get one over on Madame Sabatier, on camera",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "A Town That Doesn't Need Its Witch",
-      "giver": "Doughty the Baker",
-      "gp": 0,
-      "prize": "Strong Flour · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
-          "met": false
-        },
-        {
-          "label": "Bring it home to Doughty alive",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "A Wall of Boiled Sweets",
-      "giver": "Mayor Snap",
-      "gp": 25,
-      "prize": "25 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Cut Sugar Cane in the jungle",
-          "met": false
-        },
-        {
-          "label": "Scrape Snail Slime off the Giant Snail",
-          "met": false
-        },
-        {
-          "label": "Bring both to Gingerbread Town (302)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "Bring Back the Crew",
-      "giver": "Pip",
-      "gp": 0,
-      "prize": "Pip's Gaffer Tape · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Go into the Last Set (304)",
-          "met": true
-        },
-        {
-          "label": "Kill the ACTION loop so the bodies can be pulled",
-          "met": false
-        },
-        {
-          "label": "Carry the crew back to Pip at The Film Set (303)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
+      "pc_name": "Lety",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
@@ -457,39 +147,7 @@
       ]
     },
     {
-      "pc_name": "Mo",
-      "name": "Finish the Act",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Returning Carving Knife · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Finish the act, or give the audience a substitute",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "Gourd Season",
-      "giver": "Auntie Tamarind",
-      "gp": 0,
-      "prize": "Climbing Hooks · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Reach the market with a Ripe Pumpkin Bomb",
-          "met": false
-        },
-        {
-          "label": "Hand it to Tamarind",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
+      "pc_name": "Lety",
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
@@ -503,7 +161,7 @@
       ]
     },
     {
-      "pc_name": "Mo",
+      "pc_name": "Lety",
       "name": "Jack's Licence",
       "giver": "Dry Jack",
       "gp": 35,
@@ -521,163 +179,37 @@
       ]
     },
     {
-      "pc_name": "Mo",
-      "name": "Roll the Real Footage",
-      "giver": "Pip",
-      "gp": 40,
-      "prize": "40 gp · 4 XP each",
+      "pc_name": "Lety",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Find the Villain Storyboard in the Props Tent (304)",
-          "met": false
-        },
-        {
-          "label": "The residents' channel is on the air",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "Salt Run",
-      "giver": "Clove",
-      "gp": 0,
-      "prize": "Black Kombu Twist · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Clove walks with you",
-          "met": false
-        },
-        {
-          "label": "Get Clove to the Salt Lick (312)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "Serve the Witch Her Own Childhood",
-      "giver": "Grandpa Rusk",
-      "gp": 0,
-      "prize": "Rusk's Bread Pudding · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Take Rusk's Old-Country Cinnamon from the Crumb Pension",
-          "met": false
-        },
-        {
-          "label": "Bake the bread pudding in Treacle's Good Oven (306)",
-          "met": false
-        },
-        {
-          "label": "Serve it to Mother Treacle",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "Shiny Things",
-      "giver": "Penny",
-      "gp": 30,
-      "prize": "30 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Give Penny the bag of shiny things",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Open at the Knife-Throwing Tent (313)",
+          "label": "Come out to the Salt Lick (312)",
           "met": true
         },
         {
-          "label": "Throw a knife true",
+          "label": "Deal with the crocodile, one way or another",
           "met": false
         },
         {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Take the Salt Lick Crystal",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Carry it to the Kitchen Stadium (307)",
           "met": false
         },
         {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Mo",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": false
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Mo",
+      "pc_name": "Lety",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -690,7 +222,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -711,97 +243,21 @@
       ]
     },
     {
-      "pc_name": "Mo",
-      "name": "The Rain Bell Is on the Schedule",
-      "giver": "Mayor Snap",
+      "pc_name": "Lety",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
       "gp": 0,
-      "prize": "Old Baking Spices · 500 XP each",
+      "prize": "Salt Lick Crystal · 500 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Stop the scheduled rain",
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Quinn",
-      "name": "A Painted Spoon",
-      "giver": "Auntie Tamarind",
-      "gp": 0,
-      "prize": "Sinew Cord · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Get one over on Madame Sabatier, on camera",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "A Town That Doesn't Need Its Witch",
-      "giver": "Doughty the Baker",
-      "gp": 0,
-      "prize": "Strong Flour · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
-          "met": false
-        },
-        {
-          "label": "Bring it home to Doughty alive",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "A Wall of Boiled Sweets",
-      "giver": "Mayor Snap",
-      "gp": 25,
-      "prize": "25 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Cut Sugar Cane in the jungle",
-          "met": false
-        },
-        {
-          "label": "Scrape Snail Slime off the Giant Snail",
-          "met": false
-        },
-        {
-          "label": "Bring both to Gingerbread Town (302)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "Bring Back the Crew",
-      "giver": "Pip",
-      "gp": 0,
-      "prize": "Pip's Gaffer Tape · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Go into the Last Set (304)",
-          "met": true
-        },
-        {
-          "label": "Kill the ACTION loop so the bodies can be pulled",
-          "met": false
-        },
-        {
-          "label": "Carry the crew back to Pip at The Film Set (303)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
+      "pc_name": "Nick",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
@@ -819,39 +275,7 @@
       ]
     },
     {
-      "pc_name": "Quinn",
-      "name": "Finish the Act",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Returning Carving Knife · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Finish the act, or give the audience a substitute",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "Gourd Season",
-      "giver": "Auntie Tamarind",
-      "gp": 0,
-      "prize": "Climbing Hooks · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Reach the market with a Ripe Pumpkin Bomb",
-          "met": false
-        },
-        {
-          "label": "Hand it to Tamarind",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
+      "pc_name": "Nick",
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
@@ -865,7 +289,7 @@
       ]
     },
     {
-      "pc_name": "Quinn",
+      "pc_name": "Nick",
       "name": "Jack's Licence",
       "giver": "Dry Jack",
       "gp": 35,
@@ -883,163 +307,37 @@
       ]
     },
     {
-      "pc_name": "Quinn",
-      "name": "Roll the Real Footage",
-      "giver": "Pip",
-      "gp": 40,
-      "prize": "40 gp · 4 XP each",
+      "pc_name": "Nick",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Find the Villain Storyboard in the Props Tent (304)",
-          "met": false
-        },
-        {
-          "label": "The residents' channel is on the air",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "Salt Run",
-      "giver": "Clove",
-      "gp": 0,
-      "prize": "Black Kombu Twist · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Clove walks with you",
-          "met": false
-        },
-        {
-          "label": "Get Clove to the Salt Lick (312)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "Serve the Witch Her Own Childhood",
-      "giver": "Grandpa Rusk",
-      "gp": 0,
-      "prize": "Rusk's Bread Pudding · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Take Rusk's Old-Country Cinnamon from the Crumb Pension",
-          "met": false
-        },
-        {
-          "label": "Bake the bread pudding in Treacle's Good Oven (306)",
-          "met": false
-        },
-        {
-          "label": "Serve it to Mother Treacle",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "Shiny Things",
-      "giver": "Penny",
-      "gp": 30,
-      "prize": "30 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Give Penny the bag of shiny things",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Open at the Knife-Throwing Tent (313)",
+          "label": "Come out to the Salt Lick (312)",
           "met": true
         },
         {
-          "label": "Throw a knife true",
+          "label": "Deal with the crocodile, one way or another",
           "met": false
         },
         {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Take the Salt Lick Crystal",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Carry it to the Kitchen Stadium (307)",
           "met": false
         },
         {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Quinn",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": false
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Quinn",
+      "pc_name": "Nick",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -1052,7 +350,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -1073,15 +371,143 @@
       ]
     },
     {
-      "pc_name": "Quinn",
-      "name": "The Rain Bell Is on the Schedule",
-      "giver": "Mayor Snap",
+      "pc_name": "Nick",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
       "gp": 0,
-      "prize": "Old Baking Spices · 500 XP each",
+      "prize": "Salt Lick Crystal · 500 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Stop the scheduled rain",
+          "label": "Get the crocodile out of Dry Jack's work area",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pip",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 0,
+      "prize": "Crumb's Recipe Book · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "met": false
+        },
+        {
+          "label": "Hand it to Crumb, unread",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pip",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pip",
+      "name": "Jack's Licence",
+      "giver": "Dry Jack",
+      "gp": 35,
+      "prize": "35 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Jack the Sprinkler Valve Wheel",
+          "met": false
+        },
+        {
+          "label": "Give Jack the Spare Stock Seal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pip",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come out to the Salt Lick (312)",
+          "met": true
+        },
+        {
+          "label": "Deal with the crocodile, one way or another",
+          "met": false
+        },
+        {
+          "label": "Take the Salt Lick Crystal",
+          "met": false
+        },
+        {
+          "label": "Carry it to the Kitchen Stadium (307)",
+          "met": false
+        },
+        {
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pip",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pip",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
+      "gp": 0,
+      "prize": "Salt Lick Crystal · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]
