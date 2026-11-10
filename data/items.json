@@ -67,7 +67,7 @@
       "id": "item-a_you_can_do_it_sign",
       "title": "A \"You Can Do It\" sign",
       "subtitle": "Floor 2",
-      "blurb": "Office poster. The cat is still hanging from the branch.",
+      "blurb": "Office poster. The cat is still hanging from the branch, and so can you.",
       "image": "assets/img/item/a_you_can_do_it_sign.webp"
     },
     {
@@ -361,7 +361,7 @@
       "id": "item-a_pop_vinyl_figure",
       "title": "A Pop vinyl figure",
       "subtitle": "Floor 2",
-      "blurb": "Big head, no show. Still in the crushed box.",
+      "blurb": "Big head, no show. Still in the crushed box, which makes it heavy enough to throw once.",
       "image": "assets/img/item/a_pop_vinyl_figure.webp"
     },
     {
@@ -375,7 +375,7 @@
       "id": "item-a_rubber_duck",
       "title": "A rubber duck",
       "subtitle": "Floor 2",
-      "blurb": "Yellow, squeak intact. It has never helped anyone.",
+      "blurb": "Yellow, squeak intact. Explain the problem to it out loud and the answer turns up.",
       "image": "assets/img/item/a_rubber_duck.webp"
     },
     {
@@ -389,7 +389,7 @@
       "id": "item-a_rubik_s_cube",
       "title": "A Rubik's Cube",
       "subtitle": "Floor 2",
-      "blurb": "One sticker missing. It will not be solved down here.",
+      "blurb": "One sticker missing. Ten minutes of twisting it sharpens the mind anyway.",
       "image": "assets/img/item/a_rubik_s_cube.webp"
     },
     {
@@ -410,7 +410,7 @@
       "id": "item-a_shiny_canadian_quarter",
       "title": "A shiny Canadian quarter",
       "subtitle": "Floor 2",
-      "blurb": "1996, caribou side up. Spends as nothing down here.",
+      "blurb": "1996, caribou side up. Flip it once; it comes up lucky, then it's gone.",
       "image": "assets/img/item/a_shiny_canadian_quarter.webp"
     },
     {
@@ -4638,7 +4638,7 @@
       "id": "item-world_s_okayest_crawler_koozie",
       "title": "World's Okayest Crawler koozie",
       "subtitle": "Floor 2",
-      "blurb": "Foam sleeve. The slogan is doing its best.",
+      "blurb": "Foam sleeve. The slogan is doing its best, and for a few minutes so are you.",
       "image": "assets/img/item/world_s_okayest_crawler_koozie.webp"
     },
     {
