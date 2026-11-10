@@ -252,6 +252,14 @@
           "skills": [
             "Grave Shift"
           ]
+        },
+        {
+          "label": "Cut",
+          "stat": "DEX",
+          "skills": [
+            "Crafting",
+            "Line Cook"
+          ]
         }
       ]
     },
