@@ -9,19 +9,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -63,19 +59,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -100,19 +92,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -137,19 +125,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           6
         ],
-        "Lety": [
+        "Hana": [
           0,
           6
         ],
-        "Edwardo": [
-          0,
-          6
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           6
         ]
@@ -193,23 +177,21 @@
       "hint": "The sponsors are very proud of your consumer confidence.",
       "loot": "Silver Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Mo"
+      ],
+      "touched": true,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          50,
           50
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          2,
           50
         ],
-        "Edwardo": [
-          0,
-          50
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          50,
           50
         ]
       }
@@ -233,19 +215,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
+          1,
+          3
+        ],
+        "Hana": [
           0,
           3
         ],
-        "Lety": [
-          0,
-          3
-        ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -257,8 +235,10 @@
       "hint": "Roll credits. Then roll again.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Mo"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -270,19 +250,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -337,19 +313,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           100
         ],
-        "Lety": [
+        "Hana": [
           0,
           100
         ],
-        "Edwardo": [
-          0,
-          100
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           100
         ]
@@ -384,19 +356,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           2
         ],
-        "Lety": [
+        "Hana": [
           0,
           2
         ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           2
         ]
@@ -441,19 +409,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           2
         ],
-        "Lety": [
+        "Hana": [
           0,
           2
         ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           2
         ]
@@ -468,26 +432,22 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          1,
           7
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           7
         ],
-        "Edwardo": [
-          0,
-          7
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          1,
           7
         ]
       },
       "steps": [
         {
-          "met": false,
+          "met": true,
           "label": "Start at The Film Set (303)",
           "bonus": false
         },
@@ -532,19 +492,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -559,19 +515,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           2
         ],
-        "Lety": [
+        "Hana": [
           0,
           2
         ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           2
         ]
@@ -598,20 +550,16 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
+          5,
+          10
+        ],
+        "Hana": [
           0,
           10
         ],
-        "Lety": [
-          0,
-          10
-        ],
-        "Edwardo": [
-          0,
-          10
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          1,
           10
         ]
       }
@@ -622,8 +570,10 @@
       "hint": "The art department is calling it a masterpiece.",
       "loot": "Gold Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Hana"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -632,8 +582,10 @@
       "hint": "Everyone falls. Few do it on camera.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Wren"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -675,19 +627,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -729,22 +677,20 @@
       "hint": "The walls are thin. The kitchen is loud. Somebody is always talking.",
       "loot": "Bronze Loot Box",
       "nightly": false,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Kenji"
+      ],
+      "touched": true,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -759,19 +705,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -786,19 +728,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -843,19 +781,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           50
         ],
-        "Lety": [
+        "Hana": [
           0,
           50
         ],
-        "Edwardo": [
-          0,
-          50
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           50
         ]
@@ -880,19 +814,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
+          1,
+          3
+        ],
+        "Hana": [
           0,
           3
         ],
-        "Lety": [
-          0,
-          3
-        ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -927,19 +857,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           24
         ],
-        "Lety": [
+        "Hana": [
           0,
           24
         ],
-        "Edwardo": [
-          0,
-          24
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           24
         ]
@@ -974,19 +900,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
+          1,
+          2
+        ],
+        "Hana": [
           0,
           2
         ],
-        "Lety": [
-          0,
-          2
-        ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           2
         ]
@@ -1013,19 +935,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           2
         ],
-        "Lety": [
+        "Hana": [
           0,
           2
         ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           2
         ]
@@ -1119,23 +1037,21 @@
       "hint": "Locks, ropes, levers. Touch everything. Sign the waiver.",
       "loot": "Silver Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Kenji"
+      ],
+      "touched": true,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          5,
           5
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          4,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          1,
           5
         ]
       }
@@ -1159,19 +1075,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -1186,19 +1098,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -1253,19 +1161,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -1290,19 +1194,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           60
         ],
-        "Lety": [
+        "Hana": [
           0,
           60
         ],
-        "Edwardo": [
-          0,
-          60
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           60
         ]
@@ -1334,23 +1234,21 @@
       "hint": "Make it up as you go. The writers' room is on strike.",
       "loot": "Silver Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Mo"
+      ],
+      "touched": true,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          5,
           5
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          4,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          2,
           5
         ]
       }
@@ -1361,8 +1259,10 @@
       "hint": "Everyone's easier to deal with once they've had a drink.",
       "loot": "Silver Loot Box",
       "nightly": false,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Mo"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -1374,19 +1274,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           250
         ],
-        "Lety": [
+        "Hana": [
           0,
           250
         ],
-        "Edwardo": [
-          0,
-          250
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           250
         ]
@@ -1411,19 +1307,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -1468,27 +1360,23 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          1,
           3
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          1,
           3
         ]
       },
       "steps": [
         {
-          "met": false,
-          "label": "",
+          "met": true,
+          "label": "Walk onto the Last Set (304)",
           "bonus": false
         },
         {
@@ -1522,19 +1410,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -1586,8 +1470,10 @@
       "hint": "Somebody has to stand in the cage.",
       "loot": "Gold Loot Box",
       "nightly": false,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Kenji"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -1626,8 +1512,10 @@
       "hint": "Some nights the dice are on camera too.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Hana"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -1649,19 +1537,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          3,
           5
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -1676,19 +1560,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -1703,19 +1583,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -1740,19 +1616,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -1767,19 +1639,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -1811,8 +1679,10 @@
       "hint": "Never eat the finale. Ask who it's for.",
       "loot": "Gold Loot Box",
       "nightly": false,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Cleo"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -1864,19 +1734,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -1901,19 +1767,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -1978,19 +1840,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -2002,23 +1860,21 @@
       "hint": "Every prop on this set is a trap. Use all of them.",
       "loot": "Silver Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Cleo"
+      ],
+      "touched": true,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          3,
           3
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          3,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          2,
           3
         ]
       }
@@ -2042,19 +1898,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           20
         ],
-        "Lety": [
+        "Hana": [
           0,
           20
         ],
-        "Edwardo": [
-          0,
-          20
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           20
         ]
@@ -2079,19 +1931,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           10
         ],
-        "Lety": [
+        "Hana": [
           0,
           10
         ],
-        "Edwardo": [
-          0,
-          10
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           10
         ]
@@ -2116,19 +1964,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -2143,19 +1987,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -2210,19 +2050,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -2244,8 +2080,10 @@
       "hint": "A heartwarming moment. The AI is almost moved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Wren"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -2257,20 +2095,16 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          2,
           10
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          4,
           10
         ],
-        "Edwardo": [
-          0,
-          10
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          3,
           10
         ]
       }
@@ -2324,19 +2158,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          1,
           5
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -2378,19 +2208,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
+          3,
+          3
+        ],
+        "Hana": [
           0,
           3
         ],
-        "Lety": [
-          0,
-          3
-        ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -2435,19 +2261,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           4
         ],
-        "Lety": [
+        "Hana": [
           0,
           4
         ],
-        "Edwardo": [
-          0,
-          4
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           4
         ]
@@ -2494,19 +2316,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -2545,8 +2363,10 @@
       "hint": "Charm is a skill. Skills are content.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Mo"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -2575,8 +2395,10 @@
       "hint": "The special effects budget has been approved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Kenji"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -2588,19 +2410,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           2
         ],
-        "Lety": [
+        "Hana": [
           0,
           2
         ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           2
         ]
@@ -2627,19 +2445,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          1,
           5
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -2704,19 +2518,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           10
         ],
-        "Lety": [
+        "Hana": [
           0,
           10
         ],
-        "Edwardo": [
-          0,
-          10
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           10
         ]
@@ -2731,19 +2541,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           10
         ],
-        "Lety": [
+        "Hana": [
           0,
           10
         ],
-        "Edwardo": [
-          0,
-          10
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           10
         ]
@@ -2778,19 +2584,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           2
         ],
-        "Lety": [
+        "Hana": [
           0,
           2
         ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           2
         ]
@@ -2827,19 +2629,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -2854,19 +2652,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           4
         ],
-        "Lety": [
+        "Hana": [
           0,
           4
         ],
-        "Edwardo": [
-          0,
-          4
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           4
         ]
@@ -2923,19 +2717,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          1,
           4
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           4
         ],
-        "Edwardo": [
-          0,
-          4
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           4
         ]
@@ -2972,19 +2762,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -3019,19 +2805,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -3056,19 +2838,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -3083,19 +2861,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          1,
           6
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           6
         ],
-        "Edwardo": [
-          0,
-          6
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           6
         ]
@@ -3142,19 +2916,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           5
         ],
-        "Lety": [
+        "Hana": [
           0,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           5
         ]
@@ -3169,19 +2939,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
           0,
           3
         ],
-        "Lety": [
+        "Hana": [
           0,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -3213,23 +2979,21 @@
       "hint": "Swing. Miss. Smile for the camera.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Mo"
+      ],
+      "touched": true,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          5,
           5
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           5
         ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          4,
           5
         ]
       }
@@ -3243,19 +3007,15 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
-          0,
+        "Mo": [
+          1,
           3
         ],
-        "Lety": [
-          0,
+        "Hana": [
+          1,
           3
         ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Pip": [
+        "Quinn": [
           0,
           3
         ]
@@ -3270,20 +3030,16 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
-        "Nick": [
+        "Mo": [
+          5,
+          5
+        ],
+        "Hana": [
           0,
           5
         ],
-        "Lety": [
-          0,
-          5
-        ],
-        "Edwardo": [
-          0,
-          5
-        ],
-        "Pip": [
-          0,
+        "Quinn": [
+          1,
           5
         ]
       }

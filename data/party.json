@@ -1,213 +1,158 @@
 {
   "rows": [
     {
-      "id": "crawler_b",
-      "name": "Nick",
-      "class_level": "Human Overcompensating Mech 1",
+      "id": "crawler_b_mo",
+      "name": "Mo",
+      "class_level": "Biker Knight (Mars, PA) 1",
       "powers": [
         {
           "name": "Minor Heal",
           "kind": "spell"
         }
       ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 0,
-      "ac": 10,
+      "hp": 4,
+      "hp_max": 4,
+      "temp_hp": 2,
+      "ac": 14,
       "abilities": [
         {
           "id": "STR",
-          "score": 17,
-          "modifier": 3
-        },
-        {
-          "id": "DEX",
-          "score": 11,
-          "modifier": 0
-        },
-        {
-          "id": "CON",
-          "score": 1,
-          "modifier": -5
-        },
-        {
-          "id": "INT",
           "score": 12,
           "modifier": 1
         },
         {
-          "id": "CHA",
-          "score": 12,
-          "modifier": 1
-        }
-      ],
-      "statuses": [],
-      "tank": false,
-      "ai_favour": false,
-      "favour_score": 0,
-      "load": "Nick",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Survey stake</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Bag of Shiny Things</span></li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Spade</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "Overcompensating Mech",
-      "level": 1,
-      "xp": 3,
-      "alignment": "",
-      "title": "",
-      "appearance": "",
-      "skills": [],
-      "portrait": "assets/img/party/crawler_b.webp",
-      "class_blurb": "A suit you built at home. It grants +2 AC until something important falls off."
-    },
-    {
-      "id": "crawler_c",
-      "name": "Lety",
-      "class_level": "Human Tsukumogami Smith 1",
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 0,
-      "ac": 10,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 15,
-          "modifier": 2
-        },
-        {
           "id": "DEX",
-          "score": 11,
-          "modifier": 0
-        },
-        {
-          "id": "CON",
-          "score": 3,
-          "modifier": -4
-        },
-        {
-          "id": "INT",
-          "score": 3,
-          "modifier": -4
-        },
-        {
-          "id": "CHA",
-          "score": 6,
-          "modifier": -2
-        }
-      ],
-      "statuses": [],
-      "tank": false,
-      "ai_favour": false,
-      "favour_score": 0,
-      "load": "Lety",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Green Room Mop</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Monkey Wine</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Wild Yams</span></li>\n<li class=\"party-gear-row\">🎒 A pair of 3D glasses</li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Dead smartphone</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Falsetto Codpiece</span></li>\n<li class=\"party-gear-row\">🎒 Meth</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n<li class=\"party-gear-row\">🎒 Steak knife</li>\n<li class=\"party-gear-row\">🎒 Tire iron</li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "Tsukumogami Smith",
-      "level": 1,
-      "xp": 2,
-      "alignment": "",
-      "title": "",
-      "appearance": "",
-      "skills": [],
-      "portrait": "assets/img/party/crawler_c.webp",
-      "class_blurb": "A fresh soul in a tool. A second soul starts to poison you."
-    },
-    {
-      "id": "crawler_e",
-      "name": "Edwardo",
-      "class_level": "Human The Programmer 1",
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 4,
-      "ac": 13,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 17,
-          "modifier": 3
-        },
-        {
-          "id": "DEX",
-          "score": 15,
-          "modifier": 2
-        },
-        {
-          "id": "CON",
-          "score": 4,
-          "modifier": -3
-        },
-        {
-          "id": "INT",
-          "score": 20,
-          "modifier": 5
-        },
-        {
-          "id": "CHA",
-          "score": 13,
-          "modifier": 1
-        }
-      ],
-      "statuses": [],
-      "tank": false,
-      "ai_favour": true,
-      "favour_score": 0,
-      "load": "Edwardo",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🧤 Apple</li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Duct tape</li>\n<li class=\"party-gear-row\">🎒 Fleeting Mint</li>\n<li class=\"party-gear-row\">🎒 Mop</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Soy sauce</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "The Programmer",
-      "level": 1,
-      "xp": 2,
-      "alignment": "",
-      "title": "",
-      "appearance": "",
-      "skills": [],
-      "portrait": "assets/img/party/crawler_e.webp",
-      "class_blurb": "A far bolt, a trap switched off, and one die rolled again."
-    },
-    {
-      "id": "kipperjim_pip",
-      "name": "Pip",
-      "class_level": "Cryak Draconian Biker Knight (Mars, PA) 2",
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 13,
-      "hp_max": 13,
-      "temp_hp": 0,
-      "ac": 10,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 13,
-          "modifier": 1
-        },
-        {
-          "id": "DEX",
-          "score": 11,
-          "modifier": 0
-        },
-        {
-          "id": "CON",
           "score": 16,
           "modifier": 3
         },
         {
+          "id": "CON",
+          "score": 6,
+          "modifier": -2
+        },
+        {
           "id": "INT",
-          "score": 9,
+          "score": 8,
           "modifier": -1
+        },
+        {
+          "id": "CHA",
+          "score": 15,
+          "modifier": 2
+        }
+      ],
+      "statuses": [
+        "Bolstered",
+        "Charming",
+        "Inspired",
+        "Overloaded — drop gear"
+      ],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Mo",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Fire extinguisher</li>\n<li class=\"party-gear-row\">👕 Backpack</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Potion of Personal Soundtrack</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">The Hand of Cena</span></li>\n<li class=\"party-gear-row\">🎒 A rubber duck</li>\n<li class=\"party-gear-row\">🎒 Biker leathers</li>\n<li class=\"party-gear-row\">🎒 Biker leathers</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Park Ranger&#x27;s Kevlar Vest</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Salt Lick Crystal</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Salt Lick Crystal</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Wild Garlic</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Wild Saffron</span></li>\n<li class=\"party-gear-row\">🎒 World&#x27;s Okayest Crawler koozie</li>\n</ul>\n</div>",
+      "ancestry": "",
+      "class_name": "Biker Knight (Mars, PA)",
+      "level": 1,
+      "xp": 1500,
+      "alignment": "Lawful",
+      "title": "",
+      "appearance": "hairnet, a ladle, grease down the apron",
+      "skills": [],
+      "class_blurb": "A knight's oath, and a chopper that answers to it."
+    },
+    {
+      "id": "crawler_e_hana",
+      "name": "Hana",
+      "class_level": "Deathcore Siren 1",
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 6,
+      "hp_max": 6,
+      "temp_hp": 0,
+      "ac": 11,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 16,
+          "modifier": 3
+        },
+        {
+          "id": "DEX",
+          "score": 10,
+          "modifier": 0
+        },
+        {
+          "id": "CON",
+          "score": 11,
+          "modifier": 0
+        },
+        {
+          "id": "INT",
+          "score": 8,
+          "modifier": -1
+        },
+        {
+          "id": "CHA",
+          "score": 10,
+          "modifier": 0
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Hana",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Clockwork Relay</span></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Raptor Egg</span></li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n</ul>\n</div>",
+      "ancestry": "",
+      "class_name": "Deathcore Siren",
+      "level": 1,
+      "xp": 1100,
+      "alignment": "Lawful",
+      "title": "",
+      "appearance": "whites, flour in the hair, a burn across the wrist",
+      "skills": [],
+      "class_blurb": "Scream until the room hits you instead of the band."
+    },
+    {
+      "id": "crawler_c_quinn",
+      "name": "Quinn",
+      "class_level": "Capoeira Practitioner 1",
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 6,
+      "hp_max": 6,
+      "temp_hp": 0,
+      "ac": 8,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 12,
+          "modifier": 1
+        },
+        {
+          "id": "DEX",
+          "score": 7,
+          "modifier": -2
+        },
+        {
+          "id": "CON",
+          "score": 13,
+          "modifier": 1
+        },
+        {
+          "id": "INT",
+          "score": 7,
+          "modifier": -2
         },
         {
           "id": "CHA",
@@ -215,22 +160,23 @@
           "modifier": -1
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Tangled"
+      ],
       "tank": false,
       "ai_favour": false,
       "favour_score": 0,
-      "load": "Pip",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n</ul>\n</div>",
-      "ancestry": "Cryak Draconian",
-      "class_name": "Biker Knight (Mars, PA)",
-      "level": 2,
-      "xp": 0,
-      "alignment": "Lawful",
+      "load": "Quinn",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Chainsaw</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Shield</li>\n<li class=\"party-gear-row\">🎒 World&#x27;s Okayest Crawler koozie</li>\n</ul>\n</div>",
+      "ancestry": "",
+      "class_name": "Capoeira Practitioner",
+      "level": 1,
+      "xp": 950,
+      "alignment": "Neutral",
       "title": "",
-      "appearance": "khaki, a bite on the forearm, keys that fit nothing here",
+      "appearance": "a headset, a company lanyard, a voice already gone",
       "skills": [],
-      "portrait": "assets/img/party/kipperjim_pip.webp",
-      "class_blurb": "A knight's oath, and a chopper that answers to it."
+      "class_blurb": "Move, and the circle has trouble hitting you. Stop, and the kick lands."
     }
   ],
   "skipped": false
