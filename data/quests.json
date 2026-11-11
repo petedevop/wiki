@@ -2,6 +2,82 @@
   "rows": [
     {
       "pc_name": "Edwardo",
+      "name": "A Painted Spoon",
+      "giver": "Auntie Tamarind",
+      "gp": 0,
+      "prize": "Sinew Cord · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get one over on Madame Sabatier, on camera",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "A Town That Doesn't Need Its Witch",
+      "giver": "Doughty the Baker",
+      "gp": 0,
+      "prize": "Strong Flour · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
+          "met": false
+        },
+        {
+          "label": "Bring it home to Doughty alive",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "A Wall of Boiled Sweets",
+      "giver": "Mayor Snap",
+      "gp": 25,
+      "prize": "25 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut Sugar Cane in the jungle",
+          "met": false
+        },
+        {
+          "label": "Scrape Snail Slime off the Giant Snail",
+          "met": false
+        },
+        {
+          "label": "Bring both to Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Bring Back the Crew",
+      "giver": "Pip",
+      "gp": 0,
+      "prize": "Pip's Gaffer Tape · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go into the Last Set (304)",
+          "met": false
+        },
+        {
+          "label": "Kill the ACTION loop so the bodies can be pulled",
+          "met": false
+        },
+        {
+          "label": "Carry the crew back to Pip at The Film Set (303)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
@@ -14,6 +90,74 @@
         },
         {
           "label": "Hand it to Crumb, unread",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Feed the Picket Line",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "The crew are on strike",
+          "met": false
+        },
+        {
+          "label": "Give Pearl food for the picket",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Finish the Act",
+      "giver": "Madame Sabatier",
+      "gp": 0,
+      "prize": "Returning Carving Knife · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Finish the act, or give the audience a substitute",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Get Our Papers Back",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Crew Contract Ledger from the Cellar Archive (308)",
+          "met": false
+        },
+        {
+          "label": "Put it in Pearl's gloves",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Gourd Season",
+      "giver": "Auntie Tamarind",
+      "gp": 0,
+      "prize": "Climbing Hooks · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Reach the market with a Ripe Pumpkin Bomb",
+          "met": false
+        },
+        {
+          "label": "Hand it to Tamarind",
           "met": false
         }
       ]
@@ -52,6 +196,42 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "Nobody Washes Up Tonight",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 0,
+      "prize": "Dish Pit Degreaser · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get Crumb on the crew's side",
+          "met": false
+        },
+        {
+          "label": "Bring the word back to the Dish Pit (311)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Roll the Real Footage",
+      "giver": "Pip",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Find the Villain Storyboard in the Props Tent (304)",
+          "met": false
+        },
+        {
+          "label": "The residents' channel is on the air",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "Salt for the Stadium!",
       "giver": "Dry Jack",
       "gp": 80,
@@ -76,6 +256,60 @@
         },
         {
           "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Salt Run",
+      "giver": "Clove",
+      "gp": 0,
+      "prize": "Black Kombu Twist · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Clove walks with you",
+          "met": false
+        },
+        {
+          "label": "Get Clove to the Salt Lick (312)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Serve the Witch Her Own Childhood",
+      "giver": "Grandpa Rusk",
+      "gp": 0,
+      "prize": "Rusk's Bread Pudding · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take Rusk's Old-Country Cinnamon from the Crumb Pension",
+          "met": false
+        },
+        {
+          "label": "Bake the bread pudding in Treacle's Good Oven (306)",
+          "met": false
+        },
+        {
+          "label": "Serve it to Mother Treacle",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Shiny Things",
+      "giver": "Penny",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Penny the bag of shiny things",
           "met": false
         }
       ]
@@ -110,6 +344,74 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "The Rain Bell Is on the Schedule",
+      "giver": "Mayor Snap",
+      "gp": 0,
+      "prize": "Old Baking Spices · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Stop the scheduled rain",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "The Rescue Must Be Televised",
+      "giver": "Hans",
+      "gp": 25,
+      "prize": "25 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Open the Birdcage, one way or another",
+          "met": false
+        },
+        {
+          "label": "Hans follows you out",
+          "met": false
+        },
+        {
+          "label": "Reach Gingerbread Town (302) with Hans still following",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "The Witch's Impossible Shopping List",
+      "giver": "Mother Treacle",
+      "gp": 0,
+      "prize": "Treacle's Signature Recipe · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Treacle a predator's breakfast",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Two Queens",
+      "giver": "Dolly Fenn",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut the Queen Cell out of the Capped Ceiling (316)",
+          "met": false
+        },
+        {
+          "label": "Break it open in the Inner Comb (317)",
           "met": false
         }
       ]
@@ -130,6 +432,82 @@
     },
     {
       "pc_name": "Lety",
+      "name": "A Painted Spoon",
+      "giver": "Auntie Tamarind",
+      "gp": 0,
+      "prize": "Sinew Cord · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get one over on Madame Sabatier, on camera",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "A Town That Doesn't Need Its Witch",
+      "giver": "Doughty the Baker",
+      "gp": 0,
+      "prize": "Strong Flour · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
+          "met": false
+        },
+        {
+          "label": "Bring it home to Doughty alive",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "A Wall of Boiled Sweets",
+      "giver": "Mayor Snap",
+      "gp": 25,
+      "prize": "25 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut Sugar Cane in the jungle",
+          "met": false
+        },
+        {
+          "label": "Scrape Snail Slime off the Giant Snail",
+          "met": false
+        },
+        {
+          "label": "Bring both to Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Bring Back the Crew",
+      "giver": "Pip",
+      "gp": 0,
+      "prize": "Pip's Gaffer Tape · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go into the Last Set (304)",
+          "met": false
+        },
+        {
+          "label": "Kill the ACTION loop so the bodies can be pulled",
+          "met": false
+        },
+        {
+          "label": "Carry the crew back to Pip at The Film Set (303)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
@@ -142,6 +520,74 @@
         },
         {
           "label": "Hand it to Crumb, unread",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Feed the Picket Line",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "The crew are on strike",
+          "met": false
+        },
+        {
+          "label": "Give Pearl food for the picket",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Finish the Act",
+      "giver": "Madame Sabatier",
+      "gp": 0,
+      "prize": "Returning Carving Knife · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Finish the act, or give the audience a substitute",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Get Our Papers Back",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Crew Contract Ledger from the Cellar Archive (308)",
+          "met": false
+        },
+        {
+          "label": "Put it in Pearl's gloves",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Gourd Season",
+      "giver": "Auntie Tamarind",
+      "gp": 0,
+      "prize": "Climbing Hooks · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Reach the market with a Ripe Pumpkin Bomb",
+          "met": false
+        },
+        {
+          "label": "Hand it to Tamarind",
           "met": false
         }
       ]
@@ -180,6 +626,42 @@
     },
     {
       "pc_name": "Lety",
+      "name": "Nobody Washes Up Tonight",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 0,
+      "prize": "Dish Pit Degreaser · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get Crumb on the crew's side",
+          "met": false
+        },
+        {
+          "label": "Bring the word back to the Dish Pit (311)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Roll the Real Footage",
+      "giver": "Pip",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Find the Villain Storyboard in the Props Tent (304)",
+          "met": false
+        },
+        {
+          "label": "The residents' channel is on the air",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "Salt for the Stadium!",
       "giver": "Dry Jack",
       "gp": 80,
@@ -204,6 +686,60 @@
         },
         {
           "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Salt Run",
+      "giver": "Clove",
+      "gp": 0,
+      "prize": "Black Kombu Twist · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Clove walks with you",
+          "met": false
+        },
+        {
+          "label": "Get Clove to the Salt Lick (312)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Serve the Witch Her Own Childhood",
+      "giver": "Grandpa Rusk",
+      "gp": 0,
+      "prize": "Rusk's Bread Pudding · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take Rusk's Old-Country Cinnamon from the Crumb Pension",
+          "met": false
+        },
+        {
+          "label": "Bake the bread pudding in Treacle's Good Oven (306)",
+          "met": false
+        },
+        {
+          "label": "Serve it to Mother Treacle",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Shiny Things",
+      "giver": "Penny",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Penny the bag of shiny things",
           "met": false
         }
       ]
@@ -238,6 +774,74 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "The Rain Bell Is on the Schedule",
+      "giver": "Mayor Snap",
+      "gp": 0,
+      "prize": "Old Baking Spices · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Stop the scheduled rain",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "The Rescue Must Be Televised",
+      "giver": "Hans",
+      "gp": 25,
+      "prize": "25 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Open the Birdcage, one way or another",
+          "met": false
+        },
+        {
+          "label": "Hans follows you out",
+          "met": false
+        },
+        {
+          "label": "Reach Gingerbread Town (302) with Hans still following",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "The Witch's Impossible Shopping List",
+      "giver": "Mother Treacle",
+      "gp": 0,
+      "prize": "Treacle's Signature Recipe · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Treacle a predator's breakfast",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Two Queens",
+      "giver": "Dolly Fenn",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut the Queen Cell out of the Capped Ceiling (316)",
+          "met": false
+        },
+        {
+          "label": "Break it open in the Inner Comb (317)",
           "met": false
         }
       ]
@@ -257,7 +861,83 @@
       ]
     },
     {
-      "pc_name": "Nick",
+      "pc_name": "Nic",
+      "name": "A Painted Spoon",
+      "giver": "Auntie Tamarind",
+      "gp": 0,
+      "prize": "Sinew Cord · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get one over on Madame Sabatier, on camera",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "A Town That Doesn't Need Its Witch",
+      "giver": "Doughty the Baker",
+      "gp": 0,
+      "prize": "Strong Flour · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
+          "met": false
+        },
+        {
+          "label": "Bring it home to Doughty alive",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "A Wall of Boiled Sweets",
+      "giver": "Mayor Snap",
+      "gp": 25,
+      "prize": "25 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut Sugar Cane in the jungle",
+          "met": false
+        },
+        {
+          "label": "Scrape Snail Slime off the Giant Snail",
+          "met": false
+        },
+        {
+          "label": "Bring both to Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Bring Back the Crew",
+      "giver": "Pip",
+      "gp": 0,
+      "prize": "Pip's Gaffer Tape · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go into the Last Set (304)",
+          "met": false
+        },
+        {
+          "label": "Kill the ACTION loop so the bodies can be pulled",
+          "met": false
+        },
+        {
+          "label": "Carry the crew back to Pip at The Film Set (303)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 0,
@@ -275,7 +955,75 @@
       ]
     },
     {
-      "pc_name": "Nick",
+      "pc_name": "Nic",
+      "name": "Feed the Picket Line",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "The crew are on strike",
+          "met": false
+        },
+        {
+          "label": "Give Pearl food for the picket",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Finish the Act",
+      "giver": "Madame Sabatier",
+      "gp": 0,
+      "prize": "Returning Carving Knife · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Finish the act, or give the audience a substitute",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Get Our Papers Back",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Crew Contract Ledger from the Cellar Archive (308)",
+          "met": false
+        },
+        {
+          "label": "Put it in Pearl's gloves",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Gourd Season",
+      "giver": "Auntie Tamarind",
+      "gp": 0,
+      "prize": "Climbing Hooks · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Reach the market with a Ripe Pumpkin Bomb",
+          "met": false
+        },
+        {
+          "label": "Hand it to Tamarind",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
@@ -289,7 +1037,7 @@
       ]
     },
     {
-      "pc_name": "Nick",
+      "pc_name": "Nic",
       "name": "Jack's Licence",
       "giver": "Dry Jack",
       "gp": 35,
@@ -307,7 +1055,43 @@
       ]
     },
     {
-      "pc_name": "Nick",
+      "pc_name": "Nic",
+      "name": "Nobody Washes Up Tonight",
+      "giver": "Pearl Eight-Mitts",
+      "gp": 0,
+      "prize": "Dish Pit Degreaser · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get Crumb on the crew's side",
+          "met": false
+        },
+        {
+          "label": "Bring the word back to the Dish Pit (311)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Roll the Real Footage",
+      "giver": "Pip",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Find the Villain Storyboard in the Props Tent (304)",
+          "met": false
+        },
+        {
+          "label": "The residents' channel is on the air",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "Salt for the Stadium!",
       "giver": "Dry Jack",
       "gp": 80,
@@ -337,7 +1121,61 @@
       ]
     },
     {
-      "pc_name": "Nick",
+      "pc_name": "Nic",
+      "name": "Salt Run",
+      "giver": "Clove",
+      "gp": 0,
+      "prize": "Black Kombu Twist · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Clove walks with you",
+          "met": false
+        },
+        {
+          "label": "Get Clove to the Salt Lick (312)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Serve the Witch Her Own Childhood",
+      "giver": "Grandpa Rusk",
+      "gp": 0,
+      "prize": "Rusk's Bread Pudding · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take Rusk's Old-Country Cinnamon from the Crumb Pension",
+          "met": false
+        },
+        {
+          "label": "Bake the bread pudding in Treacle's Good Oven (306)",
+          "met": false
+        },
+        {
+          "label": "Serve it to Mother Treacle",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Shiny Things",
+      "giver": "Penny",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Penny the bag of shiny things",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -371,135 +1209,75 @@
       ]
     },
     {
-      "pc_name": "Nick",
-      "name": "Water for Everyone",
-      "giver": "Dry Jack",
+      "pc_name": "Nic",
+      "name": "The Rain Bell Is on the Schedule",
+      "giver": "Mayor Snap",
       "gp": 0,
-      "prize": "Salt Lick Crystal · 500 XP each",
+      "prize": "Old Baking Spices · 500 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Get the crocodile out of Dry Jack's work area",
+          "label": "Stop the scheduled rain",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Pip",
-      "name": "Crumb's Resignation Dinner",
-      "giver": "Chef Barnaby Crumb",
+      "pc_name": "Nic",
+      "name": "The Rescue Must Be Televised",
+      "giver": "Hans",
+      "gp": 25,
+      "prize": "25 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Open the Birdcage, one way or another",
+          "met": false
+        },
+        {
+          "label": "Hans follows you out",
+          "met": false
+        },
+        {
+          "label": "Reach Gingerbread Town (302) with Hans still following",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "The Witch's Impossible Shopping List",
+      "giver": "Mother Treacle",
       "gp": 0,
-      "prize": "Crumb's Recipe Book · 500 XP each",
+      "prize": "Treacle's Signature Recipe · 500 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Get Crumb's contract out of the Cellar Archive (308)",
-          "met": false
-        },
-        {
-          "label": "Hand it to Crumb, unread",
+          "label": "Give Treacle a predator's breakfast",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Pip",
-      "name": "Homework!",
-      "giver": "Chef Barnaby Crumb",
-      "gp": 5,
-      "prize": "5 gp · 500 XP each",
+      "pc_name": "Nic",
+      "name": "Two Queens",
+      "giver": "Dolly Fenn",
+      "gp": 40,
+      "prize": "40 gp · 4 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Give Crumb a meat you killed yourself",
+          "label": "Cut the Queen Cell out of the Capped Ceiling (316)",
+          "met": false
+        },
+        {
+          "label": "Break it open in the Inner Comb (317)",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Pip",
-      "name": "Jack's Licence",
-      "giver": "Dry Jack",
-      "gp": 35,
-      "prize": "35 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Give Jack the Sprinkler Valve Wheel",
-          "met": false
-        },
-        {
-          "label": "Give Jack the Spare Stock Seal",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Pip",
-      "name": "Salt for the Stadium!",
-      "giver": "Dry Jack",
-      "gp": 80,
-      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come out to the Salt Lick (312)",
-          "met": true
-        },
-        {
-          "label": "Deal with the crocodile, one way or another",
-          "met": false
-        },
-        {
-          "label": "Take the Salt Lick Crystal",
-          "met": false
-        },
-        {
-          "label": "Carry it to the Kitchen Stadium (307)",
-          "met": false
-        },
-        {
-          "label": "Stand in the Stadium holding the Salt Lick Crystal",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Pip",
-      "name": "The Full Larder!",
-      "giver": "Best Chef",
-      "gp": 150,
-      "prize": "150 gp · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Go down to the Jungle Clearing (301)",
-          "met": true
-        },
-        {
-          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Kill the Truffle Sow",
-          "met": false
-        },
-        {
-          "label": "Pick up the Sow-Heart Truffle",
-          "met": false
-        },
-        {
-          "label": "Flip the Sow's Carcass and carve it",
-          "met": false
-        },
-        {
-          "label": "Bring it home to the Green Room (300)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Pip",
+      "pc_name": "Nic",
       "name": "Water for Everyone",
       "giver": "Dry Jack",
       "gp": 0,

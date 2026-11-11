@@ -1,8 +1,124 @@
 {
   "rows": [
     {
+      "id": "crawler_c",
+      "name": "Lety",
+      "class_level": "Human Tsukumogami Smith 1",
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 2,
+      "hp_max": 2,
+      "temp_hp": 0,
+      "ac": 10,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 15,
+          "modifier": 2
+        },
+        {
+          "id": "DEX",
+          "score": 11,
+          "modifier": 0
+        },
+        {
+          "id": "CON",
+          "score": 3,
+          "modifier": -4
+        },
+        {
+          "id": "INT",
+          "score": 3,
+          "modifier": -4
+        },
+        {
+          "id": "CHA",
+          "score": 6,
+          "modifier": -2
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Lety",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
+      "ancestry": "Human",
+      "class_name": "Tsukumogami Smith",
+      "level": 1,
+      "xp": 500,
+      "alignment": "",
+      "title": "",
+      "appearance": "",
+      "skills": [],
+      "portrait": "assets/img/party/crawler_c.webp",
+      "class_blurb": "A fresh soul in a tool. A second soul starts to poison you."
+    },
+    {
+      "id": "crawler_e",
+      "name": "Edwardo",
+      "class_level": "Human The Programmer 1",
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 1,
+      "hp_max": 1,
+      "temp_hp": 0,
+      "ac": 13,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 17,
+          "modifier": 3
+        },
+        {
+          "id": "DEX",
+          "score": 15,
+          "modifier": 2
+        },
+        {
+          "id": "CON",
+          "score": 4,
+          "modifier": -3
+        },
+        {
+          "id": "INT",
+          "score": 20,
+          "modifier": 5
+        },
+        {
+          "id": "CHA",
+          "score": 13,
+          "modifier": 1
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": true,
+      "favour_score": 0,
+      "load": "Edwardo",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
+      "ancestry": "Human",
+      "class_name": "The Programmer",
+      "level": 1,
+      "xp": 500,
+      "alignment": "",
+      "title": "",
+      "appearance": "",
+      "skills": [],
+      "portrait": "assets/img/party/crawler_e.webp",
+      "class_blurb": "A far bolt, a trap switched off, and one die rolled again."
+    },
+    {
       "id": "crawler_b",
-      "name": "Nick",
+      "name": "Nic",
       "class_level": "Human Overcompensating Mech 1",
       "powers": [
         {
@@ -45,192 +161,18 @@
       "tank": false,
       "ai_favour": false,
       "favour_score": 0,
-      "load": "Nick",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Survey stake</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Bag of Shiny Things</span></li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Spade</li>\n<li class=\"party-gear-row\">🎒 Survey stake</li>\n</ul>\n</div>",
+      "load": "Nic",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
       "ancestry": "Human",
       "class_name": "Overcompensating Mech",
       "level": 1,
-      "xp": 3,
+      "xp": 500,
       "alignment": "",
       "title": "",
       "appearance": "",
       "skills": [],
       "portrait": "assets/img/party/crawler_b.webp",
       "class_blurb": "A suit you built at home. It grants +2 AC until something important falls off."
-    },
-    {
-      "id": "crawler_c",
-      "name": "Lety",
-      "class_level": "Human Tsukumogami Smith 1",
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 0,
-      "ac": 10,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 15,
-          "modifier": 2
-        },
-        {
-          "id": "DEX",
-          "score": 11,
-          "modifier": 0
-        },
-        {
-          "id": "CON",
-          "score": 3,
-          "modifier": -4
-        },
-        {
-          "id": "INT",
-          "score": 3,
-          "modifier": -4
-        },
-        {
-          "id": "CHA",
-          "score": 6,
-          "modifier": -2
-        }
-      ],
-      "statuses": [],
-      "tank": false,
-      "ai_favour": false,
-      "favour_score": 0,
-      "load": "Lety",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Green Room Mop</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Monkey Wine</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Wild Yams</span></li>\n<li class=\"party-gear-row\">🎒 A pair of 3D glasses</li>\n<li class=\"party-gear-row\">🎒 Apple</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Dead smartphone</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Falsetto Codpiece</span></li>\n<li class=\"party-gear-row\">🎒 Meth</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n<li class=\"party-gear-row\">🎒 Steak knife</li>\n<li class=\"party-gear-row\">🎒 Tire iron</li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "Tsukumogami Smith",
-      "level": 1,
-      "xp": 2,
-      "alignment": "",
-      "title": "",
-      "appearance": "",
-      "skills": [],
-      "portrait": "assets/img/party/crawler_c.webp",
-      "class_blurb": "A fresh soul in a tool. A second soul starts to poison you."
-    },
-    {
-      "id": "crawler_e",
-      "name": "Edwardo",
-      "class_level": "Human The Programmer 1",
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 4,
-      "ac": 13,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 17,
-          "modifier": 3
-        },
-        {
-          "id": "DEX",
-          "score": 15,
-          "modifier": 2
-        },
-        {
-          "id": "CON",
-          "score": 4,
-          "modifier": -3
-        },
-        {
-          "id": "INT",
-          "score": 20,
-          "modifier": 5
-        },
-        {
-          "id": "CHA",
-          "score": 13,
-          "modifier": 1
-        }
-      ],
-      "statuses": [],
-      "tank": false,
-      "ai_favour": true,
-      "favour_score": 0,
-      "load": "Edwardo",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🧤 Apple</li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Duct tape</li>\n<li class=\"party-gear-row\">🎒 Fleeting Mint</li>\n<li class=\"party-gear-row\">🎒 Mop</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Soy sauce</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "The Programmer",
-      "level": 1,
-      "xp": 2,
-      "alignment": "",
-      "title": "",
-      "appearance": "",
-      "skills": [],
-      "portrait": "assets/img/party/crawler_e.webp",
-      "class_blurb": "A far bolt, a trap switched off, and one die rolled again."
-    },
-    {
-      "id": "kipperjim_pip",
-      "name": "Pip",
-      "class_level": "Cryak Draconian Biker Knight (Mars, PA) 2",
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 13,
-      "hp_max": 13,
-      "temp_hp": 0,
-      "ac": 10,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 13,
-          "modifier": 1
-        },
-        {
-          "id": "DEX",
-          "score": 11,
-          "modifier": 0
-        },
-        {
-          "id": "CON",
-          "score": 16,
-          "modifier": 3
-        },
-        {
-          "id": "INT",
-          "score": 9,
-          "modifier": -1
-        },
-        {
-          "id": "CHA",
-          "score": 9,
-          "modifier": -1
-        }
-      ],
-      "statuses": [],
-      "tank": false,
-      "ai_favour": false,
-      "favour_score": 0,
-      "load": "Pip",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n</ul>\n</div>",
-      "ancestry": "Cryak Draconian",
-      "class_name": "Biker Knight (Mars, PA)",
-      "level": 2,
-      "xp": 0,
-      "alignment": "Lawful",
-      "title": "",
-      "appearance": "khaki, a bite on the forearm, keys that fit nothing here",
-      "skills": [],
-      "portrait": "assets/img/party/kipperjim_pip.webp",
-      "class_blurb": "A knight's oath, and a chopper that answers to it."
     }
   ],
   "skipped": false

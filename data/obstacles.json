@@ -1276,30 +1276,7 @@
       "room_title": "Kitchen Stadium",
       "blurb": "A scoreboard the size of a house in the trees over the stadium, a bulb for every digit, two kitchen names in lights.",
       "image": "assets/img/obstacle/the_scoreboard.webp",
-      "options": [
-        {
-          "label": "Persuade",
-          "stat": "CHA",
-          "skills": [
-            "Animal Handling",
-            "Negotiate"
-          ]
-        },
-        {
-          "label": "Pick",
-          "stat": "DEX",
-          "skills": [
-            "Lockpicking"
-          ]
-        },
-        {
-          "label": "Endure",
-          "stat": "CON",
-          "skills": [
-            "Drug Enjoyer"
-          ]
-        }
-      ]
+      "options": []
     },
     {
       "id": "obstacle-the_usher_alarm",
