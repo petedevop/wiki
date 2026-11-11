@@ -16,7 +16,7 @@ Trophy cards with hints. Progress shows on your phone first; the wiki exports **
 
 ## Board bounty
 
-A name from the **top ten** on the world leaderboard. Each session start the app rolls whether one of those names is “on the floor” tonight.
+A name from the **top ten** on the world leaderboard. Each session start the app rolls whether one of those names is “on the floor” tonight. Posted gold is **150–500 gp** (tougher rivals toward the top of that band). When a floor quest pays for the capture or kill, it matches the posted amount — not the old thousands-scale poster copy.
 
 ## Sponsor / booth
 

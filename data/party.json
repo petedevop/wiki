@@ -3,7 +3,20 @@
     {
       "id": "crawler_c",
       "name": "Lety",
+      "ancestry": "Human",
+      "class_name": "Tsukumogami Smith",
+      "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
+      "portrait_url": "/media/HbCuRBuc_2xhBaq3cj1U6w?v=1790720918407475591",
+      "about": [
+        {
+          "heading": "Goals",
+          "lines": [
+            "Survive Floor 1 and keep climbing the Show. (Session 1)",
+            "Grieve the Doctor and keep climbing the Show. (Session 2)"
+          ]
+        }
+      ],
       "powers": [
         {
           "name": "Minor Heal",
@@ -47,9 +60,6 @@
       "favour_score": 0,
       "load": "Lety",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "Tsukumogami Smith",
-      "level": 1,
       "xp": 4350,
       "alignment": "",
       "title": "",
@@ -61,7 +71,21 @@
     {
       "id": "crawler_e",
       "name": "Edwardo",
+      "ancestry": "Human",
+      "class_name": "The Programmer",
+      "level": 1,
       "class_level": "Human The Programmer 1",
+      "portrait_url": "/media/K4e8sl3s6vrD0TNia6kdVQ?v=1790800019726852655",
+      "about": [
+        {
+          "heading": "Goals",
+          "lines": [
+            "Score more meth / Spit line without becoming the court's next joke. (Session 1)",
+            "Survive Floor 1 and keep climbing the Show. (Session 1)",
+            "Not die the way Miclo did. (Session 1)"
+          ]
+        }
+      ],
       "powers": [
         {
           "name": "Minor Heal",
@@ -105,9 +129,6 @@
       "favour_score": 0,
       "load": "Edwardo",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Brass knuckles</li>\n<li class=\"party-gear-row\">👕 Butcher&#x27;s Apron</li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "The Programmer",
-      "level": 1,
       "xp": 4350,
       "alignment": "",
       "title": "",
@@ -119,7 +140,21 @@
     {
       "id": "crawler_b",
       "name": "Nic",
+      "ancestry": "Human",
+      "class_name": "Overcompensating Mech",
+      "level": 1,
       "class_level": "Human Overcompensating Mech 1",
+      "portrait_url": "/media/pU37mvHkcM7sVqUzk1E1Fg?v=1790721129428895712",
+      "about": [
+        {
+          "heading": "Goals",
+          "lines": [
+            "Survive Floor 1 and keep climbing the Show. (Session 1)",
+            "Keep the band metaphor going somehow. (Session 1)",
+            "Keep the party alive after the Doctor's death. (Session 2)"
+          ]
+        }
+      ],
       "powers": [
         {
           "name": "Minor Heal",
@@ -163,9 +198,6 @@
       "favour_score": 0,
       "load": "Nic",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Dagger</li>\n<li class=\"party-gear-row\">👕 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🧤 <span class=\"rarity-rare\">Tunnel Slime Aspic</span></li>\n<li class=\"party-gear-row\">👖 <span class=\"rarity-rare\">Double Cream Sorbet</span></li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-rare\">Brindle Grub Reduction</span></li>\n<li class=\"party-gear-row\"><span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 A Staples &quot;That Was Easy&quot; button</li>\n<li class=\"party-gear-row\">🎒 A Starbucks Frappuccino</li>\n<li class=\"party-gear-row\">🎒 Brown Shelf Mushrooms</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Lipstick-stained cigarettes</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Plodder Rump</li>\n<li class=\"party-gear-row\">🎒 Raptor Steak</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n</ul>\n</div>",
-      "ancestry": "Human",
-      "class_name": "Overcompensating Mech",
-      "level": 1,
       "xp": 4350,
       "alignment": "",
       "title": "",
@@ -185,7 +217,12 @@
     {
       "id": "pete_rae",
       "name": "Rae",
+      "ancestry": "Tuatha Dé Danann",
+      "class_name": "Exotic Dancer",
+      "level": 3,
       "class_level": "Tuatha Dé Danann Exotic Dancer 3",
+      "portrait_url": "/media/TpOed_Kdf8B58c3fR5YfiA",
+      "about": [],
       "powers": [
         {
           "name": "Minor Heal",
@@ -229,9 +266,6 @@
       "favour_score": 0,
       "load": "Rae",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
-      "ancestry": "Tuatha Dé Danann",
-      "class_name": "Exotic Dancer",
-      "level": 3,
       "xp": 2450,
       "alignment": "Lawful",
       "title": "",

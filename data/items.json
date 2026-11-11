@@ -621,7 +621,7 @@
       "title": "Beast Tooth",
       "subtitle": "Floor 2",
       "blurb": "A small cracked tooth, good for a charm or a petty trade.",
-      "image": null
+      "image": "assets/img/item/beast_tooth.webp"
     },
     {
       "id": "item-bedspring_mail",
@@ -1097,7 +1097,7 @@
       "title": "Crawler Cola",
       "subtitle": "Floor 2",
       "blurb": "A dented tin cylinder, CRAWLER COLA in red block capitals.",
-      "image": null
+      "image": "assets/img/item/crawler_cola.webp"
     },
     {
       "id": "item-crawler_cooler",
@@ -1139,7 +1139,7 @@
       "title": "Crew Gaffer Tape",
       "subtitle": "Floor 2",
       "blurb": "A half roll of black gaffer tape with RUNNER written inside in marker.",
-      "image": null
+      "image": "assets/img/item/crew_gaffer_tape.webp"
     },
     {
       "id": "item-crew_sandwich",
@@ -1195,7 +1195,7 @@
       "title": "Cub Meat",
       "subtitle": "Floor 2",
       "blurb": "Wobbly gummy muscle. Tastes like regret and cherry dye unless you sear it properly.",
-      "image": null
+      "image": "assets/img/item/cub_meat.webp"
     },
     {
       "id": "item-cured_alpha_haunch",
@@ -1720,7 +1720,7 @@
       "title": "Goose Meat",
       "subtitle": "Floor 2",
       "blurb": "Honkless now. Greasy dark meat from a warm-up fight; a quick roast steadies the nerves.",
-      "image": null
+      "image": "assets/img/item/goose_meat.webp"
     },
     {
       "id": "item-gore_fiend_hand_crossbow",
@@ -1944,7 +1944,7 @@
       "title": "Honeycomb Trade Tin",
       "subtitle": "Floor 2",
       "blurb": "A palm-sized tin of stamped comb from the canopy market.",
-      "image": null
+      "image": "assets/img/item/honeycomb_trade_tin.webp"
     },
     {
       "id": "item-hoodie_of_slouching",
@@ -2105,7 +2105,7 @@
       "title": "Krakaren Ink Flare",
       "subtitle": "Floor 2",
       "blurb": "A stadium pyro tube charged with krakaren ink.",
-      "image": null
+      "image": "assets/img/item/krakaren_ink_flare.webp"
     },
     {
       "id": "item-krakaren_ink_risotto",
@@ -2952,7 +2952,7 @@
       "title": "Rat Meat",
       "subtitle": "Floor 2",
       "blurb": "Catering-table rat, cleaned up just enough.",
-      "image": null
+      "image": "assets/img/item/rat_meat.webp"
     },
     {
       "id": "item-rebar",
@@ -3162,7 +3162,7 @@
       "title": "Rusk's Hearth Charm",
       "subtitle": "Floor 2",
       "blurb": "A sugar knuckle on a gingerbread cord.",
-      "image": null
+      "image": "assets/img/item/rusk_s_hearth_charm.webp"
     },
     {
       "id": "item-rusk_s_knuckle",
@@ -3498,7 +3498,7 @@
       "title": "Slug Meat",
       "subtitle": "Floor 2",
       "blurb": "Pale green flesh that still trails a little slime.",
-      "image": null
+      "image": "assets/img/item/slug_meat.webp"
     },
     {
       "id": "item-small_cave_truffle",
@@ -3960,7 +3960,7 @@
       "title": "Tallow Scrap",
       "subtitle": "Floor 2",
       "blurb": "A greasy shred of rendered fat — lamp fuel or stew thickener if you are not picky.",
-      "image": null
+      "image": "assets/img/item/tallow_scrap.webp"
     },
     {
       "id": "item-tank_top_of_recklessness",
@@ -4541,7 +4541,7 @@
       "title": "Vell-Tempered Knife",
       "subtitle": "Floor 2",
       "blurb": "The Master's Knife after a jealous tempering under Vell's eye.",
-      "image": null
+      "image": "assets/img/item/vell_tempered_knife.webp"
     },
     {
       "id": "item-verified_blue_check_cape",

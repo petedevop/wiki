@@ -1,6 +1,6 @@
 {
   "meta": {
-    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Floor purses are smaller than the posted board gold — see Bounties for stats and portraits on the top twenty.",
+    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Posted bounties run 150–500 gp by toughness; the floor quest pays that posted amount. See Bounties for stats and portraits on the top twenty.",
     "posted_name": "",
     "top_ten_pool": 10,
     "board_size": 20
@@ -11,7 +11,7 @@
       "name": "Lucia Mar",
       "level": 32,
       "kills": 912,
-      "bounty": 600,
+      "bounty": 500,
       "blurb": "Two rottweilers. They sit until she points.",
       "on_floor": true
     },
@@ -20,7 +20,7 @@
       "name": "Hekla",
       "level": 31,
       "kills": 870,
-      "bounty": 575,
+      "bounty": 475,
       "blurb": "Shield up. One of hers is still in the door.",
       "on_floor": true
     },
@@ -29,7 +29,7 @@
       "name": "Prepotente",
       "level": 30,
       "kills": 844,
-      "bounty": 550,
+      "bounty": 450,
       "blurb": "A goat who ruins the plan by saying it.",
       "on_floor": true
     },
@@ -38,7 +38,7 @@
       "name": "Florin",
       "level": 29,
       "kills": 801,
-      "bounty": 525,
+      "bounty": 425,
       "blurb": "Offers a split. Someone else holds the exit.",
       "on_floor": true
     },
@@ -47,7 +47,7 @@
       "name": "Quan Ch",
       "level": 28,
       "kills": 775,
-      "bounty": 500,
+      "bounty": 400,
       "blurb": "Three taps. One hit. Then he leaves.",
       "on_floor": true
     },
@@ -56,7 +56,7 @@
       "name": "Miss Quill",
       "level": 28,
       "kills": 749,
-      "bounty": 475,
+      "bounty": 400,
       "blurb": "Asks for a yes. The quills are the lesson.",
       "on_floor": true
     },
@@ -65,7 +65,7 @@
       "name": "Gwendolyn Duet",
       "level": 27,
       "kills": 720,
-      "bounty": 450,
+      "bounty": 375,
       "blurb": "The number needs the light. She needs the watch.",
       "on_floor": true
     },
@@ -74,7 +74,7 @@
       "name": "Signet",
       "level": 27,
       "kills": 694,
-      "bounty": 425,
+      "bounty": 375,
       "blurb": "Offers a kneel. The knife is the other deal.",
       "on_floor": true
     },
@@ -83,7 +83,7 @@
       "name": "Li Jun",
       "level": 26,
       "kills": 660,
-      "bounty": 400,
+      "bounty": 350,
       "blurb": "Already moving. Someone is filling the gap.",
       "on_floor": true
     },
@@ -92,7 +92,7 @@
       "name": "Li Na",
       "level": 26,
       "kills": 641,
-      "bounty": 375,
+      "bounty": 350,
       "blurb": "She waits. The late hit is the one that matters.",
       "on_floor": true
     },
@@ -101,7 +101,7 @@
       "name": "Elle McGibbons",
       "level": 25,
       "kills": 612,
-      "bounty": 350,
+      "bounty": 325,
       "blurb": "Crowd favorite who never wastes a moment.",
       "on_floor": false
     },
@@ -128,7 +128,7 @@
       "name": "Maggie My",
       "level": 24,
       "kills": 541,
-      "bounty": 275,
+      "bounty": 300,
       "blurb": "Talker who can survive the answer.",
       "on_floor": false
     },
@@ -137,7 +137,7 @@
       "name": "Katia Grim",
       "level": 23,
       "kills": 518,
-      "bounty": 250,
+      "bounty": 275,
       "blurb": "Adaptable crawler with iron resolve.",
       "on_floor": false
     },
@@ -146,7 +146,7 @@
       "name": "Rosa \"Chainsaw\" Delgado",
       "level": 22,
       "kills": 489,
-      "bounty": 225,
+      "bounty": 250,
       "blurb": "Never met a barricade she respected.",
       "on_floor": false
     },
@@ -155,7 +155,7 @@
       "name": "Big Tom Okafor",
       "level": 22,
       "kills": 466,
-      "bounty": 200,
+      "bounty": 250,
       "blurb": "Gentle voice and wrecking-ball shoulders.",
       "on_floor": false
     },
@@ -164,7 +164,7 @@
       "name": "Dmitri Volkov",
       "level": 21,
       "kills": 443,
-      "bounty": 175,
+      "bounty": 225,
       "blurb": "Patient hunter with an accountant's memory.",
       "on_floor": false
     },
@@ -173,7 +173,7 @@
       "name": "Sister Agnes Mbeki",
       "level": 21,
       "kills": 421,
-      "bounty": 150,
+      "bounty": 225,
       "blurb": "Merciful until mercy stops working.",
       "on_floor": false
     },
@@ -182,7 +182,7 @@
       "name": "Kenji \"Two-Tap\" Mori",
       "level": 20,
       "kills": 398,
-      "bounty": 150,
+      "bounty": 200,
       "blurb": "Every motion measured twice.",
       "on_floor": false
     }

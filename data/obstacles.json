@@ -226,7 +226,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "A sponsor crate on the clearing trail, stickered PROPERTY OF BORANT.",
-      "image": null,
+      "image": "assets/img/obstacle/the_sponsor_crate.webp",
       "options": [
         {
           "label": "Investigate",
@@ -490,7 +490,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "A dented horn under the Film Set bleachers, wired to a red light that nobody admits they installed.",
-      "image": null,
+      "image": "assets/img/obstacle/the_bleacher_horn.webp",
       "options": [
         {
           "label": "Persuade",
@@ -1642,7 +1642,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "A vat of day-old pickle brine by the Dish Pit sinks, bubbling whenever someone tells a kitchen joke.",
-      "image": null,
+      "image": "assets/img/obstacle/the_pickle_vat_rinse.webp",
       "options": [
         {
           "label": "Endure",
@@ -2475,7 +2475,7 @@
       "room": 322,
       "room_title": "Cave of Safe",
       "blurb": "A folding stand by Mordecai's fake fire with a ledger chained to it like gym equipment.",
-      "image": null,
+      "image": "assets/img/obstacle/the_picket_ledger_stand.webp",
       "options": [
         {
           "label": "Read",
