@@ -1191,13 +1191,6 @@
       "image": "assets/img/item/crown_of_teeth.webp"
     },
     {
-      "id": "item-crumb_s_recipe_book",
-      "title": "Crumb's Recipe Book",
-      "subtitle": "Floor 2",
-      "blurb": "A grease-marked notebook with encouraging corrections in red pencil.",
-      "image": "assets/img/item/crumb_s_recipe_book.webp"
-    },
-    {
       "id": "item-cub_meat",
       "title": "Cub Meat",
       "subtitle": "Floor 2",
@@ -2190,13 +2183,6 @@
       "subtitle": "Floor 2",
       "blurb": "A brass fork stamped ONE DISH.",
       "image": "assets/img/item/library_prize_token.webp"
-    },
-    {
-      "id": "item-library_wine_list",
-      "title": "Library Wine List",
-      "subtitle": "Floor 2",
-      "blurb": "A laminated pairing list on a short wrist chain.",
-      "image": "assets/img/item/library_wine_list.webp"
     },
     {
       "id": "item-limousine_door_portable",
@@ -4472,13 +4458,6 @@
       "subtitle": "Floor 2",
       "blurb": "A pair of quilted oven mitts, scorched black at the fingertips, TREACLE'S KITCHEN stitched on the cuffs.",
       "image": "assets/img/item/treacle_s_oven_mitts.webp"
-    },
-    {
-      "id": "item-treacle_s_signature_recipe",
-      "title": "Treacle's Signature Recipe",
-      "subtitle": "Floor 2",
-      "blurb": "A recipe written inside a folded sugar packet.",
-      "image": "assets/img/item/treacle_s_signature_recipe.webp"
     },
     {
       "id": "item-trip_wire",

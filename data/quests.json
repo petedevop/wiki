@@ -4,16 +4,32 @@
       "pc_name": "Edwardo",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
-      "gp": 0,
-      "prize": "Crumb's Recipe Book · 500 XP each",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "label": "Take the Silver Tasting Spoon",
           "met": false
         },
         {
-          "label": "Hand it to Crumb, unread",
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
           "met": false
         }
       ]
@@ -68,16 +84,32 @@
       "pc_name": "Lety",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
-      "gp": 0,
-      "prize": "Crumb's Recipe Book · 500 XP each",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "label": "Take the Silver Tasting Spoon",
           "met": false
         },
         {
-          "label": "Hand it to Crumb, unread",
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
           "met": false
         }
       ]
@@ -132,16 +164,32 @@
       "pc_name": "Nic",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
-      "gp": 0,
-      "prize": "Crumb's Recipe Book · 500 XP each",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "label": "Take the Silver Tasting Spoon",
           "met": false
         },
         {
-          "label": "Hand it to Crumb, unread",
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
           "met": false
         }
       ]
@@ -196,16 +244,32 @@
       "pc_name": "Rae",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
-      "gp": 0,
-      "prize": "Crumb's Recipe Book · 500 XP each",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Get Crumb's contract out of the Cellar Archive (308)",
+          "label": "Take the Silver Tasting Spoon",
           "met": false
         },
         {
-          "label": "Hand it to Crumb, unread",
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
           "met": false
         }
       ]
