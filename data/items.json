@@ -1947,6 +1947,13 @@
       "image": "assets/img/item/honey_glazed_swine.webp"
     },
     {
+      "id": "item-honeycomb_trade_tin",
+      "title": "Honeycomb Trade Tin",
+      "subtitle": "Floor 2",
+      "blurb": "A palm-sized tin of stamped comb from the canopy market.",
+      "image": null
+    },
+    {
       "id": "item-hoodie_of_slouching",
       "title": "Hoodie of Slouching",
       "subtitle": "Floor 2",
@@ -2099,6 +2106,13 @@
       "subtitle": "Floor 2",
       "blurb": "A cloak of pale squid-skin with the ink sac stitched into the lining.",
       "image": "assets/img/item/krakaren_ink_cloak.webp"
+    },
+    {
+      "id": "item-krakaren_ink_flare",
+      "title": "Krakaren Ink Flare",
+      "subtitle": "Floor 2",
+      "blurb": "A stadium pyro tube charged with krakaren ink.",
+      "image": null
     },
     {
       "id": "item-krakaren_ink_risotto",
@@ -3156,6 +3170,13 @@
       "subtitle": "Floor 2",
       "blurb": "A gingerbread-handled seven iron. Grandpa Rusk says he was a scratch golfer before the icing.",
       "image": "assets/img/item/rusk_s_golf_club.webp"
+    },
+    {
+      "id": "item-rusk_s_hearth_charm",
+      "title": "Rusk's Hearth Charm",
+      "subtitle": "Floor 2",
+      "blurb": "A sugar knuckle on a gingerbread cord.",
+      "image": null
     },
     {
       "id": "item-rusk_s_knuckle",
@@ -4535,6 +4556,13 @@
       "subtitle": "Floor 2",
       "blurb": "Blow it. For three rounds blows have trouble finding you, and nothing can grab you or slow you.",
       "image": "assets/img/item/valhalla_party_blower.webp"
+    },
+    {
+      "id": "item-vell_tempered_knife",
+      "title": "Vell-Tempered Knife",
+      "subtitle": "Floor 2",
+      "blurb": "The Master's Knife after a jealous tempering under Vell's eye.",
+      "image": null
     },
     {
       "id": "item-verified_blue_check_cape",
