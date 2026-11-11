@@ -220,6 +220,24 @@
       ]
     },
     {
+      "id": "obstacle-the_sponsor_crate",
+      "title": "The Sponsor Crate",
+      "kind": "Scenery",
+      "room": 301,
+      "room_title": "Jungle Clearing",
+      "blurb": "A sponsor crate on the clearing trail, stickered PROPERTY OF BORANT.",
+      "image": null,
+      "options": [
+        {
+          "label": "Investigate",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
       "id": "obstacle-the_talent_arrows",
       "title": "The Talent Arrows",
       "kind": "Scenery",
@@ -455,6 +473,25 @@
             "Trap Awareness"
           ]
         },
+        {
+          "label": "Persuade",
+          "stat": "CHA",
+          "skills": [
+            "Animal Handling",
+            "Negotiate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_bleacher_horn",
+      "title": "The Bleacher Horn",
+      "kind": "Scenery",
+      "room": 303,
+      "room_title": "Film Set",
+      "blurb": "A dented horn under the Film Set bleachers, wired to a red light that nobody admits they installed.",
+      "image": null,
+      "options": [
         {
           "label": "Persuade",
           "stat": "CHA",
@@ -1063,59 +1100,6 @@
       ]
     },
     {
-      "id": "obstacle-calls_service",
-      "title": "Calls Service",
-      "kind": "Trap",
-      "room": 307,
-      "room_title": "Kitchen Stadium",
-      "blurb": "A silver glass bell beside the judge's chair.",
-      "image": "assets/img/obstacle/calls_service.webp",
-      "options": [
-        {
-          "label": "Cross",
-          "stat": "DEX",
-          "skills": [
-            "Acrobatics"
-          ]
-        },
-        {
-          "label": "Repair",
-          "stat": "INT",
-          "skills": [
-            "Crafting",
-            "Goblin Engineering"
-          ]
-        },
-        {
-          "label": "Smash",
-          "stat": "STR",
-          "skills": [
-            "Iron Punch",
-            "Smithing"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "obstacle-loading_dock_forklift",
-      "title": "Loading Dock Forklift",
-      "kind": "Scenery",
-      "room": 307,
-      "room_title": "Kitchen Stadium",
-      "blurb": "A yellow stadium forklift with a sponsor wrap, a flashing amber beacon and a seat sticker reading OPERATOR MUST BE CERTIFIED (NOBODY IS).",
-      "image": "assets/img/obstacle/loading_dock_forklift.webp",
-      "options": [
-        {
-          "label": "Smash",
-          "stat": "STR",
-          "skills": [
-            "Iron Punch",
-            "Smithing"
-          ]
-        }
-      ]
-    },
-    {
       "id": "obstacle-the_cloche",
       "title": "The Cloche",
       "kind": "Trap",
@@ -1178,25 +1162,6 @@
       ]
     },
     {
-      "id": "obstacle-the_mystery_basket",
-      "title": "The Mystery Basket",
-      "kind": "Scenery",
-      "room": 307,
-      "room_title": "Kitchen Stadium",
-      "blurb": "At a service gong, two wicker baskets float down from the stadium roof on striped parachutes, one to each kitchen, lids strapped shut.",
-      "image": "assets/img/obstacle/the_mystery_basket.webp",
-      "options": [
-        {
-          "label": "Persuade",
-          "stat": "CHA",
-          "skills": [
-            "Animal Handling",
-            "Negotiate"
-          ]
-        }
-      ]
-    },
-    {
       "id": "obstacle-the_pantry_wall",
       "title": "The Pantry Wall",
       "kind": "Scenery",
@@ -1228,42 +1193,6 @@
           "stat": "INT",
           "skills": [
             "Trap Awareness"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "obstacle-the_restock_ledger",
-      "title": "The Restock Ledger",
-      "kind": "Scenery",
-      "room": 307,
-      "room_title": "Kitchen Stadium",
-      "blurb": "An usher changes the date with a wooden slider.",
-      "image": "assets/img/obstacle/the_restock_ledger.webp",
-      "options": [
-        {
-          "label": "Read",
-          "stat": "INT",
-          "skills": [
-            "Trap Awareness"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "obstacle-the_rival_kitchen",
-      "title": "The Rival Kitchen",
-      "kind": "Scenery",
-      "room": 307,
-      "room_title": "Kitchen Stadium",
-      "blurb": "The other kitchen, ten paces across the dais: the same steel, the same knives, and tonight's opponent's name in lights over it.",
-      "image": "assets/img/obstacle/the_rival_kitchen.webp",
-      "options": [
-        {
-          "label": "Pick",
-          "stat": "DEX",
-          "skills": [
-            "Lockpicking"
           ]
         }
       ]
@@ -1702,6 +1631,24 @@
           "stat": "INT",
           "skills": [
             "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obstacle-the_pickle_vat_rinse",
+      "title": "The Pickle Vat Rinse",
+      "kind": "Scenery",
+      "room": 311,
+      "room_title": "Dish Pit",
+      "blurb": "A vat of day-old pickle brine by the Dish Pit sinks, bubbling whenever someone tells a kitchen joke.",
+      "image": null,
+      "options": [
+        {
+          "label": "Endure",
+          "stat": "CON",
+          "skills": [
+            "Drug Enjoyer"
           ]
         }
       ]
@@ -2522,6 +2469,24 @@
       ]
     },
     {
+      "id": "obstacle-the_picket_ledger_stand",
+      "title": "The Picket Ledger Stand",
+      "kind": "Scenery",
+      "room": 322,
+      "room_title": "Cave of Safe",
+      "blurb": "A folding stand by Mordecai's fake fire with a ledger chained to it like gym equipment.",
+      "image": null,
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
       "id": "obstacle-the_cobble_prints",
       "title": "The Cobble Prints",
       "kind": "Terrain",
@@ -2826,6 +2791,26 @@
       ]
     },
     {
+      "id": "obstacle-calls_service",
+      "title": "Calls Service",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "Dish Pit",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-loading_dock_forklift",
+      "title": "Loading Dock Forklift",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "Dish Pit",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-the_giant_snail",
       "title": "The Giant Snail",
       "kind": "Terrain",
@@ -2842,6 +2827,36 @@
           ]
         }
       ]
+    },
+    {
+      "id": "obstacle-the_mystery_basket",
+      "title": "The Mystery Basket",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "Kitchen Stadium",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-the_restock_ledger",
+      "title": "The Restock Ledger",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "Dish Pit",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-the_rival_kitchen",
+      "title": "The Rival Kitchen",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "Bleacher Tunnel",
+      "image": null,
+      "options": []
     }
   ]
 }

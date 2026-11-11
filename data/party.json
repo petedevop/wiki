@@ -43,14 +43,14 @@
       ],
       "statuses": [],
       "tank": false,
-      "ai_favour": false,
+      "ai_favour": true,
       "favour_score": 0,
       "load": "Lety",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n</ul>\n</div>",
       "ancestry": "Human",
       "class_name": "Tsukumogami Smith",
       "level": 1,
-      "xp": 500,
+      "xp": 4350,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -71,7 +71,7 @@
       "hp": 1,
       "hp_max": 1,
       "temp_hp": 0,
-      "ac": 13,
+      "ac": 12,
       "abilities": [
         {
           "id": "STR",
@@ -104,11 +104,11 @@
       "ai_favour": true,
       "favour_score": 0,
       "load": "Edwardo",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Brass knuckles</li>\n<li class=\"party-gear-row\">👕 Butcher&#x27;s Apron</li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
       "ancestry": "Human",
       "class_name": "The Programmer",
       "level": 1,
-      "xp": 500,
+      "xp": 4350,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -128,8 +128,8 @@
       ],
       "hp": 1,
       "hp_max": 1,
-      "temp_hp": 0,
-      "ac": 10,
+      "temp_hp": 8,
+      "ac": 12,
       "abilities": [
         {
           "id": "STR",
@@ -158,21 +158,87 @@
         }
       ],
       "statuses": [],
-      "tank": false,
+      "tank": true,
       "ai_favour": false,
       "favour_score": 0,
       "load": "Nic",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Dagger</li>\n<li class=\"party-gear-row\">👕 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🧤 <span class=\"rarity-rare\">Tunnel Slime Aspic</span></li>\n<li class=\"party-gear-row\">👖 <span class=\"rarity-rare\">Double Cream Sorbet</span></li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-rare\">Brindle Grub Reduction</span></li>\n<li class=\"party-gear-row\"><span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 A Staples &quot;That Was Easy&quot; button</li>\n<li class=\"party-gear-row\">🎒 A Starbucks Frappuccino</li>\n<li class=\"party-gear-row\">🎒 Brown Shelf Mushrooms</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Lipstick-stained cigarettes</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Plodder Rump</li>\n<li class=\"party-gear-row\">🎒 Raptor Steak</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n</ul>\n</div>",
       "ancestry": "Human",
       "class_name": "Overcompensating Mech",
       "level": 1,
-      "xp": 500,
+      "xp": 4350,
       "alignment": "",
       "title": "",
       "appearance": "",
-      "skills": [],
+      "skills": [
+        {
+          "name": "Dagger",
+          "rank": 1,
+          "bonus": 1,
+          "stat": "DEX",
+          "image": "assets/img/power/skill/dagger.webp"
+        }
+      ],
       "portrait": "assets/img/party/crawler_b.webp",
       "class_blurb": "A suit you built at home. It grants +2 AC until something important falls off."
+    },
+    {
+      "id": "pete_rae",
+      "name": "Rae",
+      "class_level": "Tuatha Dé Danann Exotic Dancer 3",
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 13,
+      "hp_max": 13,
+      "temp_hp": 0,
+      "ac": 9,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 4,
+          "modifier": -3
+        },
+        {
+          "id": "DEX",
+          "score": 7,
+          "modifier": -2
+        },
+        {
+          "id": "CON",
+          "score": 10,
+          "modifier": 0
+        },
+        {
+          "id": "INT",
+          "score": 20,
+          "modifier": 5
+        },
+        {
+          "id": "CHA",
+          "score": 21,
+          "modifier": 5
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": true,
+      "favour_score": 0,
+      "load": "Rae",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
+      "ancestry": "Tuatha Dé Danann",
+      "class_name": "Exotic Dancer",
+      "level": 3,
+      "xp": 2450,
+      "alignment": "Lawful",
+      "title": "",
+      "appearance": "scrubs, the mask under the chin, steel picks in a pocket",
+      "skills": [],
+      "portrait": "assets/img/party/pete_rae.webp",
+      "class_blurb": "One foe forgets its turn. The camera does not."
     }
   ],
   "skipped": false

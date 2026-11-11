@@ -24,7 +24,7 @@
         "int": 13,
         "cha": 12,
         "ac": 16,
-        "hp": 26,
+        "hp": 21,
         "hd": 6,
         "attacks": "machete +6, 1d8",
         "specials": "Point; Worse"
@@ -50,7 +50,7 @@
         "int": 12,
         "cha": 11,
         "ac": 18,
-        "hp": 28,
+        "hp": 22,
         "hd": 6,
         "attacks": "spear +6, 1d8",
         "specials": "Shield step; Plant"
@@ -76,7 +76,7 @@
         "int": 18,
         "cha": 8,
         "ac": 15,
-        "hp": 20,
+        "hp": 16,
         "hd": 5,
         "attacks": "headbutt +5, 1d8",
         "specials": "The answer; The scream"
@@ -102,7 +102,7 @@
         "int": 13,
         "cha": 12,
         "ac": 16,
-        "hp": 24,
+        "hp": 19,
         "hd": 5,
         "attacks": "sword +6, 1d8",
         "specials": "Read it back; Already written"
@@ -128,7 +128,7 @@
         "int": 12,
         "cha": 10,
         "ac": 17,
-        "hp": 18,
+        "hp": 14,
         "hd": 5,
         "attacks": "knife +7, 1d8",
         "specials": "On three; Messy"
@@ -154,7 +154,7 @@
         "int": 16,
         "cha": 14,
         "ac": 15,
-        "hp": 18,
+        "hp": 14,
         "hd": 4,
         "attacks": "quills (×2) +6, 1d6",
         "specials": "Pop quiz; Hold still"
@@ -180,7 +180,7 @@
         "int": 12,
         "cha": 17,
         "ac": 15,
-        "hp": 18,
+        "hp": 14,
         "hd": 4,
         "attacks": "heel +5, 1d8",
         "specials": "Look at me; Off-script"
@@ -206,7 +206,7 @@
         "int": 14,
         "cha": 16,
         "ac": 15,
-        "hp": 18,
+        "hp": 14,
         "hd": 4,
         "attacks": "knife +6, 1d8",
         "specials": "Offer; Blood price"
@@ -232,7 +232,7 @@
         "int": 12,
         "cha": 11,
         "ac": 16,
-        "hp": 18,
+        "hp": 14,
         "hd": 4,
         "attacks": "knives (×2) +7, 1d6",
         "specials": "Already past; The gap"
@@ -258,7 +258,7 @@
         "int": 12,
         "cha": 11,
         "ac": 15,
-        "hp": 22,
+        "hp": 18,
         "hd": 5,
         "attacks": "palm +6, 1d8",
         "specials": "The late hit; You first"
@@ -284,7 +284,7 @@
         "int": 12,
         "cha": 17,
         "ac": 14,
-        "hp": 12,
+        "hp": 10,
         "hd": 3,
         "attacks": "stage rapier +5, 1d6",
         "specials": "Dazzle"
@@ -310,7 +310,7 @@
         "int": 12,
         "cha": 10,
         "ac": 14,
-        "hp": 14,
+        "hp": 11,
         "hd": 4,
         "attacks": "hand axe +5, 1d8"
       },
@@ -335,7 +335,7 @@
         "int": 12,
         "cha": 13,
         "ac": 14,
-        "hp": 12,
+        "hp": 10,
         "hd": 4,
         "attacks": "revolver +6, 1d8"
       },
@@ -360,7 +360,7 @@
         "int": 15,
         "cha": 17,
         "ac": 12,
-        "hp": 10,
+        "hp": 8,
         "hd": 3,
         "attacks": "kitchen knife +3, 1d4",
         "specials": "Talk Circles"
@@ -386,7 +386,7 @@
         "int": 12,
         "cha": 11,
         "ac": 14,
-        "hp": 13,
+        "hp": 10,
         "hd": 3,
         "attacks": "short sword +4, 1d6"
       },
@@ -411,7 +411,7 @@
         "int": 10,
         "cha": 12,
         "ac": 12,
-        "hp": 15,
+        "hp": 12,
         "hd": 3,
         "attacks": "chainsaw +4, 1d10",
         "specials": "Rip Through"
@@ -437,7 +437,7 @@
         "int": 10,
         "cha": 12,
         "ac": 12,
-        "hp": 20,
+        "hp": 16,
         "hd": 4,
         "attacks": "sledgehammer +4, 1d10",
         "specials": "Wrecking Shoulder"
@@ -463,7 +463,7 @@
         "int": 14,
         "cha": 10,
         "ac": 14,
-        "hp": 11,
+        "hp": 9,
         "hd": 3,
         "attacks": "hunting rifle +5, 1d10"
       },
@@ -488,7 +488,7 @@
         "int": 13,
         "cha": 16,
         "ac": 13,
-        "hp": 12,
+        "hp": 10,
         "hd": 3,
         "attacks": "iron-bound staff +3, 1d8",
         "specials": "Last Mercy"
@@ -514,7 +514,7 @@
         "int": 13,
         "cha": 9,
         "ac": 15,
-        "hp": 11,
+        "hp": 9,
         "hd": 3,
         "attacks": "compact pistol (×2) +7, 1d6"
       },

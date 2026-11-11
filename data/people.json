@@ -463,15 +463,6 @@
       "faction_image": "assets/img/faction/crawlers.webp"
     },
     {
-      "id": "npc-pip",
-      "title": "Pip",
-      "subtitle": "Floor 2",
-      "blurb": "Runner. Terrified. A skinny teenager in a RUNNER lanyard and oversized headphones, holding a boom pole far too long for him, flinching away from black water in a lamp-lit cave.",
-      "image": "assets/img/npc/pip.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
-    },
-    {
       "id": "npc-plodder",
       "title": "Plodder",
       "subtitle": "Floor 2",

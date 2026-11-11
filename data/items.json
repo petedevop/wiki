@@ -617,6 +617,13 @@
       "image": null
     },
     {
+      "id": "item-beast_tooth",
+      "title": "Beast Tooth",
+      "subtitle": "Floor 2",
+      "blurb": "A small cracked tooth, good for a charm or a petty trade.",
+      "image": null
+    },
+    {
       "id": "item-bedspring_mail",
       "title": "Bedspring Mail",
       "subtitle": "",
@@ -1086,6 +1093,13 @@
       "image": "assets/img/item/countdown_watch.webp"
     },
     {
+      "id": "item-crawler_cola",
+      "title": "Crawler Cola",
+      "subtitle": "Floor 2",
+      "blurb": "A dented tin cylinder, CRAWLER COLA in red block capitals.",
+      "image": null
+    },
+    {
       "id": "item-crawler_cooler",
       "title": "Crawler Cooler",
       "subtitle": "Floor 2",
@@ -1119,6 +1133,13 @@
       "subtitle": "Floor 2",
       "blurb": "A fat green ledger stamped BORANT HOSPITALITY, CREW.",
       "image": "assets/img/item/crew_contract_ledger.webp"
+    },
+    {
+      "id": "item-crew_gaffer_tape",
+      "title": "Crew Gaffer Tape",
+      "subtitle": "Floor 2",
+      "blurb": "A half roll of black gaffer tape with RUNNER written inside in marker.",
+      "image": null
     },
     {
       "id": "item-crew_sandwich",
@@ -1175,6 +1196,13 @@
       "subtitle": "Floor 2",
       "blurb": "A grease-marked notebook with encouraging corrections in red pencil.",
       "image": "assets/img/item/crumb_s_recipe_book.webp"
+    },
+    {
+      "id": "item-cub_meat",
+      "title": "Cub Meat",
+      "subtitle": "Floor 2",
+      "blurb": "Wobbly gummy muscle. Tastes like regret and cherry dye unless you sear it properly.",
+      "image": null
     },
     {
       "id": "item-cured_alpha_haunch",
@@ -1692,6 +1720,13 @@
       "title": "Golf Club",
       "subtitle": "",
       "blurb": "Fore! Nobody yells it after the swing.",
+      "image": null
+    },
+    {
+      "id": "item-goose_meat",
+      "title": "Goose Meat",
+      "subtitle": "Floor 2",
+      "blurb": "Honkless now. Greasy dark meat from a warm-up fight; a quick roast steadies the nerves.",
       "image": null
     },
     {
@@ -2570,13 +2605,6 @@
       "image": null
     },
     {
-      "id": "item-pip_s_gaffer_tape",
-      "title": "Pip's Gaffer Tape",
-      "subtitle": "Floor 2",
-      "blurb": "A half roll of black gaffer tape with RUNNER written inside in marker.",
-      "image": "assets/img/item/pip_s_gaffer_tape.webp"
-    },
-    {
       "id": "item-pipe_bomb",
       "title": "Pipe Bomb",
       "subtitle": "",
@@ -2918,6 +2946,13 @@
       "subtitle": "Floor 2",
       "blurb": "Gallery 5. Raw raptor on four small plates.",
       "image": "assets/img/item/raptor_tartare.webp"
+    },
+    {
+      "id": "item-rat_meat",
+      "title": "Rat Meat",
+      "subtitle": "Floor 2",
+      "blurb": "Catering-table rat, cleaned up just enough.",
+      "image": null
     },
     {
       "id": "item-rebar",
@@ -3452,6 +3487,13 @@
       "image": "assets/img/item/slippers_of_shhhh.webp"
     },
     {
+      "id": "item-slug_meat",
+      "title": "Slug Meat",
+      "subtitle": "Floor 2",
+      "blurb": "Pale green flesh that still trails a little slime.",
+      "image": null
+    },
+    {
       "id": "item-small_cave_truffle",
       "title": "Small Cave Truffle",
       "subtitle": "Floor 2",
@@ -3904,6 +3946,13 @@
       "title": "Table Leg",
       "subtitle": "",
       "blurb": "A bar-brawl classic.",
+      "image": null
+    },
+    {
+      "id": "item-tallow_scrap",
+      "title": "Tallow Scrap",
+      "subtitle": "Floor 2",
+      "blurb": "A greasy shred of rendered fat — lamp fuel or stew thickener if you are not picky.",
       "image": null
     },
     {
