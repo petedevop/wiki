@@ -952,8 +952,10 @@
       "hint": "The mobs are embarrassed. The viewers are not.",
       "loot": "Silver Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Nic"
+      ],
+      "touched": true,
       "progress_by_pc": {
         "Lety": [
           0,
@@ -964,7 +966,7 @@
           5
         ],
         "Nic": [
-          0,
+          5,
           5
         ],
         "Rae": [
@@ -4238,7 +4240,7 @@
           5
         ],
         "Nic": [
-          0,
+          1,
           5
         ],
         "Rae": [

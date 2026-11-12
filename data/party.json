@@ -7,7 +7,7 @@
       "class_name": "Tsukumogami Smith",
       "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/nEwX3GlPN6wWiIPKXVDUfw?v=1790720918407475591",
+      "portrait_url": "/media/ls-dE0s4NLTnSEDXWWqcCA?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -75,7 +75,7 @@
       "class_name": "The Programmer",
       "level": 1,
       "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/If4nGKUqjWZLbXMwZK9Thg?v=1790800019726852655",
+      "portrait_url": "/media/XJ8WkEHu14ptmtHOQyccmw?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -144,7 +144,7 @@
       "class_name": "Overcompensating Mech",
       "level": 1,
       "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/7gPsgcp3OPJD6i_5RRnaDw?v=1790721129428895712",
+      "portrait_url": "/media/NMxj41p7RiZ2ao8sOjxJLw?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -188,16 +188,19 @@
         },
         {
           "id": "CHA",
-          "score": 12,
-          "modifier": 1
+          "score": 1,
+          "modifier": -5
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Frightened",
+        "Haggard −11"
+      ],
       "tank": true,
       "ai_favour": false,
       "favour_score": 0,
       "load": "Nic",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Dagger</li>\n<li class=\"party-gear-row\">👕 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🧤 <span class=\"rarity-rare\">Tunnel Slime Aspic</span></li>\n<li class=\"party-gear-row\">👖 <span class=\"rarity-rare\">Double Cream Sorbet</span></li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-rare\">Brindle Grub Reduction</span></li>\n<li class=\"party-gear-row\"><span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 A Staples &quot;That Was Easy&quot; button</li>\n<li class=\"party-gear-row\">🎒 A Starbucks Frappuccino</li>\n<li class=\"party-gear-row\">🎒 Brown Shelf Mushrooms</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Lipstick-stained cigarettes</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Plodder Rump</li>\n<li class=\"party-gear-row\">🎒 Raptor Steak</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Dagger</li>\n<li class=\"party-gear-row\">👕 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🧤 <span class=\"rarity-rare\">Tunnel Slime Aspic</span></li>\n<li class=\"party-gear-row\">👖 <span class=\"rarity-rare\">Double Cream Sorbet</span></li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-rare\">Brindle Grub Reduction</span></li>\n<li class=\"party-gear-row\"><span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 A Staples &quot;That Was Easy&quot; button</li>\n<li class=\"party-gear-row\">🎒 A Starbucks Frappuccino</li>\n<li class=\"party-gear-row\">🎒 Brown Shelf Mushrooms</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Lipstick-stained cigarettes</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Plodder Rump</li>\n<li class=\"party-gear-row\">🎒 Raptor Steak</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n</ul>\n</div>",
       "xp": 4650,
       "alignment": "",
       "title": "",
@@ -221,7 +224,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/qryQIdAFpanylulDFT0Tmw",
+      "portrait_url": "/media/W1wbV9JGLJ_30ePZzLUybQ",
       "about": [],
       "powers": [
         {

@@ -1,3 +1,436 @@
 {
-  "rows": []
+  "rows": [
+    {
+      "pc_name": "Edwardo",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Ellis",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Ellis",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Jules",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Jules",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nico",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nico",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Odile",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Odile",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Yuki",
+      "name": "Crumb's Resignation Dinner",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 85,
+      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Silver Tasting Spoon",
+          "met": false
+        },
+        {
+          "label": "Slip into the Cookbook Stacks (308)",
+          "met": false
+        },
+        {
+          "label": "Crack the Cellar Archive",
+          "met": false
+        },
+        {
+          "label": "Lift Barnaby Crumb's Contract",
+          "met": false
+        },
+        {
+          "label": "Get back to the Green Room (300)",
+          "met": false
+        },
+        {
+          "label": "Put the contract in Crumb's hands",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Yuki",
+      "name": "Homework!",
+      "giver": "Chef Barnaby Crumb",
+      "gp": 5,
+      "prize": "5 gp · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    }
+  ]
 }

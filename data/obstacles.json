@@ -1467,6 +1467,13 @@
       "image": "assets/img/obstacle/the_truffle_beds.webp",
       "options": [
         {
+          "label": "Search",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        },
+        {
           "label": "Pick",
           "stat": "DEX",
           "skills": [

@@ -709,7 +709,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -1734,7 +1736,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -2068,8 +2072,6 @@
       "pc_id": "crawler_b",
       "pc_name": "Nic",
       "story": [
-        "Nic managed to charm at Doughty the Baker",
-        "Nic managed to charm at Grandpa Rusk",
         "Nic managed to intimidate at The Truffle Sow",
         "Nic managed to shoo at The Truffle Sow",
         "Nic gave Clay Ember Pot to Nic",
@@ -2079,7 +2081,9 @@
         "Nic managed to interact at Chef Barnaby Crumb",
         "Nic managed to pickpocket at Room 300",
         "Nic managed to investigate at The Cloche",
-        "Nic managed to charm at Mordecai"
+        "Nic managed to charm at Mordecai",
+        "Nic went down",
+        "Nic earned Dodge This!."
       ],
       "achievements": [
         {
@@ -2760,7 +2764,7 @@
           "hint": "Everyone in the building has had a go.",
           "group": "evening",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": []
@@ -2770,10 +2774,12 @@
           "hint": "The mobs are embarrassed. The viewers are not.",
           "group": "evening",
           "progress": [
-            0,
+            5,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -3805,7 +3811,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -4845,7 +4853,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -5857,7 +5867,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -6869,7 +6881,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -7881,7 +7895,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
@@ -8893,7 +8909,9 @@
             0,
             5
           ],
-          "earned_by": []
+          "earned_by": [
+            "Nic"
+          ]
         },
         {
           "name": "Padded Cell!",
