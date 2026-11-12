@@ -7,7 +7,7 @@
       "class_name": "Tsukumogami Smith",
       "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/t2Mh8-MEl1axmLmVowv49w?v=1790720918407475591",
+      "portrait_url": "/media/yWsayd_tE0wNjZvhBzVi3Q?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -59,8 +59,8 @@
       "ai_favour": true,
       "favour_score": 0,
       "load": "Lety",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n</ul>\n</div>",
-      "xp": 4350,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Wild Saffron</span></li>\n</ul>\n</div>",
+      "xp": 4650,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -75,7 +75,7 @@
       "class_name": "The Programmer",
       "level": 1,
       "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/XvcWtP2YHRq4x4L7U2zE6g?v=1790800019726852655",
+      "portrait_url": "/media/GLdi-Fo_V7tFLeL87Onirg?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -129,7 +129,7 @@
       "favour_score": 0,
       "load": "Edwardo",
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Brass knuckles</li>\n<li class=\"party-gear-row\">👕 Butcher&#x27;s Apron</li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
-      "xp": 4350,
+      "xp": 4650,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -144,7 +144,7 @@
       "class_name": "Overcompensating Mech",
       "level": 1,
       "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/L1deR1OdrhnjGeWue_KWQw?v=1790721129428895712",
+      "portrait_url": "/media/nF0BYd-7dv2eJz7wI6VyMw?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -197,8 +197,8 @@
       "ai_favour": false,
       "favour_score": 0,
       "load": "Nic",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Dagger</li>\n<li class=\"party-gear-row\">👕 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🧤 <span class=\"rarity-rare\">Tunnel Slime Aspic</span></li>\n<li class=\"party-gear-row\">👖 <span class=\"rarity-rare\">Double Cream Sorbet</span></li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-rare\">Brindle Grub Reduction</span></li>\n<li class=\"party-gear-row\"><span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 A Staples &quot;That Was Easy&quot; button</li>\n<li class=\"party-gear-row\">🎒 A Starbucks Frappuccino</li>\n<li class=\"party-gear-row\">🎒 Brown Shelf Mushrooms</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Lipstick-stained cigarettes</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Plodder Rump</li>\n<li class=\"party-gear-row\">🎒 Raptor Steak</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n</ul>\n</div>",
-      "xp": 4350,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Dagger</li>\n<li class=\"party-gear-row\">👕 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🧤 <span class=\"rarity-rare\">Tunnel Slime Aspic</span></li>\n<li class=\"party-gear-row\">👖 <span class=\"rarity-rare\">Double Cream Sorbet</span></li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-rare\">Brindle Grub Reduction</span></li>\n<li class=\"party-gear-row\"><span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 A Staples &quot;That Was Easy&quot; button</li>\n<li class=\"party-gear-row\">🎒 A Starbucks Frappuccino</li>\n<li class=\"party-gear-row\">🎒 Brown Shelf Mushrooms</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Lipstick-stained cigarettes</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Plodder Rump</li>\n<li class=\"party-gear-row\">🎒 Raptor Steak</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n</ul>\n</div>",
+      "xp": 4650,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -221,7 +221,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/dCbWlfNbG3HtPtZfHQVrww",
+      "portrait_url": "/media/x0xGVQltKupkVMIvT0pyTA",
       "about": [],
       "powers": [
         {
@@ -236,8 +236,8 @@
       "abilities": [
         {
           "id": "STR",
-          "score": 3,
-          "modifier": -4
+          "score": 4,
+          "modifier": -3
         },
         {
           "id": "DEX",
@@ -260,21 +260,309 @@
           "modifier": 6
         }
       ],
-      "statuses": [
-        "Feeble −1"
-      ],
+      "statuses": [],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Rae",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
-      "xp": 0,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
+      "xp": 300,
       "alignment": "Lawful",
       "title": "",
       "appearance": "scrubs, the mask under the chin, steel picks in a pocket",
       "skills": [],
       "portrait": "assets/img/party/pete_rae.webp",
       "class_blurb": "One foe forgets its turn. The camera does not."
+    },
+    {
+      "id": "rae_jules",
+      "name": "Jules",
+      "ancestry": "",
+      "class_name": "",
+      "level": 1,
+      "class_level": "lvl 1",
+      "portrait_url": "",
+      "about": [],
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 1,
+      "hp_max": 1,
+      "temp_hp": 0,
+      "ac": 7,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 7,
+          "modifier": -2
+        },
+        {
+          "id": "DEX",
+          "score": 4,
+          "modifier": -3
+        },
+        {
+          "id": "CON",
+          "score": 11,
+          "modifier": 0
+        },
+        {
+          "id": "INT",
+          "score": 12,
+          "modifier": 1
+        },
+        {
+          "id": "CHA",
+          "score": 16,
+          "modifier": 3
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Jules",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n</ul>\n</div>",
+      "xp": 0,
+      "alignment": "Neutral",
+      "title": "",
+      "appearance": "camera strap, torn jacket, rice in the pocket",
+      "skills": []
+    },
+    {
+      "id": "bambi_odile",
+      "name": "Odile",
+      "ancestry": "",
+      "class_name": "",
+      "level": 1,
+      "class_level": "lvl 1",
+      "portrait_url": "",
+      "about": [],
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 1,
+      "hp_max": 1,
+      "temp_hp": 0,
+      "ac": 8,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 10,
+          "modifier": 0
+        },
+        {
+          "id": "DEX",
+          "score": 6,
+          "modifier": -2
+        },
+        {
+          "id": "CON",
+          "score": 7,
+          "modifier": -2
+        },
+        {
+          "id": "INT",
+          "score": 10,
+          "modifier": 0
+        },
+        {
+          "id": "CHA",
+          "score": 10,
+          "modifier": 0
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Odile",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n</ul>\n</div>",
+      "xp": 0,
+      "alignment": "Neutral",
+      "title": "",
+      "appearance": "a wrap sweater, soft shoes, hair still in a knot",
+      "skills": []
+    },
+    {
+      "id": "lety_ellis",
+      "name": "Ellis",
+      "ancestry": "",
+      "class_name": "",
+      "level": 1,
+      "class_level": "lvl 1",
+      "portrait_url": "",
+      "about": [],
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 1,
+      "hp_max": 1,
+      "temp_hp": 0,
+      "ac": 7,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 16,
+          "modifier": 3
+        },
+        {
+          "id": "DEX",
+          "score": 5,
+          "modifier": -3
+        },
+        {
+          "id": "CON",
+          "score": 11,
+          "modifier": 0
+        },
+        {
+          "id": "INT",
+          "score": 9,
+          "modifier": -1
+        },
+        {
+          "id": "CHA",
+          "score": 9,
+          "modifier": -1
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Ellis",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n</ul>\n</div>",
+      "xp": 0,
+      "alignment": "Lawful",
+      "title": "",
+      "appearance": "black suit, a carnation, dress shoes grey with dust",
+      "skills": []
+    },
+    {
+      "id": "nic_yuki",
+      "name": "Yuki",
+      "ancestry": "",
+      "class_name": "",
+      "level": 1,
+      "class_level": "lvl 1",
+      "portrait_url": "",
+      "about": [],
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 2,
+      "hp_max": 2,
+      "temp_hp": 0,
+      "ac": 11,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 9,
+          "modifier": -1
+        },
+        {
+          "id": "DEX",
+          "score": 13,
+          "modifier": 1
+        },
+        {
+          "id": "CON",
+          "score": 12,
+          "modifier": 1
+        },
+        {
+          "id": "INT",
+          "score": 6,
+          "modifier": -2
+        },
+        {
+          "id": "CHA",
+          "score": 11,
+          "modifier": 0
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Yuki",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n</ul>\n</div>",
+      "xp": 0,
+      "alignment": "Chaotic",
+      "title": "",
+      "appearance": "gym clothes, one sneaker, a towel worn like a cape",
+      "skills": []
+    },
+    {
+      "id": "edwardo_nico",
+      "name": "Nico",
+      "ancestry": "",
+      "class_name": "",
+      "level": 1,
+      "class_level": "lvl 1",
+      "portrait_url": "",
+      "about": [],
+      "powers": [
+        {
+          "name": "Minor Heal",
+          "kind": "spell"
+        }
+      ],
+      "hp": 4,
+      "hp_max": 4,
+      "temp_hp": 0,
+      "ac": 10,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 13,
+          "modifier": 1
+        },
+        {
+          "id": "DEX",
+          "score": 11,
+          "modifier": 0
+        },
+        {
+          "id": "CON",
+          "score": 17,
+          "modifier": 3
+        },
+        {
+          "id": "INT",
+          "score": 13,
+          "modifier": 1
+        },
+        {
+          "id": "CHA",
+          "score": 6,
+          "modifier": -2
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Nico",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n</ul>\n</div>",
+      "xp": 0,
+      "alignment": "Chaotic",
+      "title": "",
+      "appearance": "a vest, rolled sleeves, a shaker with nothing in it",
+      "skills": []
     }
   ],
   "skipped": false

@@ -2791,26 +2791,6 @@
       ]
     },
     {
-      "id": "obstacle-calls_service",
-      "title": "Calls Service",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Dish Pit",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-loading_dock_forklift",
-      "title": "Loading Dock Forklift",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Dish Pit",
-      "image": null,
-      "options": []
-    },
-    {
       "id": "obstacle-the_giant_snail",
       "title": "The Giant Snail",
       "kind": "Terrain",
@@ -2827,36 +2807,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "obstacle-the_mystery_basket",
-      "title": "The Mystery Basket",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Kitchen Stadium",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-the_restock_ledger",
-      "title": "The Restock Ledger",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Dish Pit",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-the_rival_kitchen",
-      "title": "The Rival Kitchen",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Bleacher Tunnel",
-      "image": null,
-      "options": []
     }
   ]
 }
