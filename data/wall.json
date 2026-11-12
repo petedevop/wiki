@@ -1969,6 +1969,13 @@
           ]
         },
         {
+          "name": "Goliath Down!",
+          "hint": "Now kill something in a fight with the slingshot. Ask David how.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Boomstick!",
           "hint": "Now kill three things with the shotgun, two in one fight, or a boss.",
           "group": "combat",
@@ -2026,6 +2033,13 @@
             0,
             2
           ],
+          "earned_by": []
+        },
+        {
+          "name": "Leather Daddy!",
+          "hint": "Now wear the light armour into a fight and take a hit in it.",
+          "group": "stunts",
+          "progress": "",
           "earned_by": []
         },
         {
@@ -2992,6 +3006,13 @@
               "bonus": false
             }
           ]
+        },
+        {
+          "name": "Goliath Down!",
+          "hint": "Now kill something in a fight with the slingshot. Ask David how.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
         },
         {
           "name": "Boomstick!",
@@ -4019,6 +4040,20 @@
           ]
         },
         {
+          "name": "Pointy End First!",
+          "hint": "Now kill something in a fight with the blade. Up close and personal.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Knife Skills!",
+          "hint": "Now kill something in a fight with the knife. Mise en place.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Boomstick!",
           "hint": "Now kill three things with the shotgun, two in one fight, or a boss.",
           "group": "combat",
@@ -4076,6 +4111,20 @@
             0,
             2
           ],
+          "earned_by": []
+        },
+        {
+          "name": "Leather Daddy!",
+          "hint": "Now wear the light armour into a fight and take a hit in it.",
+          "group": "stunts",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Shield Wall!",
+          "hint": "Now carry the shield into a fight and take a hit behind it.",
+          "group": "stunts",
+          "progress": "",
           "earned_by": []
         },
         {
