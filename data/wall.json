@@ -710,7 +710,7 @@
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -902,6 +902,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",
@@ -1737,7 +1746,7 @@
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -1929,6 +1938,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",
@@ -2764,7 +2782,7 @@
           "hint": "Everyone in the building has had a go.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": []
@@ -2774,11 +2792,11 @@
           "hint": "The mobs are embarrassed. The viewers are not.",
           "group": "evening",
           "progress": [
-            5,
+            0,
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -2972,6 +2990,15 @@
           "earned_by": []
         },
         {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
+        },
+        {
           "name": "Improv Night!",
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
@@ -3106,8 +3133,6 @@
       "pc_id": "pete_rae",
       "pc_name": "Rae",
       "story": [
-        "Rae changed The Way Down",
-        "Rae managed to repair at The Way Down",
         "Rae gave Call Sheet to Prop Goose",
         "The party met Chef Barnaby Crumb",
         "Rae earned Sharing Is Caring!.",
@@ -3117,7 +3142,9 @@
         "Hive Guards turned Hostile",
         "Rae earned Improv Night!.",
         "Raptor turned Hostile",
-        "The party met Tess"
+        "The party met Tess",
+        "Rae earned Dodge This!.",
+        "Rae gave Green Room Mop to Rae"
       ],
       "achievements": [
         {
@@ -3798,7 +3825,7 @@
           "hint": "Everyone in the building has had a go.",
           "group": "evening",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": []
@@ -3808,11 +3835,11 @@
           "hint": "The mobs are embarrassed. The viewers are not.",
           "group": "evening",
           "progress": [
-            0,
+            5,
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -3960,7 +3987,7 @@
           "hint": "Behind the curtain. Their hands. Four seconds, and you come out as ordered.",
           "group": "evening",
           "progress": [
-            0,
+            1,
             10
           ],
           "earned_by": []
@@ -4004,6 +4031,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",
@@ -4057,6 +4093,13 @@
         {
           "name": "Knife Skills!",
           "hint": "Now kill something in a fight with the knife. Mise en place.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Clean Up on Aisle Three!",
+          "hint": "Now kill something in a fight with the mop. Then mop.",
           "group": "combat",
           "progress": "",
           "earned_by": []
@@ -4854,7 +4897,7 @@
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -5046,6 +5089,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",
@@ -5868,7 +5920,7 @@
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -6060,6 +6112,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",
@@ -6882,7 +6943,7 @@
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -7074,6 +7135,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",
@@ -7896,7 +7966,7 @@
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -8088,6 +8158,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",
@@ -8910,7 +8989,7 @@
             5
           ],
           "earned_by": [
-            "Nic"
+            "Rae"
           ]
         },
         {
@@ -9102,6 +9181,15 @@
             5
           ],
           "earned_by": []
+        },
+        {
+          "name": "Sharing Is Caring!",
+          "hint": "A heartwarming moment. The AI is almost moved.",
+          "group": "evening",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
         },
         {
           "name": "Improv Night!",

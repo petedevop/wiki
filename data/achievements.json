@@ -871,7 +871,7 @@
           10
         ],
         "Rae": [
-          0,
+          1,
           10
         ],
         "Jules": [
@@ -953,7 +953,7 @@
       "loot": "Silver Loot Box",
       "nightly": true,
       "earned_by": [
-        "Nic"
+        "Rae"
       ],
       "touched": true,
       "progress_by_pc": {
@@ -966,11 +966,11 @@
           5
         ],
         "Nic": [
-          5,
+          0,
           5
         ],
         "Rae": [
-          0,
+          5,
           5
         ],
         "Jules": [
@@ -3176,8 +3176,10 @@
       "hint": "A heartwarming moment. The AI is almost moved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Rae"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -4240,11 +4242,11 @@
           5
         ],
         "Nic": [
-          1,
+          0,
           5
         ],
         "Rae": [
-          0,
+          1,
           5
         ],
         "Jules": [

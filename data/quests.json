@@ -49,6 +49,40 @@
       ]
     },
     {
+      "pc_name": "Edwardo",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
       "pc_name": "Ellis",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
@@ -92,6 +126,40 @@
       "steps": [
         {
           "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Ellis",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
           "met": false
         }
       ]
@@ -145,6 +213,40 @@
       ]
     },
     {
+      "pc_name": "Jules",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
       "pc_name": "Lety",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
@@ -188,6 +290,40 @@
       "steps": [
         {
           "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
           "met": false
         }
       ]
@@ -241,6 +377,40 @@
       ]
     },
     {
+      "pc_name": "Nic",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
       "pc_name": "Nico",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
@@ -284,6 +454,40 @@
       "steps": [
         {
           "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nico",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
           "met": false
         }
       ]
@@ -337,6 +541,40 @@
       ]
     },
     {
+      "pc_name": "Odile",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
       "pc_name": "Rae",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
@@ -385,6 +623,40 @@
       ]
     },
     {
+      "pc_name": "Rae",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
       "pc_name": "Yuki",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
@@ -428,6 +700,40 @@
       "steps": [
         {
           "label": "Give Crumb a meat you killed yourself",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Yuki",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
           "met": false
         }
       ]
