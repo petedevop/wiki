@@ -68,6 +68,40 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "The Truffle Sow!",
       "giver": "The Truffle Beds",
       "gp": 15,
@@ -148,6 +182,40 @@
     },
     {
       "pc_name": "Lety",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "The Truffle Sow!",
       "giver": "The Truffle Beds",
       "gp": 15,
@@ -228,6 +296,40 @@
     },
     {
       "pc_name": "Nic",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "The Truffle Sow!",
       "giver": "The Truffle Beds",
       "gp": 15,
@@ -302,6 +404,40 @@
         },
         {
           "label": "Let the goose shred it for nesting material",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "The Full Larder!",
+      "giver": "Best Chef",
+      "gp": 150,
+      "prize": "150 gp · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go down to the Jungle Clearing (301)",
+          "met": true
+        },
+        {
+          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Kill the Truffle Sow",
+          "met": false
+        },
+        {
+          "label": "Pick up the Sow-Heart Truffle",
+          "met": false
+        },
+        {
+          "label": "Flip the Sow's Carcass and carve it",
+          "met": false
+        },
+        {
+          "label": "Bring it home to the Green Room (300)",
           "met": false
         }
       ]

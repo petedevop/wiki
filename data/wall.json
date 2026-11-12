@@ -3320,7 +3320,11 @@
         "Rae changed The Way Down",
         "Rae managed to repair at The Way Down",
         "Rae gave Call Sheet to Prop Goose",
-        "The party met Chef Barnaby Crumb"
+        "The party met Chef Barnaby Crumb",
+        "Rae earned Sharing Is Caring!.",
+        "Rae managed to secret flip",
+        "Rae gave Prop Steak Knife to Rae",
+        "Vine Slug turned Hostile"
       ],
       "achievements": [
         {
@@ -4003,7 +4007,7 @@
           "hint": "Everyone in the building has had a go.",
           "group": "evening",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": []
@@ -4258,6 +4262,13 @@
           "earned_by": [
             "Nic"
           ]
+        },
+        {
+          "name": "Knife Skills!",
+          "hint": "Now kill something in a fight with the knife. Mise en place.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
         },
         {
           "name": "Boomstick!",
