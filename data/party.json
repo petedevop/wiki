@@ -7,7 +7,7 @@
       "class_name": "Tsukumogami Smith",
       "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/GrN6DnT80DLiX_yrHSpgZw?v=1790720918407475591",
+      "portrait_url": "/media/_Zyd7IGOdfFBtxkxwM-K6Q?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -75,7 +75,7 @@
       "class_name": "The Programmer",
       "level": 1,
       "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/fzH2HPAXrJIrQOBSzl64SQ?v=1790800019726852655",
+      "portrait_url": "/media/kEFwu1OyFoFTzez3vuDgxw?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -144,7 +144,7 @@
       "class_name": "Overcompensating Mech",
       "level": 1,
       "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/Df7oMk7fzg7RTVlQxOUQRQ?v=1790721129428895712",
+      "portrait_url": "/media/RFOuNTHvo_2Arj2xCfjSlg?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -168,8 +168,8 @@
       "abilities": [
         {
           "id": "STR",
-          "score": 17,
-          "modifier": 3
+          "score": 7,
+          "modifier": -2
         },
         {
           "id": "DEX",
@@ -192,7 +192,10 @@
           "modifier": 1
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Overloaded — drop gear",
+        "Feeble −10"
+      ],
       "tank": true,
       "ai_favour": false,
       "favour_score": 0,
@@ -213,7 +216,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/1QwMo7iEg6ghkD4QgVqfKQ",
+      "portrait_url": "/media/UgBymgLBY4Jq83RfPu9TWw",
       "about": [],
       "powers": [
         {
@@ -252,13 +255,15 @@
           "modifier": 5
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Hardy"
+      ],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Rae",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Green Room Mop</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
-      "xp": 300,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Green Room Mop</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Electric Eel</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
+      "xp": 400,
       "alignment": "Lawful",
       "title": "",
       "appearance": "scrubs, the mask under the chin, steel picks in a pocket",
