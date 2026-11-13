@@ -904,15 +904,6 @@
           "earned_by": []
         },
         {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Improv Night!",
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
@@ -1938,15 +1929,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",
@@ -2990,15 +2972,6 @@
           "earned_by": []
         },
         {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Improv Night!",
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
@@ -3987,7 +3960,7 @@
           "hint": "Behind the curtain. Their hands. Four seconds, and you come out as ordered.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             10
           ],
           "earned_by": []
@@ -4031,15 +4004,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",
@@ -5091,15 +5055,6 @@
           "earned_by": []
         },
         {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Improv Night!",
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
@@ -6112,15 +6067,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",
@@ -7137,15 +7083,6 @@
           "earned_by": []
         },
         {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Improv Night!",
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
@@ -8160,15 +8097,6 @@
           "earned_by": []
         },
         {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Improv Night!",
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
@@ -9181,15 +9109,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",

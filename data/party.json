@@ -7,7 +7,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/aeAXeiU4sQGHAE9mtBWeXQ",
+      "portrait_url": "/media/trSEXW1-tzKXiWIrMbeLnQ",
       "about": [],
       "powers": [
         {
@@ -18,22 +18,22 @@
       "hp": 16,
       "hp_max": 16,
       "temp_hp": 0,
-      "ac": 9,
+      "ac": 16,
       "abilities": [
         {
           "id": "STR",
-          "score": 1,
-          "modifier": -5
+          "score": 17,
+          "modifier": 3
         },
         {
           "id": "DEX",
-          "score": 7,
-          "modifier": -2
+          "score": 20,
+          "modifier": 5
         },
         {
           "id": "CON",
-          "score": 10,
-          "modifier": 0
+          "score": 20,
+          "modifier": 5
         },
         {
           "id": "INT",
@@ -42,20 +42,18 @@
         },
         {
           "id": "CHA",
-          "score": 23,
-          "modifier": 6
+          "score": 20,
+          "modifier": 5
         }
       ],
       "statuses": [
-        "Prone",
-        "Overloaded — drop gear",
         "Feeble −3"
       ],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Rae",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Green Room Mop</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Green Room Mop</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
       "xp": 300,
       "alignment": "Lawful",
       "title": "",

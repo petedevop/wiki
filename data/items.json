@@ -799,6 +799,13 @@
       "image": null
     },
     {
+      "id": "item-brass_lure",
+      "title": "Brass Lure",
+      "subtitle": "Floor 2",
+      "blurb": "A tarnished disk on a chain. Shake it and something huge looks your way instead of your friend.",
+      "image": null
+    },
+    {
       "id": "item-brigandine_of_the_bulwark_moose",
       "title": "Brigandine of the Bulwark Moose",
       "subtitle": "Floor 2",
@@ -1105,6 +1112,13 @@
       "subtitle": "Floor 2",
       "blurb": "A white plastic cool box with a Borant logo, a strap and a lid that clicks.",
       "image": "assets/img/item/crawler_cooler.webp"
+    },
+    {
+      "id": "item-crawler_flare",
+      "title": "Crawler Flare",
+      "subtitle": "Floor 2",
+      "blurb": "Crack it, hold it up, and every predator in the room remembers you exist.",
+      "image": null
     },
     {
       "id": "item-crayons",

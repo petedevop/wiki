@@ -871,7 +871,7 @@
           10
         ],
         "Rae": [
-          1,
+          0,
           10
         ],
         "Jules": [
@@ -3176,10 +3176,8 @@
       "hint": "A heartwarming moment. The AI is almost moved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [
-        "Rae"
-      ],
-      "touched": true,
+      "earned_by": [],
+      "touched": false,
       "progress_by_pc": {}
     },
     {
