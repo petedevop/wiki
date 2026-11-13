@@ -7,7 +7,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/trSEXW1-tzKXiWIrMbeLnQ",
+      "portrait_url": "/media/vDE10Z504H8GykZ5bYoBnQ",
       "about": [],
       "powers": [
         {
@@ -22,8 +22,8 @@
       "abilities": [
         {
           "id": "STR",
-          "score": 17,
-          "modifier": 3
+          "score": 20,
+          "modifier": 5
         },
         {
           "id": "DEX",
@@ -46,9 +46,7 @@
           "modifier": 5
         }
       ],
-      "statuses": [
-        "Feeble −3"
-      ],
+      "statuses": [],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,
