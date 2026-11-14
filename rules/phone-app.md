@@ -2,7 +2,7 @@
 
 The **player app** is the site you open on your phone during session. Voice chat is for talking only — rolls, combat, inventory, and room text all happen here.
 
-The layout: a **header** (portrait, HP, status, stats), the **room panel**, a **home bar** (activity log and notifications), and the **bottom nav** — **Home · Me · Info · Settings**.
+The layout: a **header** (portrait, HP, status, stats), the **room panel**, and the **bottom nav** — **Home · Logs · Me · Notifications · Info · Settings**.
 
 ## The header
 
@@ -15,21 +15,27 @@ The layout: a **header** (portrait, HP, status, stats), the **room panel**, a **
 
 Between fights the room splits in two:
 
-- **Left:** everyone and everything here — **people → obstacles → items** — with attitude, quest and secret chips. Tap a row to open its sheet (talk, smash, loot, charm…). A **?** row is an unspotted secret; tap to search.
-- **Right:** the **room picture** (tap the card to flip between the scene and the **zone map**), a **Travel** button, and **Rest** / **Join combat** when they apply.
+- **Left:** everyone and everything here — **people → obstacles → items** — with attitude, quest and secret chips. Tap a row to open its sheet (talk, smash, loot, charm…). A **?** row is an unspotted secret; tap to search. Someone with a job for you lights up in your colour with a **QUEST** tag — tap them for the quest, a line about it, and **Accept** / **Decline**.
+- **Right:** the **room picture** (the **Zone** / **Room** pill in its corner flips the card between the scene and the **zone map**), a **Travel** button, and **Rest** / **Join combat** when they apply.
 
 Tap the room text to read the full card.
+
+IMG|assets/guide/01-explore.png|Home — the room list on the left; Tess has a quest for you
 
 ## Moving and party votes
 
 **Travel is per crawler.** Open **Travel** and pick an exit, or tap an exit thumbnail on the edge of the zone map. Only **your** crawler moves; nobody follows unless they choose to.
 
+IMG|assets/guide/02-travel.png|Travel — pick an exit; Gather and Follow sit below
+
 **Party votes** — rest, call it a night, retreat, surrender, scout — use the vote bar when someone proposes one. A majority of crawlers **present** carries it.
 
-## Home bar: activity and notifications
+## Logs and Notifications
 
-- **Activity log** — tonight's rolls and beats. Filter **All** or **Me**.
-- **Notifications** — what your deeds set off, plus quest and achievement updates stacked together. Nobody confirms anything; payouts land on their own.
+- **Logs** — tonight's rolls and beats. Filter **All** or **Me**.
+- **Notifications** — what your deeds set off, then your **Quests** (with offers nearby) and **Achievements**, stacked on one page. Nobody confirms anything; payouts land on their own.
+
+IMG|assets/guide/08-notifications.png|Notifications, quests and achievements
 
 ## Info tab
 
@@ -48,13 +54,19 @@ Fold-outs, all shut until you open them (your phone remembers which you like ope
 | **Floor rules** | This floor's quirks |
 | **Bounty hunters** | Top bounty hunters on the floor; tap for stats |
 
+IMG|assets/guide/05-archive.png|Archive inside Info
+
 ## Me tab
 
 Your sheet: equipped weapon, **inventory** grid, then tiles for **spells**, **class abilities**, and **skills** (tap the scroll to read, the action to use). **Bonds** shows what your active bonds are doing for you right now. **About me** holds your profile, portrait upload, and the **Story so far**.
 
+IMG|assets/guide/07-me.png|Me — equipped weapon, inventory, spells and abilities
+
 ## Inventory
 
 Tap the 🎒 line in the header: **Equipped** (hands, worn slots, one pet slot) and **Pack**. Tap a slot to see what fits; tap an item to read it, equip it, or use it. `↗` gives an item to another crawler; `×` drops it.
+
+IMG|assets/guide/04-inventory.png|Inventory sheet
 
 ## Combat
 
