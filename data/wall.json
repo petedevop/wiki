@@ -2788,7 +2788,7 @@
           "hint": "Everyone in the building has had a go.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": []
@@ -2798,7 +2798,7 @@
           "hint": "The mobs are embarrassed. The viewers are not.",
           "group": "evening",
           "progress": [
-            3,
+            0,
             5
           ],
           "earned_by": []
@@ -3774,7 +3774,7 @@
           "hint": "The outtakes are getting more airtime than the show.",
           "group": "evening",
           "progress": [
-            2,
+            0,
             3
           ],
           "earned_by": []
@@ -3784,7 +3784,7 @@
           "hint": "Swing. Miss. Smile for the camera.",
           "group": "evening",
           "progress": [
-            2,
+            0,
             5
           ],
           "earned_by": []
@@ -3794,7 +3794,7 @@
           "hint": "Ten for ten. The odds-makers are sweating.",
           "group": "evening",
           "progress": [
-            2,
+            0,
             10
           ],
           "earned_by": []
@@ -3944,7 +3944,7 @@
           "hint": "Locks, ropes, levers. Touch everything. Sign the waiver.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": []
@@ -3954,7 +3954,7 @@
           "hint": "Every prop on this set is a trap. Use all of them.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             3
           ],
           "earned_by": []
@@ -4034,7 +4034,7 @@
           "hint": "Finders keepers. The viewers are not judging. They are scoring.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": []
@@ -4044,7 +4044,7 @@
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": []

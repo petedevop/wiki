@@ -7,7 +7,7 @@
       "class_name": "Tsukumogami Smith",
       "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/mfaWcidQ1hOFtBqD181uTA?v=1790720918407475591",
+      "portrait_url": "/media/c9pUyx70_8ipLyRJhee9fg?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -75,7 +75,7 @@
       "class_name": "The Programmer",
       "level": 1,
       "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/cBl0wSJIZhlc5i-1uK46Hg?v=1790800019726852655",
+      "portrait_url": "/media/s3YXnMIeBD0hbrhn88cFRQ?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -144,7 +144,7 @@
       "class_name": "Overcompensating Mech",
       "level": 1,
       "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/9KQ3zAc2cH5Wgyu_cYInJg?v=1790721129428895712",
+      "portrait_url": "/media/_bh4vjgntjbgsIe9XXj2tg?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -168,8 +168,8 @@
       "abilities": [
         {
           "id": "STR",
-          "score": 7,
-          "modifier": -2
+          "score": 17,
+          "modifier": 3
         },
         {
           "id": "DEX",
@@ -192,10 +192,7 @@
           "modifier": 1
         }
       ],
-      "statuses": [
-        "Overloaded — drop gear",
-        "Feeble −10"
-      ],
+      "statuses": [],
       "tank": true,
       "ai_favour": false,
       "favour_score": 0,
@@ -216,7 +213,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/oWHlZ1Ynz-QwnKQ2PT7PnA",
+      "portrait_url": "/media/82QLiPkAdzRhi8oAHg0b3A",
       "about": [],
       "powers": [
         {
@@ -255,9 +252,7 @@
           "modifier": 5
         }
       ],
-      "statuses": [
-        "Hardy"
-      ],
+      "statuses": [],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,

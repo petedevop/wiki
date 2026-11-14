@@ -14,11 +14,11 @@ This table runs **Shadow Dark** with a few house conventions. The core rulebook 
 
 - **Floor map** and **archive** only show what the party has already discovered in play.
 - **Combat** on the phone is turn-gated; the server enforces what you can tap — greyed buttons are not a suggestion.
-- **Party votes** (travel, rest, calling the night) need a majority of crawlers present.
+- **Travel** is per crawler. **Party votes** (rest, calling the night, retreat, surrender, scout) need a majority of crawlers present.
 
 ## Floor Two flavour
 
 - Achievements on the wall are **hints**, not full quest write-ups — reading between the lines is part of the game.
-- Rivals at the Stadium are earned in play; this wiki only lists rivals your party has actually made.
+- **Projects** and **bonds** are party-driven — see their Rules pages for what each one pays.
 
 _Edit this file, then run `uv run python -m dnd wiki export` to refresh the public site._
