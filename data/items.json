@@ -803,7 +803,7 @@
       "title": "Brass Lure",
       "subtitle": "Floor 2",
       "blurb": "A tarnished disk on a chain. Shake it and something huge looks your way instead of your friend.",
-      "image": null
+      "image": "assets/img/item/brass_lure.webp"
     },
     {
       "id": "item-brigandine_of_the_bulwark_moose",
@@ -1118,7 +1118,7 @@
       "title": "Crawler Flare",
       "subtitle": "Floor 2",
       "blurb": "Crack it, hold it up, and every predator in the room remembers you exist.",
-      "image": null
+      "image": "assets/img/item/crawler_flare.webp"
     },
     {
       "id": "item-crayons",

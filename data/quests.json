@@ -50,6 +50,100 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "Jack's Licence",
+      "giver": "Dry Jack",
+      "gp": 35,
+      "prize": "35 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Jack the Sprinkler Valve Wheel",
+          "met": false
+        },
+        {
+          "label": "Give Jack the Spare Stock Seal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come out to the Salt Lick (312)",
+          "met": true
+        },
+        {
+          "label": "Deal with the crocodile, one way or another",
+          "met": true
+        },
+        {
+          "label": "Take the Salt Lick Crystal",
+          "met": false
+        },
+        {
+          "label": "Carry it to the Kitchen Stadium (307)",
+          "met": false
+        },
+        {
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "The First Fire!",
+      "giver": "Ochre",
+      "gp": 110,
+      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the First Hearth (321)",
+          "met": true
+        },
+        {
+          "label": "Learn the fire drill",
+          "met": false
+        },
+        {
+          "label": "Go down to the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Pick a Glowcap by the Fairy Ring",
+          "met": false
+        },
+        {
+          "label": "Cross to the Jungle Clearing (301)",
+          "met": false
+        },
+        {
+          "label": "Dig Wild Yams out of the Yam Patch",
+          "met": false
+        },
+        {
+          "label": "Bring it all home to the First Hearth (321)",
+          "met": false
+        },
+        {
+          "label": "Share the kill at the First Fire",
+          "met": false
+        },
+        {
+          "label": "Bonus: take a Clay Ember Pot for the road",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -62,7 +156,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
+          "met": true
         },
         {
           "label": "Kill the Truffle Sow",
@@ -132,6 +226,100 @@
     },
     {
       "pc_name": "Lety",
+      "name": "Jack's Licence",
+      "giver": "Dry Jack",
+      "gp": 35,
+      "prize": "35 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Jack the Sprinkler Valve Wheel",
+          "met": false
+        },
+        {
+          "label": "Give Jack the Spare Stock Seal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come out to the Salt Lick (312)",
+          "met": true
+        },
+        {
+          "label": "Deal with the crocodile, one way or another",
+          "met": true
+        },
+        {
+          "label": "Take the Salt Lick Crystal",
+          "met": false
+        },
+        {
+          "label": "Carry it to the Kitchen Stadium (307)",
+          "met": false
+        },
+        {
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "The First Fire!",
+      "giver": "Ochre",
+      "gp": 110,
+      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the First Hearth (321)",
+          "met": true
+        },
+        {
+          "label": "Learn the fire drill",
+          "met": false
+        },
+        {
+          "label": "Go down to the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Pick a Glowcap by the Fairy Ring",
+          "met": false
+        },
+        {
+          "label": "Cross to the Jungle Clearing (301)",
+          "met": false
+        },
+        {
+          "label": "Dig Wild Yams out of the Yam Patch",
+          "met": false
+        },
+        {
+          "label": "Bring it all home to the First Hearth (321)",
+          "met": false
+        },
+        {
+          "label": "Share the kill at the First Fire",
+          "met": false
+        },
+        {
+          "label": "Bonus: take a Clay Ember Pot for the road",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -144,7 +332,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
+          "met": true
         },
         {
           "label": "Kill the Truffle Sow",
@@ -214,6 +402,100 @@
     },
     {
       "pc_name": "Nic",
+      "name": "Jack's Licence",
+      "giver": "Dry Jack",
+      "gp": 35,
+      "prize": "35 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Jack the Sprinkler Valve Wheel",
+          "met": false
+        },
+        {
+          "label": "Give Jack the Spare Stock Seal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come out to the Salt Lick (312)",
+          "met": true
+        },
+        {
+          "label": "Deal with the crocodile, one way or another",
+          "met": true
+        },
+        {
+          "label": "Take the Salt Lick Crystal",
+          "met": false
+        },
+        {
+          "label": "Carry it to the Kitchen Stadium (307)",
+          "met": false
+        },
+        {
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "The First Fire!",
+      "giver": "Ochre",
+      "gp": 110,
+      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the First Hearth (321)",
+          "met": true
+        },
+        {
+          "label": "Learn the fire drill",
+          "met": false
+        },
+        {
+          "label": "Go down to the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Pick a Glowcap by the Fairy Ring",
+          "met": false
+        },
+        {
+          "label": "Cross to the Jungle Clearing (301)",
+          "met": false
+        },
+        {
+          "label": "Dig Wild Yams out of the Yam Patch",
+          "met": false
+        },
+        {
+          "label": "Bring it all home to the First Hearth (321)",
+          "met": false
+        },
+        {
+          "label": "Share the kill at the First Fire",
+          "met": false
+        },
+        {
+          "label": "Bonus: take a Clay Ember Pot for the road",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -226,7 +508,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
+          "met": true
         },
         {
           "label": "Kill the Truffle Sow",
@@ -296,6 +578,100 @@
     },
     {
       "pc_name": "Rae",
+      "name": "Jack's Licence",
+      "giver": "Dry Jack",
+      "gp": 35,
+      "prize": "35 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Jack the Sprinkler Valve Wheel",
+          "met": false
+        },
+        {
+          "label": "Give Jack the Spare Stock Seal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "Salt for the Stadium!",
+      "giver": "Dry Jack",
+      "gp": 80,
+      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come out to the Salt Lick (312)",
+          "met": true
+        },
+        {
+          "label": "Deal with the crocodile, one way or another",
+          "met": true
+        },
+        {
+          "label": "Take the Salt Lick Crystal",
+          "met": false
+        },
+        {
+          "label": "Carry it to the Kitchen Stadium (307)",
+          "met": false
+        },
+        {
+          "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "The First Fire!",
+      "giver": "Ochre",
+      "gp": 110,
+      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the First Hearth (321)",
+          "met": true
+        },
+        {
+          "label": "Learn the fire drill",
+          "met": false
+        },
+        {
+          "label": "Go down to the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Pick a Glowcap by the Fairy Ring",
+          "met": false
+        },
+        {
+          "label": "Cross to the Jungle Clearing (301)",
+          "met": false
+        },
+        {
+          "label": "Dig Wild Yams out of the Yam Patch",
+          "met": false
+        },
+        {
+          "label": "Bring it all home to the First Hearth (321)",
+          "met": false
+        },
+        {
+          "label": "Share the kill at the First Fire",
+          "met": false
+        },
+        {
+          "label": "Bonus: take a Clay Ember Pot for the road",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -308,7 +684,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
+          "met": true
         },
         {
           "label": "Kill the Truffle Sow",

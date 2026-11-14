@@ -245,6 +245,13 @@
           ]
         },
         {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -257,6 +264,13 @@
         {
           "name": "Extinction Event!",
           "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Pork Belly!",
+          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
           "group": "combat",
           "progress": "",
           "earned_by": []
@@ -1284,6 +1298,13 @@
           ]
         },
         {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -1296,6 +1317,13 @@
         {
           "name": "Extinction Event!",
           "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Pork Belly!",
+          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
           "group": "combat",
           "progress": "",
           "earned_by": []
@@ -2330,6 +2358,13 @@
           ]
         },
         {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -2342,6 +2377,13 @@
         {
           "name": "Extinction Event!",
           "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Pork Belly!",
+          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
           "group": "combat",
           "progress": "",
           "earned_by": []
@@ -3135,18 +3177,18 @@
       "pc_id": "pete_rae",
       "pc_name": "Rae",
       "story": [
-        "Rae earned Sharing Is Caring!.",
-        "Rae managed to secret flip",
-        "Rae gave Prop Steak Knife to Rae",
-        "Vine Slug turned Hostile",
-        "Hive Guards turned Hostile",
-        "Rae earned Improv Night!.",
-        "Raptor turned Hostile",
-        "The party met Tess",
-        "Rae earned Dodge This!.",
-        "Rae gave Green Room Mop to Rae",
-        "Rae killed Vine Slug",
-        "Rae managed to endure at The Eel River"
+        "Rae managed to endure at The Eel River",
+        "Dry Jack turned Ally",
+        "Rae completed the quest Water for Everyone.",
+        "The party met Dry Jack",
+        "Rae gave Terrace Waders to Rae",
+        "Rae changed The Pool Wheel",
+        "Rae managed to cross at The Pool Wheel",
+        "The Hearth Clan turned Hostile",
+        "Ochre turned Hostile",
+        "The Hearth Clan turned Wary",
+        "Rae killed Ochre",
+        "Chanterelle turned Hostile"
       ],
       "achievements": [
         {
@@ -3376,6 +3418,13 @@
           ]
         },
         {
+          "name": "Bag and Shoes!",
+          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -3388,6 +3437,13 @@
         {
           "name": "Extinction Event!",
           "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
+          "name": "Pork Belly!",
+          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
           "group": "combat",
           "progress": "",
           "earned_by": []

@@ -1,7 +1,7 @@
 {
   "meta": {
     "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Posted bounties run 150–500 gp by toughness; the floor quest pays that posted amount. See Bounties for stats and portraits on the top twenty.",
-    "posted_name": "Signet",
+    "posted_name": "",
     "top_ten_pool": 10,
     "board_size": 20
   },
