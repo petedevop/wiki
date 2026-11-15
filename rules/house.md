@@ -6,8 +6,12 @@ This table runs **Shadow Dark** with a few house conventions. The core rulebook 
 
 ## Rolls at this table
 
-- Stat and skill checks are usually a **flat d20** unless a status or untrained armour imposes disadvantage.
-- Attacks use disadvantage when you are not proficient with the weapon you are swinging.
+- Stat and skill checks are usually a **flat d20** unless a status or armour too heavy for your STR imposes disadvantage.
+- Any weapon swings on a flat d20 — no proficiency needed. A weapon skill you hold adds its rank to hit.
+- Natural 1 on an attack: DC 12 DEX check or the weapon breaks. Guns, power tools and firebombs break outright.
+- Weapon feats: do something wild with a weapon to unlock its signature move (once per fight, while you hold it).
+- Any armour can be worn by anyone. Heavy suits may need STR, or be clumsy (DEX checks and ranged attacks at disadvantage); some soak a damage kind (kevlar vs piercing).
+- Armour feats: take a beating in a suit to unlock its power (once per fight, while you wear it).
 - Spellcasting checks and saves stay flat d20.
 
 ## The player app

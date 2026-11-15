@@ -119,16 +119,6 @@
       }
     },
     {
-      "name": "Batter Up!",
-      "group": "combat",
-      "hint": "Now kill something in a fight with the bat. Swing for the fences.",
-      "loot": "",
-      "nightly": false,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
-    },
-    {
       "name": "Bee Line!",
       "group": "stunts",
       "hint": "Gate, brood, venom, jelly. Keep moving; they can smell fear and jam.",
@@ -264,7 +254,34 @@
     {
       "name": "Boomstick!",
       "group": "combat",
-      "hint": "Now kill three things with the shotgun, two in one fight, or a boss.",
+      "hint": "Two in one fight. Groovy.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "name": "Boot Party!",
+      "group": "combat",
+      "hint": "The boots are built for a worksite. Make it a rough one.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -356,6 +373,16 @@
       }
     },
     {
+      "name": "Bulletproof-ish!",
+      "group": "combat",
+      "hint": "Kevlar stops a lot. Find out exactly how much.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Carb Loading!",
       "group": "combat",
       "hint": "Kill a loaf with fists in a fight. Hit the bread hard. Harder.",
@@ -378,29 +405,12 @@
     {
       "name": "Chainsaw Massacre!",
       "group": "combat",
-      "hint": "Now kill two things in one fight with the power tool, or hit for 15+.",
+      "hint": "Rev it. Fifteen or more in one bite.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {
-        "Lety": [
-          0,
-          2
-        ],
-        "Edwardo": [
-          0,
-          2
-        ],
-        "Nic": [
-          0,
-          2
-        ],
-        "Rae": [
-          0,
-          2
-        ]
-      }
+      "progress_by_pc": {}
     },
     {
       "name": "Chef's Kiss!",
@@ -415,12 +425,29 @@
     {
       "name": "Clean Up on Aisle Three!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the mop. Then mop.",
+      "hint": "Three spills, one shift.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Clutch Performance!",
@@ -435,7 +462,7 @@
     {
       "name": "Cocktail Hour!",
       "group": "combat",
-      "hint": "Now burn two things down in one fight. Bring more than one bottle.",
+      "hint": "Two flambés. Bring more than one bottle.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -649,7 +676,7 @@
     {
       "name": "Dig Your Own!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the spade. Saves a trip later.",
+      "hint": "Save the shovel for someone important.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -825,6 +852,16 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Eye Shot!",
+      "group": "combat",
+      "hint": "Everyone said it. Prove them right on a twenty.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Farm to Table!",
       "group": "dungeon",
       "hint": "Know where your food comes from. Ideally, you.",
@@ -901,7 +938,7 @@
     {
       "name": "Fore!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the club. Mind your follow-through.",
+      "hint": "Drive it. Ten or better off the tee.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -913,6 +950,16 @@
       "group": "showbiz",
       "hint": "Bring the whole jungle to the table.",
       "loot": "Gold Loot Box ×2",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Full Steam!",
+      "group": "combat",
+      "hint": "The boiler wants pressure. Give it a big one.",
+      "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
@@ -1056,7 +1103,7 @@
     {
       "name": "Goliath Down!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the slingshot. Ask David how.",
+      "hint": "A pebble. A giant. You know how this goes.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -1096,7 +1143,7 @@
     {
       "name": "Hammer Time!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the hammer. Everything is a nail.",
+      "hint": "Stop. Twelve damage or better.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -1180,7 +1227,7 @@
     {
       "name": "Harpooned!",
       "group": "combat",
-      "hint": "Now land a boss with the speargun, or kill three things with it.",
+      "hint": "Three catches. Doesn't have to be fish.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -1276,6 +1323,43 @@
       "group": "stunts",
       "hint": "Kill the Gourd Mother in a fight. Return to sender.",
       "loot": "Gold Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "Hold the Line!",
+      "group": "combat",
+      "hint": "Plant the spear. Make two of them regret walking in.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
+    },
+    {
+      "name": "Home Run!",
+      "group": "combat",
+      "hint": "Swing for the fences. The crowd wants a twenty.",
+      "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
@@ -1514,6 +1598,33 @@
       "progress_by_pc": {}
     },
     {
+      "name": "Kettled!",
+      "group": "combat",
+      "hint": "Riot gear was made for a crowd. Stand in one.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
+    },
+    {
       "name": "Kill Streak!",
       "group": "evening",
       "hint": "One fight. Five mobs. Don't stop for the replay.",
@@ -1553,7 +1664,7 @@
     {
       "name": "Knife Skills!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the knife. Mise en place.",
+      "hint": "Chef's kiss is a twenty.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -1562,13 +1673,30 @@
     },
     {
       "name": "Leather Daddy!",
-      "group": "stunts",
-      "hint": "Now wear the light armour into a fight and take a hit in it.",
+      "group": "combat",
+      "hint": "Leather's for looking good while they keep missing. Mostly missing.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Legendary!",
@@ -1579,6 +1707,33 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
+    },
+    {
+      "name": "Lights Out!",
+      "group": "combat",
+      "hint": "Quiet work, twice in one fight.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
     },
     {
       "name": "Live Bait!",
@@ -1631,16 +1786,6 @@
       "progress_by_pc": {}
     },
     {
-      "name": "Lumberjack!",
-      "group": "combat",
-      "hint": "Now kill something in a fight with the axe. Timber.",
-      "loot": "",
-      "nightly": false,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
-    },
-    {
       "name": "Magic Hour!",
       "group": "evening",
       "hint": "The lighting crew has asked you to calm down.",
@@ -1664,6 +1809,60 @@
         "Rae": [
           0,
           5
+        ]
+      }
+    },
+    {
+      "name": "Meat Is Murder!",
+      "group": "combat",
+      "hint": "The meat armour is there to be hit. Let it do its job.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "name": "Mirror Finish!",
+      "group": "combat",
+      "hint": "The pauldrons want to give it back. Give them something to give.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
         ]
       }
     },
@@ -1724,7 +1923,7 @@
     {
       "name": "Mother Lode!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the pick. Dig deep.",
+      "hint": "Strike it rich. Pick something huge.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -1734,29 +1933,12 @@
     {
       "name": "Nailed It!",
       "group": "combat",
-      "hint": "Now kill three things with the nail gun, or land a natural 20 with it.",
+      "hint": "Flush to the frame. Twenty.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {
-        "Lety": [
-          0,
-          3
-        ],
-        "Edwardo": [
-          0,
-          3
-        ],
-        "Nic": [
-          0,
-          3
-        ],
-        "Rae": [
-          0,
-          3
-        ]
-      }
+      "progress_by_pc": {}
     },
     {
       "name": "Natural Selection!",
@@ -1814,6 +1996,33 @@
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {}
+    },
+    {
+      "name": "Now You See Me!",
+      "group": "combat",
+      "hint": "The cloak drinks light. Make them swing at nothing.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Olé!",
@@ -1922,12 +2131,29 @@
     {
       "name": "Plumbing Emergency!",
       "group": "combat",
-      "hint": "Now kill something in a fight with it. Hit it like it owes you rent.",
+      "hint": "Two leaks, one wrench-shaped answer.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
     },
     {
       "name": "Point Taken!",
@@ -1942,12 +2168,29 @@
     {
       "name": "Pointy End First!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the blade. Up close and personal.",
+      "hint": "Three in one fight. Small blade, big night.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Pork Belly!",
@@ -1962,12 +2205,29 @@
     {
       "name": "Power Play!",
       "group": "combat",
-      "hint": "Now kill something in a fight with the stick. Two minutes for roughing.",
+      "hint": "Hat trick. One fight.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Practical Vocabulary!",
@@ -1975,6 +2235,33 @@
       "hint": "Set it up, trigger it, and try another word.",
       "loot": "Silver Loot Box",
       "nightly": true,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "name": "Prickly!",
+      "group": "combat",
+      "hint": "Hold the thorns up. Make them try.",
+      "loot": "",
+      "nightly": false,
       "earned_by": [],
       "touched": false,
       "progress_by_pc": {
@@ -2061,16 +2348,6 @@
       }
     },
     {
-      "name": "Quiet on Set!",
-      "group": "combat",
-      "hint": "Now strangle something in a fight with the garrote. Nobody hears a thing.",
-      "loot": "",
-      "nightly": false,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
-    },
-    {
       "name": "Rampage!",
       "group": "evening",
       "hint": "The floor manager is calling it a cleaning job.",
@@ -2135,9 +2412,36 @@
       }
     },
     {
+      "name": "Repulsive!",
+      "group": "combat",
+      "hint": "Pop the shield. Let them bounce off it. Three times.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
+    },
+    {
       "name": "Robin Hood!",
       "group": "combat",
-      "hint": "Now kill three things with the bow, or two in one fight.",
+      "hint": "Three arrows, three bodies, one fight.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -2193,8 +2497,45 @@
     },
     {
       "name": "Scrap Heap Hero!",
-      "group": "stunts",
-      "hint": "Now take three hits in one fight wearing the improvised armour. It holds. Mostly.",
+      "group": "combat",
+      "hint": "It's held together with bedsprings and hope. Find out how long.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "name": "Scrape Your Own Plate!",
+      "group": "showbiz",
+      "hint": "When nobody washes up, somebody still has to.",
+      "loot": "Silver Loot Box",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
+      "name": "See You Later!",
+      "group": "combat",
+      "hint": "The croc took a lot of punishment before it became a vest. Your turn.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -2217,16 +2558,6 @@
           3
         ]
       }
-    },
-    {
-      "name": "Scrape Your Own Plate!",
-      "group": "showbiz",
-      "hint": "When nobody washes up, somebody still has to.",
-      "loot": "Silver Loot Box",
-      "nightly": false,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
     },
     {
       "name": "Sharing Is Caring!",
@@ -2266,14 +2597,58 @@
       }
     },
     {
-      "name": "Shield Wall!",
-      "group": "stunts",
-      "hint": "Now carry the shield into a fight and take a hit behind it.",
+      "name": "Shell Shocked!",
+      "group": "combat",
+      "hint": "Tortoises and snails live a long time. Stand in the open and find out why.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      }
+    },
+    {
+      "name": "Shield Wall!",
+      "group": "combat",
+      "hint": "Get the shield up. Let them try. Let them try again. And again.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Showing Off!",
@@ -2391,16 +2766,6 @@
       "group": "dungeon",
       "hint": "Frost skins the flood.",
       "loot": "Bronze Loot Box",
-      "nightly": false,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
-    },
-    {
-      "name": "Skewered!",
-      "group": "combat",
-      "hint": "Now kill something in a fight with the spear. Pointy end towards the dinner.",
-      "loot": "",
       "nightly": false,
       "earned_by": [],
       "touched": false,
@@ -2528,6 +2893,33 @@
           "bonus": false
         }
       ]
+    },
+    {
+      "name": "Smoked!",
+      "group": "combat",
+      "hint": "The coat's been through a fire already. Take it through a fight.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Smooth Talker!",
@@ -2981,6 +3373,16 @@
       }
     },
     {
+      "name": "Timber!",
+      "group": "combat",
+      "hint": "Something big. Something with a trunk for a neck. Yell it.",
+      "loot": "",
+      "nightly": false,
+      "earned_by": [],
+      "touched": false,
+      "progress_by_pc": {}
+    },
+    {
       "name": "Took It on the Ward!",
       "group": "combat",
       "hint": "The hit happened. The hurt did not.",
@@ -3152,8 +3554,8 @@
     },
     {
       "name": "Walking Tank!",
-      "group": "stunts",
-      "hint": "Now take three hits in one fight in the heavy armour, or survive one at 1 HP.",
+      "group": "combat",
+      "hint": "Plate is a promise. Make it keep one.",
       "loot": "",
       "nightly": false,
       "earned_by": [],
@@ -3161,19 +3563,19 @@
       "progress_by_pc": {
         "Lety": [
           0,
-          3
+          5
         ],
         "Edwardo": [
           0,
-          3
+          5
         ],
         "Nic": [
           0,
-          3
+          5
         ],
         "Rae": [
           0,
-          3
+          5
         ]
       }
     },
@@ -3282,16 +3684,6 @@
       "name": "Yes, Chef!",
       "group": "showbiz",
       "hint": "Score 15+ in one service. Guaranteed: cooking. Your kitchen chooses the participating claimant.",
-      "loot": "",
-      "nightly": false,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
-    },
-    {
-      "name": "You'll Shoot Your Eye Out!",
-      "group": "combat",
-      "hint": "Now kill something in a fight with the BB gun. Yes, really.",
       "loot": "",
       "nightly": false,
       "earned_by": [],

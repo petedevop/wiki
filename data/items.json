@@ -522,7 +522,7 @@
       "id": "item-arrows",
       "title": "Arrows",
       "subtitle": "",
-      "blurb": "pack 1.0 20 Source: items.yaml",
+      "blurb": "pack 1.0 20 () Source: items.yaml",
       "image": null
     },
     {
@@ -543,7 +543,7 @@
       "id": "item-backpack",
       "title": "Backpack",
       "subtitle": "",
-      "blurb": "worn 1.0 1 1 Source: items.yaml",
+      "blurb": "worn 1.0 1 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -564,7 +564,7 @@
       "id": "item-bandages",
       "title": "Bandages",
       "subtitle": "",
-      "blurb": "pack 1.0 5 Source: items.yaml",
+      "blurb": "pack 1.0 5 () Source: items.yaml",
       "image": null
     },
     {
@@ -606,7 +606,7 @@
       "id": "item-batteries",
       "title": "Batteries",
       "subtitle": "",
-      "blurb": "pack 1.0 4 Source: items.yaml",
+      "blurb": "pack 1.0 4 () Source: items.yaml",
       "image": null
     },
     {
@@ -627,7 +627,7 @@
       "id": "item-bedspring_mail",
       "title": "Bedspring Mail",
       "subtitle": "",
-      "blurb": "worn mediumarmour 2.0 1 torso 1 Source: items.yaml",
+      "blurb": "worn mediumarmour 2.0 1 torso 1 True (('slashing', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -648,7 +648,7 @@
       "id": "item-biker_leathers",
       "title": "Biker Leathers",
       "subtitle": "",
-      "blurb": "worn lightarmour 11 True 1.0 1 torso Source: items.yaml",
+      "blurb": "worn lightarmour 11 True 1.0 1 torso (('slashing', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -662,7 +662,7 @@
       "id": "item-binoculars",
       "title": "Binoculars",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -704,14 +704,14 @@
       "id": "item-boiler_plate",
       "title": "Boiler Plate",
       "subtitle": "",
-      "blurb": "worn heavyarmour 3.0 1 torso 2 Source: items.yaml",
+      "blurb": "worn heavyarmour 3.0 1 torso 2 13 True (('fire', 1),) Source: items.yaml",
       "image": null
     },
     {
       "id": "item-bolt_cutters",
       "title": "Bolt Cutters",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -753,7 +753,7 @@
       "id": "item-bottled_water",
       "title": "Bottled Water",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -774,7 +774,7 @@
       "id": "item-boxer_shorts",
       "title": "Boxer Shorts",
       "subtitle": "",
-      "blurb": "worn 1 legs Source: items.yaml",
+      "blurb": "worn 1 legs () Source: items.yaml",
       "image": null
     },
     {
@@ -865,7 +865,7 @@
       "id": "item-buckler",
       "title": "Buckler",
       "subtitle": "",
-      "blurb": "hand 1 shields 1 1.0 1 Source: items.yaml",
+      "blurb": "hand 1 shields 1 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -907,7 +907,7 @@
       "id": "item-caltrops",
       "title": "Caltrops",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -921,7 +921,7 @@
       "id": "item-canned_food",
       "title": "Canned Food",
       "subtitle": "",
-      "blurb": "pack 1.0 3 Source: items.yaml",
+      "blurb": "pack 1.0 3 () Source: items.yaml",
       "image": null
     },
     {
@@ -1054,7 +1054,7 @@
       "id": "item-coin",
       "title": "Coin",
       "subtitle": "",
-      "blurb": "pack 1.0 100 100 Source: items.yaml",
+      "blurb": "pack 1.0 100 100 () Source: items.yaml",
       "image": null
     },
     {
@@ -1194,7 +1194,7 @@
       "id": "item-crowbar",
       "title": "Crowbar",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1264,7 +1264,7 @@
       "id": "item-dead_smartphone",
       "title": "Dead Smartphone",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1341,7 +1341,7 @@
       "id": "item-dreadnought_plate",
       "title": "Dreadnought Plate",
       "subtitle": "",
-      "blurb": "worn heavyarmour 14 3.0 1 torso 2 Source: items.yaml",
+      "blurb": "worn heavyarmour 14 3.0 1 torso 2 15 True (('fire', 2),) Source: items.yaml",
       "image": null
     },
     {
@@ -1355,14 +1355,14 @@
       "id": "item-duct_tape",
       "title": "Duct Tape",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
       "id": "item-duffel_bag",
       "title": "Duffel Bag",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1432,7 +1432,7 @@
       "id": "item-energy_drink",
       "title": "Energy Drink",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1537,7 +1537,7 @@
       "id": "item-first_aid_kit",
       "title": "First Aid Kit",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1551,14 +1551,14 @@
       "id": "item-flashlight",
       "title": "Flashlight",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
       "id": "item-flask_or_bottle",
       "title": "Flask Or Bottle",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1572,7 +1572,7 @@
       "id": "item-football_shoulder_pads",
       "title": "Football Shoulder Pads",
       "subtitle": "",
-      "blurb": "worn 1.0 1 arms 1 Source: items.yaml",
+      "blurb": "worn 1.0 1 arms 1 (('bludgeoning', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -1621,14 +1621,14 @@
       "id": "item-gas_mask",
       "title": "Gas Mask",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
       "id": "item-gem",
       "title": "Gem",
       "subtitle": "",
-      "blurb": "pack 1.0 10 Source: items.yaml",
+      "blurb": "pack 1.0 10 () Source: items.yaml",
       "image": null
     },
     {
@@ -1677,7 +1677,7 @@
       "id": "item-glow_sticks",
       "title": "Glow Sticks",
       "subtitle": "",
-      "blurb": "pack 1.0 3 Source: items.yaml",
+      "blurb": "pack 1.0 3 () Source: items.yaml",
       "image": null
     },
     {
@@ -1775,7 +1775,7 @@
       "id": "item-grappling_hook",
       "title": "Grappling Hook",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1824,7 +1824,7 @@
       "id": "item-hacksaw",
       "title": "Hacksaw",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1852,7 +1852,7 @@
       "id": "item-hard_hat",
       "title": "Hard Hat",
       "subtitle": "",
-      "blurb": "worn 1.0 1 head 1 Source: items.yaml",
+      "blurb": "worn 1.0 1 head 1 (('bludgeoning', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -1880,7 +1880,7 @@
       "id": "item-head_torch",
       "title": "Head Torch",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -1922,7 +1922,7 @@
       "id": "item-hockey_chest_protector",
       "title": "Hockey Chest Protector",
       "subtitle": "",
-      "blurb": "worn mediumarmour 2.0 1 torso 1 Source: items.yaml",
+      "blurb": "worn mediumarmour 2.0 1 torso 1 (('bludgeoning', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -2034,7 +2034,7 @@
       "id": "item-jeans",
       "title": "Jeans",
       "subtitle": "",
-      "blurb": "worn 1 legs Source: items.yaml",
+      "blurb": "worn 1 legs () Source: items.yaml",
       "image": null
     },
     {
@@ -2048,7 +2048,7 @@
       "id": "item-kevlar_vest",
       "title": "Kevlar Vest",
       "subtitle": "",
-      "blurb": "worn heavyarmour 2.0 1 torso 2 Source: items.yaml",
+      "blurb": "worn heavyarmour 2.0 1 torso 2 (('piercing', 2),) Source: items.yaml",
       "image": null
     },
     {
@@ -2083,7 +2083,7 @@
       "id": "item-knee_pads",
       "title": "Knee Pads",
       "subtitle": "",
-      "blurb": "worn 1 legs 1 Source: items.yaml",
+      "blurb": "worn 1 legs 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2139,7 +2139,7 @@
       "id": "item-lanyard",
       "title": "Lanyard",
       "subtitle": "",
-      "blurb": "worn 1 gear Source: items.yaml",
+      "blurb": "worn 1 gear () Source: items.yaml",
       "image": null
     },
     {
@@ -2181,7 +2181,7 @@
       "id": "item-leather_jacket",
       "title": "Leather Jacket",
       "subtitle": "",
-      "blurb": "worn lightarmour 11 True 1.0 1 torso Source: items.yaml",
+      "blurb": "worn lightarmour 11 True 1.0 1 torso () Source: items.yaml",
       "image": null
     },
     {
@@ -2237,7 +2237,7 @@
       "id": "item-lockpick_set",
       "title": "Lockpick Set",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2363,7 +2363,7 @@
       "id": "item-mirror",
       "title": "Mirror",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2405,14 +2405,14 @@
       "id": "item-motorcycle_helmet",
       "title": "Motorcycle Helmet",
       "subtitle": "",
-      "blurb": "worn 1.0 1 head 1 Source: items.yaml",
+      "blurb": "worn 1.0 1 head 1 (('slashing', 1),) Source: items.yaml",
       "image": null
     },
     {
       "id": "item-motorcycle_jacket",
       "title": "Motorcycle Jacket",
       "subtitle": "",
-      "blurb": "worn lightarmour 11 True 1.0 1 torso Source: items.yaml",
+      "blurb": "worn lightarmour 11 True 1.0 1 torso (('slashing', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -2433,7 +2433,7 @@
       "id": "item-multitool",
       "title": "Multitool",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2517,7 +2517,7 @@
       "id": "item-painkillers",
       "title": "Painkillers",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2531,7 +2531,7 @@
       "id": "item-paracord_50",
       "title": "Paracord 50",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2580,7 +2580,7 @@
       "id": "item-pepper_spray",
       "title": "Pepper Spray",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2594,7 +2594,7 @@
       "id": "item-petrol_can",
       "title": "Petrol Can",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2622,7 +2622,7 @@
       "id": "item-pipe_bomb",
       "title": "Pipe Bomb",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2706,7 +2706,7 @@
       "id": "item-polaroid_camera",
       "title": "Polaroid Camera",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2804,7 +2804,7 @@
       "id": "item-power_bank",
       "title": "Power Bank",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -2867,7 +2867,7 @@
       "id": "item-protein_bars",
       "title": "Protein Bars",
       "subtitle": "",
-      "blurb": "pack 1.0 5 Source: items.yaml",
+      "blurb": "pack 1.0 5 () Source: items.yaml",
       "image": null
     },
     {
@@ -2979,7 +2979,7 @@
       "id": "item-rebar_spikes",
       "title": "Rebar Spikes",
       "subtitle": "",
-      "blurb": "pack 1.0 10 Source: items.yaml",
+      "blurb": "pack 1.0 10 () Source: items.yaml",
       "image": null
     },
     {
@@ -3077,14 +3077,14 @@
       "id": "item-riot_armor",
       "title": "Riot Armor",
       "subtitle": "",
-      "blurb": "worn heavyarmour 3.0 1 torso 2 Source: items.yaml",
+      "blurb": "worn heavyarmour 3.0 1 torso 2 12 True (('bludgeoning', 1),) Source: items.yaml",
       "image": null
     },
     {
       "id": "item-riot_helmet",
       "title": "Riot Helmet",
       "subtitle": "",
-      "blurb": "worn 1.0 1 head 1 Source: items.yaml",
+      "blurb": "worn 1.0 1 head 1 (('bludgeoning', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -3119,7 +3119,7 @@
       "id": "item-rope_60",
       "title": "Rope 60",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -3315,7 +3315,7 @@
       "id": "item-shield",
       "title": "Shield",
       "subtitle": "",
-      "blurb": "hand 1 shields 2 1.0 1 Source: items.yaml",
+      "blurb": "hand 1 shields 2 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -3350,7 +3350,7 @@
       "id": "item-shopping_trolley",
       "title": "Shopping Trolley",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -3371,7 +3371,7 @@
       "id": "item-shotgun_shells",
       "title": "Shotgun Shells",
       "subtitle": "",
-      "blurb": "pack 1.0 20 bullets Source: items.yaml",
+      "blurb": "pack 1.0 20 bullets () Source: items.yaml",
       "image": null
     },
     {
@@ -3462,7 +3462,7 @@
       "id": "item-ski_goggles",
       "title": "Ski Goggles",
       "subtitle": "",
-      "blurb": "worn 1 head Source: items.yaml",
+      "blurb": "worn 1 head () Source: items.yaml",
       "image": "assets/img/item/ski_goggles.webp"
     },
     {
@@ -3476,7 +3476,7 @@
       "id": "item-sleeping_bag",
       "title": "Sleeping Bag",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -3658,7 +3658,7 @@
       "id": "item-space_blanket",
       "title": "Space Blanket",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -3700,7 +3700,7 @@
       "id": "item-speargun_bolts",
       "title": "Speargun Bolts",
       "subtitle": "",
-      "blurb": "pack 1.0 20 Source: items.yaml",
+      "blurb": "pack 1.0 20 () Source: items.yaml",
       "image": null
     },
     {
@@ -3721,14 +3721,14 @@
       "id": "item-splint",
       "title": "Splint",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
       "id": "item-spray_paint",
       "title": "Spray Paint",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -3917,7 +3917,7 @@
       "id": "item-sunglasses",
       "title": "Sunglasses",
       "subtitle": "",
-      "blurb": "worn 1 gear Source: items.yaml",
+      "blurb": "worn 1 gear () Source: items.yaml",
       "image": null
     },
     {
@@ -4435,7 +4435,7 @@
       "id": "item-trail_ration",
       "title": "Trail Ration",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -4449,7 +4449,7 @@
       "id": "item-trash_bags",
       "title": "Trash Bags",
       "subtitle": "",
-      "blurb": "pack 1.0 10 Source: items.yaml",
+      "blurb": "pack 1.0 10 () Source: items.yaml",
       "image": null
     },
     {
@@ -4589,7 +4589,7 @@
       "id": "item-walkie_talkies",
       "title": "Walkie Talkies",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -4610,7 +4610,7 @@
       "id": "item-water_filter_bottle",
       "title": "Water Filter Bottle",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -4631,7 +4631,7 @@
       "id": "item-welding_gloves",
       "title": "Welding Gloves",
       "subtitle": "",
-      "blurb": "worn 1 hands 1 Source: items.yaml",
+      "blurb": "worn 1 hands 1 (('fire', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -4687,7 +4687,7 @@
       "id": "item-wind_up_torch",
       "title": "Wind Up Torch",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     },
     {
@@ -4701,7 +4701,7 @@
       "id": "item-work_gloves",
       "title": "Work Gloves",
       "subtitle": "",
-      "blurb": "worn 1 hands Source: items.yaml",
+      "blurb": "worn 1 hands () Source: items.yaml",
       "image": null
     },
     {
@@ -4729,7 +4729,7 @@
       "id": "item-wristwatch",
       "title": "Wristwatch",
       "subtitle": "",
-      "blurb": "worn 1 gear Source: items.yaml",
+      "blurb": "worn 1 gear () Source: items.yaml",
       "image": null
     },
     {
@@ -4750,14 +4750,14 @@
       "id": "item-zip_ties",
       "title": "Zip Ties",
       "subtitle": "",
-      "blurb": "pack 1.0 20 Source: items.yaml",
+      "blurb": "pack 1.0 20 () Source: items.yaml",
       "image": null
     },
     {
       "id": "item-zippo_lighter",
       "title": "Zippo Lighter",
       "subtitle": "",
-      "blurb": "pack 1.0 1 Source: items.yaml",
+      "blurb": "pack 1.0 1 () Source: items.yaml",
       "image": null
     }
   ]
