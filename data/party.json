@@ -7,7 +7,7 @@
       "class_name": "Tsukumogami Smith",
       "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/FUFltKibo2Hs2mV8FnUM_g?v=1790720918407475591",
+      "portrait_url": "/media/hjwYHlv7CDtZzoUl1E2wLg?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -75,7 +75,7 @@
       "class_name": "The Programmer",
       "level": 1,
       "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/QkohZjwZo6EU_P9T9bvg_g?v=1790800019726852655",
+      "portrait_url": "/media/Nvy9yptZaAxr4ba1hi-C_Q?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -144,7 +144,7 @@
       "class_name": "Overcompensating Mech",
       "level": 1,
       "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/ZOwkg_Hl4o6dE4hN6QBJ-g?v=1790721129428895712",
+      "portrait_url": "/media/fWxwo0YcFRJCmFNvdOeyWA?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -213,7 +213,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/KeDyCYwoJ_cyDxFpKW4swA",
+      "portrait_url": "/media/wRpwoEHQBbwyla33RmjZOg",
       "about": [],
       "powers": [
         {
@@ -221,10 +221,10 @@
           "kind": "spell"
         }
       ],
-      "hp": 16,
+      "hp": 14,
       "hp_max": 16,
       "temp_hp": 2,
-      "ac": 16,
+      "ac": 15,
       "abilities": [
         {
           "id": "STR",
@@ -252,12 +252,15 @@
           "modifier": 5
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Strained",
+        "Keen"
+      ],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Rae",
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">👖 Terrace Waders</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Electric Eel</li>\n<li class=\"party-gear-row\">🎒 Green Room Mop</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Salt Lick Crystal</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👖 Terrace Waders</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Electric Eel</li>\n<li class=\"party-gear-row\">🎒 Green Room Mop</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Healing Potion</span></li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 Rebar</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Salt Lick Crystal</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Snail-Shell Shield</span></li>\n</ul>\n</div>",
       "xp": 1200,
       "alignment": "Lawful",
       "title": "",

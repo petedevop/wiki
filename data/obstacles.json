@@ -308,6 +308,16 @@
       ]
     },
     {
+      "id": "obstacle-the_back_bakery_door",
+      "title": "The Back Bakery Door",
+      "kind": "Scenery",
+      "room": 302,
+      "room_title": "Gingerbread Town",
+      "blurb": "A door that was not there before, chalked CREW ONLY.",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-the_bitten_merlon",
       "title": "The Bitten Merlon",
       "kind": "Scenery",
@@ -786,6 +796,16 @@
           ]
         }
       ]
+    },
+    {
+      "id": "obstacle-the_rigging_hatch",
+      "title": "The Rigging Hatch",
+      "kind": "Scenery",
+      "room": 304,
+      "room_title": "Last Set",
+      "blurb": "A door that was not there before, chalked CREW ONLY.",
+      "image": null,
+      "options": []
     },
     {
       "id": "obstacle-the_abandoned_nest",
@@ -1589,6 +1609,16 @@
       ]
     },
     {
+      "id": "obstacle-the_crew_walkway",
+      "title": "The Crew Walkway",
+      "kind": "Scenery",
+      "room": 311,
+      "room_title": "Dish Pit",
+      "blurb": "A door that was not there before, chalked CREW ONLY.",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-the_grease_trap_hatch",
       "title": "The Grease Trap Hatch",
       "kind": "Scenery",
@@ -1821,6 +1851,16 @@
           ]
         }
       ]
+    },
+    {
+      "id": "obstacle-the_drone_tunnel",
+      "title": "The Drone Tunnel",
+      "kind": "Scenery",
+      "room": 314,
+      "room_title": "Comb Gate",
+      "blurb": "A door that was not there before, chalked CREW ONLY.",
+      "image": null,
+      "options": []
     },
     {
       "id": "obstacle-the_glazed_walls",
@@ -2194,6 +2234,16 @@
           ]
         }
       ]
+    },
+    {
+      "id": "obstacle-the_flue_door",
+      "title": "The Flue Door",
+      "kind": "Scenery",
+      "room": 319,
+      "room_title": "Smokehouse",
+      "blurb": "A door that was not there before, chalked CREW ONLY.",
+      "image": null,
+      "options": []
     },
     {
       "id": "obstacle-the_hanging_rail",

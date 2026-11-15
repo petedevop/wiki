@@ -137,6 +137,15 @@
           "earned_by": []
         },
         {
+          "name": "In a While, Crocodile!",
+          "hint": "Everyone's easier to deal with once they've had a drink.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
+        },
+        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -166,6 +175,15 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
+          ]
+        },
+        {
+          "name": "You've Discovered Fire!",
+          "hint": "Again. Show your work.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
           ]
         },
         {
@@ -1022,6 +1040,13 @@
             0,
             2
           ],
+          "earned_by": []
+        },
+        {
+          "name": "Goliath Down!",
+          "hint": "A pebble. A giant. You know how this goes.",
+          "group": "combat",
+          "progress": "",
           "earned_by": []
         },
         {
@@ -1343,6 +1368,15 @@
           "earned_by": []
         },
         {
+          "name": "In a While, Crocodile!",
+          "hint": "Everyone's easier to deal with once they've had a drink.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
+        },
+        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -1372,6 +1406,15 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
+          ]
+        },
+        {
+          "name": "You've Discovered Fire!",
+          "hint": "Again. Show your work.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
           ]
         },
         {
@@ -2228,6 +2271,13 @@
             0,
             2
           ],
+          "earned_by": []
+        },
+        {
+          "name": "Goliath Down!",
+          "hint": "A pebble. A giant. You know how this goes.",
+          "group": "combat",
+          "progress": "",
           "earned_by": []
         },
         {
@@ -2549,6 +2599,15 @@
           "earned_by": []
         },
         {
+          "name": "In a While, Crocodile!",
+          "hint": "Everyone's easier to deal with once they've had a drink.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
+        },
+        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -2578,6 +2637,15 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
+          ]
+        },
+        {
+          "name": "You've Discovered Fire!",
+          "hint": "Again. Show your work.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
           ]
         },
         {
@@ -3437,6 +3505,13 @@
           "earned_by": []
         },
         {
+          "name": "Goliath Down!",
+          "hint": "A pebble. A giant. You know how this goes.",
+          "group": "combat",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Boomstick!",
           "hint": "Two in one fight. Groovy.",
           "group": "combat",
@@ -3622,18 +3697,18 @@
       "pc_id": "pete_rae",
       "pc_name": "Rae",
       "story": [
-        "Rae managed to endure at The Eel River",
-        "Dry Jack turned Ally",
-        "Rae completed the quest Water for Everyone.",
-        "The party met Dry Jack",
-        "Rae gave Terrace Waders to Rae",
-        "Rae changed The Pool Wheel",
-        "Rae managed to cross at The Pool Wheel",
-        "The Hearth Clan turned Hostile",
-        "Ochre turned Hostile",
-        "The Hearth Clan turned Wary",
-        "Rae killed Ochre",
-        "Chanterelle turned Hostile"
+        "Rae earned Smooth Talker!.",
+        "Ochre turned Wary",
+        "Rae earned Prop Department!.",
+        "Rae earned In a While, Crocodile!.",
+        "Rae managed to read at The Hunting Wall",
+        "Rae managed to pick at The First Fire",
+        "Rae managed to persuade at Tell the Hunt",
+        "Rae managed to investigate at The Hunting Wall",
+        "Rae gave Clay Ember Pot to Rae",
+        "Rae managed to cut at The First Fire",
+        "Rae managed to smash at The Soft Terraces",
+        "Rae managed to search at The Picker's Basket"
       ],
       "achievements": [
         {
@@ -3755,6 +3830,15 @@
           "earned_by": []
         },
         {
+          "name": "In a While, Crocodile!",
+          "hint": "Everyone's easier to deal with once they've had a drink.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
+          ]
+        },
+        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -3784,6 +3868,15 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
+          ]
+        },
+        {
+          "name": "You've Discovered Fire!",
+          "hint": "Again. Show your work.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": [
+            "Rae"
           ]
         },
         {
@@ -3898,13 +3991,13 @@
           "hint": "The cave, the sow, the heart, home. In that order, all you.",
           "group": "combat",
           "progress": [
-            0,
+            1,
             4
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": false,
+              "met": true,
               "label": "Reach the Fungus Cave (309)",
               "bonus": false
             },
@@ -3940,7 +4033,7 @@
           "hint": "The walls are thin. The kitchen is loud. Somebody is always talking.",
           "group": "dungeon",
           "progress": [
-            0,
+            1,
             3
           ],
           "earned_by": []
@@ -4445,7 +4538,7 @@
           "hint": "Locks, ropes, levers. Touch everything. Sign the waiver.",
           "group": "evening",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": []
@@ -4455,7 +4548,7 @@
           "hint": "Every prop on this set is a trap. Use all of them.",
           "group": "evening",
           "progress": [
-            0,
+            1,
             3
           ],
           "earned_by": []
@@ -4495,7 +4588,7 @@
           "hint": "Behind the curtain. Their hands. Four seconds, and you come out as ordered.",
           "group": "evening",
           "progress": [
-            0,
+            2,
             10
           ],
           "earned_by": []
@@ -4515,7 +4608,7 @@
           "hint": "The sponsors are very proud of your consumer confidence.",
           "group": "evening",
           "progress": [
-            0,
+            15,
             50
           ],
           "earned_by": []
@@ -4545,7 +4638,7 @@
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
           "progress": [
-            0,
+            1,
             5
           ],
           "earned_by": []
@@ -4620,6 +4713,13 @@
             0,
             3
           ],
+          "earned_by": []
+        },
+        {
+          "name": "Knife Skills!",
+          "hint": "Chef's kiss is a twenty.",
+          "group": "combat",
+          "progress": "",
           "earned_by": []
         },
         {

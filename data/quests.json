@@ -110,7 +110,7 @@
         },
         {
           "label": "Learn the fire drill",
-          "met": false
+          "met": true
         },
         {
           "label": "Go down to the Fungus Cave (309)",
@@ -138,7 +138,7 @@
         },
         {
           "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": false
+          "met": true
         }
       ]
     },
@@ -286,7 +286,7 @@
         },
         {
           "label": "Learn the fire drill",
-          "met": false
+          "met": true
         },
         {
           "label": "Go down to the Fungus Cave (309)",
@@ -314,7 +314,7 @@
         },
         {
           "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": false
+          "met": true
         }
       ]
     },
@@ -462,7 +462,7 @@
         },
         {
           "label": "Learn the fire drill",
-          "met": false
+          "met": true
         },
         {
           "label": "Go down to the Fungus Cave (309)",
@@ -490,7 +490,7 @@
         },
         {
           "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": false
+          "met": true
         }
       ]
     },
@@ -638,7 +638,7 @@
         },
         {
           "label": "Learn the fire drill",
-          "met": false
+          "met": true
         },
         {
           "label": "Go down to the Fungus Cave (309)",
@@ -666,7 +666,7 @@
         },
         {
           "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": false
+          "met": true
         }
       ]
     },

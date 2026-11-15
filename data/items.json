@@ -1331,6 +1331,13 @@
       "image": "assets/img/item/double_cream_sorbet.webp"
     },
     {
+      "id": "item-doughty_s_rolling_pin",
+      "title": "Doughty's Rolling Pin",
+      "subtitle": "Floor 2",
+      "blurb": "A marble rolling pin, cool in the hand and heavier than it looks.",
+      "image": null
+    },
+    {
       "id": "item-drag_cage",
       "title": "Drag Cage",
       "subtitle": "Floor 2",
@@ -1450,6 +1457,13 @@
       "image": "assets/img/item/enhanced_pet_biscuit.webp"
     },
     {
+      "id": "item-epic_fan_box",
+      "title": "Epic Fan Box",
+      "subtitle": "",
+      "blurb": "Fan mail from a legendary Popularity milestone.",
+      "image": null
+    },
+    {
       "id": "item-eris_snake_egg",
       "title": "Eris' Snake Egg",
       "subtitle": "Floor 2",
@@ -1469,6 +1483,13 @@
       "subtitle": "Floor 2",
       "blurb": "A magical cup that supports the wearer and grants a beautiful falsetto.",
       "image": "assets/img/item/falsetto_codpiece.webp"
+    },
+    {
+      "id": "item-fan_box",
+      "title": "Fan Box",
+      "subtitle": "",
+      "blurb": "Fan mail from a Popularity milestone.",
+      "image": null
     },
     {
       "id": "item-fan_s_cursed_lucky_socks",
@@ -2962,6 +2983,13 @@
       "image": "assets/img/item/raptor_tartare.webp"
     },
     {
+      "id": "item-rare_fan_box",
+      "title": "Rare Fan Box",
+      "subtitle": "",
+      "blurb": "Fan mail from a big Popularity milestone.",
+      "image": null
+    },
+    {
       "id": "item-rat_meat",
       "title": "Rat Meat",
       "subtitle": "Floor 2",
@@ -3142,6 +3170,13 @@
       "subtitle": "Floor 2",
       "blurb": "A pale wobbling mass from the hive's core, warm, faintly glowing.",
       "image": "assets/img/item/royal_jelly.webp"
+    },
+    {
+      "id": "item-royal_jelly_stinger",
+      "title": "Royal Jelly Stinger",
+      "subtitle": "Floor 2",
+      "blurb": "A drone's stinger as long as a short sword, sealed in amber jelly.",
+      "image": null
     },
     {
       "id": "item-rubber_chicken_of_remorse",
@@ -3585,6 +3620,13 @@
       "image": "assets/img/item/smokehide_coat.webp"
     },
     {
+      "id": "item-smokehouse_cured_vest",
+      "title": "Smokehouse Cured Vest",
+      "subtitle": "Floor 2",
+      "blurb": "A vest of hickory-smoked hide, stiff as a board and smelling like a very good Sunday.",
+      "image": null
+    },
+    {
       "id": "item-snail_foot",
       "title": "Snail Foot",
       "subtitle": "Floor 2",
@@ -4012,6 +4054,13 @@
       "image": "assets/img/item/terraformer.webp"
     },
     {
+      "id": "item-tess_s_rigger_jacket",
+      "title": "Tess's Rigger Jacket",
+      "subtitle": "Floor 2",
+      "blurb": "A black rigger's jacket with forty pockets and a laminated all-access pass in the lining.",
+      "image": null
+    },
+    {
       "id": "item-the_alpha_s_haunch",
       "title": "The Alpha's Haunch",
       "subtitle": "Floor 2",
@@ -4283,6 +4332,13 @@
       "subtitle": "Floor 2",
       "blurb": "Explosives go off whenever you are near them.",
       "image": "assets/img/item/the_sighing_bomb_satchel.webp"
+    },
+    {
+      "id": "item-the_strike_ladle",
+      "title": "The Strike Ladle",
+      "subtitle": "Floor 2",
+      "blurb": "A dented steel ladle with eight yellow glove prints worn into the grip.",
+      "image": null
     },
     {
       "id": "item-the_subzero_bull_s_horn",
