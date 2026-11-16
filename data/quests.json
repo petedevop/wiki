@@ -98,6 +98,44 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "The Act Nobody Survives!",
+      "giver": "Madame Sabatier",
+      "gp": 0,
+      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Open at the Knife-Throwing Tent (313)",
+          "met": true
+        },
+        {
+          "label": "Throw a knife true",
+          "met": true
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Come out of the pit with something ripe",
+          "met": false
+        },
+        {
+          "label": "Climb to the Canopy Market (318)",
+          "met": false
+        },
+        {
+          "label": "Get the Monkey Wine",
+          "met": false
+        },
+        {
+          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "The First Fire!",
       "giver": "Ochre",
       "gp": 110,
@@ -274,6 +312,44 @@
     },
     {
       "pc_name": "Lety",
+      "name": "The Act Nobody Survives!",
+      "giver": "Madame Sabatier",
+      "gp": 0,
+      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Open at the Knife-Throwing Tent (313)",
+          "met": true
+        },
+        {
+          "label": "Throw a knife true",
+          "met": true
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Come out of the pit with something ripe",
+          "met": false
+        },
+        {
+          "label": "Climb to the Canopy Market (318)",
+          "met": false
+        },
+        {
+          "label": "Get the Monkey Wine",
+          "met": false
+        },
+        {
+          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "The First Fire!",
       "giver": "Ochre",
       "gp": 110,
@@ -450,6 +526,44 @@
     },
     {
       "pc_name": "Nic",
+      "name": "The Act Nobody Survives!",
+      "giver": "Madame Sabatier",
+      "gp": 0,
+      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Open at the Knife-Throwing Tent (313)",
+          "met": true
+        },
+        {
+          "label": "Throw a knife true",
+          "met": true
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Come out of the pit with something ripe",
+          "met": false
+        },
+        {
+          "label": "Climb to the Canopy Market (318)",
+          "met": false
+        },
+        {
+          "label": "Get the Monkey Wine",
+          "met": false
+        },
+        {
+          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "The First Fire!",
       "giver": "Ochre",
       "gp": 110,
@@ -620,6 +734,44 @@
         },
         {
           "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "The Act Nobody Survives!",
+      "giver": "Madame Sabatier",
+      "gp": 0,
+      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Open at the Knife-Throwing Tent (313)",
+          "met": true
+        },
+        {
+          "label": "Throw a knife true",
+          "met": true
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Come out of the pit with something ripe",
+          "met": false
+        },
+        {
+          "label": "Climb to the Canopy Market (318)",
+          "met": false
+        },
+        {
+          "label": "Get the Monkey Wine",
+          "met": false
+        },
+        {
+          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
           "met": false
         }
       ]

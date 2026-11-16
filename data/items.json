@@ -4687,7 +4687,7 @@
       "id": "item-welding_gloves",
       "title": "Welding Gloves",
       "subtitle": "",
-      "blurb": "worn 1 hands 1 (('fire', 1),) Source: items.yaml",
+      "blurb": "worn 1 arms 1 (('fire', 1),) Source: items.yaml",
       "image": null
     },
     {
@@ -4757,7 +4757,7 @@
       "id": "item-work_gloves",
       "title": "Work Gloves",
       "subtitle": "",
-      "blurb": "worn 1 hands () Source: items.yaml",
+      "blurb": "worn 1 arms () Source: items.yaml",
       "image": null
     },
     {

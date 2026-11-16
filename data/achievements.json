@@ -140,18 +140,18 @@
           6
         ],
         "Rae": [
-          0,
+          2,
           6
         ]
       },
       "steps": [
         {
-          "met": false,
+          "met": true,
           "label": "Reach the Comb Gate (314)",
           "bonus": false
         },
         {
-          "met": false,
+          "met": true,
           "label": "Get through the Wax Door",
           "bonus": false
         },
@@ -199,7 +199,7 @@
           50
         ],
         "Rae": [
-          15,
+          0,
           50
         ]
       }
@@ -508,13 +508,13 @@
           7
         ],
         "Rae": [
-          0,
+          1,
           7
         ]
       },
       "steps": [
         {
-          "met": false,
+          "met": true,
           "label": "Start at The Film Set (303)",
           "bonus": false
         },
@@ -638,7 +638,7 @@
           10
         ],
         "Rae": [
-          2,
+          1,
           10
         ]
       }
@@ -715,7 +715,7 @@
           5
         ],
         "Rae": [
-          0,
+          1,
           5
         ]
       }
@@ -772,7 +772,7 @@
           3
         ],
         "Rae": [
-          1,
+          0,
           3
         ]
       }
@@ -1034,7 +1034,7 @@
           2
         ],
         "Rae": [
-          0,
+          1,
           2
         ]
       },
@@ -1045,8 +1045,8 @@
           "bonus": false
         },
         {
-          "met": false,
-          "label": "",
+          "met": true,
+          "label": "enter",
           "bonus": false
         }
       ]
@@ -1567,14 +1567,14 @@
           3
         ],
         "Rae": [
-          0,
+          1,
           3
         ]
       },
       "steps": [
         {
-          "met": false,
-          "label": "",
+          "met": true,
+          "label": "Walk onto the Last Set (304)",
           "bonus": false
         },
         {
@@ -2109,8 +2109,10 @@
       "hint": "Read the labels. Or don't. Ratings are ratings.",
       "loot": "Silver Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Rae"
+      ],
+      "touched": true,
       "progress_by_pc": {
         "Lety": [
           0,
@@ -2125,7 +2127,7 @@
           3
         ],
         "Rae": [
-          0,
+          3,
           3
         ]
       }
@@ -2567,8 +2569,10 @@
       "hint": "A heartwarming moment. The AI is almost moved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Rae"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -2593,7 +2597,7 @@
           10
         ],
         "Rae": [
-          0,
+          2,
           10
         ]
       }
@@ -3024,7 +3028,7 @@
           5
         ],
         "Rae": [
-          0,
+          2,
           5
         ]
       }
@@ -3320,13 +3324,13 @@
           4
         ],
         "Rae": [
-          1,
+          0,
           4
         ]
       },
       "steps": [
         {
-          "met": true,
+          "met": false,
           "label": "Reach the Fungus Cave (309)",
           "bonus": false
         },
@@ -3426,7 +3430,7 @@
           5
         ],
         "Rae": [
-          0,
+          1,
           5
         ]
       }
@@ -3623,7 +3627,7 @@
           5
         ],
         "Rae": [
-          0,
+          1,
           5
         ]
       }
