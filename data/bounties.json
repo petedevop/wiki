@@ -30,7 +30,7 @@
         "specials": "Point; Worse"
       },
       "on_floor": true,
-      "image": "assets/img/npc/lucia_mar.webp"
+      "image": null
     },
     {
       "rank": 2,
@@ -56,7 +56,7 @@
         "specials": "Shield step; Plant"
       },
       "on_floor": true,
-      "image": "assets/img/npc/hekla.webp"
+      "image": null
     },
     {
       "rank": 3,
@@ -82,7 +82,7 @@
         "specials": "The answer; The scream"
       },
       "on_floor": true,
-      "image": "assets/img/npc/prepotente.webp"
+      "image": null
     },
     {
       "rank": 4,
@@ -108,7 +108,7 @@
         "specials": "Read it back; Already written"
       },
       "on_floor": true,
-      "image": "assets/img/npc/florin.webp"
+      "image": null
     },
     {
       "rank": 5,
@@ -134,7 +134,7 @@
         "specials": "On three; Messy"
       },
       "on_floor": true,
-      "image": "assets/img/npc/quan_ch.webp"
+      "image": null
     },
     {
       "rank": 6,
@@ -160,7 +160,7 @@
         "specials": "Pop quiz; Hold still"
       },
       "on_floor": true,
-      "image": "assets/img/npc/miss_quill.webp"
+      "image": null
     },
     {
       "rank": 7,
@@ -186,7 +186,7 @@
         "specials": "Look at me; Off-script"
       },
       "on_floor": true,
-      "image": "assets/img/npc/gwendolyn_duet.webp"
+      "image": null
     },
     {
       "rank": 8,
@@ -212,7 +212,7 @@
         "specials": "Offer; Blood price"
       },
       "on_floor": true,
-      "image": "assets/img/npc/signet.webp"
+      "image": null
     },
     {
       "rank": 9,
@@ -238,7 +238,7 @@
         "specials": "Already past; The gap"
       },
       "on_floor": true,
-      "image": "assets/img/npc/li_jun.webp"
+      "image": null
     },
     {
       "rank": 10,
@@ -264,7 +264,7 @@
         "specials": "The late hit; You first"
       },
       "on_floor": true,
-      "image": "assets/img/npc/li_na.webp"
+      "image": null
     },
     {
       "rank": 11,
@@ -290,7 +290,7 @@
         "specials": "Dazzle"
       },
       "on_floor": false,
-      "image": "assets/img/npc/elle_mcgibbons.webp"
+      "image": null
     },
     {
       "rank": 12,
@@ -315,7 +315,7 @@
         "attacks": "hand axe +5, 1d8"
       },
       "on_floor": false,
-      "image": "assets/img/npc/daniel_bautista.webp"
+      "image": null
     },
     {
       "rank": 13,
@@ -340,7 +340,7 @@
         "attacks": "revolver +6, 1d8"
       },
       "on_floor": false,
-      "image": "assets/img/npc/frank_q.webp"
+      "image": null
     },
     {
       "rank": 14,
@@ -366,7 +366,7 @@
         "specials": "Talk Circles"
       },
       "on_floor": false,
-      "image": "assets/img/npc/maggie_my.webp"
+      "image": null
     },
     {
       "rank": 15,
@@ -391,7 +391,7 @@
         "attacks": "short sword +4, 1d6"
       },
       "on_floor": false,
-      "image": "assets/img/npc/katia_grim.webp"
+      "image": null
     },
     {
       "rank": 16,
@@ -417,7 +417,7 @@
         "specials": "Rip Through"
       },
       "on_floor": false,
-      "image": "assets/img/npc/rosa_chainsaw_delgado.webp"
+      "image": null
     },
     {
       "rank": 17,
@@ -443,7 +443,7 @@
         "specials": "Wrecking Shoulder"
       },
       "on_floor": false,
-      "image": "assets/img/npc/big_tom_okafor.webp"
+      "image": null
     },
     {
       "rank": 18,
@@ -468,7 +468,7 @@
         "attacks": "hunting rifle +5, 1d10"
       },
       "on_floor": false,
-      "image": "assets/img/npc/dmitri_volkov.webp"
+      "image": null
     },
     {
       "rank": 19,
@@ -494,7 +494,7 @@
         "specials": "Last Mercy"
       },
       "on_floor": false,
-      "image": "assets/img/npc/sister_agnes_mbeki.webp"
+      "image": null
     },
     {
       "rank": 20,
@@ -519,7 +519,7 @@
         "attacks": "compact pistol (×2) +7, 1d6"
       },
       "on_floor": false,
-      "image": "assets/img/npc/kenji_two_tap_mori.webp"
+      "image": null
     }
   ]
 }

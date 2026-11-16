@@ -5,712 +5,560 @@
       "title": "Ade Okonkwo",
       "subtitle": "Floor 2",
       "blurb": "Said yes. Sleeves pinned. A man in a ripped cardigan and scrub trousers, both sleeves quilled to each other across his chest, glasses askew.",
-      "image": "assets/img/npc/ade_okonkwo.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-auntie_tamarind",
       "title": "Auntie Tamarind",
       "subtitle": "Floor 2",
       "blurb": "Mandrill. Runs the market. An old grey-bearded mandrill in a string of pearls and a silk dressing gown, sitting on a bamboo platform high in the jungle canopy, a jeweller's loupe in one eye.",
-      "image": "assets/img/npc/auntie_tamarind.webp",
-      "faction": "The Canopy Market",
-      "faction_image": "assets/img/faction/market.webp"
+      "image": null
     },
     {
       "id": "npc-big_tom_okafor",
       "title": "Big Tom Okafor",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Gentle giant. A gentle giant of a man with huge shoulders and a kind smile, holding a sledgehammer lightly in one hand, bright cartoon style, no text.",
-      "image": "assets/img/npc/big_tom_okafor.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-biscuit_bill",
       "title": "Biscuit Bill",
       "subtitle": "Floor 2",
       "blurb": "Volunteer. Regretting it. An adult gingerbread man in a paper bow tie strapped to a giant revolving dinner plate, one ear chipped away, crumbs beneath his boots.",
-      "image": "assets/img/npc/biscuit_bill.webp",
-      "faction": "Gingerbread Town",
-      "faction_image": "assets/img/faction/gingerbread.webp"
+      "image": null
     },
     {
       "id": "npc-button",
       "title": "Button",
       "subtitle": "Floor 2",
       "blurb": "Truffle pig on a leather lead. A small pink pig with muddy knees and a leather harness, its snout buried in white mushroom dust beside a steel trolley under cave work lights.",
-      "image": "assets/img/npc/button.webp",
-      "faction": "Gingerbread Town",
-      "faction_image": "assets/img/faction/gingerbread.webp"
+      "image": null
     },
     {
       "id": "npc-calloway_pruett",
       "title": "Calloway Pruett",
       "subtitle": "Floor 2",
       "blurb": "The Buyer. Acquisitions. A slim man in a spotless white suit and white gloves, holding a white clipboard, standing very straight in a roped-off VIP box above a jungle cooking stadium.",
-      "image": "assets/img/npc/calloway_pruett.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-camille_cho",
       "title": "Camille Cho",
       "subtitle": "Floor 2",
       "blurb": "Holds the ring light. A woman in a venue-staff polo and track pants, both hands on a scuffed ring light, the cable wrapped around one wrist, standing one step below a woman in a pageant sash.",
-      "image": "assets/img/npc/camille_cho.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-chanterelle",
       "title": "Chanterelle",
       "subtitle": "Floor 2",
       "blurb": "Mushroom sommelier. A tall slender mushroom-person with a frilled orange cap and gills, wearing a tiny velvet waistcoat, holding a silver tasting spoon.",
-      "image": "assets/img/npc/chanterelle.webp"
+      "image": null
     },
     {
       "id": "npc-chef_barnaby_crumb",
       "title": "Chef Barnaby Crumb",
       "subtitle": "Floor 2",
       "blurb": "TV chef. The Apprentice. Warm. A soft, pink, smiling man in his fifties in spotless chef's whites and a tall paper hat, half-moon glasses on a chain, a wooden spoon in one hand.",
-      "image": "assets/img/npc/chef_barnaby_crumb.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-chef_de_partie_olu",
       "title": "Chef de Partie Olu",
       "subtitle": "Floor 2",
       "blurb": "The Librarian. A former crawler. An adult man half normal height in an oversized white chef apron, bandaged arms, crumbs on his shoulders and a bee on his collar.",
-      "image": "assets/img/npc/chef_de_partie_olu.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-chef_ignatius_vell",
       "title": "Chef Ignatius Vell",
       "subtitle": "Floor 2",
       "blurb": "Head judge. The Master. Cold. A tall, very old man in a black chef's jacket buttoned to the throat, white hair swept back, a silver tasting spoon in one hand and a bitten red pepper in the other.",
-      "image": "assets/img/npc/chef_ignatius_vell.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-cinder",
       "title": "Cinder",
       "subtitle": "Floor 2",
       "blurb": "Rottweiler. Holds. A wet black rottweiler sitting square on a jungle path, scarred muzzle, a gold hoop for a tag, eyes on a woman's hand.",
-      "image": "assets/img/npc/cinder.webp"
+      "image": null
     },
     {
       "id": "npc-clove",
       "title": "Clove",
       "subtitle": "Floor 2",
       "blurb": "Runner. Lost the caravan. A skinny young runner in a torn catering-company polo and a headset with no battery, sitting on a burst sack of spices in a gingerbread street.",
-      "image": "assets/img/npc/clove.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-crackling",
       "title": "Crackling",
       "subtitle": "Floor 2",
       "blurb": "Gingerbread pig handler. An adult gingerbread woman with white icing eyebrows and a waxed apron, sitting in an open biscuit tin on a steel trolley.",
-      "image": "assets/img/npc/crackling.webp",
-      "faction": "Gingerbread Town",
-      "faction_image": "assets/img/faction/gingerbread.webp"
+      "image": null
     },
     {
       "id": "npc-craft_services_rat",
       "title": "Craft Services Rat",
       "subtitle": "Floor 2",
       "blurb": "Fat off the catering table. A plump brown rat clutching a stolen bagel on a film set catering table, gaffer tape stuck to its tail, cables and folding chairs behind it.",
-      "image": "assets/img/npc/craft_services_rat.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-daniel_bautista",
       "title": "Daniel Bautista",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Dependable. A solid steady man in a worn work vest with a calm focused expression, tools at his belt, arms crossed, bright cartoon style, no text.",
-      "image": "assets/img/npc/daniel_bautista.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-dmitri_volkov",
       "title": "Dmitri Volkov",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Patient hunter. A lean patient man in a weathered coat with a small notebook in one hand and a rifle slung over his shoulder, watching from cover, bright cartoon style, no text.",
-      "image": "assets/img/npc/dmitri_volkov.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-dolly_fenn",
       "title": "Dolly Fenn",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Beekeeper. Stuck. An adult woman in a scuffed white beekeeper's suit, veil pushed back, hands raised slowly, both boots glued to a wall of wax cells by drying amber.",
-      "image": "assets/img/npc/dolly_fenn.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-doughty_the_baker",
       "title": "Doughty the Baker",
       "subtitle": "Floor 2",
       "blurb": "Baker. The accuser. A broad gingerbread baker in a floury apron and a squashed white hat, red-eyed and furious, holding a gingerbread-man cookie cutter up like a badge in front of a crowd…",
-      "image": "assets/img/npc/doughty_the_baker.webp",
-      "faction": "Gingerbread Town",
-      "faction_image": "assets/img/faction/gingerbread.webp"
+      "image": null
     },
     {
       "id": "npc-dry_jack",
       "title": "Dry Jack",
       "subtitle": "Floor 2",
       "blurb": "Groundskeeper. Very thirsty. A shrivelled adult groundskeeper in a sun-bleached hi-vis vest, cracked rubber boots, a coiled hose over one shoulder and a cattle prod.",
-      "image": "assets/img/npc/dry_jack.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-elle_mcgibbons",
       "title": "Elle McGibbons",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Crowd favorite. A radiant woman in a sequined jacket waving to a cheering crowd, big confident grin, one fist raised, bright cartoon style, no text.",
-      "image": "assets/img/npc/elle_mcgibbons.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-florin",
       "title": "Florin",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Old, still counting. A grey-haired man in a stitched flak jacket and kitchen clogs, sword oiled, notebook in the off hand, standing where the floodlight misses.",
-      "image": "assets/img/npc/florin.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-frank_q",
       "title": "Frank Q",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Shooter. A tall quiet man in a long coat holding a revolver steadily with one hand, calm half-smile, bright cartoon style, no text.",
-      "image": "assets/img/npc/frank_q.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-grandpa_rusk",
       "title": "Grandpa Rusk",
       "subtitle": "Floor 2",
       "blurb": "Pensioner. Selling himself. A very old, very dry gingerbread man on a sunny bench, his piping faded to grey, a tray of his own crumbs on his knees.",
-      "image": "assets/img/npc/grandpa_rusk.webp",
-      "faction": "Gingerbread Town",
-      "faction_image": "assets/img/faction/gingerbread.webp"
+      "image": null
     },
     {
       "id": "npc-greta",
       "title": "Greta",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Streamer. Gretel. A round-faced young woman in a matching hoodie with her phone held up, mascara run, a half-eaten cream bun in her other hand, inside a giant gilded birdcage.",
-      "image": "assets/img/npc/greta.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-gummy_cub",
       "title": "Gummy Cub",
       "subtitle": "Floor 2",
       "blurb": "Sticky. Sulking. Soft. A translucent red gummy bear cub the size of a dog, wobbling on a candy-cobbled lane, sugar crystals on its back, round and cross.",
-      "image": "assets/img/npc/gummy_cub.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-gwendolyn_duet",
       "title": "Gwendolyn Duet",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Wants the watch. A woman in a scorched pageant sash and one heel, the other foot bare, smiling into a ring light held by another woman on the Stadium stairs.",
-      "image": "assets/img/npc/gwendolyn_duet.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-hans",
       "title": "Hans",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Streamer. Hansel. A plump young man in a too-tight hoodie with a ring light clipped to it, cheeks shiny with icing, grinning at a camera drone from inside a giant gilded birdcage.",
-      "image": "assets/img/npc/hans.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-hekla",
       "title": "Hekla",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Shield. Short count. A tall woman in a scavenged riot vest over a wool jumper, round shield scarred white, spear taped at the grip.",
-      "image": "assets/img/npc/hekla.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-hive_guards",
       "title": "Hive Guards",
       "subtitle": "Floor 2",
       "blurb": "The door staff. A line of terrier-sized honeybees standing shoulder to shoulder across a glowing amber wax wall inside a hollow tree, stingers lowered, antennae up.",
-      "image": "assets/img/npc/hive_guards.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-jonah_hale",
       "title": "Jonah Hale",
       "subtitle": "Floor 2",
       "blurb": "Collared. On her word. A broad man in a hotel bathrobe belted with a bike cable, a thin sponsor collar buckled at the throat, hands wrapped.",
-      "image": "assets/img/npc/jonah_hale.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-jungle_hornets",
       "title": "Jungle Hornets",
       "subtitle": "Floor 2",
       "blurb": "Raiders. Here for the grubs. Dog-sized yellow-and-black hornets forcing their way through a chewed hole in a wall of white honeycomb cells, mandibles open, daylight behind them.",
-      "image": "assets/img/npc/jungle_hornets.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-katia_grim",
       "title": "Katia Grim",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Adaptable. A determined woman with short hair and a scarred jaw standing in a battered crawler's kit, bright cartoon style, no text.",
-      "image": "assets/img/npc/katia_grim.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-kenji_two_tap_mori",
       "title": "Kenji \"Two-Tap\" Mori",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Two-Tap. A precise lean man in a sleek dark jacket with two fingers lifted in a measured gesture, a compact pistol in his other hand, bright cartoon style, no text.",
-      "image": "assets/img/npc/kenji_two_tap_mori.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-krakaren_spawn",
       "title": "Krakaren Spawn",
       "subtitle": "Floor 2",
       "blurb": "A white squid the size of a dog flopping across a wet shingle beach in a wrecked cave film set, a dozen more just like it behind.",
-      "image": "assets/img/npc/krakaren_spawn.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-lady_glac_the_jam_golem",
       "title": "Lady Glacé, the Jam Golem",
       "subtitle": "Floor 2",
       "blurb": "A hot rolling doughnut.",
-      "image": "assets/img/npc/lady_glac_the_jam_golem.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-li_jun",
       "title": "Li Jun",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Fast, and angry. A young man in a cook's apron over running kit, two knives reversed in his fists, already halfway through a step.",
-      "image": "assets/img/npc/li_jun.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-li_na",
       "title": "Li Na",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Quiet, then not. A young woman in the same running kit, apron strings tied like a sash, barefoot, one palm open and one fist closed, standing very still at the end of the bridge.",
-      "image": "assets/img/npc/li_na.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-lucia_mar",
       "title": "Lucia Mar",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Two rottweilers. An adult woman in a mud-streaked tracksuit and one gold hoop, one rottweiler sitting square at her knee and another already on the path behind the party.",
-      "image": "assets/img/npc/lucia_mar.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-madame_sabatier",
       "title": "Madame Sabatier",
       "subtitle": "Floor 2",
       "blurb": "Knife-thrower. Rival chef. An adult knife-thrower in a sequinned chef's jacket with a bandolier of cleavers across her chest, hair scraped up under a toque.",
-      "image": "assets/img/npc/madame_sabatier.webp"
+      "image": null
     },
     {
       "id": "npc-maggie_my",
       "title": "Maggie My",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Talker. A sharp-eyed woman with a wide smirk leaning on a table, one hand mid-gesture as if mid-argument, bright cartoon style, no text.",
-      "image": "assets/img/npc/maggie_my.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-mayor_snap",
       "title": "Mayor Snap",
       "subtitle": "Floor 2",
       "blurb": "The Mayor. Crumbling. An elderly gingerbread woman in a wheelbarrow wearing a gold chain of office, her brown glaze crazed all over like an old plate, one arm hanging by a thread of icing.",
-      "image": "assets/img/npc/mayor_snap.webp",
-      "faction": "Gingerbread Town",
-      "faction_image": "assets/img/faction/gingerbread.webp"
+      "image": null
     },
     {
       "id": "npc-miss_hem",
       "title": "Miss Hem",
       "subtitle": "Floor 2",
       "blurb": "Wardrobe mistress. An adult woman in a black slip and a tailor's apron, tape measure around her neck, a red remote in the pocket.",
-      "image": "assets/img/npc/miss_hem.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-miss_quill",
       "title": "Miss Quill",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Asks, then quills. A woman in a pencil skirt and a torn lab coat, porcupine quills bristling through the cloth at her wrists, glasses mended with tape, one hand on a plastic chair.",
-      "image": "assets/img/npc/miss_quill.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-mordecai",
       "title": "Mordecai",
       "subtitle": "Floor 2",
       "blurb": "Rat guildmaster. Fake caveman. A bearded rat-man a head shorter than a human, tired eyes, a leopard-print fur tunic over a threadbare vest, a foam club across his knees.",
-      "image": "assets/img/npc/mordecai.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-mother_treacle",
       "title": "Mother Treacle",
       "subtitle": "Floor 2",
       "blurb": "The Witch. Keeps the oven. A tall, thin old witch of dark treacle-glazed gingerbread with boiled-sweet eyes and long sugar-glass nails, a black iron peel in one hand.",
-      "image": "assets/img/npc/mother_treacle.webp",
-      "faction": "Gingerbread Town",
-      "faction_image": "assets/img/faction/gingerbread.webp"
+      "image": null
     },
     {
       "id": "npc-mott",
       "title": "Mott",
       "subtitle": "Floor 3",
       "blurb": "Ex-crawler, tutorial fail. A thin, hollow-eyed man in his thirties in a torn orange crawler jumpsuit with a sponsor patch ripped off the chest, sitting against the wall of a stone cell.",
-      "image": null,
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-ochre",
       "title": "Ochre",
       "subtitle": "Floor 2",
       "blurb": "Painter. The eldest. An old woman in a hide cloak, heavy-browed, hands stained red ochre to the wrist, a chewed-stick brush behind one ear.",
-      "image": "assets/img/npc/ochre.webp",
-      "faction": "The Hearth Clan",
-      "faction_image": "assets/img/faction/hearth.webp"
+      "image": null
     },
     {
       "id": "npc-old_cured_hide",
       "title": "Old Cured Hide",
       "subtitle": "Floor 2",
       "blurb": "Smoked bear-thing. Boss. A huge bear-shaped thing of black smoked hide and leather-hard muscle, cracked like old jerky, curls of smoke rising from its nostrils.",
-      "image": "assets/img/npc/old_cured_hide.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-pearl_eight_mitts",
       "title": "Pearl Eight-Mitts",
       "subtitle": "Floor 2",
       "blurb": "An octopus on dish duty. A large grey octopus standing in a shallow steel wash trough, eight yellow rubber gloves, a grease-spotted apron and a telephone tucked beneath one arm.",
-      "image": "assets/img/npc/pearl_eight_mitts.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-penny",
       "title": "Penny",
       "subtitle": "Floor 2",
       "blurb": "Coin stall. Tamarind's youngest. A small capuchin monkey in a bellhop's cap two sizes too big and a waistcoat sewn with bottle caps, biting a gold coin behind a bamboo counter of clubs, spears.",
-      "image": "assets/img/npc/penny.webp",
-      "faction": "The Canopy Market",
-      "faction_image": "assets/img/faction/market.webp"
+      "image": null
     },
     {
       "id": "npc-pilar_reyes",
       "title": "Pilar Reyes",
       "subtitle": "Floor 2",
       "blurb": "Fills the gap for Jun. A stocky woman in a lifeguard hoodie and pool shoes, a cooler lid strapped to one forearm with a bike inner tube, planted sideways on wet bridge planks.",
-      "image": "assets/img/npc/pilar_reyes.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-plodder",
       "title": "Plodder",
       "subtitle": "Floor 2",
       "blurb": "Herd beast. Walking dinner. A grey grazing beast the size of a minibus, armoured plates down its back, a toothless beak full of ferns, mild eyes, a small calf pressed against its leg.",
-      "image": "assets/img/npc/plodder.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-prepotente",
       "title": "Prepotente",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Goat. Too loud. A white goat in a child's backpack worn backwards, straps chewing his chest, mouth open mid-scream on a steel walkway above the canopy.",
-      "image": "assets/img/npc/prepotente.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-prop_goose",
       "title": "Prop Goose",
       "subtitle": "Floor 2",
       "blurb": "Escaped set dressing. A furious white goose wearing a tiny production lanyard, wings flared, hissing in a cluttered television green room, a chewed call sheet at its feet.",
-      "image": "assets/img/npc/prop_goose.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-quan_ch",
       "title": "Quan Ch",
       "subtitle": "Floor 2",
       "blurb": "Crawler. One clean hit. A lean man in a black tee and wrapped hands, one kitchen knife held low, two fingers already on the spine of the blade, floodlight cutting his shadow in half.",
-      "image": "assets/img/npc/quan_ch.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-queen_mellifera",
       "title": "Queen Mellifera",
       "subtitle": "Floor 2",
       "blurb": "Queen of the hive. Boss. A honeybee the size of a horse on a throne of dark old comb, a BEST IN SHOW rosette pinned to her thorax, a hundred workers grooming her.",
-      "image": "assets/img/npc/queen_mellifera.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-raptor",
       "title": "Raptor",
       "subtitle": "Floor 2",
       "blurb": "The pack. A lean grey raptor the size of a man, crouched in ferns under a floodlight, head cocked, a crew lanyard caught on its claw.",
-      "image": "assets/img/npc/raptor.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-ren_ibarra",
       "title": "Ren Ibarra",
       "subtitle": "Floor 2",
       "blurb": "Paid. Crossbow on the exit. A young man in a delivery jacket and one gardening glove, crossbow braced on a railing at the edge of the floodlight, one foot already turned toward the dark.",
-      "image": "assets/img/npc/ren_ibarra.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-rosa_chainsaw_delgado",
       "title": "Rosa \"Chainsaw\" Delgado",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Barricade breaker. A grinning muscular woman in a welding apron holding a roaring chainsaw, sparks flying, a smashed barricade behind her, bright cartoon style, no text.",
-      "image": "assets/img/npc/rosa_chainsaw_delgado.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-rosa_quint",
       "title": "Rosa Quint",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Florist. Upside down. An adult florist in a green apron hanging upside down in strangler vines over a jungle sinkhole, hair hanging down, arms folded, an empty secateurs holster on her belt.",
-      "image": "assets/img/npc/rosa_quint.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-saffron_wilde",
       "title": "Saffron Wilde",
       "subtitle": "Floor 2",
       "blurb": "The Showrunner. The Rebel. A lean, sunburnt woman in her forties in a khaki shirt with the sleeves torn off, a bandana, a survival knife on her belt and a frying pan in her hand.",
-      "image": "assets/img/npc/saffron_wilde.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-signet",
       "title": "Signet",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Asks for a kneel. A woman in a thrift-store coat with a royal crest picked out in thread, throat bare, a thin sponsor collar coiled in one palm.",
-      "image": "assets/img/npc/signet.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-sigrun",
       "title": "Sigrun",
       "subtitle": "Floor 2",
       "blurb": "Last of the count. A woman in a torn high-vis vest over a thermal, one boot off, ankle bound in a ripped sleeve, standing in a doorway with a length of pipe and her weight on the good leg.",
-      "image": "assets/img/npc/sigrun.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-sir_wobble_the_butterscotch_golem",
       "title": "Sir Wobble, the Butterscotch Golem",
       "subtitle": "Floor 2",
       "blurb": "A towering amber wobble. A translucent amber jelly giant in a steel freezer pen, spoons and a sealed gold tin suspended in its belly.",
-      "image": "assets/img/npc/sir_wobble_the_butterscotch_golem.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-sister_agnes_mbeki",
       "title": "Sister Agnes Mbeki",
       "subtitle": "Floor 2",
       "blurb": "Crawler. Merciful until not. A calm older woman in a plain grey habit with a heavy iron-bound staff and a kind but unyielding gaze, bright cartoon style, no text.",
-      "image": "assets/img/npc/sister_agnes_mbeki.webp",
-      "faction": "Fellow Crawlers",
-      "faction_image": "assets/img/faction/crawlers.webp"
+      "image": null
     },
     {
       "id": "npc-soot",
       "title": "Soot",
       "subtitle": "Floor 2",
       "blurb": "Rottweiler. On the exit. A brindle rottweiler standing side-on in a gap between trees, collar chewed white, weight already toward the dark behind him.",
-      "image": "assets/img/npc/soot.webp"
+      "image": null
     },
     {
       "id": "npc-tess",
       "title": "Tess",
       "subtitle": "Floor 2",
       "blurb": "Runner. Hiding. A small young woman in a RUNNER lanyard and a filthy crew fleece, curled up in the tail of a crashed helicopter, clutching a dead walkie.",
-      "image": "assets/img/npc/tess.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-the_alpha",
       "title": "The Alpha",
       "subtitle": "Floor 2",
       "blurb": "Raptor matriarch. Boss. A huge scarred raptor matriarch, twice the size of the others, feathered grey and rust, stepping out of the ferns into floodlight beside a crashed helicopter.",
-      "image": "assets/img/npc/the_alpha.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-the_brinejaw",
       "title": "The Brinejaw",
       "subtitle": "Floor 2",
       "blurb": "Crocodile. Wearing a bib. A bus-sized crocodile with pale salt crusting its armoured back, a filthy catering bib tied beneath its throat and a small hoofed carcass between its jaws.",
-      "image": "assets/img/npc/the_brinejaw.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-the_garlic_breadwinner",
       "title": "The Garlic Breadwinner",
       "subtitle": "Floor 2",
       "blurb": "A smoking, crust-armoured loaf.",
-      "image": "assets/img/npc/the_garlic_breadwinner.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-the_giant_snail",
       "title": "The Giant Snail",
       "subtitle": "Floor 2",
       "blurb": "Roaming dinner. Very slow. A shell the size of a car, wet brown and barnacled, blocking a jungle trail, a slime trail you could skate on.",
-      "image": "assets/img/npc/the_giant_snail.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-the_gourd_mother",
       "title": "The Gourd Mother",
       "subtitle": "Floor 2",
       "blurb": "Strangler plant. Boss. A towering knot of dark green strangler vines rooted in the floor of a jungle sinkhole, a vast swollen orange gourd for a heart.",
-      "image": "assets/img/npc/the_gourd_mother.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-the_great_white_krakaren",
       "title": "The Great White Krakaren",
       "subtitle": "Floor 2",
       "blurb": "A huge pale squid-thing, blind and milk-white, rising out of black water in a wrecked film set in a cave, tentacles wrapped round a lighting stand.",
-      "image": "assets/img/npc/the_great_white_krakaren.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-the_hearth_clan",
       "title": "The Hearth Clan",
       "subtitle": "Floor 2",
       "blurb": "Hunters. The first cooks. Eight broad, heavy-browed adults in hides and red ochre paint crouched round a fire under a limestone overhang, fire-hardened spears across their knees, mouths full.",
-      "image": "assets/img/npc/the_hearth_clan.webp",
-      "faction": "The Hearth Clan",
-      "faction_image": "assets/img/faction/hearth.webp"
+      "image": null
     },
     {
       "id": "npc-the_pickpocket_troop",
       "title": "The Pickpocket Troop",
       "subtitle": "Floor 2",
       "blurb": "Market monkeys. Thieves. A dozen capuchin monkeys in tiny waistcoats, some drunk, swinging between rope bridges high in the jungle canopy, one running off with a raw steak.",
-      "image": "assets/img/npc/the_pickpocket_troop.webp",
-      "faction": "The Canopy Market",
-      "faction_image": "assets/img/faction/market.webp"
+      "image": null
     },
     {
       "id": "npc-the_sommelier",
       "title": "The Sommelier",
       "subtitle": "Floor 2",
       "blurb": "The Library attendant. A blind pale creature in a velvet waistcoat behind a steel museum desk, four polished tasting spoons in its pocket and a brass bell under one hand.",
-      "image": "assets/img/npc/the_sommelier.webp",
-      "faction": "The Kitchen",
-      "faction_image": "assets/img/faction/kitchen.webp"
+      "image": null
     },
     {
       "id": "npc-the_subzero_bull",
       "title": "The Subzero Bull",
       "subtitle": "Floor 2",
       "blurb": "A frost-caked minotaur. A massive white-rimed minotaur in a steel freezer pen, ice hanging from its horns and a plume of frost pouring from its nostrils.",
-      "image": "assets/img/npc/the_subzero_bull.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-the_truffle_sow",
       "title": "The Truffle Sow",
       "subtitle": "Floor 2",
       "blurb": "Giant mushroom-crusted sow. A sow the size of a delivery van in a limestone cave, fungal plates covering her eyes, pale tusks lowered over a straight furrow between yellow puffballs.",
-      "image": "assets/img/npc/the_truffle_sow.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     },
     {
       "id": "npc-vine_slug",
       "title": "Vine Slug",
       "subtitle": "Floor 2",
       "blurb": "Slow. Slippery. Practice. A fat, glistening green slug the length of a forearm, draped over a jungle vine, trailing thick slime, harmless little eye stalks swivelling.",
-      "image": "assets/img/npc/vine_slug.webp",
-      "faction": "The Borant Corporation",
-      "faction_image": "assets/img/faction/borant.webp"
+      "image": null
     }
   ]
 }
