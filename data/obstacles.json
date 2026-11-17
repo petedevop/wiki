@@ -7,7 +7,7 @@
       "room": 300,
       "room_title": "Green Room",
       "blurb": "The brass bell rings. Floodlights swing over the canopy: BEST CHEF.",
-      "image": null,
+      "image": "assets/img/obstacle/best_chef.webp",
       "options": []
     },
     {
@@ -17,7 +17,7 @@
       "room": 300,
       "room_title": "Green Room",
       "blurb": "Crumb's whiteboard: MEAT. VEG.",
-      "image": null,
+      "image": "assets/img/obstacle/crawler_cookery_101.webp",
       "options": [
         {
           "label": "Search",
@@ -43,7 +43,7 @@
       "room": 300,
       "room_title": "Green Room",
       "blurb": "A plastic LOST PROPERTY bin under the arrival bench, spilling cheap props: a steak knife still tagged PROP, and a mop somebody marked MINE.",
-      "image": null,
+      "image": "assets/img/obstacle/lost_property_bin.webp",
       "options": []
     },
     {
@@ -53,7 +53,7 @@
       "room": 300,
       "room_title": "Green Room",
       "blurb": "A brass service lift behind the podium, its gate stencilled CHEF ONLY.",
-      "image": null,
+      "image": "assets/img/obstacle/the_chef_s_lift.webp",
       "options": [
         {
           "label": "Read",
@@ -71,7 +71,7 @@
       "room": 300,
       "room_title": "Green Room",
       "blurb": "Three ways off the platform. A rope bridge strung with fairy lights, crumbs on every plank.",
-      "image": null,
+      "image": "assets/img/obstacle/the_way_down.webp",
       "options": [
         {
           "label": "Slide",
@@ -98,7 +98,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "Three-toed prints in the mud, circling the lichen heap.",
-      "image": null,
+      "image": "assets/img/obstacle/raptor_tracks.webp",
       "options": [
         {
           "label": "Read",
@@ -117,7 +117,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "A brown river along one side of the clearing, warm as a bath and crackling.",
-      "image": null,
+      "image": "assets/img/obstacle/the_eel_river.webp",
       "options": [
         {
           "label": "Pick",
@@ -149,7 +149,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "Five wrong shapes in the ferns, just past the light line from the clearing.",
-      "image": null,
+      "image": "assets/img/obstacle/the_five.webp",
       "options": [
         {
           "label": "Investigate",
@@ -182,7 +182,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "A hive the size of a house hangs over the clearing from one thick branch, humming.",
-      "image": null,
+      "image": "assets/img/obstacle/the_honey_hive.webp",
       "options": [
         {
           "label": "Search",
@@ -207,7 +207,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "A mound of grey-green lichen at the foot of the vine slide, soft and deep, and shaped by everyone who has landed on it.",
-      "image": null,
+      "image": "assets/img/obstacle/the_lichen_heap.webp",
       "options": [
         {
           "label": "Search",
@@ -226,7 +226,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "A sponsor crate on the clearing trail, stickered PROPERTY OF BORANT.",
-      "image": null,
+      "image": "assets/img/obstacle/the_sponsor_crate.webp",
       "options": [
         {
           "label": "Investigate",
@@ -244,7 +244,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "Two arrows in gaffer tape on the wet rock. One is fresh.",
-      "image": null,
+      "image": "assets/img/obstacle/the_talent_arrows.webp",
       "options": [
         {
           "label": "Read",
@@ -262,7 +262,7 @@
       "room": 301,
       "room_title": "Jungle Clearing",
       "blurb": "Broad leaves in the warm ground off the edge of the heap.",
-      "image": null,
+      "image": "assets/img/obstacle/the_yam_patch.webp",
       "options": [
         {
           "label": "Dig",
@@ -288,7 +288,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "The Mayor sits in a wheelbarrow outside the town hall in her chain of office, crumbling.",
-      "image": null,
+      "image": "assets/img/obstacle/mayor_snap_s_procession.webp",
       "options": [
         {
           "label": "Pick",
@@ -314,7 +314,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "A door that was not there before, chalked CREW ONLY.",
-      "image": null,
+      "image": "assets/img/obstacle/the_back_bakery_door.webp",
       "options": []
     },
     {
@@ -324,7 +324,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "High on the gate wall, a bite. Gingerbread bricks gone.",
-      "image": null,
+      "image": "assets/img/obstacle/the_bitten_merlon.webp",
       "options": [
         {
           "label": "Search",
@@ -342,7 +342,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "The rope bridge from the canopy lands on a crew gantry bolted to the gate wall.",
-      "image": null,
+      "image": "assets/img/obstacle/the_bridge_gantry.webp",
       "options": [
         {
           "label": "Search",
@@ -360,7 +360,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "A row of benches in the sun outside the bakery.",
-      "image": null,
+      "image": "assets/img/obstacle/the_crumb_pension.webp",
       "options": [
         {
           "label": "Search",
@@ -378,7 +378,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "A cottage on the corner. The family insists.",
-      "image": null,
+      "image": "assets/img/obstacle/the_meat_guest_room.webp",
       "options": [
         {
           "label": "Search",
@@ -396,7 +396,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "The baker's wife sits on the edge of the fountain with a crescent bitten out of her shoulder, sobbing into her apron.",
-      "image": null,
+      "image": "assets/img/obstacle/the_missing_bite.webp",
       "options": [
         {
           "label": "Search",
@@ -422,7 +422,7 @@
       "room": 302,
       "room_title": "Gingerbread Town",
       "blurb": "A stagehand with a clipboard and a headset stands beside the brass bell, checking his watch.",
-      "image": null,
+      "image": "assets/img/obstacle/the_rain_bell.webp",
       "options": [
         {
           "label": "Pick",
@@ -456,7 +456,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "One episode. The finale of SURVIVAL CHEF: INTO THE DARK.",
-      "image": null,
+      "image": "assets/img/obstacle/saffron_s_pitch.webp",
       "options": [
         {
           "label": "Investigate",
@@ -474,7 +474,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "She cooks with her back to the water and never looks round.",
-      "image": null,
+      "image": "assets/img/obstacle/saffron_s_prep_table.webp",
       "options": [
         {
           "label": "Investigate",
@@ -500,7 +500,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "A dented horn under the Film Set bleachers, wired to a red light that nobody admits they installed.",
-      "image": null,
+      "image": "assets/img/obstacle/the_bleacher_horn.webp",
       "options": [
         {
           "label": "Persuade",
@@ -519,7 +519,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "Six canvas director's chairs in a row, facing the water.",
-      "image": null,
+      "image": "assets/img/obstacle/the_empty_chairs.webp",
       "options": [
         {
           "label": "Read",
@@ -537,7 +537,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "A tent peg hammered into the rock behind the chairs, with eleven crew lanyards on it.",
-      "image": null,
+      "image": "assets/img/obstacle/the_lanyard_hook.webp",
       "options": [
         {
           "label": "Persuade",
@@ -556,7 +556,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "A smear on the white shingle, wide as a cart, from the water's edge to the chairs and back.",
-      "image": null,
+      "image": "assets/img/obstacle/the_mopped_trail.webp",
       "options": [
         {
           "label": "Search",
@@ -574,7 +574,7 @@
       "room": 303,
       "room_title": "Film Set",
       "blurb": "In the back of her tent, a battered laptop on an equipment case, battery at four percent.",
-      "image": null,
+      "image": "assets/img/obstacle/the_rushes_monitor.webp",
       "options": [
         {
           "label": "Investigate",
@@ -599,7 +599,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "The Great White's first body, folded on the shingle where it fell, already splitting.",
-      "image": null,
+      "image": "assets/img/obstacle/krakaren_carcass.webp",
       "options": [
         {
           "label": "Cut",
@@ -618,7 +618,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A crew walkie on a dead assistant director's chest, taped to TALK, looping his last call.",
-      "image": null,
+      "image": "assets/img/obstacle/the_action_loop.webp",
       "options": [
         {
           "label": "Smash",
@@ -645,7 +645,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A pool of black water the width of the set, lit from above.",
-      "image": null,
+      "image": "assets/img/obstacle/the_black_water.webp",
       "options": [
         {
           "label": "Smash",
@@ -664,7 +664,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A camera crane leaning out over the pool, its camera still recording on the end of the arm, the counterweight swinging.",
-      "image": null,
+      "image": "assets/img/obstacle/the_camera_jib.webp",
       "options": [
         {
           "label": "Smash",
@@ -690,7 +690,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "The crew are still at their posts: a woman holding a boom up over nothing, a focus puller on an apple box, a grip under a sandbag.",
-      "image": null,
+      "image": "assets/img/obstacle/the_dead_crew.webp",
       "options": [
         {
           "label": "Search",
@@ -724,7 +724,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A lighting truss hung from one chain over the middle of the pool, the other chain snapped.",
-      "image": null,
+      "image": "assets/img/obstacle/the_hanging_truss.webp",
       "options": [
         {
           "label": "Pick",
@@ -742,7 +742,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A lighting desk on a flight case, a man in headphones slumped over the faders.",
-      "image": null,
+      "image": "assets/img/obstacle/the_lamp_board.webp",
       "options": [
         {
           "label": "Search",
@@ -768,7 +768,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A fat, sparking power cable lying an arm's length from the water.",
-      "image": null,
+      "image": "assets/img/obstacle/the_live_cable.webp",
       "options": [
         {
           "label": "Pick",
@@ -786,7 +786,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A collapsed tent of crates marked PROPS. Rubber knives, foam rocks, a fire extinguisher made of cardboard, a fake severed hand.",
-      "image": null,
+      "image": "assets/img/obstacle/the_props_tent.webp",
       "options": [
         {
           "label": "Search",
@@ -804,7 +804,7 @@
       "room": 304,
       "room_title": "Last Set",
       "blurb": "A door that was not there before, chalked CREW ONLY.",
-      "image": null,
+      "image": "assets/img/obstacle/the_rigging_hatch.webp",
       "options": []
     },
     {
@@ -814,7 +814,7 @@
       "room": 305,
       "room_title": "Fern Hollow",
       "blurb": "The matriarch's nest by the crashed chopper is abandoned.",
-      "image": null,
+      "image": "assets/img/obstacle/the_abandoned_nest.webp",
       "options": [
         {
           "label": "Repair",
@@ -833,7 +833,7 @@
       "room": 305,
       "room_title": "Fern Hollow",
       "blurb": "A crew capture cage for the nature segment: steel bars, a drop gate on a rope, big enough for a horse.",
-      "image": null,
+      "image": "assets/img/obstacle/the_capture_cage.webp",
       "options": [
         {
           "label": "Endure",
@@ -851,7 +851,7 @@
       "room": 305,
       "room_title": "Fern Hollow",
       "blurb": "In the chopper's cabin, a nest of fern, foam and headsets, and in it a clutch of speckled eggs the size of footballs, warm to the touch.",
-      "image": null,
+      "image": "assets/img/obstacle/the_clutch.webp",
       "options": [
         {
           "label": "Pick",
@@ -869,7 +869,7 @@
       "room": 305,
       "room_title": "Fern Hollow",
       "blurb": "Six floodlights strapped to a tree, wired to a grey timer box at its foot.",
-      "image": null,
+      "image": "assets/img/obstacle/the_floodlight_timer.webp",
       "options": [
         {
           "label": "Repair",
@@ -896,7 +896,7 @@
       "room": 305,
       "room_title": "Fern Hollow",
       "blurb": "A camera on a tripod, still recording, and three dead crew in the ferns around it.",
-      "image": null,
+      "image": "assets/img/obstacle/the_nature_segment.webp",
       "options": [
         {
           "label": "Persuade",
@@ -915,7 +915,7 @@
       "room": 305,
       "room_title": "Fern Hollow",
       "blurb": "Mid-fight, a jingle plays from nowhere and a crate floats down on a striped parachute into the middle of the clearing: SCORCH!",
-      "image": null,
+      "image": "assets/img/obstacle/the_sponsor_drop.webp",
       "options": [
         {
           "label": "Pick",
@@ -933,7 +933,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "A gilded birdcage the size of a wardrobe, a velvet cushion on the floor, crumbs everywhere.",
-      "image": null,
+      "image": "assets/img/obstacle/the_birdcage.webp",
       "options": [
         {
           "label": "Persuade",
@@ -959,7 +959,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "Four little saucers beside the teapot. Mother Treacle taps each with a silver teaspoon.",
-      "image": null,
+      "image": "assets/img/obstacle/the_bone_bargain.webp",
       "options": [
         {
           "label": "Search",
@@ -985,7 +985,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "A long wooden trough under a damp cloth, heaving gently.",
-      "image": null,
+      "image": "assets/img/obstacle/the_dough_trough.webp",
       "options": [
         {
           "label": "Investigate",
@@ -1011,7 +1011,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "A high shelf over the counter, out of camera, behind a curtain: jars with handwritten labels and one fat cookbook, its spine cracked.",
-      "image": null,
+      "image": "assets/img/obstacle/the_forbidden_shelf.webp",
       "options": [
         {
           "label": "Read",
@@ -1029,7 +1029,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "A black iron range at the back of the set, the oven door big enough to walk into, orange light round its edges.",
-      "image": null,
+      "image": "assets/img/obstacle/the_good_oven.webp",
       "options": [
         {
           "label": "Endure",
@@ -1063,7 +1063,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "Bleachers in the dark behind the cameras, and on them rows of pale, unbaked gingerbread folk, sitting very still.",
-      "image": null,
+      "image": "assets/img/obstacle/the_studio_audience.webp",
       "options": [
         {
           "label": "Persuade",
@@ -1082,7 +1082,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "A row of VHS tapes in cracked cases, hand-labelled: TREACLE'S KITCHEN, series one to six.",
-      "image": null,
+      "image": "assets/img/obstacle/the_tape_shelf.webp",
       "options": [
         {
           "label": "Search",
@@ -1100,7 +1100,7 @@
       "room": 306,
       "room_title": "Gingerbread Cottage",
       "blurb": "The counter, laid for tea under the dead cameras: a tiered stand of treacle tart, cream horns, sticky toffee, a pot of something brown and sweet.",
-      "image": null,
+      "image": "assets/img/obstacle/the_tasting.webp",
       "options": [
         {
           "label": "Endure",
@@ -1126,7 +1126,7 @@
       "room": 307,
       "room_title": "Kitchen Stadium",
       "blurb": "A silver dome the size of a house hangs over the dais on four chains.",
-      "image": null,
+      "image": "assets/img/obstacle/the_cloche.webp",
       "options": [
         {
           "label": "Investigate",
@@ -1144,7 +1144,7 @@
       "room": 307,
       "room_title": "Kitchen Stadium",
       "blurb": "Rime rims a blank steel recess behind the loading-dock dumpsters.",
-      "image": null,
+      "image": "assets/img/obstacle/the_frozen_vault_door.webp",
       "options": [
         {
           "label": "Smash",
@@ -1170,7 +1170,7 @@
       "room": 307,
       "room_title": "Kitchen Stadium",
       "blurb": "The stadium floor splits open onto conveyor lanes, fryer vats and laser emitters.",
-      "image": null,
+      "image": "assets/img/obstacle/the_kill_floor.webp",
       "options": [
         {
           "label": "Investigate",
@@ -1188,7 +1188,7 @@
       "room": 307,
       "room_title": "Kitchen Stadium",
       "blurb": "A wall of glass lockers under the scoreboard, one per kitchen.",
-      "image": null,
+      "image": "assets/img/obstacle/the_pantry_wall.webp",
       "options": [
         {
           "label": "Investigate",
@@ -1206,7 +1206,7 @@
       "room": 307,
       "room_title": "Kitchen Stadium",
       "blurb": "Five brass plates sit under the scoreboard: 15, 25, 40, 55, 65.",
-      "image": null,
+      "image": "assets/img/obstacle/the_prize_placard.webp",
       "options": [
         {
           "label": "Read",
@@ -1224,7 +1224,7 @@
       "room": 307,
       "room_title": "Kitchen Stadium",
       "blurb": "A scoreboard the size of a house in the trees over the stadium, a bulb for every digit, two kitchen names in lights.",
-      "image": null,
+      "image": "assets/img/obstacle/the_scoreboard.webp",
       "options": []
     },
     {
@@ -1234,7 +1234,7 @@
       "room": 307,
       "room_title": "Kitchen Stadium",
       "blurb": "A red beacon over the pass, dark for now, wired to every usher's radio.",
-      "image": null,
+      "image": "assets/img/obstacle/the_usher_alarm.webp",
       "options": [
         {
           "label": "Read",
@@ -1252,7 +1252,7 @@
       "room": 308,
       "room_title": "Cookbook Stacks",
       "blurb": "Every gallery has a red lever beneath a sprinkler head.",
-      "image": null,
+      "image": "assets/img/obstacle/gallery_suppression.webp",
       "options": [
         {
           "label": "Read",
@@ -1270,7 +1270,7 @@
       "room": 308,
       "room_title": "Cookbook Stacks",
       "blurb": "Steel retaining collars secure the glass covers.",
-      "image": null,
+      "image": "assets/img/obstacle/preserving_cloches.webp",
       "options": [
         {
           "label": "Pick",
@@ -1288,7 +1288,7 @@
       "room": 308,
       "room_title": "Cookbook Stacks",
       "blurb": "A brass bell on the attendant desk. Folded menu napkins stand in every gallery.",
-      "image": null,
+      "image": "assets/img/obstacle/the_brass_bell.webp",
       "options": [
         {
           "label": "Read",
@@ -1306,7 +1306,7 @@
       "room": 308,
       "room_title": "Cookbook Stacks",
       "blurb": "The service lift stops at a glass-covered latch below the walk-in.",
-      "image": null,
+      "image": "assets/img/obstacle/the_cellar_archive.webp",
       "options": [
         {
           "label": "Pick",
@@ -1324,7 +1324,7 @@
       "room": 308,
       "room_title": "Cookbook Stacks",
       "blurb": "At the Pass, a photograph of an old chef holding a steaming bowl, beside a cooking method engraved in steel.",
-      "image": null,
+      "image": "assets/img/obstacle/the_founder_s_plate.webp",
       "options": [
         {
           "label": "Investigate",
@@ -1342,7 +1342,7 @@
       "room": 308,
       "room_title": "Cookbook Stacks",
       "blurb": "Eight numbered dishes under green glass, each containing four scoops.",
-      "image": null,
+      "image": "assets/img/obstacle/the_sorbet_gallery.webp",
       "options": [
         {
           "label": "Search",
@@ -1360,7 +1360,7 @@
       "room": 308,
       "room_title": "Cookbook Stacks",
       "blurb": "An induction pan with a porcelain crawler standing inside.",
-      "image": null,
+      "image": "assets/img/obstacle/the_tasting_pot.webp",
       "options": [
         {
           "label": "Search",
@@ -1378,7 +1378,7 @@
       "room": 309,
       "room_title": "Fungus Cave",
       "blurb": "A leather lead hangs from a trolley beside an open biscuit tin.",
-      "image": null,
+      "image": "assets/img/obstacle/rent_a_snout.webp",
       "options": [
         {
           "label": "Persuade",
@@ -1397,7 +1397,7 @@
       "room": 309,
       "room_title": "Fungus Cave",
       "blurb": "In an alcove off the entrance ledge, a perfect ring of mushrooms glows violet, green, blue and gold.",
-      "image": null,
+      "image": "assets/img/obstacle/the_fairy_ring.webp",
       "options": [
         {
           "label": "Endure",
@@ -1422,7 +1422,7 @@
       "room": 309,
       "room_title": "Fungus Cave",
       "blurb": "Brown shelves climb the walls above yellow puffballs and red cups.",
-      "image": null,
+      "image": "assets/img/obstacle/the_mushroom_shelves.webp",
       "options": [
         {
           "label": "Read",
@@ -1447,7 +1447,7 @@
       "room": 309,
       "room_title": "Fungus Cave",
       "blurb": "Three straight furrows cross the cave between yellow puffballs.",
-      "image": null,
+      "image": "assets/img/obstacle/the_puffball_lanes.webp",
       "options": [
         {
           "label": "Endure",
@@ -1465,7 +1465,7 @@
       "room": 309,
       "room_title": "Fungus Cave",
       "blurb": "A split, fungal-armored sow with a red-veined lump pulsing beneath the breastbone.",
-      "image": null,
+      "image": "assets/img/obstacle/the_sow_s_carcass.webp",
       "options": [
         {
           "label": "Cut",
@@ -1484,7 +1484,7 @@
       "room": 309,
       "room_title": "Fungus Cave",
       "blurb": "Two patches of loose black soil beneath the mushroom shelves are covered in little hoofprints.",
-      "image": null,
+      "image": "assets/img/obstacle/the_truffle_beds.webp",
       "options": [
         {
           "label": "Search",
@@ -1516,7 +1516,7 @@
       "room": 310,
       "room_title": "Season Reserve",
       "blurb": "The smell changes from warm sugar and garlic to a fresh meal.",
-      "image": null,
+      "image": "assets/img/obstacle/dinner_bell_vapour.webp",
       "options": [
         {
           "label": "Endure",
@@ -1534,7 +1534,7 @@
       "room": 310,
       "room_title": "Season Reserve",
       "blurb": "A steel crate stencilled STOCK: CHECK MANIFEST.",
-      "image": null,
+      "image": "assets/img/obstacle/qualifier_stock.webp",
       "options": [
         {
           "label": "Smash",
@@ -1553,7 +1553,7 @@
       "room": 310,
       "room_title": "Season Reserve",
       "blurb": "A dot-matrix printer feeds curling paper into a wire cage.",
-      "image": null,
+      "image": "assets/img/obstacle/the_audit_basket.webp",
       "options": [
         {
           "label": "Read",
@@ -1571,7 +1571,7 @@
       "room": 310,
       "room_title": "Season Reserve",
       "blurb": "A battered machine says DRY ICE. Its empty water tank has a sight glass; below it, a steel trolley holds folded insulated sacks.",
-      "image": null,
+      "image": "assets/img/obstacle/the_dry_ice_machine.webp",
       "options": [
         {
           "label": "Search",
@@ -1589,7 +1589,7 @@
       "room": 310,
       "room_title": "Season Reserve",
       "blurb": "Four brass selectors point to numbered pens.",
-      "image": null,
+      "image": "assets/img/obstacle/the_season_selector.webp",
       "options": [
         {
           "label": "Read",
@@ -1615,7 +1615,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "A door that was not there before, chalked CREW ONLY.",
-      "image": null,
+      "image": "assets/img/obstacle/the_crew_walkway.webp",
       "options": []
     },
     {
@@ -1625,7 +1625,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "A wall tile behind the grease trap, cleaner than its neighbours, with a chalk mammoth drawn on it.",
-      "image": null,
+      "image": "assets/img/obstacle/the_grease_trap_hatch.webp",
       "options": [
         {
           "label": "Search",
@@ -1643,7 +1643,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "A silver spoon lies below steel teeth.",
-      "image": null,
+      "image": "assets/img/obstacle/the_hungry_disposal.webp",
       "options": [
         {
           "label": "Search",
@@ -1661,7 +1661,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "Three returned plates wait beside the scraper.",
-      "image": null,
+      "image": "assets/img/obstacle/the_judges_returns.webp",
       "options": [
         {
           "label": "Read",
@@ -1679,7 +1679,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "A vat of day-old pickle brine by the Dish Pit sinks, bubbling whenever someone tells a kitchen joke.",
-      "image": null,
+      "image": "assets/img/obstacle/the_pickle_vat_rinse.webp",
       "options": [
         {
           "label": "Endure",
@@ -1697,7 +1697,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "TAP shows a blue cup.",
-      "image": null,
+      "image": "assets/img/obstacle/the_scullery_manifold.webp",
       "options": [
         {
           "label": "Read",
@@ -1715,7 +1715,7 @@
       "room": 311,
       "room_title": "Dish Pit",
       "blurb": "A brush, tongs and thick gloves hang between the three sinks.",
-      "image": null,
+      "image": "assets/img/obstacle/three_dirty_trays.webp",
       "options": [
         {
           "label": "Search",
@@ -1733,7 +1733,7 @@
       "room": 312,
       "room_title": "Salt Lick",
       "blurb": "Three fist-sized crystal clusters glitter beside the pool.",
-      "image": null,
+      "image": "assets/img/obstacle/the_crystal_seam.webp",
       "options": [
         {
           "label": "Smash",
@@ -1752,7 +1752,7 @@
       "room": 312,
       "room_title": "Salt Lick",
       "blurb": "A red wheel behind the crocodile's tail. Three grooves run from its pipe to empty basins.",
-      "image": null,
+      "image": "assets/img/obstacle/the_pool_wheel.webp",
       "options": [
         {
           "label": "Cross",
@@ -1770,7 +1770,7 @@
       "room": 312,
       "room_title": "Salt Lick",
       "blurb": "The salt channel is still. The Brinejaw's bib floats on the brine, and gulls pick at the mudbank where it used to bask.",
-      "image": null,
+      "image": "assets/img/obstacle/the_quiet_mudbank.webp",
       "options": [
         {
           "label": "Read",
@@ -1788,7 +1788,7 @@
       "room": 312,
       "room_title": "Salt Lick",
       "blurb": "Deep hoofprints fill with grey brine. Cracks divide the white ledges; a fallen branch bridges one wet patch.",
-      "image": null,
+      "image": "assets/img/obstacle/the_soft_terraces.webp",
       "options": [
         {
           "label": "Smash",
@@ -1807,7 +1807,7 @@
       "room": 313,
       "room_title": "Knife-Throwing Tent",
       "blurb": "Three brass rings surround the strapped volunteer.",
-      "image": null,
+      "image": "assets/img/obstacle/the_dinner_wheel.webp",
       "options": [
         {
           "label": "Throw",
@@ -1825,7 +1825,7 @@
       "room": 313,
       "room_title": "Knife-Throwing Tent",
       "blurb": "A brass pedal behind the curtain, worn bright by one foot.",
-      "image": null,
+      "image": "assets/img/obstacle/the_foot_brake.webp",
       "options": [
         {
           "label": "Investigate",
@@ -1859,7 +1859,7 @@
       "room": 314,
       "room_title": "Comb Gate",
       "blurb": "A door that was not there before, chalked CREW ONLY.",
-      "image": null,
+      "image": "assets/img/obstacle/the_drone_tunnel.webp",
       "options": []
     },
     {
@@ -1869,7 +1869,7 @@
       "room": 314,
       "room_title": "Comb Gate",
       "blurb": "The inside of the trunk is ribbed with comb, glazed amber from the floor to as high as you can see.",
-      "image": null,
+      "image": "assets/img/obstacle/the_glazed_walls.webp",
       "options": [
         {
           "label": "Soak — Honey",
@@ -1887,7 +1887,7 @@
       "room": 314,
       "room_title": "Comb Gate",
       "blurb": "A wall of soft amber wax seals the trunk from side to side.",
-      "image": null,
+      "image": "assets/img/obstacle/the_wax_door.webp",
       "options": [
         {
           "label": "Cut",
@@ -1921,7 +1921,7 @@
       "room": 315,
       "room_title": "Brood Galleries",
       "blurb": "Six-sided cells, floor to ceiling, each holding a fat white grub.",
-      "image": null,
+      "image": "assets/img/obstacle/the_brood_cells.webp",
       "options": [
         {
           "label": "Pick",
@@ -1939,7 +1939,7 @@
       "room": 315,
       "room_title": "Brood Galleries",
       "blurb": "A ragged hole chewed through the brood wall halfway down the gallery, daylight showing through it, wax crumbs on the floor.",
-      "image": null,
+      "image": "assets/img/obstacle/the_hornet_breach.webp",
       "options": [
         {
           "label": "Smash",
@@ -1973,7 +1973,7 @@
       "room": 316,
       "room_title": "Drip Works",
       "blurb": "A ceiling of capped wax cells over Dolly's head.",
-      "image": null,
+      "image": "assets/img/obstacle/the_capped_ceiling.webp",
       "options": [
         {
           "label": "Cut",
@@ -1992,7 +1992,7 @@
       "room": 316,
       "room_title": "Drip Works",
       "blurb": "A narrow drain channel behind the vats, slick with old venom, climbing steeply into the dark.",
-      "image": null,
+      "image": "assets/img/obstacle/the_drone_run.webp",
       "options": [
         {
           "label": "Pick",
@@ -2010,7 +2010,7 @@
       "room": 316,
       "room_title": "Drip Works",
       "blurb": "Wax vats as big as bathtubs line the walls, brimming with clear venom that smokes where it drips.",
-      "image": null,
+      "image": "assets/img/obstacle/the_venom_vats.webp",
       "options": [
         {
           "label": "Pick",
@@ -2043,7 +2043,7 @@
       "room": 317,
       "room_title": "Inner Comb",
       "blurb": "The throne comb is cooling. Workers wander without orders, and wax drips from the ceiling.",
-      "image": null,
+      "image": "assets/img/obstacle/the_empty_brood_chamber.webp",
       "options": [
         {
           "label": "Persuade",
@@ -2062,7 +2062,7 @@
       "room": 317,
       "room_title": "Inner Comb",
       "blurb": "The chamber floor is flooded knee-deep with warm honey.",
-      "image": null,
+      "image": "assets/img/obstacle/the_honey_pool.webp",
       "options": [
         {
           "label": "Cross",
@@ -2087,7 +2087,7 @@
       "room": 317,
       "room_title": "Inner Comb",
       "blurb": "One cell behind the throne glows pale, like a nightlight, brimming with something that wobbles.",
-      "image": null,
+      "image": "assets/img/obstacle/the_royal_cell.webp",
       "options": [
         {
           "label": "Pick",
@@ -2105,7 +2105,7 @@
       "room": 318,
       "room_title": "Canopy Market",
       "blurb": "A chalk beast wears a net, a harness and an expression of deep personal betrayal.",
-      "image": null,
+      "image": "assets/img/obstacle/field_handling.webp",
       "options": [
         {
           "label": "Investigate",
@@ -2123,7 +2123,7 @@
       "room": 318,
       "room_title": "Canopy Market",
       "blurb": "A workbench lashed between two trunks, scarred with knife marks: a vice made from a turtle's jaw, pots of glue, coils of gut, and Tamarind's eldest.",
-      "image": null,
+      "image": "assets/img/obstacle/the_bone_stall.webp",
       "options": [
         {
           "label": "Persuade",
@@ -2142,7 +2142,7 @@
       "room": 318,
       "room_title": "Canopy Market",
       "blurb": "Sagging rope bridges between trunks the width of houses, planks missing, a hundred feet of air under them.",
-      "image": null,
+      "image": "assets/img/obstacle/the_rope_bridges.webp",
       "options": [
         {
           "label": "Pick",
@@ -2160,7 +2160,7 @@
       "room": 318,
       "room_title": "Canopy Market",
       "blurb": "Bamboo platforms lashed to the trunks like shelves, each one a stall: spears stacked like umbrellas, turtle-shell shields, wicker armour hung on pegs.",
-      "image": null,
+      "image": "assets/img/obstacle/the_stalls.webp",
       "options": [
         {
           "label": "Persuade",
@@ -2179,7 +2179,7 @@
       "room": 318,
       "room_title": "Canopy Market",
       "blurb": "A ball of woven leaves high in the tallest trunk, glinting with things that do not grow on trees.",
-      "image": null,
+      "image": "assets/img/obstacle/the_stash_nest.webp",
       "options": [
         {
           "label": "Pick",
@@ -2197,7 +2197,7 @@
       "room": 318,
       "room_title": "Canopy Market",
       "blurb": "Gourds as big as barrels hang in a cluster from one branch, fizzing, a few of them leaking something cloudy and sweet.",
-      "image": null,
+      "image": "assets/img/obstacle/the_wine_gourds.webp",
       "options": [
         {
           "label": "Persuade",
@@ -2223,7 +2223,7 @@
       "room": 319,
       "room_title": "Smokehouse",
       "blurb": "The rail of hams swings in a draught that used to be a breath.",
-      "image": null,
+      "image": "assets/img/obstacle/the_empty_lodge.webp",
       "options": [
         {
           "label": "Repair",
@@ -2242,7 +2242,7 @@
       "room": 319,
       "room_title": "Smokehouse",
       "blurb": "A door that was not there before, chalked CREW ONLY.",
-      "image": null,
+      "image": "assets/img/obstacle/the_flue_door.webp",
       "options": []
     },
     {
@@ -2252,7 +2252,7 @@
       "room": 319,
       "room_title": "Smokehouse",
       "blurb": "A long iron rail under the rafters, hung with half-cured monsters on hooks: haunches, hocks, things with too many legs.",
-      "image": null,
+      "image": "assets/img/obstacle/the_hanging_rail.webp",
       "options": [
         {
           "label": "Pick",
@@ -2278,7 +2278,7 @@
       "room": 319,
       "room_title": "Smokehouse",
       "blurb": "Three soot-black shutters in what's left of the roof, all closed, reached by a slope of fallen beams.",
-      "image": null,
+      "image": "assets/img/obstacle/the_roof_vents.webp",
       "options": [
         {
           "label": "Smash",
@@ -2297,7 +2297,7 @@
       "room": 319,
       "room_title": "Smokehouse",
       "blurb": "A wide pit of glowing hickory in the middle of the floor, banked high, pouring smoke into the room.",
-      "image": null,
+      "image": "assets/img/obstacle/the_smoke_pit.webp",
       "options": [
         {
           "label": "Smash",
@@ -2316,7 +2316,7 @@
       "room": 319,
       "room_title": "Smokehouse",
       "blurb": "A man's head mounted on a varnished plaque above the door, cured to leather, beard and all.",
-      "image": null,
+      "image": "assets/img/obstacle/the_talking_trophy.webp",
       "options": [
         {
           "label": "Smash",
@@ -2335,7 +2335,7 @@
       "room": 319,
       "room_title": "Smokehouse",
       "blurb": "A boulder at the back of the cold smoker, warm to the touch, with no fire anywhere near it.",
-      "image": null,
+      "image": "assets/img/obstacle/the_warm_rock.webp",
       "options": [
         {
           "label": "Smash",
@@ -2354,7 +2354,7 @@
       "room": 320,
       "room_title": "Vine Pit",
       "blurb": "Pumpkins hang all over the plant, five of them, green going orange.",
-      "image": null,
+      "image": "assets/img/obstacle/the_gourd_clock.webp",
       "options": [
         {
           "label": "Smash",
@@ -2380,7 +2380,7 @@
       "room": 320,
       "room_title": "Vine Pit",
       "blurb": "Vines hang slack. Pumpkin bombs sit unexploded in the loam, and a wrapped bundle is wedged in the roots.",
-      "image": null,
+      "image": "assets/img/obstacle/the_quiet_pit.webp",
       "options": [
         {
           "label": "Cut",
@@ -2399,7 +2399,7 @@
       "room": 320,
       "room_title": "Vine Pit",
       "blurb": "A frayed rope hangs from the canopy forty feet up, swinging.",
-      "image": null,
+      "image": "assets/img/obstacle/the_rope_drop.webp",
       "options": [
         {
           "label": "Investigate",
@@ -2417,7 +2417,7 @@
       "room": 320,
       "room_title": "Vine Pit",
       "blurb": "Strangler vines thick as arms climb every wall of the sinkhole to a ring of daylight forty feet up.",
-      "image": null,
+      "image": "assets/img/obstacle/the_strangler_vines.webp",
       "options": [
         {
           "label": "Smash",
@@ -2436,7 +2436,7 @@
       "room": 321,
       "room_title": "First Hearth",
       "blurb": "Ochre pats the bare stone at the end of the wall, taps her own chest, then points at you.",
-      "image": null,
+      "image": "assets/img/obstacle/tell_the_hunt.webp",
       "options": [
         {
           "label": "Persuade",
@@ -2455,7 +2455,7 @@
       "room": 321,
       "room_title": "First Hearth",
       "blurb": "A fire in a ring of stones so old the stones have glazed, banked with bone.",
-      "image": null,
+      "image": "assets/img/obstacle/the_first_fire.webp",
       "options": [
         {
           "label": "Cut",
@@ -2481,7 +2481,7 @@
       "room": 321,
       "room_title": "First Hearth",
       "blurb": "A tall, very old man in a black chef's jacket, trussed to a green pole over the coals like a fish, conscious and furious.",
-      "image": null,
+      "image": "assets/img/obstacle/the_guest_of_honour.webp",
       "options": [
         {
           "label": "Endure",
@@ -2507,7 +2507,7 @@
       "room": 321,
       "room_title": "First Hearth",
       "blurb": "The back wall, floor to ceiling, in red ochre and charcoal: every beast on this floor, running.",
-      "image": null,
+      "image": "assets/img/obstacle/the_hunting_wall.webp",
       "options": [
         {
           "label": "Investigate",
@@ -2532,7 +2532,7 @@
       "room": 322,
       "room_title": "Cave of Safe",
       "blurb": "A folding stand by Mordecai's fake fire with a ledger chained to it like gym equipment.",
-      "image": null,
+      "image": "assets/img/obstacle/the_picket_ledger_stand.webp",
       "options": [
         {
           "label": "Read",
@@ -2550,7 +2550,7 @@
       "room": 325,
       "room_title": "Candy Mile",
       "blurb": "Three-toed prints pressed into the icing of the cobbles, one line of them, still sharp in the sugar.",
-      "image": null,
+      "image": "assets/img/obstacle/the_cobble_prints.webp",
       "options": [
         {
           "label": "Read",
@@ -2577,7 +2577,7 @@
       "room": 325,
       "room_title": "Candy Mile",
       "blurb": "One hotel pan still clipped shut in the torn cooler.",
-      "image": null,
+      "image": "assets/img/obstacle/the_hotel_pan.webp",
       "options": [
         {
           "label": "Smash",
@@ -2596,7 +2596,7 @@
       "room": 325,
       "room_title": "Candy Mile",
       "blurb": "Cobbles of boiled sugar, half sunk in the mud.",
-      "image": null,
+      "image": "assets/img/obstacle/the_loose_cobbles.webp",
       "options": [
         {
           "label": "Dig",
@@ -2614,7 +2614,7 @@
       "room": 327,
       "room_title": "Back Stile",
       "blurb": "A basket on the stile. Brown shelves, red cups, and a sugar-scrawled slate: ASK BEFORE YOU EAT.",
-      "image": null,
+      "image": "assets/img/obstacle/the_picker_s_basket.webp",
       "options": [
         {
           "label": "Search",
@@ -2639,7 +2639,7 @@
       "room": 328,
       "room_title": "Bleacher Tunnel",
       "blurb": "A cigarette in a tentacle-shaped ring, still burning, left on a crate by the WASH UP stair.",
-      "image": null,
+      "image": "assets/img/obstacle/pearl_s_drag.webp",
       "options": [
         {
           "label": "Pick",
@@ -2657,7 +2657,7 @@
       "room": 328,
       "room_title": "Bleacher Tunnel",
       "blurb": "Three cards hang on the rail: BURNT, LOOSE, COLD.",
-      "image": null,
+      "image": "assets/img/obstacle/the_backstage_service_rail.webp",
       "options": [
         {
           "label": "Repair",
@@ -2676,7 +2676,7 @@
       "room": 328,
       "room_title": "Bleacher Tunnel",
       "blurb": "A gingerbread usher in an undone red coat holds a velvet rope across the stair up into the floodlights.",
-      "image": null,
+      "image": "assets/img/obstacle/the_velvet_rope.webp",
       "options": [
         {
           "label": "Persuade",
@@ -2695,7 +2695,7 @@
       "room": 328,
       "room_title": "Bleacher Tunnel",
       "blurb": "Slatted bleachers overhead. Everything the crowd has dropped this season has ended up down here.",
-      "image": null,
+      "image": "assets/img/obstacle/under_the_seats.webp",
       "options": [
         {
           "label": "Search",
@@ -2713,7 +2713,7 @@
       "room": 329,
       "room_title": "Fitting Room",
       "blurb": "One wooden chair under the bulb, a tape measure hung on the back.",
-      "image": null,
+      "image": "assets/img/obstacle/the_fitting_chair.webp",
       "options": [
         {
           "label": "Persuade",
@@ -2732,7 +2732,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A rusted grille at ankle height, breathing cold air.",
-      "image": null,
+      "image": "assets/img/obstacle/the_cold_vent.webp",
       "options": [
         {
           "label": "Squeeze Into The Vent",
@@ -2748,7 +2748,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A plain wooden door with a brass plate reading TUTORIAL EXIT.",
-      "image": null,
+      "image": "assets/img/obstacle/the_far_door.webp",
       "options": [
         {
           "label": "Knock — We'Re Done",
@@ -2764,7 +2764,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A flagstone that rocks, just slightly, when stepped on.",
-      "image": null,
+      "image": "assets/img/obstacle/the_loose_flagstone.webp",
       "options": [
         {
           "label": "Lift The Flagstone",
@@ -2780,7 +2780,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A patch of wall with soft, new mortar and a seam shaped like a lever slot.",
-      "image": null,
+      "image": "assets/img/obstacle/the_new_mortar.webp",
       "options": [
         {
           "label": "Work The Lever Code",
@@ -2801,7 +2801,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "A hair-thin wire stretched across the corridor at shin height.",
-      "image": null,
+      "image": "assets/img/obstacle/the_tripwire.webp",
       "options": [
         {
           "label": "Disarm",
@@ -2817,7 +2817,7 @@
       "room": 401,
       "room_title": "",
       "blurb": "The far wall, where a voice keeps asking what time it is.",
-      "image": null,
+      "image": "assets/img/obstacle/the_whispering_wall.webp",
       "options": [
         {
           "label": "Talk Through The Wall",
@@ -2833,7 +2833,7 @@
       "room": 402,
       "room_title": "",
       "blurb": "A barred cell door, locked from the corridor side.",
-      "image": null,
+      "image": "assets/img/obstacle/motts_cell.webp",
       "options": [
         {
           "label": "Show Mott The Scrap",
@@ -2854,7 +2854,7 @@
       "room": 0,
       "room_title": "",
       "blurb": "A shell the size of a car, and a slime trail you could skate on.",
-      "image": null,
+      "image": "assets/img/obstacle/the_giant_snail.webp",
       "options": [
         {
           "label": "Pick",

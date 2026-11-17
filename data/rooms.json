@@ -7,8 +7,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Ginger, wet leaves, and garlic frying far below. The stair ends high in a giant tree: a platform with a velvet rope.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/300.webp",
+      "image_thumb": "assets/img/room/floortwo/300.s.webp"
     },
     {
       "id": "room-301",
@@ -17,8 +17,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Honey, ozone, and wet earth, warm underfoot. You land in a mound of grey-green lichen, soft and deep.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/301.webp",
+      "image_thumb": "assets/img/room/floortwo/301.s.webp"
     },
     {
       "id": "room-302",
@@ -27,8 +27,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Ginger, burnt sugar, and wet icing.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/302.webp",
+      "image_thumb": "assets/img/room/floortwo/302.s.webp"
     },
     {
       "id": "room-303",
@@ -37,8 +37,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Wet stone, cold river, and frying garlic. Somebody is cooking.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/303.webp",
+      "image_thumb": "assets/img/room/floortwo/303.s.webp"
     },
     {
       "id": "room-304",
@@ -47,8 +47,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Cold, burnt plastic, and the sea. A wrecked studio in a cave.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/304.webp",
+      "image_thumb": "assets/img/room/floortwo/304.s.webp"
     },
     {
       "id": "room-305",
@@ -57,8 +57,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Aviation fuel, wet feathers, and something rotten in the heat. The raptor trail ends at a crashed helicopter, nose down in the ferns, BEST CHEF on its tail.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/305.webp",
+      "image_thumb": "assets/img/room/floortwo/305.s.webp"
     },
     {
       "id": "room-306",
@@ -67,8 +67,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Treacle, hot iron, and old cigarette smoke. The lane ends at a cottage far too perfect: gingerbread walls, icing on the eaves.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/306.webp",
+      "image_thumb": "assets/img/room/floortwo/306.s.webp"
     },
     {
       "id": "room-307",
@@ -77,8 +77,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Burnt sugar, hot fat, and sawdust.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/307.webp",
+      "image_thumb": "assets/img/room/floortwo/307.s.webp"
     },
     {
       "id": "room-308",
@@ -87,8 +87,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Butter and cold mint. A brass menu in the glass tower lists quality gear and one-shot abilities.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/308.webp",
+      "image_thumb": "assets/img/room/floortwo/308.s.webp"
     },
     {
       "id": "room-309",
@@ -97,8 +97,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Butter, damp earth, and a deep animal stink. Brown mushroom shelves climb the cave walls above beds of yellow puffballs and red cups.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/309.webp",
+      "image_thumb": "assets/img/room/floortwo/309.s.webp"
     },
     {
       "id": "room-310",
@@ -107,8 +107,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Cold bites your teeth. Blue lamps shine through four thick glass shutters.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/310.webp",
+      "image_thumb": "assets/img/room/floortwo/310.s.webp"
     },
     {
       "id": "room-311",
@@ -117,8 +117,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Hot soap, old gravy, and rain from sweating pipes. Plates rattle down a conveyor into three sinks: SCRAPE, WASH, RINSE.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/311.webp",
+      "image_thumb": "assets/img/room/floortwo/311.s.webp"
     },
     {
       "id": "room-312",
@@ -127,8 +127,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Salt dust catches in your throat. White terraces step down to a dripping pipe.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/312.webp",
+      "image_thumb": "assets/img/room/floortwo/312.s.webp"
     },
     {
       "id": "room-313",
@@ -137,8 +137,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Hot canvas, lamp oil and popcorn. Knives hammer into a revolving dinner plate ten feet across.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/313.webp",
+      "image_thumb": "assets/img/room/floortwo/313.s.webp"
     },
     {
       "id": "room-314",
@@ -147,8 +147,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Warm wax and a buzzing you feel in your teeth. The knot hole opens into a hollow trunk, ribbed with comb and glazed amber as high as you can see.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/314.webp",
+      "image_thumb": "assets/img/room/floortwo/314.s.webp"
     },
     {
       "id": "room-315",
@@ -157,8 +157,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Warm milk, yeast, and something sour. A long gallery of six-sided cells, floor to ceiling.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/315.webp",
+      "image_thumb": "assets/img/room/floortwo/315.s.webp"
     },
     {
       "id": "room-316",
@@ -167,8 +167,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Vinegar and hot metal, sharp enough to make your eyes water. Wax vats as big as bathtubs line the walls, brimming with something clear that smokes where it drips.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/316.webp",
+      "image_thumb": "assets/img/room/floortwo/316.s.webp"
     },
     {
       "id": "room-317",
@@ -177,8 +177,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Hot. Sweet enough to make you gag.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/317.webp",
+      "image_thumb": "assets/img/room/floortwo/317.s.webp"
     },
     {
       "id": "room-318",
@@ -187,8 +187,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Overripe fruit, cheap wine, and monkey. A hundred feet up, rope bridges sag between trunks as wide as houses.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/318.webp",
+      "image_thumb": "assets/img/room/floortwo/318.s.webp"
     },
     {
       "id": "room-319",
@@ -197,8 +197,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Hickory smoke so thick you can chew it, and under it, bacon. A hunting lodge has fallen in on itself.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/319.webp",
+      "image_thumb": "assets/img/room/floortwo/319.s.webp"
     },
     {
       "id": "room-320",
@@ -207,8 +207,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Wet leaf mould, sap, and something sweet like a pie left on a sill. A sinkhole drops away under the canopy, choked with strangler vines thick as arms.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/320.webp",
+      "image_thumb": "assets/img/room/floortwo/320.s.webp"
     },
     {
       "id": "room-321",
@@ -217,8 +217,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Woodsmoke and wet stone under a soot-black overhang. A banked fire; figures in hides stop chewing and watch you like prey.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/321.webp",
+      "image_thumb": "assets/img/room/floortwo/321.s.webp"
     },
     {
       "id": "room-322",
@@ -227,8 +227,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "A CREW ONLY door in the quiet bank opens on a fake cave: foam rock, LED mammoths, speaker fire with real heat.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/322.webp",
+      "image_thumb": "assets/img/room/floortwo/322.s.webp"
     },
     {
       "id": "room-325",
@@ -237,8 +237,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Burnt sugar, hot mud, and a sweet rot. Hard-candy cobbles climb through the ferns, slick and half sunk.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/325.webp",
+      "image_thumb": "assets/img/room/floortwo/325.s.webp"
     },
     {
       "id": "room-327",
@@ -247,8 +247,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Sugar, mushroom, and warm canvas. A low gap in the back wall, behind the cottages.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/327.webp",
+      "image_thumb": "assets/img/room/floortwo/327.s.webp"
     },
     {
       "id": "room-328",
@@ -257,8 +257,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Sawdust, hot canvas, and a fryer somewhere above. A cinderblock tunnel under the seats.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/328.webp",
+      "image_thumb": "assets/img/room/floortwo/328.s.webp"
     },
     {
       "id": "room-329",
@@ -267,8 +267,8 @@
       "zone_key": "floortwo",
       "zone_label": "Floor 2",
       "blurb": "Hairspray, hot cloth, and leather warmed under a bulb. A narrow room off the tunnel.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/floortwo/329.webp",
+      "image_thumb": "assets/img/room/floortwo/329.s.webp"
     }
   ]
 }

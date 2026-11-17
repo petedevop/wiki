@@ -66,6 +66,8 @@ IMG|assets/guide/07-me.png|Me — equipped weapon, inventory, spells and abiliti
 
 Tap the 🎒 line in the header: **Equipped** (hands, worn slots, one pet slot) and **Pack**. Tap a slot to see what fits; tap an item to read it, equip it, or use it. `↗` gives an item to another crawler; `×` drops it.
 
+**During combat**, inventory stays open on your turn. The first change spends the whole turn (banner warns you before you tap); after that, you may keep rearranging for free. If you already moved, attacked, or used a skill, gear is locked until your next turn.
+
 IMG|assets/guide/04-inventory.png|Inventory sheet
 
 ## Combat

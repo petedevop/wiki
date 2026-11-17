@@ -8,7 +8,41 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "Enter the Season Reserve (310)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Harvest reserve stock",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Leave with your shopping (307)",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Arc in the Water!",
@@ -28,7 +62,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Bag and Shoes!",
@@ -48,7 +99,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Bee Line!",
@@ -58,7 +126,56 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          6
+        ],
+        "Edwardo": [
+          0,
+          6
+        ],
+        "Nic": [
+          0,
+          6
+        ],
+        "Rae": [
+          0,
+          6
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "Reach the Comb Gate (314)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Get through the Wax Door",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Into the Brood Galleries (315)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Take the Bee Brood",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Bottle hive venom in the Drip Works (316)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Take the Royal Jelly in the Inner Comb (317)",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Big Spender!",
@@ -68,7 +185,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          50
+        ],
+        "Edwardo": [
+          0,
+          50
+        ],
+        "Nic": [
+          0,
+          50
+        ],
+        "Rae": [
+          0,
+          50
+        ]
+      }
     },
     {
       "name": "Bigger Lunchbox!",
@@ -88,7 +222,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Blooper Reel!",
@@ -108,7 +259,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
     },
     {
       "name": "Boot Party!",
@@ -118,7 +286,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Boss Highlight!",
@@ -168,7 +353,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          100
+        ],
+        "Edwardo": [
+          0,
+          100
+        ],
+        "Nic": [
+          0,
+          100
+        ],
+        "Rae": [
+          0,
+          100
+        ]
+      }
     },
     {
       "name": "Bulletproof-ish!",
@@ -228,7 +430,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Clutch Performance!",
@@ -248,7 +467,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
     },
     {
       "name": "Cold Open!",
@@ -258,7 +494,61 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          7
+        ],
+        "Edwardo": [
+          0,
+          7
+        ],
+        "Nic": [
+          0,
+          7
+        ],
+        "Rae": [
+          2,
+          7
+        ]
+      },
+      "steps": [
+        {
+          "met": true,
+          "label": "Start at The Film Set (303)",
+          "bonus": false
+        },
+        {
+          "met": true,
+          "label": "Watch the rushes",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Walk onto the Last Set (304)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Flip the ACTION Loop",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Cut the Krakaren Flesh",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Land the killing blow on the Great White",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Walk off the set alive (303)",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Collect Them All!",
@@ -268,7 +558,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Comeback Season!",
@@ -278,7 +585,36 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Costume Change!",
@@ -288,7 +624,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          10
+        ],
+        "Edwardo": [
+          0,
+          10
+        ],
+        "Nic": [
+          0,
+          10
+        ],
+        "Rae": [
+          1,
+          10
+        ]
+      }
     },
     {
       "name": "Critical Casting!",
@@ -348,7 +701,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Don't Look in the Oven!",
@@ -388,7 +758,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          1,
+          3
+        ]
+      }
     },
     {
       "name": "Effects Reel!",
@@ -398,7 +785,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Equal Opportunity Executioner!",
@@ -408,7 +812,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Escargot Express!",
@@ -458,7 +879,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          50
+        ],
+        "Edwardo": [
+          0,
+          50
+        ],
+        "Nic": [
+          0,
+          50
+        ],
+        "Rae": [
+          0,
+          50
+        ]
+      }
     },
     {
       "name": "First Blood, Primetime!",
@@ -478,7 +916,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Fore!",
@@ -518,7 +973,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          24
+        ],
+        "Edwardo": [
+          0,
+          24
+        ],
+        "Nic": [
+          0,
+          24
+        ],
+        "Rae": [
+          0,
+          24
+        ]
+      }
     },
     {
       "name": "Full Wardrobe!",
@@ -548,7 +1020,36 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          1,
+          2
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": true,
+          "label": "enter",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Gloves First!",
@@ -558,7 +1059,36 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "God Save the Queen!",
@@ -638,7 +1168,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          5,
+          5
+        ]
+      }
     },
     {
       "name": "Hanging By A Thread!",
@@ -658,7 +1205,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Harpooned!",
@@ -668,7 +1232,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Health Code Violation!",
@@ -718,7 +1299,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Hoist by Her Own Pumpkin!",
@@ -738,7 +1336,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
     },
     {
       "name": "Home Run!",
@@ -758,7 +1373,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          60
+        ],
+        "Edwardo": [
+          0,
+          60
+        ],
+        "Nic": [
+          0,
+          60
+        ],
+        "Rae": [
+          0,
+          60
+        ]
+      }
     },
     {
       "name": "Ice Breaker!",
@@ -788,7 +1420,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          5,
+          5
+        ]
+      }
     },
     {
       "name": "In a While, Crocodile!",
@@ -796,8 +1445,10 @@
       "hint": "Everyone's easier to deal with once they've had a drink.",
       "loot": "Silver Loot Box",
       "nightly": false,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Rae"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -808,7 +1459,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          250
+        ],
+        "Edwardo": [
+          0,
+          250
+        ],
+        "Nic": [
+          0,
+          250
+        ],
+        "Rae": [
+          0,
+          250
+        ]
+      }
     },
     {
       "name": "Item Has Opinions!",
@@ -828,7 +1496,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Jammed!",
@@ -868,7 +1553,41 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Keep the Face!",
@@ -888,7 +1607,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Kill Streak!",
@@ -898,7 +1634,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Kindling!",
@@ -928,7 +1681,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Legendary!",
@@ -948,7 +1718,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
     },
     {
       "name": "Live Bait!",
@@ -1008,7 +1795,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Meat Is Murder!",
@@ -1018,7 +1822,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      }
     },
     {
       "name": "Mirror Finish!",
@@ -1028,7 +1849,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Monkey Business!",
@@ -1038,7 +1876,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Monster Hunter!",
@@ -1048,7 +1903,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Mother Lode!",
@@ -1078,7 +1950,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Neighbours, Not Supper!",
@@ -1118,7 +2007,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Olé!",
@@ -1168,7 +2074,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Pick It Up!",
@@ -1188,7 +2111,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          1,
+          3
+        ]
+      }
     },
     {
       "name": "Plumbing Emergency!",
@@ -1198,7 +2138,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      }
     },
     {
       "name": "Point Taken!",
@@ -1218,7 +2175,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Pork Belly!",
@@ -1238,7 +2212,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Practical Vocabulary!",
@@ -1248,7 +2239,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Prickly!",
@@ -1258,7 +2266,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Prop Department!",
@@ -1266,9 +2291,28 @@
       "hint": "Every prop on this set is a trap. Use all of them.",
       "loot": "Silver Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
-      "progress_by_pc": {}
+      "earned_by": [
+        "Rae"
+      ],
+      "touched": true,
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          3,
+          3
+        ]
+      }
     },
     {
       "name": "Pumpkin Spice!",
@@ -1288,7 +2332,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          20
+        ],
+        "Edwardo": [
+          0,
+          20
+        ],
+        "Nic": [
+          0,
+          20
+        ],
+        "Rae": [
+          0,
+          20
+        ]
+      }
     },
     {
       "name": "Rampage!",
@@ -1298,7 +2359,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          10
+        ],
+        "Edwardo": [
+          0,
+          10
+        ],
+        "Nic": [
+          0,
+          10
+        ],
+        "Rae": [
+          0,
+          10
+        ]
+      }
     },
     {
       "name": "Raptor Rodeo!",
@@ -1318,7 +2396,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Repulsive!",
@@ -1328,7 +2423,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Robin Hood!",
@@ -1338,7 +2450,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Sacred Burn!",
@@ -1378,7 +2507,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      }
     },
     {
       "name": "Scrape Your Own Plate!",
@@ -1398,7 +2544,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Sharing Is Caring!",
@@ -1406,8 +2569,10 @@
       "hint": "A heartwarming moment. The AI is almost moved.",
       "loot": "Bronze Loot Box",
       "nightly": true,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Rae"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     },
     {
@@ -1418,7 +2583,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          10
+        ],
+        "Edwardo": [
+          0,
+          10
+        ],
+        "Nic": [
+          0,
+          10
+        ],
+        "Rae": [
+          0,
+          10
+        ]
+      }
     },
     {
       "name": "Shell Shocked!",
@@ -1428,7 +2610,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      }
     },
     {
       "name": "Shield Wall!",
@@ -1438,7 +2637,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Showing Off!",
@@ -1478,7 +2694,51 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "Get into the Cookbook Stacks (308)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Pick a cloche's collar",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Lift Barnaby Crumb's Contract",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Carry it to the Green Room (300)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Put it in Crumb's hands",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Silver Tongue!",
@@ -1488,7 +2748,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          1,
+          3
+        ]
+      }
     },
     {
       "name": "Skating the Flood!",
@@ -1518,7 +2795,46 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "Open all three roof vents",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Douse the smoke pit",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Take the jerky off the rail",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Walk out to the Canopy Market (318)",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Smoke Show!",
@@ -1538,7 +2854,51 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "Climb to the Smokehouse (319)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Open a roof vent",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Take the Twitching Jerky",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Land the killing blow on Old Cured Hide",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Get back to the Canopy Market (318)",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Smoked!",
@@ -1548,7 +2908,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Smooth Talker!",
@@ -1598,7 +2975,36 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Sticky Fingers!",
@@ -1608,7 +3014,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          1,
+          5
+        ]
+      }
     },
     {
       "name": "Stock Theft!",
@@ -1668,7 +3091,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          10
+        ],
+        "Edwardo": [
+          0,
+          10
+        ],
+        "Nic": [
+          0,
+          10
+        ],
+        "Rae": [
+          0,
+          10
+        ]
+      }
     },
     {
       "name": "Ten Takes!",
@@ -1678,7 +3118,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          10
+        ],
+        "Edwardo": [
+          0,
+          10
+        ],
+        "Nic": [
+          0,
+          10
+        ],
+        "Rae": [
+          0,
+          10
+        ]
+      }
     },
     {
       "name": "Tender Moment!",
@@ -1708,7 +3165,36 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          2
+        ],
+        "Edwardo": [
+          0,
+          2
+        ],
+        "Nic": [
+          0,
+          2
+        ],
+        "Rae": [
+          0,
+          2
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "The Fix Is In!",
@@ -1728,7 +3214,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "The Other Runner",
@@ -1738,7 +3241,46 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "The Show Goes On!",
@@ -1768,7 +3310,46 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          4
+        ],
+        "Edwardo": [
+          0,
+          4
+        ],
+        "Nic": [
+          0,
+          4
+        ],
+        "Rae": [
+          0,
+          4
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "Reach the Fungus Cave (309)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Kill the Truffle Sow",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Take the Sow-Heart Truffle",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Get back to the Green Room (300)",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Third Time's The Charm!",
@@ -1778,7 +3359,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Timber!",
@@ -1818,7 +3416,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Toxin Flash!",
@@ -1838,7 +3453,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Vault Season!",
@@ -1848,7 +3480,56 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          6
+        ],
+        "Edwardo": [
+          0,
+          6
+        ],
+        "Nic": [
+          0,
+          6
+        ],
+        "Rae": [
+          0,
+          6
+        ]
+      },
+      "steps": [
+        {
+          "met": false,
+          "label": "Start in the Kitchen Stadium (307)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Scout the rival locker",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Take the Library Prize Token",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Turn the Frozen Vault Door",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Kill the Garlic Breadwinner in the Season Reserve (310)",
+          "bonus": false
+        },
+        {
+          "met": false,
+          "label": "Bring it back to the Stadium (307)",
+          "bonus": false
+        }
+      ]
     },
     {
       "name": "Walking Hazard!",
@@ -1858,7 +3539,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Walking Tank!",
@@ -1868,7 +3566,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Wardrobe Malfunction!",
@@ -1898,7 +3613,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          0,
+          5
+        ]
+      }
     },
     {
       "name": "Wizard Weather!",
@@ -1908,7 +3640,24 @@
       "nightly": true,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          3
+        ],
+        "Edwardo": [
+          0,
+          3
+        ],
+        "Nic": [
+          0,
+          3
+        ],
+        "Rae": [
+          0,
+          3
+        ]
+      }
     },
     {
       "name": "Worth a Shot!",
@@ -1918,7 +3667,24 @@
       "nightly": false,
       "earned_by": [],
       "touched": false,
-      "progress_by_pc": {}
+      "progress_by_pc": {
+        "Lety": [
+          0,
+          5
+        ],
+        "Edwardo": [
+          0,
+          5
+        ],
+        "Nic": [
+          0,
+          5
+        ],
+        "Rae": [
+          1,
+          5
+        ]
+      }
     },
     {
       "name": "Yes, Chef!",
@@ -1936,8 +3702,10 @@
       "hint": "Again. Show your work.",
       "loot": "Bronze Loot Box",
       "nightly": false,
-      "earned_by": [],
-      "touched": false,
+      "earned_by": [
+        "Rae"
+      ],
+      "touched": true,
       "progress_by_pc": {}
     }
   ]
