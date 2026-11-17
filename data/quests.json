@@ -98,6 +98,54 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "Shiny Things",
+      "giver": "Penny",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Penny the bag of shiny things",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Smoke and Vine!",
+      "giver": "Auntie Tamarind",
+      "gp": 175,
+      "prize": "175 gp · The Flue Door in the Smokehouse (319) opens into the Cave of Safe (322). · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Climb to the Smokehouse (319)",
+          "met": true
+        },
+        {
+          "label": "Kill Old Cured Hide",
+          "met": false
+        },
+        {
+          "label": "Pick up a Smoked Ham Hock",
+          "met": false
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Kill the Gourd Mother",
+          "met": false
+        },
+        {
+          "label": "Bring the ham home to the Canopy Market (318)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "The Call Sheet in the Hatch",
       "giver": "Prop Goose",
       "gp": 15,
@@ -260,6 +308,54 @@
     },
     {
       "pc_name": "Lety",
+      "name": "Shiny Things",
+      "giver": "Penny",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Penny the bag of shiny things",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Smoke and Vine!",
+      "giver": "Auntie Tamarind",
+      "gp": 175,
+      "prize": "175 gp · The Flue Door in the Smokehouse (319) opens into the Cave of Safe (322). · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Climb to the Smokehouse (319)",
+          "met": true
+        },
+        {
+          "label": "Kill Old Cured Hide",
+          "met": false
+        },
+        {
+          "label": "Pick up a Smoked Ham Hock",
+          "met": false
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Kill the Gourd Mother",
+          "met": false
+        },
+        {
+          "label": "Bring the ham home to the Canopy Market (318)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "The Call Sheet in the Hatch",
       "giver": "Prop Goose",
       "gp": 15,
@@ -422,6 +518,54 @@
     },
     {
       "pc_name": "Nic",
+      "name": "Shiny Things",
+      "giver": "Penny",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Penny the bag of shiny things",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Smoke and Vine!",
+      "giver": "Auntie Tamarind",
+      "gp": 175,
+      "prize": "175 gp · The Flue Door in the Smokehouse (319) opens into the Cave of Safe (322). · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Climb to the Smokehouse (319)",
+          "met": true
+        },
+        {
+          "label": "Kill Old Cured Hide",
+          "met": false
+        },
+        {
+          "label": "Pick up a Smoked Ham Hock",
+          "met": false
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Kill the Gourd Mother",
+          "met": false
+        },
+        {
+          "label": "Bring the ham home to the Canopy Market (318)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "The Call Sheet in the Hatch",
       "giver": "Prop Goose",
       "gp": 15,
@@ -578,6 +722,54 @@
         },
         {
           "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "Shiny Things",
+      "giver": "Penny",
+      "gp": 30,
+      "prize": "30 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Give Penny the bag of shiny things",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "Smoke and Vine!",
+      "giver": "Auntie Tamarind",
+      "gp": 175,
+      "prize": "175 gp · The Flue Door in the Smokehouse (319) opens into the Cave of Safe (322). · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Climb to the Smokehouse (319)",
+          "met": true
+        },
+        {
+          "label": "Kill Old Cured Hide",
+          "met": false
+        },
+        {
+          "label": "Pick up a Smoked Ham Hock",
+          "met": false
+        },
+        {
+          "label": "Drop into the Vine Pit (320)",
+          "met": false
+        },
+        {
+          "label": "Kill the Gourd Mother",
+          "met": false
+        },
+        {
+          "label": "Bring the ham home to the Canopy Market (318)",
           "met": false
         }
       ]

@@ -7,7 +7,7 @@
       "class_name": "Tsukumogami Smith",
       "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/VD5RKzPUFwxHsGx9dgHddg?v=1790720918407475591",
+      "portrait_url": "/media/HFtDwq2oRIPyp7Nmq8HSWg?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -76,7 +76,7 @@
       "class_name": "The Programmer",
       "level": 1,
       "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/vH0mmgB_JCMgMC6GT0PFmg?v=1790800019726852655",
+      "portrait_url": "/media/pEFR7eWbwATFsAx5KI7UaA?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -146,7 +146,7 @@
       "class_name": "Overcompensating Mech",
       "level": 1,
       "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/LCw_7GW6L7MoX1YojKRYAw?v=1790721129428895712",
+      "portrait_url": "/media/W745ektBTHJoU0JkVUpAIg?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -216,7 +216,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/G8sp_CZGGT43mXtvuhGw_w",
+      "portrait_url": "/media/CYD8UoZwqWKq2G47_DKuCw",
       "about": [],
       "powers": [
         {
@@ -224,7 +224,7 @@
           "kind": "spell"
         }
       ],
-      "hp": 16,
+      "hp": 12,
       "hp_max": 16,
       "temp_hp": 0,
       "ac": 16,
@@ -256,15 +256,16 @@
         }
       ],
       "statuses": [
-        "Inspired"
+        "Blinded",
+        "Overloaded — drop gear"
       ],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Rae",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <span class=\"rarity-rare\">Returning Carving Knife</span></li>\n<li class=\"party-gear-row\">✋ Stage Flare</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">👖 Terrace Waders</li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-uncommon\">Crocs of Scintilating Cinderella</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Brinejaw Haunch</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Cured Hide Brisket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Gourd Mother&#x27;s Heart</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Royal Jelly</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Sow-Heart Truffle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Dead Crawler&#x27;s Shopping List</span></li>\n<li class=\"party-gear-row\">🎒 A Rubik&#x27;s Cube</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Green Room Mop</li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Propolis Salve</span></li>\n<li class=\"party-gear-row\">🎒 Rebar</li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n<li class=\"party-gear-row\">🧍 Prop Goose</li>\n</ul>\n</div>",
-      "xp": 1450,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <span class=\"rarity-rare\">Returning Carving Knife</span></li>\n<li class=\"party-gear-row\">✋ Stage Flare</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">👖 Terrace Waders</li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-uncommon\">Crocs of Scintilating Cinderella</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Brinejaw Haunch</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Cured Hide Brisket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hunter&#x27;s Smoke Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Jungle Honey</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Royal Jelly</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Sow-Heart Truffle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Twitching Jerky</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Dead Crawler&#x27;s Shopping List</span></li>\n<li class=\"party-gear-row\">🎒 A Rubik&#x27;s Cube</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Butcher&#x27;s Claw Hammer</li>\n<li class=\"party-gear-row\">🎒 Electric Eel</li>\n<li class=\"party-gear-row\">🎒 Green Room Mop</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hunter&#x27;s Smoke Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Propolis Salve</span></li>\n<li class=\"party-gear-row\">🎒 Rebar</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Smoked Ham Hock</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Wild Garlic</span></li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n<li class=\"party-gear-row\">🧍 Prop Goose</li>\n</ul>\n</div>",
+      "xp": 1650,
       "alignment": "Lawful",
       "title": "",
       "appearance": "scrubs, the mask under the chin, steel picks in a pocket",
