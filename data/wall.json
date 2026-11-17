@@ -4,9 +4,6 @@
       "pc_id": "sandra_lety",
       "pc_name": "Lety",
       "story": [
-        "Lety earned Sharing Is Caring!.",
-        "Lety managed to bribe at Mother Treacle",
-        "Lety managed to search at The Picker's Basket",
         "Lety managed to pick at The Picker's Basket",
         "Lety managed to persuade at Rent-a-Snout",
         "Lety gave Wild Saffron to Lety",
@@ -15,7 +12,10 @@
         "Pearl Eight-Mitts turned Friendly",
         "Pearl Eight-Mitts turned Ally",
         "Mayor Snap turned Hostile",
-        "Lety earned Hanging By A Thread!."
+        "Lety earned Hanging By A Thread!.",
+        "Dolly Fenn turned Friendly",
+        "Dolly Fenn turned Ally",
+        "Saffron Wilde turned Hostile"
       ],
       "achievements": [
         {
@@ -137,15 +137,6 @@
           "earned_by": []
         },
         {
-          "name": "In a While, Crocodile!",
-          "hint": "Everyone's easier to deal with once they've had a drink.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -175,15 +166,6 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "You've Discovered Fire!",
-          "hint": "Again. Show your work.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
           ]
         },
         {
@@ -263,27 +245,6 @@
           ]
         },
         {
-          "name": "Bag and Shoes!",
-          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "God Save the Queen!",
-          "hint": "Kill Queen Mellifera in a fight. Sticky is a strategy.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Hoist by Her Own Pumpkin!",
-          "hint": "Kill the Gourd Mother in a fight. Return to sender.",
-          "group": "stunts",
-          "progress": "",
-          "earned_by": []
-        },
-        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -291,27 +252,6 @@
             0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Jaws!",
-          "hint": "Kill the Great White Krakaren in a fight. You're going to need a bigger set.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Extinction Event!",
-          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Pork Belly!",
-          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
-          "group": "combat",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -354,13 +294,6 @@
             0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Point Taken!",
-          "hint": "Intimidate Madame Sabatier. Every showman has a bigger showman she's scared of.",
-          "group": "showbiz",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -886,9 +819,7 @@
             0,
             3
           ],
-          "earned_by": [
-            "Rae"
-          ]
+          "earned_by": []
         },
         {
           "name": "Magic Hour!",
@@ -969,15 +900,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",
@@ -1407,15 +1329,6 @@
           "earned_by": []
         },
         {
-          "name": "In a While, Crocodile!",
-          "hint": "Everyone's easier to deal with once they've had a drink.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -1445,15 +1358,6 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "You've Discovered Fire!",
-          "hint": "Again. Show your work.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
           ]
         },
         {
@@ -1533,27 +1437,6 @@
           ]
         },
         {
-          "name": "Bag and Shoes!",
-          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "God Save the Queen!",
-          "hint": "Kill Queen Mellifera in a fight. Sticky is a strategy.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Hoist by Her Own Pumpkin!",
-          "hint": "Kill the Gourd Mother in a fight. Return to sender.",
-          "group": "stunts",
-          "progress": "",
-          "earned_by": []
-        },
-        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -1561,27 +1444,6 @@
             0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Jaws!",
-          "hint": "Kill the Great White Krakaren in a fight. You're going to need a bigger set.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Extinction Event!",
-          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Pork Belly!",
-          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
-          "group": "combat",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -1624,13 +1486,6 @@
             0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Point Taken!",
-          "hint": "Intimidate Madame Sabatier. Every showman has a bigger showman she's scared of.",
-          "group": "showbiz",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -2156,9 +2011,7 @@
             0,
             3
           ],
-          "earned_by": [
-            "Rae"
-          ]
+          "earned_by": []
         },
         {
           "name": "Magic Hour!",
@@ -2239,15 +2092,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",
@@ -2677,15 +2521,6 @@
           "earned_by": []
         },
         {
-          "name": "In a While, Crocodile!",
-          "hint": "Everyone's easier to deal with once they've had a drink.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -2715,15 +2550,6 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "You've Discovered Fire!",
-          "hint": "Again. Show your work.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
           ]
         },
         {
@@ -2803,27 +2629,6 @@
           ]
         },
         {
-          "name": "Bag and Shoes!",
-          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "God Save the Queen!",
-          "hint": "Kill Queen Mellifera in a fight. Sticky is a strategy.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Hoist by Her Own Pumpkin!",
-          "hint": "Kill the Gourd Mother in a fight. Return to sender.",
-          "group": "stunts",
-          "progress": "",
-          "earned_by": []
-        },
-        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -2831,27 +2636,6 @@
             0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Jaws!",
-          "hint": "Kill the Great White Krakaren in a fight. You're going to need a bigger set.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Extinction Event!",
-          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Pork Belly!",
-          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
-          "group": "combat",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -2894,13 +2678,6 @@
             0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Point Taken!",
-          "hint": "Intimidate Madame Sabatier. Every showman has a bigger showman she's scared of.",
-          "group": "showbiz",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -3426,9 +3203,7 @@
             0,
             3
           ],
-          "earned_by": [
-            "Rae"
-          ]
+          "earned_by": []
         },
         {
           "name": "Magic Hour!",
@@ -3509,15 +3284,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",
@@ -3814,8 +3580,6 @@
       "pc_id": "pete_rae",
       "pc_name": "Rae",
       "story": [
-        "Rae changed The Wax Door",
-        "Rae managed to cut at The Wax Door",
         "Rae gave Wild Pepper Pods to Rae",
         "Rae gave Propolis Salve to Rae",
         "Rae killed Craft Services Rat",
@@ -3825,7 +3589,9 @@
         "Rae managed to search at The Mopped Trail",
         "Rae managed to persuade at The Bleacher Horn",
         "Rae managed to investigate at Saffron's Pitch",
-        "Rae managed to offer at Crew Walkie"
+        "Rae managed to offer at Crew Walkie",
+        "Rae managed to interact at Chef Barnaby Crumb",
+        "Rae killed Prop Goose"
       ],
       "achievements": [
         {
@@ -3855,7 +3621,7 @@
           "hint": "Some fights you don't win. You leave with the good bit.",
           "group": "combat",
           "progress": [
-            1,
+            0,
             2
           ],
           "earned_by": [],
@@ -3866,8 +3632,8 @@
               "bonus": false
             },
             {
-              "met": true,
-              "label": "enter",
+              "met": false,
+              "label": "",
               "bonus": false
             }
           ]
@@ -3937,6 +3703,13 @@
           ]
         },
         {
+          "name": "Long Live the Queen!",
+          "hint": "Two's a crowd. Let one of them win.",
+          "group": "dungeon",
+          "progress": "",
+          "earned_by": []
+        },
+        {
           "name": "Monkey Business!",
           "hint": "Hold on to your lunch. If you can't, run.",
           "group": "dungeon",
@@ -3945,15 +3718,6 @@
             3
           ],
           "earned_by": []
-        },
-        {
-          "name": "In a While, Crocodile!",
-          "hint": "Everyone's easier to deal with once they've had a drink.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Smoke Break!",
@@ -3985,15 +3749,6 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "You've Discovered Fire!",
-          "hint": "Again. Show your work.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
           ]
         },
         {
@@ -4073,27 +3828,6 @@
           ]
         },
         {
-          "name": "Bag and Shoes!",
-          "hint": "Kill Brinejaw in a fight. Never on its own terms: fight it on salt.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "God Save the Queen!",
-          "hint": "Kill Queen Mellifera in a fight. Sticky is a strategy.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Hoist by Her Own Pumpkin!",
-          "hint": "Kill the Gourd Mother in a fight. Return to sender.",
-          "group": "stunts",
-          "progress": "",
-          "earned_by": []
-        },
-        {
           "name": "Monster Hunter!",
           "hint": "Three trophies for the wall. Different heads, please.",
           "group": "combat",
@@ -4101,27 +3835,6 @@
             0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Jaws!",
-          "hint": "Kill the Great White Krakaren in a fight. You're going to need a bigger set.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Extinction Event!",
-          "hint": "Kill The Alpha in a fight. Clever girl. Not clever enough.",
-          "group": "combat",
-          "progress": "",
-          "earned_by": []
-        },
-        {
-          "name": "Pork Belly!",
-          "hint": "Kill the Truffle Sow in a fight. Find out what she's been rooting for.",
-          "group": "combat",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -4161,16 +3874,9 @@
           "hint": "Ask nicely. Then ask someone else nicely.",
           "group": "showbiz",
           "progress": [
-            1,
+            0,
             3
           ],
-          "earned_by": []
-        },
-        {
-          "name": "Point Taken!",
-          "hint": "Intimidate Madame Sabatier. Every showman has a bigger showman she's scared of.",
-          "group": "showbiz",
-          "progress": "",
           "earned_by": []
         },
         {
@@ -4178,7 +3884,7 @@
           "hint": "The walls are thin. The kitchen is loud. Somebody is always talking.",
           "group": "dungeon",
           "progress": [
-            1,
+            0,
             3
           ],
           "earned_by": []
@@ -4188,7 +3894,7 @@
           "hint": "You miss every shot you don't declare. Also most of the ones you do.",
           "group": "shame",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": []
@@ -4277,18 +3983,18 @@
           "hint": "Rushes, set, loop, flesh, the big one, out. All you, in order.",
           "group": "showbiz",
           "progress": [
-            2,
+            0,
             7
           ],
           "earned_by": [],
           "steps": [
             {
-              "met": true,
+              "met": false,
               "label": "Start at The Film Set (303)",
               "bonus": false
             },
             {
-              "met": true,
+              "met": false,
               "label": "Watch the rushes",
               "bonus": false
             },
@@ -4683,7 +4389,7 @@
           "hint": "Locks, ropes, levers. Touch everything. Sign the waiver.",
           "group": "evening",
           "progress": [
-            5,
+            0,
             5
           ],
           "earned_by": []
@@ -4693,12 +4399,10 @@
           "hint": "Every prop on this set is a trap. Use all of them.",
           "group": "evening",
           "progress": [
-            3,
+            0,
             3
           ],
-          "earned_by": [
-            "Rae"
-          ]
+          "earned_by": []
         },
         {
           "name": "Magic Hour!",
@@ -4735,7 +4439,7 @@
           "hint": "Behind the curtain. Their hands. Four seconds, and you come out as ordered.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             10
           ],
           "earned_by": []
@@ -4745,7 +4449,7 @@
           "hint": "Read the labels. Or don't. Ratings are ratings.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             3
           ],
           "earned_by": []
@@ -4775,26 +4479,17 @@
           "hint": "Finders keepers. The viewers are not judging. They are scoring.",
           "group": "evening",
           "progress": [
-            1,
+            0,
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",
           "hint": "Make it up as you go. The writers' room is on strike.",
           "group": "evening",
           "progress": [
-            5,
+            0,
             5
           ],
           "earned_by": []
@@ -5204,15 +4899,6 @@
           "earned_by": []
         },
         {
-          "name": "In a While, Crocodile!",
-          "hint": "Everyone's easier to deal with once they've had a drink.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
-        },
-        {
           "name": "Smoke Break!",
           "hint": "Some bosses just need some fresh air.",
           "group": "dungeon",
@@ -5242,15 +4928,6 @@
               "label": "Walk out to the Canopy Market (318)",
               "bonus": false
             }
-          ]
-        },
-        {
-          "name": "You've Discovered Fire!",
-          "hint": "Again. Show your work.",
-          "group": "dungeon",
-          "progress": "",
-          "earned_by": [
-            "Rae"
           ]
         },
         {
@@ -5904,9 +5581,7 @@
             0,
             3
           ],
-          "earned_by": [
-            "Rae"
-          ]
+          "earned_by": []
         },
         {
           "name": "Magic Hour!",
@@ -5987,15 +5662,6 @@
             5
           ],
           "earned_by": []
-        },
-        {
-          "name": "Sharing Is Caring!",
-          "hint": "A heartwarming moment. The AI is almost moved.",
-          "group": "evening",
-          "progress": "",
-          "earned_by": [
-            "Rae"
-          ]
         },
         {
           "name": "Improv Night!",

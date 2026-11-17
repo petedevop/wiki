@@ -80,7 +80,7 @@
         },
         {
           "label": "Deal with the crocodile, one way or another",
-          "met": true
+          "met": false
         },
         {
           "label": "Take the Salt Lick Crystal",
@@ -98,85 +98,19 @@
     },
     {
       "pc_name": "Edwardo",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "name": "The Call Sheet in the Hatch",
+      "giver": "Prop Goose",
+      "gp": 15,
+      "prize": "15 gp · Rumour — Benji's pencil note points at the Last Set (304). · 3 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Open at the Knife-Throwing Tent (313)",
-          "met": true
-        },
-        {
-          "label": "Throw a knife true",
-          "met": true
-        },
-        {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Find the bloody call sheet in the hatch (300)",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Let the goose shred it for nesting material",
           "met": false
-        },
-        {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Edwardo",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": true
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": true
         }
       ]
     },
@@ -194,7 +128,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -210,6 +144,20 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
+      "gp": 0,
+      "prize": "Salt Lick Crystal · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]
@@ -294,7 +242,7 @@
         },
         {
           "label": "Deal with the crocodile, one way or another",
-          "met": true
+          "met": false
         },
         {
           "label": "Take the Salt Lick Crystal",
@@ -312,85 +260,19 @@
     },
     {
       "pc_name": "Jade",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "name": "The Call Sheet in the Hatch",
+      "giver": "Prop Goose",
+      "gp": 15,
+      "prize": "15 gp · Rumour — Benji's pencil note points at the Last Set (304). · 3 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Open at the Knife-Throwing Tent (313)",
-          "met": true
-        },
-        {
-          "label": "Throw a knife true",
-          "met": true
-        },
-        {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Find the bloody call sheet in the hatch (300)",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Let the goose shred it for nesting material",
           "met": false
-        },
-        {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Jade",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": true
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": true
         }
       ]
     },
@@ -408,7 +290,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -424,6 +306,20 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Jade",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
+      "gp": 0,
+      "prize": "Salt Lick Crystal · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]
@@ -508,7 +404,7 @@
         },
         {
           "label": "Deal with the crocodile, one way or another",
-          "met": true
+          "met": false
         },
         {
           "label": "Take the Salt Lick Crystal",
@@ -526,85 +422,19 @@
     },
     {
       "pc_name": "Lety",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "name": "The Call Sheet in the Hatch",
+      "giver": "Prop Goose",
+      "gp": 15,
+      "prize": "15 gp · Rumour — Benji's pencil note points at the Last Set (304). · 3 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Open at the Knife-Throwing Tent (313)",
-          "met": true
-        },
-        {
-          "label": "Throw a knife true",
-          "met": true
-        },
-        {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Find the bloody call sheet in the hatch (300)",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Let the goose shred it for nesting material",
           "met": false
-        },
-        {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Lety",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": true
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": true
         }
       ]
     },
@@ -622,7 +452,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -638,6 +468,20 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
+      "gp": 0,
+      "prize": "Salt Lick Crystal · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]
@@ -722,7 +566,7 @@
         },
         {
           "label": "Deal with the crocodile, one way or another",
-          "met": true
+          "met": false
         },
         {
           "label": "Take the Salt Lick Crystal",
@@ -740,85 +584,19 @@
     },
     {
       "pc_name": "Nic",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "name": "The Call Sheet in the Hatch",
+      "giver": "Prop Goose",
+      "gp": 15,
+      "prize": "15 gp · Rumour — Benji's pencil note points at the Last Set (304). · 3 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Open at the Knife-Throwing Tent (313)",
-          "met": true
-        },
-        {
-          "label": "Throw a knife true",
-          "met": true
-        },
-        {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Find the bloody call sheet in the hatch (300)",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Let the goose shred it for nesting material",
           "met": false
-        },
-        {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": true
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": true
         }
       ]
     },
@@ -836,7 +614,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -852,6 +630,20 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
+      "gp": 0,
+      "prize": "Salt Lick Crystal · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]
@@ -936,7 +728,7 @@
         },
         {
           "label": "Deal with the crocodile, one way or another",
-          "met": true
+          "met": false
         },
         {
           "label": "Take the Salt Lick Crystal",
@@ -954,85 +746,19 @@
     },
     {
       "pc_name": "Rae",
-      "name": "The Act Nobody Survives!",
-      "giver": "Madame Sabatier",
-      "gp": 0,
-      "prize": "Sabatier's Trick-Shot Compound Bow · 500 XP each",
+      "name": "The Call Sheet in the Hatch",
+      "giver": "Prop Goose",
+      "gp": 15,
+      "prize": "15 gp · Rumour — Benji's pencil note points at the Last Set (304). · 3 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Open at the Knife-Throwing Tent (313)",
-          "met": true
-        },
-        {
-          "label": "Throw a knife true",
-          "met": true
-        },
-        {
-          "label": "Drop into the Vine Pit (320)",
+          "label": "Find the bloody call sheet in the hatch (300)",
           "met": false
         },
         {
-          "label": "Come out of the pit with something ripe",
+          "label": "Let the goose shred it for nesting material",
           "met": false
-        },
-        {
-          "label": "Climb to the Canopy Market (318)",
-          "met": false
-        },
-        {
-          "label": "Get the Monkey Wine",
-          "met": false
-        },
-        {
-          "label": "Outrun the Pickpocket Troop across the Rope Bridges",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Rae",
-      "name": "The First Fire!",
-      "giver": "Ochre",
-      "gp": 110,
-      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come to the First Hearth (321)",
-          "met": true
-        },
-        {
-          "label": "Learn the fire drill",
-          "met": true
-        },
-        {
-          "label": "Go down to the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Pick a Glowcap by the Fairy Ring",
-          "met": false
-        },
-        {
-          "label": "Cross to the Jungle Clearing (301)",
-          "met": false
-        },
-        {
-          "label": "Dig Wild Yams out of the Yam Patch",
-          "met": false
-        },
-        {
-          "label": "Bring it all home to the First Hearth (321)",
-          "met": false
-        },
-        {
-          "label": "Share the kill at the First Fire",
-          "met": false
-        },
-        {
-          "label": "Bonus: take a Clay Ember Pot for the road",
-          "met": true
         }
       ]
     },
@@ -1050,7 +776,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": true
+          "met": false
         },
         {
           "label": "Kill the Truffle Sow",
@@ -1066,6 +792,20 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "Water for Everyone",
+      "giver": "Dry Jack",
+      "gp": 0,
+      "prize": "Salt Lick Crystal · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Get the crocodile out of Dry Jack's work area",
           "met": false
         }
       ]

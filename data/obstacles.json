@@ -37,6 +37,24 @@
       ]
     },
     {
+      "id": "obstacle-kitchen_stadium_signpost",
+      "title": "Kitchen Stadium Signpost",
+      "kind": "Scenery",
+      "room": 300,
+      "room_title": "Green Room",
+      "blurb": "",
+      "image": null,
+      "options": [
+        {
+          "label": "Read",
+          "stat": "INT",
+          "skills": [
+            "Trap Awareness"
+          ]
+        }
+      ]
+    },
+    {
       "id": "obstacle-lost_property_bin",
       "title": "Lost Property Bin",
       "kind": "Scenery",

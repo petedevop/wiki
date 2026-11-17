@@ -89,6 +89,15 @@
       "faction_image": "assets/img/faction/kitchen.webp"
     },
     {
+      "id": "npc-chef_escargot_the_racing_snail",
+      "title": "Chef Escargot, the Racing Snail",
+      "subtitle": "Floor 2",
+      "blurb": "",
+      "image": null,
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
       "id": "npc-chef_ignatius_vell",
       "title": "Chef Ignatius Vell",
       "subtitle": "Floor 2",
@@ -373,6 +382,15 @@
       "faction_image": "assets/img/faction/gingerbread.webp"
     },
     {
+      "id": "npc-mise_en_place_the_prep_golem",
+      "title": "Mise en Place, the Prep Golem",
+      "subtitle": "Floor 2",
+      "blurb": "",
+      "image": null,
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
       "id": "npc-miss_hem",
       "title": "Miss Hem",
       "subtitle": "Floor 2",
@@ -571,6 +589,15 @@
       "faction_image": "assets/img/faction/crawlers.webp"
     },
     {
+      "id": "npc-sir_cr_me_br_l_e_the_caramel_knight",
+      "title": "Sir Crème Brûlée, the Caramel Knight",
+      "subtitle": "Floor 2",
+      "blurb": "",
+      "image": null,
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
       "id": "npc-sir_wobble_the_butterscotch_golem",
       "title": "Sir Wobble, the Butterscotch Golem",
       "subtitle": "Floor 2",
@@ -610,6 +637,15 @@
       "subtitle": "Floor 2",
       "blurb": "Raptor matriarch. Boss. A huge scarred raptor matriarch, twice the size of the others, feathered grey and rust, stepping out of the ferns into floodlight beside a crashed helicopter.",
       "image": "assets/img/npc/the_alpha.webp",
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
+    },
+    {
+      "id": "npc-the_angry_mandoline",
+      "title": "The Angry Mandoline",
+      "subtitle": "Floor 2",
+      "blurb": "",
+      "image": null,
       "faction": "The Borant Corporation",
       "faction_image": "assets/img/faction/borant.webp"
     },
@@ -675,6 +711,15 @@
       "image": "assets/img/npc/the_pickpocket_troop.webp",
       "faction": "The Canopy Market",
       "faction_image": "assets/img/faction/market.webp"
+    },
+    {
+      "id": "npc-the_salt_bae_phantom",
+      "title": "The Salt Bae Phantom",
+      "subtitle": "Floor 2",
+      "blurb": "",
+      "image": null,
+      "faction": "The Borant Corporation",
+      "faction_image": "assets/img/faction/borant.webp"
     },
     {
       "id": "npc-the_sommelier",
