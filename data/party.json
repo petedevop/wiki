@@ -7,7 +7,7 @@
       "class_name": "Tsukumogami Smith",
       "level": 1,
       "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/_p2D-dB7jtv-6jDlsqwqiQ?v=1790720918407475591",
+      "portrait_url": "/media/VD5RKzPUFwxHsGx9dgHddg?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -61,7 +61,7 @@
       "load": "Lety",
       "resting": null,
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
-      "xp": 900,
+      "xp": 937,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -76,7 +76,7 @@
       "class_name": "The Programmer",
       "level": 1,
       "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/Z3ynYkC37pBIbXcUEKRUhA?v=1790800019726852655",
+      "portrait_url": "/media/vH0mmgB_JCMgMC6GT0PFmg?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -131,7 +131,7 @@
       "load": "Edwardo",
       "resting": null,
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
-      "xp": 900,
+      "xp": 937,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -146,7 +146,7 @@
       "class_name": "Overcompensating Mech",
       "level": 1,
       "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/ZslRFdBFId8_GeKv2sBYqQ?v=1790721129428895712",
+      "portrait_url": "/media/LCw_7GW6L7MoX1YojKRYAw?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -201,7 +201,7 @@
       "load": "Nic",
       "resting": null,
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
-      "xp": 900,
+      "xp": 937,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -216,7 +216,7 @@
       "class_name": "Exotic Dancer",
       "level": 4,
       "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/_M0LW6rlsJjwPzaC3vkSXA",
+      "portrait_url": "/media/G8sp_CZGGT43mXtvuhGw_w",
       "about": [],
       "powers": [
         {
@@ -255,13 +255,15 @@
           "modifier": 5
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Inspired"
+      ],
       "tank": true,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Rae",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <span class=\"rarity-rare\">Returning Carving Knife</span></li>\n<li class=\"party-gear-row\">✋ Stage Flare</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">👖 Terrace Waders</li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-uncommon\">Crocs of Scintilating Cinderella</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Brinejaw Haunch</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Cured Hide Brisket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Gourd Mother&#x27;s Heart</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Royal Jelly</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Sow-Heart Truffle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 A Rubik&#x27;s Cube</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Green Room Mop</li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Propolis Salve</span></li>\n<li class=\"party-gear-row\">🎒 Rebar</li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n<li class=\"party-gear-row\">🧍 Prop Goose</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <span class=\"rarity-rare\">Returning Carving Knife</span></li>\n<li class=\"party-gear-row\">✋ Stage Flare</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">👖 Terrace Waders</li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-uncommon\">Crocs of Scintilating Cinderella</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Brinejaw Haunch</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Cured Hide Brisket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Gourd Mother&#x27;s Heart</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Royal Jelly</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Sow-Heart Truffle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Dead Crawler&#x27;s Shopping List</span></li>\n<li class=\"party-gear-row\">🎒 A Rubik&#x27;s Cube</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 Green Room Mop</li>\n<li class=\"party-gear-row\">🎒 Prop Steak Knife</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Propolis Salve</span></li>\n<li class=\"party-gear-row\">🎒 Rebar</li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n<li class=\"party-gear-row\">🧍 Prop Goose</li>\n</ul>\n</div>",
       "xp": 1450,
       "alignment": "Lawful",
       "title": "",
@@ -269,66 +271,6 @@
       "skills": [],
       "portrait": "assets/img/party/pete_rae.webp",
       "class_blurb": "One foe forgets its turn. The camera does not."
-    },
-    {
-      "id": "beto_jade",
-      "name": "Jade",
-      "ancestry": "",
-      "class_name": "",
-      "level": 1,
-      "class_level": "lvl 1",
-      "portrait_url": "/media/QTQuLpyGFpmNz4W0JYuLWg",
-      "about": [],
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 0,
-      "ac": 9,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 10,
-          "modifier": 0
-        },
-        {
-          "id": "DEX",
-          "score": 8,
-          "modifier": -1
-        },
-        {
-          "id": "CON",
-          "score": 11,
-          "modifier": 0
-        },
-        {
-          "id": "INT",
-          "score": 13,
-          "modifier": 1
-        },
-        {
-          "id": "CHA",
-          "score": 12,
-          "modifier": 1
-        }
-      ],
-      "statuses": [],
-      "tank": false,
-      "ai_favour": false,
-      "favour_score": 0,
-      "load": "Jade",
-      "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n</ul>\n</div>",
-      "xp": 900,
-      "alignment": "Chaotic",
-      "title": "",
-      "appearance": "apron, one nitrile glove, fresh ink on the knuckles",
-      "skills": [],
-      "portrait": "assets/img/party/beto_jade.webp"
     }
   ],
   "skipped": false
