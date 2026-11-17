@@ -600,16 +600,7 @@
       "room_title": "Last Set",
       "blurb": "The Great White's first body, folded on the shingle where it fell, already splitting.",
       "image": "assets/img/obstacle/krakaren_carcass.webp",
-      "options": [
-        {
-          "label": "Cut",
-          "stat": "DEX",
-          "skills": [
-            "Crafting",
-            "Line Cook"
-          ]
-        }
-      ]
+      "options": []
     },
     {
       "id": "obstacle-the_action_loop",
@@ -1466,16 +1457,7 @@
       "room_title": "Fungus Cave",
       "blurb": "A split, fungal-armored sow with a red-veined lump pulsing beneath the breastbone.",
       "image": "assets/img/obstacle/the_sow_s_carcass.webp",
-      "options": [
-        {
-          "label": "Cut",
-          "stat": "DEX",
-          "skills": [
-            "Crafting",
-            "Line Cook"
-          ]
-        }
-      ]
+      "options": []
     },
     {
       "id": "obstacle-the_truffle_beds",
@@ -2044,16 +2026,7 @@
       "room_title": "Inner Comb",
       "blurb": "The throne comb is cooling. Workers wander without orders, and wax drips from the ceiling.",
       "image": "assets/img/obstacle/the_empty_brood_chamber.webp",
-      "options": [
-        {
-          "label": "Persuade",
-          "stat": "CHA",
-          "skills": [
-            "Animal Handling",
-            "Negotiate"
-          ]
-        }
-      ]
+      "options": []
     },
     {
       "id": "obstacle-the_honey_pool",
@@ -2088,15 +2061,7 @@
       "room_title": "Inner Comb",
       "blurb": "One cell behind the throne glows pale, like a nightlight, brimming with something that wobbles.",
       "image": "assets/img/obstacle/the_royal_cell.webp",
-      "options": [
-        {
-          "label": "Pick",
-          "stat": "DEX",
-          "skills": [
-            "Lockpicking"
-          ]
-        }
-      ]
+      "options": []
     },
     {
       "id": "obstacle-field_handling",
