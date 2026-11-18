@@ -5,9 +5,9 @@
       "name": "Lety",
       "ancestry": "Human",
       "class_name": "Tsukumogami Smith",
-      "level": 1,
-      "class_level": "Human Tsukumogami Smith 1",
-      "portrait_url": "/media/HFtDwq2oRIPyp7Nmq8HSWg?v=1790720918407475591",
+      "level": 2,
+      "class_level": "Human Tsukumogami Smith 2",
+      "portrait_url": "/media/p4o4NXkcykSrDg2n6fFi2A?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -23,9 +23,9 @@
           "kind": "spell"
         }
       ],
-      "hp": 2,
-      "hp_max": 2,
-      "temp_hp": 0,
+      "hp": 4,
+      "hp_max": 4,
+      "temp_hp": 2,
       "ac": 10,
       "abilities": [
         {
@@ -35,13 +35,13 @@
         },
         {
           "id": "DEX",
-          "score": 11,
+          "score": 10,
           "modifier": 0
         },
         {
           "id": "CON",
-          "score": 3,
-          "modifier": -4
+          "score": 5,
+          "modifier": -3
         },
         {
           "id": "INT",
@@ -54,14 +54,16 @@
           "modifier": -2
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Clumsy −1"
+      ],
       "tank": false,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Lety",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">👕 The Spotter&#x27;s Belt</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
-      "xp": 937,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">👕 Prop Hockey Chest Protector</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">Old Barm</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Rusk&#x27;s Golf Club</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Sprinkler Valve Wheel</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">Treacle&#x27;s Cutter</span></li>\n<li class=\"party-gear-row\">🎒 Bandages (5)</li>\n<li class=\"party-gear-row\">🎒 Bandages (5)</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Call Sheet</li>\n<li class=\"party-gear-row\">🎒 Crew Survey Stake</li>\n<li class=\"party-gear-row\">🎒 Crowbar</li>\n<li class=\"party-gear-row\">🎒 Prop Table Leg</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Vine Rope</li>\n</ul>\n</div>",
+      "xp": 87,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -74,9 +76,9 @@
       "name": "Edwardo",
       "ancestry": "Human",
       "class_name": "The Programmer",
-      "level": 1,
-      "class_level": "Human The Programmer 1",
-      "portrait_url": "/media/pEFR7eWbwATFsAx5KI7UaA?v=1790800019726852655",
+      "level": 2,
+      "class_level": "Human The Programmer 2",
+      "portrait_url": "/media/cQxs0M5dnVKdXQ1WQGgrag?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -93,10 +95,10 @@
           "kind": "spell"
         }
       ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 0,
-      "ac": 13,
+      "hp": 4,
+      "hp_max": 5,
+      "temp_hp": 1,
+      "ac": 14,
       "abilities": [
         {
           "id": "STR",
@@ -124,14 +126,18 @@
           "modifier": 1
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Strained",
+        "Bloodied",
+        "Overloaded — drop gear"
+      ],
       "tank": false,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Edwardo",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
-      "xp": 937,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 Biker leathers</li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-uncommon\">Treacle&#x27;s Oven Mitts</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Barm&#x27;s Daughter</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Grip&#x27;s Man Catcher</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Krakaren Flesh</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Old-Country Cinnamon</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Stagehand&#x27;s Garrote</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Stone Skin Girdle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Last Episode</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Villain Storyboard</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Wild Saffron</span></li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Crowbar</li>\n<li class=\"party-gear-row\">🎒 Duct tape</li>\n<li class=\"party-gear-row\">🎒 Gingerbread Dough</li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Star Anise Twist</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
+      "xp": 87,
       "alignment": "",
       "title": "",
       "appearance": "",
@@ -142,11 +148,11 @@
     {
       "id": "david_nic",
       "name": "Nic",
-      "ancestry": "Human",
+      "ancestry": "Cryak Draconian",
       "class_name": "Overcompensating Mech",
-      "level": 1,
-      "class_level": "Human Overcompensating Mech 1",
-      "portrait_url": "/media/W745ektBTHJoU0JkVUpAIg?v=1790721129428895712",
+      "level": 2,
+      "class_level": "Cryak Draconian Overcompensating Mech 2",
+      "portrait_url": "/media/-6JzYhVaXMUloj0kLJWSjQ?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -163,15 +169,15 @@
           "kind": "spell"
         }
       ],
-      "hp": 1,
-      "hp_max": 1,
-      "temp_hp": 0,
-      "ac": 11,
+      "hp": 4,
+      "hp_max": 4,
+      "temp_hp": 8,
+      "ac": 13,
       "abilities": [
         {
           "id": "STR",
-          "score": 19,
-          "modifier": 4
+          "score": 20,
+          "modifier": 5
         },
         {
           "id": "DEX",
@@ -185,93 +191,32 @@
         },
         {
           "id": "INT",
-          "score": 12,
-          "modifier": 1
+          "score": 14,
+          "modifier": 2
         },
         {
           "id": "CHA",
-          "score": 12,
-          "modifier": 1
+          "score": 11,
+          "modifier": 0
         }
       ],
-      "statuses": [],
+      "statuses": [
+        "Disadvantaged",
+        "Keen"
+      ],
       "tank": true,
       "ai_favour": false,
       "favour_score": 0,
       "load": "Nic",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n</ul>\n</div>",
-      "xp": 937,
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Hatchet</li>\n<li class=\"party-gear-row\">👕 Butcher&#x27;s Apron</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Hard Candy Cobble</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Pitch Torch</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Stage Flare</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 Wild Yams</li>\n</ul>\n</div>",
+      "xp": 237,
       "alignment": "",
       "title": "",
       "appearance": "",
       "skills": [],
       "portrait": "assets/img/party/david_nic.webp",
       "class_blurb": "A suit you built at home. It grants +2 AC until something important falls off."
-    },
-    {
-      "id": "pete_rae",
-      "name": "Rae",
-      "ancestry": "Tuatha Dé Danann",
-      "class_name": "Exotic Dancer",
-      "level": 4,
-      "class_level": "Tuatha Dé Danann Exotic Dancer 4",
-      "portrait_url": "/media/CYD8UoZwqWKq2G47_DKuCw",
-      "about": [],
-      "powers": [
-        {
-          "name": "Minor Heal",
-          "kind": "spell"
-        }
-      ],
-      "hp": 12,
-      "hp_max": 16,
-      "temp_hp": 0,
-      "ac": 16,
-      "abilities": [
-        {
-          "id": "STR",
-          "score": 20,
-          "modifier": 5
-        },
-        {
-          "id": "DEX",
-          "score": 20,
-          "modifier": 5
-        },
-        {
-          "id": "CON",
-          "score": 20,
-          "modifier": 5
-        },
-        {
-          "id": "INT",
-          "score": 20,
-          "modifier": 5
-        },
-        {
-          "id": "CHA",
-          "score": 20,
-          "modifier": 5
-        }
-      ],
-      "statuses": [
-        "Blinded",
-        "Overloaded — drop gear"
-      ],
-      "tank": true,
-      "ai_favour": true,
-      "favour_score": 0,
-      "load": "Rae",
-      "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <span class=\"rarity-rare\">Returning Carving Knife</span></li>\n<li class=\"party-gear-row\">✋ Stage Flare</li>\n<li class=\"party-gear-row\">👕 Stunt Double&#x27;s Leather Jacket</li>\n<li class=\"party-gear-row\">👖 Terrace Waders</li>\n<li class=\"party-gear-row\">🥾 <span class=\"rarity-uncommon\">Crocs of Scintilating Cinderella</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Brinejaw Haunch</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Clay Ember Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Cured Hide Brisket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hunter&#x27;s Smoke Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Jungle Honey</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Royal Jelly</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Sow-Heart Truffle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Twitching Jerky</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">A Dead Crawler&#x27;s Shopping List</span></li>\n<li class=\"party-gear-row\">🎒 A Rubik&#x27;s Cube</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Butcher&#x27;s Claw Hammer</li>\n<li class=\"party-gear-row\">🎒 Electric Eel</li>\n<li class=\"party-gear-row\">🎒 Green Room Mop</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hunter&#x27;s Smoke Pot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Propolis Salve</span></li>\n<li class=\"party-gear-row\">🎒 Rebar</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Smoked Ham Hock</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Wild Garlic</span></li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n<li class=\"party-gear-row\">🧍 Prop Goose</li>\n</ul>\n</div>",
-      "xp": 1650,
-      "alignment": "Lawful",
-      "title": "",
-      "appearance": "scrubs, the mask under the chin, steel picks in a pocket",
-      "skills": [],
-      "portrait": "assets/img/party/pete_rae.webp",
-      "class_blurb": "One foe forgets its turn. The camera does not."
     }
   ],
   "skipped": false

@@ -42,8 +42,8 @@
       "kind": "Scenery",
       "room": 300,
       "room_title": "Green Room",
-      "blurb": "",
-      "image": null,
+      "blurb": "A tall wooden signpost wrapped in jungle vines on the treetop platform, one long arrow-shaped arm pointing out over the canopy toward distant…",
+      "image": "assets/img/obstacle/kitchen_stadium_signpost.webp",
       "options": [
         {
           "label": "Read",

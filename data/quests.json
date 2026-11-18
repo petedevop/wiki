@@ -2,6 +2,68 @@
   "rows": [
     {
       "pc_name": "Edwardo",
+      "name": "A Town That Doesn't Need Its Witch",
+      "giver": "Doughty the Baker",
+      "gp": 0,
+      "prize": "Strong Flour · The back bakery door in Gingerbread Town (302) is open and leads to the Cave of Safe (322). · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
+          "met": false
+        },
+        {
+          "label": "Bring it home to Doughty alive",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "A Wall of Boiled Sweets",
+      "giver": "Mayor Snap",
+      "gp": 25,
+      "prize": "25 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut Sugar Cane in the jungle",
+          "met": false
+        },
+        {
+          "label": "Scrape Snail Slime off the Giant Snail",
+          "met": false
+        },
+        {
+          "label": "Bring both to Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Bring Back the Crew",
+      "giver": "Tess",
+      "gp": 0,
+      "prize": "Crew Gaffer Tape · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go into the Last Set (304)",
+          "met": true
+        },
+        {
+          "label": "Kill the ACTION loop so the bodies can be pulled",
+          "met": false
+        },
+        {
+          "label": "Carry the crew back to The Film Set (303)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 85,
@@ -68,6 +130,24 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "Roll the Real Footage",
+      "giver": "Tess",
+      "gp": 40,
+      "prize": "40 gp · The Rigging Hatch in the Last Set (304) opens into the Cave of Safe (322). · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Find the Villain Storyboard in the Props Tent (304)",
+          "met": false
+        },
+        {
+          "label": "The residents' channel is on the air",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "Salt for the Stadium!",
       "giver": "Dry Jack",
       "gp": 80,
@@ -92,6 +172,24 @@
         },
         {
           "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "Salt Run",
+      "giver": "Clove",
+      "gp": 0,
+      "prize": "Black Kombu Twist · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Clove walks with you",
+          "met": false
+        },
+        {
+          "label": "Get Clove to the Salt Lick (312)",
           "met": false
         }
       ]
@@ -146,6 +244,44 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "Supper at the Witch's Table!",
+      "giver": "Mother Treacle",
+      "gp": 90,
+      "prize": "90 gp · Rusk's Bread Pudding · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the Gingerbread Cottage (306)",
+          "met": true
+        },
+        {
+          "label": "Open the Birdcage, one way or another",
+          "met": true
+        },
+        {
+          "label": "Take the Old Barm from the Dough Trough",
+          "met": false
+        },
+        {
+          "label": "Cook in the Good Oven and live",
+          "met": false
+        },
+        {
+          "label": "Bonus: walk off with Treacle's Cookbook",
+          "met": false
+        },
+        {
+          "label": "Bonus: bake with Rusk's Old-Country Cinnamon",
+          "met": false
+        },
+        {
+          "label": "Serve it down in Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "The Call Sheet in the Hatch",
       "giver": "Prop Goose",
       "gp": 15,
@@ -164,6 +300,52 @@
     },
     {
       "pc_name": "Edwardo",
+      "name": "The First Fire!",
+      "giver": "Ochre",
+      "gp": 110,
+      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the First Hearth (321)",
+          "met": true
+        },
+        {
+          "label": "Learn the fire drill",
+          "met": false
+        },
+        {
+          "label": "Go down to the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Pick a Glowcap by the Fairy Ring",
+          "met": false
+        },
+        {
+          "label": "Cross to the Jungle Clearing (301)",
+          "met": false
+        },
+        {
+          "label": "Dig Wild Yams out of the Yam Patch",
+          "met": false
+        },
+        {
+          "label": "Bring it all home to the First Hearth (321)",
+          "met": false
+        },
+        {
+          "label": "Share the kill at the First Fire",
+          "met": false
+        },
+        {
+          "label": "Bonus: take a Clay Ember Pot for the road",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -176,7 +358,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
+          "met": true
         },
         {
           "label": "Kill the Truffle Sow",
@@ -192,6 +374,20 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Edwardo",
+      "name": "The Rain Bell Is on the Schedule",
+      "giver": "Mayor Snap",
+      "gp": 0,
+      "prize": "Old Baking Spices · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Stop the scheduled rain",
           "met": false
         }
       ]
@@ -212,6 +408,68 @@
     },
     {
       "pc_name": "Lety",
+      "name": "A Town That Doesn't Need Its Witch",
+      "giver": "Doughty the Baker",
+      "gp": 0,
+      "prize": "Strong Flour · The back bakery door in Gingerbread Town (302) is open and leads to the Cave of Safe (322). · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
+          "met": false
+        },
+        {
+          "label": "Bring it home to Doughty alive",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "A Wall of Boiled Sweets",
+      "giver": "Mayor Snap",
+      "gp": 25,
+      "prize": "25 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut Sugar Cane in the jungle",
+          "met": false
+        },
+        {
+          "label": "Scrape Snail Slime off the Giant Snail",
+          "met": false
+        },
+        {
+          "label": "Bring both to Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Bring Back the Crew",
+      "giver": "Tess",
+      "gp": 0,
+      "prize": "Crew Gaffer Tape · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go into the Last Set (304)",
+          "met": true
+        },
+        {
+          "label": "Kill the ACTION loop so the bodies can be pulled",
+          "met": false
+        },
+        {
+          "label": "Carry the crew back to The Film Set (303)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 85,
@@ -278,6 +536,24 @@
     },
     {
       "pc_name": "Lety",
+      "name": "Roll the Real Footage",
+      "giver": "Tess",
+      "gp": 40,
+      "prize": "40 gp · The Rigging Hatch in the Last Set (304) opens into the Cave of Safe (322). · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Find the Villain Storyboard in the Props Tent (304)",
+          "met": false
+        },
+        {
+          "label": "The residents' channel is on the air",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "Salt for the Stadium!",
       "giver": "Dry Jack",
       "gp": 80,
@@ -302,6 +578,24 @@
         },
         {
           "label": "Stand in the Stadium holding the Salt Lick Crystal",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "Salt Run",
+      "giver": "Clove",
+      "gp": 0,
+      "prize": "Black Kombu Twist · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Clove walks with you",
+          "met": false
+        },
+        {
+          "label": "Get Clove to the Salt Lick (312)",
           "met": false
         }
       ]
@@ -356,6 +650,44 @@
     },
     {
       "pc_name": "Lety",
+      "name": "Supper at the Witch's Table!",
+      "giver": "Mother Treacle",
+      "gp": 90,
+      "prize": "90 gp · Rusk's Bread Pudding · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the Gingerbread Cottage (306)",
+          "met": true
+        },
+        {
+          "label": "Open the Birdcage, one way or another",
+          "met": true
+        },
+        {
+          "label": "Take the Old Barm from the Dough Trough",
+          "met": false
+        },
+        {
+          "label": "Cook in the Good Oven and live",
+          "met": false
+        },
+        {
+          "label": "Bonus: walk off with Treacle's Cookbook",
+          "met": false
+        },
+        {
+          "label": "Bonus: bake with Rusk's Old-Country Cinnamon",
+          "met": false
+        },
+        {
+          "label": "Serve it down in Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "The Call Sheet in the Hatch",
       "giver": "Prop Goose",
       "gp": 15,
@@ -374,6 +706,52 @@
     },
     {
       "pc_name": "Lety",
+      "name": "The First Fire!",
+      "giver": "Ochre",
+      "gp": 110,
+      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the First Hearth (321)",
+          "met": true
+        },
+        {
+          "label": "Learn the fire drill",
+          "met": false
+        },
+        {
+          "label": "Go down to the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Pick a Glowcap by the Fairy Ring",
+          "met": false
+        },
+        {
+          "label": "Cross to the Jungle Clearing (301)",
+          "met": false
+        },
+        {
+          "label": "Dig Wild Yams out of the Yam Patch",
+          "met": false
+        },
+        {
+          "label": "Bring it all home to the First Hearth (321)",
+          "met": false
+        },
+        {
+          "label": "Share the kill at the First Fire",
+          "met": false
+        },
+        {
+          "label": "Bonus: take a Clay Ember Pot for the road",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -386,7 +764,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
+          "met": true
         },
         {
           "label": "Kill the Truffle Sow",
@@ -402,6 +780,20 @@
         },
         {
           "label": "Bring it home to the Green Room (300)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Lety",
+      "name": "The Rain Bell Is on the Schedule",
+      "giver": "Mayor Snap",
+      "gp": 0,
+      "prize": "Old Baking Spices · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Stop the scheduled rain",
           "met": false
         }
       ]
@@ -422,216 +814,68 @@
     },
     {
       "pc_name": "Nic",
-      "name": "Crumb's Resignation Dinner",
-      "giver": "Chef Barnaby Crumb",
-      "gp": 85,
-      "prize": "85 gp · Set Builder's Nail gun · 8 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Take the Silver Tasting Spoon",
-          "met": false
-        },
-        {
-          "label": "Slip into the Cookbook Stacks (308)",
-          "met": false
-        },
-        {
-          "label": "Crack the Cellar Archive",
-          "met": false
-        },
-        {
-          "label": "Lift Barnaby Crumb's Contract",
-          "met": false
-        },
-        {
-          "label": "Get back to the Green Room (300)",
-          "met": false
-        },
-        {
-          "label": "Put the contract in Crumb's hands",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "Homework!",
-      "giver": "Chef Barnaby Crumb",
-      "gp": 5,
-      "prize": "5 gp · 500 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Give Crumb a meat you killed yourself",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "Jack's Licence",
-      "giver": "Dry Jack",
-      "gp": 35,
-      "prize": "35 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Give Jack the Sprinkler Valve Wheel",
-          "met": false
-        },
-        {
-          "label": "Give Jack the Spare Stock Seal",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "Salt for the Stadium!",
-      "giver": "Dry Jack",
-      "gp": 80,
-      "prize": "80 gp · Park Ranger's Kevlar Vest · 8 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Come out to the Salt Lick (312)",
-          "met": true
-        },
-        {
-          "label": "Deal with the crocodile, one way or another",
-          "met": false
-        },
-        {
-          "label": "Take the Salt Lick Crystal",
-          "met": false
-        },
-        {
-          "label": "Carry it to the Kitchen Stadium (307)",
-          "met": false
-        },
-        {
-          "label": "Stand in the Stadium holding the Salt Lick Crystal",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "Shiny Things",
-      "giver": "Penny",
-      "gp": 30,
-      "prize": "30 gp · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Give Penny the bag of shiny things",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "Smoke and Vine!",
-      "giver": "Auntie Tamarind",
-      "gp": 175,
-      "prize": "175 gp · The Flue Door in the Smokehouse (319) opens into the Cave of Safe (322). · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Climb to the Smokehouse (319)",
-          "met": true
-        },
-        {
-          "label": "Kill Old Cured Hide",
-          "met": false
-        },
-        {
-          "label": "Pick up a Smoked Ham Hock",
-          "met": false
-        },
-        {
-          "label": "Drop into the Vine Pit (320)",
-          "met": false
-        },
-        {
-          "label": "Kill the Gourd Mother",
-          "met": false
-        },
-        {
-          "label": "Bring the ham home to the Canopy Market (318)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "The Call Sheet in the Hatch",
-      "giver": "Prop Goose",
-      "gp": 15,
-      "prize": "15 gp · Rumour — Benji's pencil note points at the Last Set (304). · 3 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Find the bloody call sheet in the hatch (300)",
-          "met": false
-        },
-        {
-          "label": "Let the goose shred it for nesting material",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "The Full Larder!",
-      "giver": "Best Chef",
-      "gp": 150,
-      "prize": "150 gp · 10 XP each",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Go down to the Jungle Clearing (301)",
-          "met": true
-        },
-        {
-          "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
-        },
-        {
-          "label": "Kill the Truffle Sow",
-          "met": false
-        },
-        {
-          "label": "Pick up the Sow-Heart Truffle",
-          "met": false
-        },
-        {
-          "label": "Flip the Sow's Carcass and carve it",
-          "met": false
-        },
-        {
-          "label": "Bring it home to the Green Room (300)",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Nic",
-      "name": "Water for Everyone",
-      "giver": "Dry Jack",
+      "name": "A Town That Doesn't Need Its Witch",
+      "giver": "Doughty the Baker",
       "gp": 0,
-      "prize": "Salt Lick Crystal · 500 XP each",
+      "prize": "Strong Flour · The back bakery door in Gingerbread Town (302) is open and leads to the Cave of Safe (322). · 500 XP each",
       "pending": false,
       "steps": [
         {
-          "label": "Get the crocodile out of Dry Jack's work area",
+          "label": "Take the Old Barm from Treacle's Dough Trough (306)",
+          "met": false
+        },
+        {
+          "label": "Bring it home to Doughty alive",
           "met": false
         }
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
+      "name": "A Wall of Boiled Sweets",
+      "giver": "Mayor Snap",
+      "gp": 25,
+      "prize": "25 gp · 3 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Cut Sugar Cane in the jungle",
+          "met": false
+        },
+        {
+          "label": "Scrape Snail Slime off the Giant Snail",
+          "met": false
+        },
+        {
+          "label": "Bring both to Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
+      "name": "Bring Back the Crew",
+      "giver": "Tess",
+      "gp": 0,
+      "prize": "Crew Gaffer Tape · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Go into the Last Set (304)",
+          "met": true
+        },
+        {
+          "label": "Kill the ACTION loop so the bodies can be pulled",
+          "met": false
+        },
+        {
+          "label": "Carry the crew back to The Film Set (303)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "Crumb's Resignation Dinner",
       "giver": "Chef Barnaby Crumb",
       "gp": 85,
@@ -665,7 +909,7 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
       "name": "Homework!",
       "giver": "Chef Barnaby Crumb",
       "gp": 5,
@@ -679,7 +923,7 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
       "name": "Jack's Licence",
       "giver": "Dry Jack",
       "gp": 35,
@@ -697,7 +941,25 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
+      "name": "Roll the Real Footage",
+      "giver": "Tess",
+      "gp": 40,
+      "prize": "40 gp · The Rigging Hatch in the Last Set (304) opens into the Cave of Safe (322). · 4 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Find the Villain Storyboard in the Props Tent (304)",
+          "met": false
+        },
+        {
+          "label": "The residents' channel is on the air",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "Salt for the Stadium!",
       "giver": "Dry Jack",
       "gp": 80,
@@ -727,7 +989,25 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
+      "name": "Salt Run",
+      "giver": "Clove",
+      "gp": 0,
+      "prize": "Black Kombu Twist · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Clove walks with you",
+          "met": false
+        },
+        {
+          "label": "Get Clove to the Salt Lick (312)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "Shiny Things",
       "giver": "Penny",
       "gp": 30,
@@ -741,7 +1021,7 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
       "name": "Smoke and Vine!",
       "giver": "Auntie Tamarind",
       "gp": 175,
@@ -775,7 +1055,45 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
+      "name": "Supper at the Witch's Table!",
+      "giver": "Mother Treacle",
+      "gp": 90,
+      "prize": "90 gp · Rusk's Bread Pudding · 8 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the Gingerbread Cottage (306)",
+          "met": true
+        },
+        {
+          "label": "Open the Birdcage, one way or another",
+          "met": true
+        },
+        {
+          "label": "Take the Old Barm from the Dough Trough",
+          "met": false
+        },
+        {
+          "label": "Cook in the Good Oven and live",
+          "met": false
+        },
+        {
+          "label": "Bonus: walk off with Treacle's Cookbook",
+          "met": false
+        },
+        {
+          "label": "Bonus: bake with Rusk's Old-Country Cinnamon",
+          "met": false
+        },
+        {
+          "label": "Serve it down in Gingerbread Town (302)",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "The Call Sheet in the Hatch",
       "giver": "Prop Goose",
       "gp": 15,
@@ -793,7 +1111,53 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
+      "name": "The First Fire!",
+      "giver": "Ochre",
+      "gp": 110,
+      "prize": "110 gp · Lamp-Oil Molotov Cocktail · Chanterelle tells you which caps blind you this episode. · 10 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Come to the First Hearth (321)",
+          "met": true
+        },
+        {
+          "label": "Learn the fire drill",
+          "met": false
+        },
+        {
+          "label": "Go down to the Fungus Cave (309)",
+          "met": false
+        },
+        {
+          "label": "Pick a Glowcap by the Fairy Ring",
+          "met": false
+        },
+        {
+          "label": "Cross to the Jungle Clearing (301)",
+          "met": false
+        },
+        {
+          "label": "Dig Wild Yams out of the Yam Patch",
+          "met": false
+        },
+        {
+          "label": "Bring it all home to the First Hearth (321)",
+          "met": false
+        },
+        {
+          "label": "Share the kill at the First Fire",
+          "met": false
+        },
+        {
+          "label": "Bonus: take a Clay Ember Pot for the road",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "The Full Larder!",
       "giver": "Best Chef",
       "gp": 150,
@@ -806,7 +1170,7 @@
         },
         {
           "label": "Follow the mushroom pickers into the Fungus Cave (309)",
-          "met": false
+          "met": true
         },
         {
           "label": "Kill the Truffle Sow",
@@ -827,7 +1191,21 @@
       ]
     },
     {
-      "pc_name": "Rae",
+      "pc_name": "Nic",
+      "name": "The Rain Bell Is on the Schedule",
+      "giver": "Mayor Snap",
+      "gp": 0,
+      "prize": "Old Baking Spices · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Stop the scheduled rain",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Nic",
       "name": "Water for Everyone",
       "giver": "Dry Jack",
       "gp": 0,
