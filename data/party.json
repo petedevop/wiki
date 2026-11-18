@@ -3,11 +3,11 @@
     {
       "id": "sandra_lety",
       "name": "Lety",
-      "ancestry": "Human",
+      "ancestry": "Intellect Hunter",
       "class_name": "Tsukumogami Smith",
       "level": 2,
-      "class_level": "Human Tsukumogami Smith 2",
-      "portrait_url": "/media/p4o4NXkcykSrDg2n6fFi2A?v=1790720918407475591",
+      "class_level": "Intellect Hunter Tsukumogami Smith 2",
+      "portrait_url": "/media/MoWSi1eHR2LGdgiCUWtSCg?v=1790720918407475591",
       "about": [
         {
           "heading": "Goals",
@@ -35,18 +35,18 @@
         },
         {
           "id": "DEX",
-          "score": 10,
+          "score": 11,
           "modifier": 0
         },
         {
           "id": "CON",
-          "score": 5,
-          "modifier": -3
+          "score": 3,
+          "modifier": -4
         },
         {
           "id": "INT",
-          "score": 3,
-          "modifier": -4
+          "score": 5,
+          "modifier": -3
         },
         {
           "id": "CHA",
@@ -55,14 +55,14 @@
         }
       ],
       "statuses": [
-        "Clumsy −1"
+        "Overloaded — drop gear"
       ],
       "tank": false,
       "ai_favour": true,
       "favour_score": 0,
       "load": "Lety",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">👕 Prop Hockey Chest Protector</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">Old Barm</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Rusk&#x27;s Golf Club</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Sprinkler Valve Wheel</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">Treacle&#x27;s Cutter</span></li>\n<li class=\"party-gear-row\">🎒 Bandages (5)</li>\n<li class=\"party-gear-row\">🎒 Bandages (5)</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Call Sheet</li>\n<li class=\"party-gear-row\">🎒 Crew Survey Stake</li>\n<li class=\"party-gear-row\">🎒 Crowbar</li>\n<li class=\"party-gear-row\">🎒 Prop Table Leg</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Vine Rope</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">👕 Prop Hockey Chest Protector</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Jungle Honey</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">Old Barm</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Sprinkler Valve Wheel</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">Treacle&#x27;s Cutter</span></li>\n<li class=\"party-gear-row\">🎒 Bandages (5)</li>\n<li class=\"party-gear-row\">🎒 Bandages (5)</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Call Sheet</li>\n<li class=\"party-gear-row\">🎒 Crew Survey Stake</li>\n<li class=\"party-gear-row\">🎒 Crowbar</li>\n<li class=\"party-gear-row\">🎒 Prop Table Leg</li>\n<li class=\"party-gear-row\">🎒 Raptor Steak</li>\n<li class=\"party-gear-row\">🎒 Rusk&#x27;s Knuckle</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Vine Rope</li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n<li class=\"party-gear-row\">🎒 Wild Yams</li>\n</ul>\n</div>",
       "xp": 87,
       "alignment": "",
       "title": "",
@@ -74,11 +74,11 @@
     {
       "id": "daniel_edwardo",
       "name": "Edwardo",
-      "ancestry": "Human",
+      "ancestry": "Ashen",
       "class_name": "The Programmer",
       "level": 2,
-      "class_level": "Human The Programmer 2",
-      "portrait_url": "/media/cQxs0M5dnVKdXQ1WQGgrag?v=1790800019726852655",
+      "class_level": "Ashen The Programmer 2",
+      "portrait_url": "/media/1bf-PLsJDh_K71cizw88Bg?v=1790800019726852655",
       "about": [
         {
           "heading": "Goals",
@@ -107,13 +107,13 @@
         },
         {
           "id": "DEX",
-          "score": 15,
+          "score": 14,
           "modifier": 2
         },
         {
           "id": "CON",
-          "score": 4,
-          "modifier": -3
+          "score": 6,
+          "modifier": -2
         },
         {
           "id": "INT",
@@ -127,8 +127,6 @@
         }
       ],
       "statuses": [
-        "Strained",
-        "Bloodied",
         "Overloaded — drop gear"
       ],
       "tank": false,
@@ -136,7 +134,7 @@
       "favour_score": 0,
       "load": "Edwardo",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 Biker leathers</li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-uncommon\">Treacle&#x27;s Oven Mitts</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Barm&#x27;s Daughter</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Grip&#x27;s Man Catcher</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Krakaren Flesh</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Old-Country Cinnamon</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Stagehand&#x27;s Garrote</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Stone Skin Girdle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Last Episode</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Villain Storyboard</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Wild Saffron</span></li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Crowbar</li>\n<li class=\"party-gear-row\">🎒 Duct tape</li>\n<li class=\"party-gear-row\">🎒 Gingerbread Dough</li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Star Anise Twist</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Monkey&#x27;s Slingshot</li>\n<li class=\"party-gear-row\">👕 Biker leathers</li>\n<li class=\"party-gear-row\">🦾 <span class=\"rarity-uncommon\">Treacle&#x27;s Oven Mitts</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Barm&#x27;s Daughter</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crew Walkie</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Escargot</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Grip&#x27;s Man Catcher</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Guest-Bed Bedspring Mail</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Jungle Honey</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Krakaren Flesh</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Old-Country Cinnamon</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Stagehand&#x27;s Garrote</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Stone Skin Girdle</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Last Episode</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Villain Storyboard</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Treacle&#x27;s Cookbook</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"magic\">Usher&#x27;s Leather Jacket</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-rare\">Wild Saffron</span></li>\n<li class=\"party-gear-row\">🎒 Brass knuckles</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Crowbar</li>\n<li class=\"party-gear-row\">🎒 Duct tape</li>\n<li class=\"party-gear-row\">🎒 Electric Eel</li>\n<li class=\"party-gear-row\">🎒 Gingerbread Dough</li>\n<li class=\"party-gear-row\">🎒 Infinite toilet paper</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Star Anise Twist</li>\n<li class=\"party-gear-row\">🎒 Two wedding bands</li>\n<li class=\"party-gear-row\">🎒 Wild Pepper Pods</li>\n</ul>\n</div>",
       "xp": 87,
       "alignment": "",
       "title": "",
@@ -152,7 +150,7 @@
       "class_name": "Overcompensating Mech",
       "level": 2,
       "class_level": "Cryak Draconian Overcompensating Mech 2",
-      "portrait_url": "/media/-6JzYhVaXMUloj0kLJWSjQ?v=1790721129428895712",
+      "portrait_url": "/media/kHU7JUdinOlBkBhhyP9Bvw?v=1790721129428895712",
       "about": [
         {
           "heading": "Goals",
@@ -201,15 +199,14 @@
         }
       ],
       "statuses": [
-        "Disadvantaged",
-        "Keen"
+        "Disadvantaged"
       ],
       "tank": true,
       "ai_favour": false,
       "favour_score": 0,
       "load": "Nic",
       "resting": null,
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Hatchet</li>\n<li class=\"party-gear-row\">👕 Butcher&#x27;s Apron</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Children&#x27;s sidewalk chalk</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Crawler Cooler</span></li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Hanky of Offensive Odor Immunity</span></li>\n<li class=\"party-gear-row\">🎒 Hard Candy Cobble</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Pitch Torch</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Stage Flare</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 Wild Yams</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✊ Slingshot</li>\n<li class=\"party-gear-row\">⚙ Hatchet</li>\n<li class=\"party-gear-row\">👕 Butcher&#x27;s Apron</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Glowcap</span></li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Bronze Loot Box</li>\n<li class=\"party-gear-row\">🎒 Brown Shelf Mushrooms</li>\n<li class=\"party-gear-row\">🎒 Fiddlehead Ferns</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 Goblin Dynamite</li>\n<li class=\"party-gear-row\">🎒 Hard Candy Cobble</li>\n<li class=\"party-gear-row\">🎒 Nick&#x27;s Kit</li>\n<li class=\"party-gear-row\">🎒 Pitch Torch</li>\n<li class=\"party-gear-row\">🎒 Shopping List</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-uncommon\">Silver Loot Box</span></li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Sling Stones</li>\n<li class=\"party-gear-row\">🎒 Snail Slime</li>\n<li class=\"party-gear-row\">🎒 <span class=\"rarity-unique\">The Rushes</span></li>\n<li class=\"party-gear-row\">🎒 Wild Yams</li>\n</ul>\n</div>",
       "xp": 237,
       "alignment": "",
       "title": "",
