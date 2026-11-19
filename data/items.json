@@ -12,6 +12,13 @@
       "title": "Apple",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
+      "image": "assets/img/item/apple.webp"
+    },
+    {
+      "id": "item-axe",
+      "title": "Axe",
+      "subtitle": "",
+      "blurb": "",
       "image": null
     },
     {
@@ -19,42 +26,42 @@
       "title": "Axefish",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/axefish.webp"
     },
     {
       "id": "item-banana",
       "title": "Banana",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/banana.webp"
     },
     {
       "id": "item-bass",
       "title": "Bass",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/bass.webp"
     },
     {
       "id": "item-bell_pepper",
       "title": "Bell Pepper",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/bell_pepper.webp"
     },
     {
       "id": "item-big_egg",
       "title": "Big Egg",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/big_egg.webp"
     },
     {
       "id": "item-big_meat",
       "title": "Big Meat",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/big_meat.webp"
     },
     {
       "id": "item-blessed_charm_scroll",
@@ -68,21 +75,21 @@
       "title": "Blessed Sword",
       "subtitle": "Floor 3",
       "blurb": "Longsword that sheds healing light.",
-      "image": null
+      "image": "assets/img/item/blessed_sword.webp"
     },
     {
       "id": "item-blue_mushroom",
       "title": "Blue Mushroom",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/blue_mushroom.webp"
     },
     {
       "id": "item-blue_potion",
       "title": "Blue Potion",
       "subtitle": "Floor 3",
       "blurb": "Brewed refreshing potion.",
-      "image": null
+      "image": "assets/img/item/blue_potion.webp"
     },
     {
       "id": "item-bottomless_flagon",
@@ -96,21 +103,21 @@
       "title": "Brewing Set",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/brewing_set.webp"
     },
     {
       "id": "item-bronze_treasure_chest",
       "title": "Bronze Treasure Chest",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/bronze_treasure_chest.webp"
     },
     {
       "id": "item-bucket",
       "title": "Bucket",
       "subtitle": "Floor 3",
       "blurb": "Carry liquids and dirt.",
-      "image": null
+      "image": "assets/img/item/bucket.webp"
     },
     {
       "id": "item-calming_draught",
@@ -124,13 +131,20 @@
       "title": "Carrot",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/carrot.webp"
     },
     {
       "id": "item-catfish",
       "title": "Catfish",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
+      "image": "assets/img/item/catfish.webp"
+    },
+    {
+      "id": "item-chain_armor",
+      "title": "Chain Armor",
+      "subtitle": "",
+      "blurb": "worn 1.0 1 torso 2 () () () Source: items.yaml",
       "image": null
     },
     {
@@ -138,35 +152,35 @@
       "title": "Chillcarp",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/chillcarp.webp"
     },
     {
       "id": "item-claw",
       "title": "Claw",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/claw.webp"
     },
     {
       "id": "item-cooked_meal",
       "title": "Cooked Meal",
       "subtitle": "Floor 3",
       "blurb": "Camp-cooked portions — tap to eat the stored effect.",
-      "image": null
+      "image": "assets/img/item/cooked_meal.webp"
     },
     {
       "id": "item-cooking_set",
       "title": "Cooking Set",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/cooking_set.webp"
     },
     {
       "id": "item-cricket",
       "title": "Cricket",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/cricket.webp"
     },
     {
       "id": "item-crypt_knight_blade",
@@ -187,7 +201,7 @@
       "title": "Egg",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/egg.webp"
     },
     {
       "id": "item-elegant_clothes",
@@ -201,84 +215,84 @@
       "title": "Elemental Arrows",
       "subtitle": "Floor 3",
       "blurb": "Arrows with an elemental charge.",
-      "image": null
+      "image": "assets/img/item/elemental_arrows.webp"
     },
     {
       "id": "item-enchanted_mask",
       "title": "Enchanted Mask",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/enchanted_mask.webp"
     },
     {
       "id": "item-essence",
       "title": "Essence",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/essence.webp"
     },
     {
       "id": "item-eye",
       "title": "Eye",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/eye.webp"
     },
     {
       "id": "item-fang",
       "title": "Fang",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/fang.webp"
     },
     {
       "id": "item-fireblade",
       "title": "Fireblade",
       "subtitle": "Floor 3",
       "blurb": "Longsword-like blade wreathed in fire.",
-      "image": null
+      "image": "assets/img/item/fireblade.webp"
     },
     {
       "id": "item-firefly",
       "title": "Firefly",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/firefly.webp"
     },
     {
       "id": "item-firetrout",
       "title": "Firetrout",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/firetrout.webp"
     },
     {
       "id": "item-fishing_rod",
       "title": "Fishing Rod",
       "subtitle": "Floor 3",
       "blurb": "Allows fishing.",
-      "image": null
+      "image": "assets/img/item/fishing_rod.webp"
     },
     {
       "id": "item-flamburn",
       "title": "Flamburn",
       "subtitle": "Floor 3",
       "blurb": "Dagger dealing fire damage.",
-      "image": null
+      "image": "assets/img/item/flamburn.webp"
     },
     {
       "id": "item-flint",
       "title": "Flint",
       "subtitle": "Floor 3",
       "blurb": "Easily start a fire.",
-      "image": null
+      "image": "assets/img/item/flint.webp"
     },
     {
       "id": "item-flying_cape",
       "title": "Flying Cape",
       "subtitle": "Floor 3",
       "blurb": "Spend 1 stamina to glide from any height.",
-      "image": null
+      "image": "assets/img/item/flying_cape.webp"
     },
     {
       "id": "item-foundry_iron_bundle",
@@ -292,7 +306,7 @@
       "title": "Fruit Skewer",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/fruit_skewer.webp"
     },
     {
       "id": "item-goblin_ear",
@@ -313,21 +327,21 @@
       "title": "Gold Treasure Chest",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/gold_treasure_chest.webp"
     },
     {
       "id": "item-golden_scorpion",
       "title": "Golden Scorpion",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/golden_scorpion.webp"
     },
     {
       "id": "item-grapes",
       "title": "Grapes",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/grapes.webp"
     },
     {
       "id": "item-grappling_hook",
@@ -341,28 +355,28 @@
       "title": "Green Eel",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/green_eel.webp"
     },
     {
       "id": "item-green_mushroom",
       "title": "Green Mushroom",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/green_mushroom.webp"
     },
     {
       "id": "item-green_potion",
       "title": "Green Potion",
       "subtitle": "Floor 3",
       "blurb": "Brewed invigorating potion.",
-      "image": null
+      "image": "assets/img/item/green_potion.webp"
     },
     {
       "id": "item-guts",
       "title": "Guts",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/guts.webp"
     },
     {
       "id": "item-healing_prayer_scroll",
@@ -376,28 +390,28 @@
       "title": "Health Potion",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/health_potion.webp"
     },
     {
       "id": "item-heart",
       "title": "Heart",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/heart.webp"
     },
     {
       "id": "item-herbs",
       "title": "Herbs",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/herbs.webp"
     },
     {
       "id": "item-honey",
       "title": "Honey",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/honey.webp"
     },
     {
       "id": "item-horse_feed",
@@ -411,7 +425,7 @@
       "title": "Hot Pepper",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/hot_pepper.webp"
     },
     {
       "id": "item-hunting_bow",
@@ -425,42 +439,42 @@
       "title": "Ice Dagger",
       "subtitle": "Floor 3",
       "blurb": "Dagger dealing ice damage.",
-      "image": null
+      "image": "assets/img/item/ice_dagger.webp"
     },
     {
       "id": "item-jewel",
       "title": "Jewel",
       "subtitle": "Floor 3",
       "blurb": "Worth 50 gold when sold.",
-      "image": null
+      "image": "assets/img/item/jewel.webp"
     },
     {
       "id": "item-king_salmon",
       "title": "King Salmon",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/king_salmon.webp"
     },
     {
       "id": "item-knife",
       "title": "Knife",
       "subtitle": "Floor 3",
       "blurb": "Cut and carve.",
-      "image": null
+      "image": "assets/img/item/knife.webp"
     },
     {
       "id": "item-ladder",
       "title": "Ladder",
       "subtitle": "Floor 3",
       "blurb": "Safely climb near.",
-      "image": null
+      "image": "assets/img/item/ladder.webp"
     },
     {
       "id": "item-large_tent",
       "title": "Large Tent",
       "subtitle": "Floor 3",
       "blurb": "Shelter up to 4 champions.",
-      "image": null
+      "image": "assets/img/item/large_tent.webp"
     },
     {
       "id": "item-leather_armor",
@@ -474,42 +488,42 @@
       "title": "Lockpick",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/lockpick.webp"
     },
     {
       "id": "item-magic_scroll",
       "title": "Magic Scroll",
       "subtitle": "Floor 3",
       "blurb": "One-use random arcane spell.",
-      "image": null
+      "image": "assets/img/item/magic_scroll.webp"
     },
     {
       "id": "item-magic_shield_ring",
       "title": "Magic Shield Ring",
       "subtitle": "Floor 3",
       "blurb": "Reaction shield once per day.",
-      "image": null
+      "image": "assets/img/item/magic_shield_ring.webp"
     },
     {
       "id": "item-magic_wand",
       "title": "Magic Wand",
       "subtitle": "Floor 3",
       "blurb": "Small arcane focus.",
-      "image": null
+      "image": "assets/img/item/magic_wand.webp"
     },
     {
       "id": "item-map",
       "title": "Map",
       "subtitle": "Floor 3",
       "blurb": "Unveils a landmark location.",
-      "image": null
+      "image": "assets/img/item/map.webp"
     },
     {
       "id": "item-meat",
       "title": "Meat",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/meat.webp"
     },
     {
       "id": "item-meat_pie",
@@ -523,42 +537,42 @@
       "title": "Melon",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/melon.webp"
     },
     {
       "id": "item-mighty_beetle",
       "title": "Mighty Beetle",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/mighty_beetle.webp"
     },
     {
       "id": "item-mirror",
       "title": "Mirror",
       "subtitle": "Floor 3",
       "blurb": "Reflects images and light.",
-      "image": null
+      "image": "assets/img/item/mirror.webp"
     },
     {
       "id": "item-monster_goo",
       "title": "Monster Goo",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/monster_goo.webp"
     },
     {
       "id": "item-mushroom_skewer",
       "title": "Mushroom Skewer",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/mushroom_skewer.webp"
     },
     {
       "id": "item-musical_instrument",
       "title": "Musical Instrument",
       "subtitle": "Floor 3",
       "blurb": "Play music.",
-      "image": null
+      "image": "assets/img/item/musical_instrument.webp"
     },
     {
       "id": "item-old_axe",
@@ -621,14 +635,14 @@
       "title": "Padded Armor",
       "subtitle": "Floor 3",
       "blurb": "Light padding; armour 1.",
-      "image": null
+      "image": "assets/img/item/padded_armor.webp"
     },
     {
       "id": "item-paper_and_ink",
       "title": "Paper and Ink",
       "subtitle": "Floor 3",
       "blurb": "Write.",
-      "image": null
+      "image": "assets/img/item/paper_and_ink.webp"
     },
     {
       "id": "item-plate_armor",
@@ -642,28 +656,28 @@
       "title": "Potatoes",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/potatoes.webp"
     },
     {
       "id": "item-pumpkin",
       "title": "Pumpkin",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/pumpkin.webp"
     },
     {
       "id": "item-purple_centipede",
       "title": "Purple Centipede",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/purple_centipede.webp"
     },
     {
       "id": "item-purple_potion",
       "title": "Purple Potion",
       "subtitle": "Floor 3",
       "blurb": "Brewed multi-effect potion.",
-      "image": null
+      "image": "assets/img/item/purple_potion.webp"
     },
     {
       "id": "item-rare_forest_salve",
@@ -677,63 +691,63 @@
       "title": "Rare Green Mushroom",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/rare_green_mushroom.webp"
     },
     {
       "id": "item-rare_red_mushroom",
       "title": "Rare Red Mushroom",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/rare_red_mushroom.webp"
     },
     {
       "id": "item-ration",
       "title": "Ration",
       "subtitle": "Floor 3",
       "blurb": "Portable meal for one champion.",
-      "image": null
+      "image": "assets/img/item/ration.webp"
     },
     {
       "id": "item-razor_spider",
       "title": "Razor Spider",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/razor_spider.webp"
     },
     {
       "id": "item-red_lizard",
       "title": "Red Lizard",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/red_lizard.webp"
     },
     {
       "id": "item-red_mushroom",
       "title": "Red Mushroom",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/red_mushroom.webp"
     },
     {
       "id": "item-red_potion",
       "title": "Red Potion",
       "subtitle": "Floor 3",
       "blurb": "Brewed healthy potion.",
-      "image": null
+      "image": "assets/img/item/red_potion.webp"
     },
     {
       "id": "item-rice",
       "title": "Rice",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/rice.webp"
     },
     {
       "id": "item-rice_ball",
       "title": "Rice Ball",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/rice_ball.webp"
     },
     {
       "id": "item-riding_horse",
@@ -761,6 +775,20 @@
       "title": "Rope",
       "subtitle": "Floor 3",
       "blurb": "Thirty feet.",
+      "image": "assets/img/item/rope.webp"
+    },
+    {
+      "id": "item-shield",
+      "title": "Shield",
+      "subtitle": "",
+      "blurb": "hand 1 1.0 1 () () () Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-short_sword",
+      "title": "Short Sword",
+      "subtitle": "",
+      "blurb": "",
       "image": null
     },
     {
@@ -768,62 +796,69 @@
       "title": "Shovel",
       "subtitle": "Floor 3",
       "blurb": "Dig a hole, fill a hole, or fill someone's day.",
-      "image": null
+      "image": "assets/img/item/shovel.webp"
     },
     {
       "id": "item-silver_treasure_chest",
       "title": "Silver Treasure Chest",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/silver_treasure_chest.webp"
     },
     {
       "id": "item-skull",
       "title": "Skull",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/skull.webp"
     },
     {
       "id": "item-slimy_toad",
       "title": "Slimy Toad",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/slimy_toad.webp"
     },
     {
       "id": "item-sling_stones",
       "title": "Sling Stones",
       "subtitle": "Floor 3",
       "blurb": "A handful of sling stones.",
-      "image": null
+      "image": "assets/img/item/sling_stones.webp"
     },
     {
       "id": "item-soothing_potion",
       "title": "Soothing Potion",
       "subtitle": "Floor 3",
       "blurb": "Remove a status (not K.O.).",
-      "image": null
+      "image": "assets/img/item/soothing_potion.webp"
     },
     {
       "id": "item-spicy_skewer",
       "title": "Spicy Skewer",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/spicy_skewer.webp"
     },
     {
       "id": "item-spinach",
       "title": "Spinach",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/spinach.webp"
     },
     {
       "id": "item-spyglass",
       "title": "Spyglass",
       "subtitle": "Floor 3",
       "blurb": "See far.",
+      "image": "assets/img/item/spyglass.webp"
+    },
+    {
+      "id": "item-staff",
+      "title": "Staff",
+      "subtitle": "",
+      "blurb": "hand 1 1.0 1 () () () Source: items.yaml",
       "image": null
     },
     {
@@ -831,7 +866,7 @@
       "title": "Stamina Potion",
       "subtitle": "Floor 3",
       "blurb": "Recover 1 stamina.",
-      "image": null
+      "image": "assets/img/item/stamina_potion.webp"
     },
     {
       "id": "item-stew",
@@ -852,14 +887,14 @@
       "title": "Stormking",
       "subtitle": "Floor 3",
       "blurb": "Heavy bow crowned with storm runes.",
-      "image": null
+      "image": "assets/img/item/stormking.webp"
     },
     {
       "id": "item-strawberries",
       "title": "Strawberries",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/strawberries.webp"
     },
     {
       "id": "item-summer_clothes",
@@ -873,21 +908,21 @@
       "title": "Sunfrost Moth",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/sunfrost_moth.webp"
     },
     {
       "id": "item-super_hot_pepper",
       "title": "Super Hot Pepper",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/super_hot_pepper.webp"
     },
     {
       "id": "item-swift_trout",
       "title": "Swift Trout",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/swift_trout.webp"
     },
     {
       "id": "item-tamsin_notice",
@@ -901,28 +936,28 @@
       "title": "Teleport Staff",
       "subtitle": "Floor 3",
       "blurb": "Arcane staff that casts Teleport.",
-      "image": null
+      "image": "assets/img/item/teleport_staff.webp"
     },
     {
       "id": "item-tent",
       "title": "Tent",
       "subtitle": "Floor 3",
       "blurb": "Shelter up to 2.",
-      "image": null
+      "image": "assets/img/item/tent.webp"
     },
     {
       "id": "item-thunderaxe",
       "title": "Thunderaxe",
       "subtitle": "Floor 3",
       "blurb": "Greataxe crackling with thunder.",
-      "image": null
+      "image": "assets/img/item/thunderaxe.webp"
     },
     {
       "id": "item-torch",
       "title": "Torch",
       "subtitle": "Floor 3",
       "blurb": "Light until time passes.",
-      "image": null
+      "image": "assets/img/item/torch.webp"
     },
     {
       "id": "item-training_bow",
@@ -957,7 +992,7 @@
       "title": "Unknown Potion",
       "subtitle": "Floor 3",
       "blurb": "Unidentified — use Identify (KNO) before drinking.",
-      "image": null
+      "image": "assets/img/item/unknown_potion.webp"
     },
     {
       "id": "item-wagon",
@@ -978,14 +1013,14 @@
       "title": "Watermelon",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/watermelon.webp"
     },
     {
       "id": "item-waterskin",
       "title": "Waterskin",
       "subtitle": "Floor 3",
       "blurb": "Holds liquids.",
-      "image": null
+      "image": "assets/img/item/waterskin.webp"
     },
     {
       "id": "item-winter_clothes",
@@ -1013,21 +1048,21 @@
       "title": "Yellow Dragonfly",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/yellow_dragonfly.webp"
     },
     {
       "id": "item-yellow_mushroom",
       "title": "Yellow Mushroom",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
-      "image": null
+      "image": "assets/img/item/yellow_mushroom.webp"
     },
     {
       "id": "item-yellow_potion",
       "title": "Yellow Potion",
       "subtitle": "Floor 3",
       "blurb": "Brewed spicy potion.",
-      "image": null
+      "image": "assets/img/item/yellow_potion.webp"
     }
   ]
 }

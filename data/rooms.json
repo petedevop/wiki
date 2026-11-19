@@ -6,7 +6,7 @@
       "title": "Town Gate",
       "zone_key": "floorthree",
       "zone_label": "Floor 3",
-      "blurb": "The Bramblewick gate frames the road. A watchtower, a kettle on the fire, dice on a stump.",
+      "blurb": "The Ordella gate frames the road. A watchtower, a kettle on the fire, dice on a stump.",
       "image": "assets/img/room/floorthree/400.webp",
       "image_thumb": "assets/img/room/floorthree/400.s.webp"
     },
@@ -16,7 +16,7 @@
       "title": "Town Square",
       "zone_key": "floorthree",
       "zone_label": "Floor 3",
-      "blurb": "Bramblewick green: bunting, an old oak, a stone well. Ducks fuss.",
+      "blurb": "Ordella green: bunting, an old oak, a stone well. Ducks fuss.",
       "image": "assets/img/room/floorthree/401.webp",
       "image_thumb": "assets/img/room/floorthree/401.s.webp"
     },
@@ -156,7 +156,7 @@
       "title": "Wrecked Cart",
       "zone_key": "floorthree",
       "zone_label": "Floor 3",
-      "blurb": "An overturned iron cart, a dead ox, and goblin prints in the mud.",
+      "blurb": "An overturned iron cart, a dead ox, and goblin prints in the mud. Colossal mushroom stems rise beyond the ruts.",
       "image": "assets/img/room/floorthree/421.webp",
       "image_thumb": "assets/img/room/floorthree/421.s.webp"
     },
@@ -193,10 +193,10 @@
     {
       "id": "room-425",
       "num": 425,
-      "title": "Mushroom Glade",
+      "title": "Mushroom Hollow",
       "zone_key": "floorthree",
       "zone_label": "Floor 3",
-      "blurb": "Grey caps crowd a sunny hollow. The air smells of loam and rain.",
+      "blurb": "Towering giant mushrooms ring a sunny hollow. Grey caps crowd the floor; the air smells of loam and rain.",
       "image": "assets/img/room/floorthree/425.webp",
       "image_thumb": "assets/img/room/floorthree/425.s.webp"
     },
@@ -369,6 +369,36 @@
       "blurb": "A black river slides through the stone. Barrels spin in the current.",
       "image": "assets/img/room/floorthree/450.webp",
       "image_thumb": "assets/img/room/floorthree/450.s.webp"
+    },
+    {
+      "id": "room-495",
+      "num": 495,
+      "title": "Lonely Shore",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3",
+      "blurb": "Reeds whisper at a still lake. North across the water, a wooded islet catches the last light.",
+      "image": "assets/img/room/floorthree/495.webp",
+      "image_thumb": "assets/img/room/floorthree/495.s.webp"
+    },
+    {
+      "id": "room-496",
+      "num": 496,
+      "title": "Rowboat Crossing",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3",
+      "blurb": "A creaking rowboat ties to a stump. Cold water laps the gunwales; the islet waits ahead.",
+      "image": "assets/img/room/floorthree/496.webp",
+      "image_thumb": "assets/img/room/floorthree/496.s.webp"
+    },
+    {
+      "id": "room-497",
+      "num": 497,
+      "title": "Lonely House Island",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3",
+      "blurb": "A single lonely house sits on the islet, shutters tight. Something dangerous is said to lair inside — stub only.",
+      "image": "assets/img/room/floorthree/497.webp",
+      "image_thumb": "assets/img/room/floorthree/497.s.webp"
     },
     {
       "id": "room-499",

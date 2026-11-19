@@ -7,14 +7,14 @@
       "class_name": "Warrior",
       "level": 1,
       "class_level": "Human Warrior 1",
-      "portrait_url": "/media/fhwiRA5LJYtY-ONqSc7s8g",
+      "portrait_url": "/media/fJEMD4mKeGTn9IrOHhMQHg",
       "about": [],
       "powers": [],
-      "hp": -3,
+      "hp": 19,
       "hp_max": 19,
-      "hearts": -3,
+      "hearts": 19,
       "temp_hp": 0,
-      "ac": 10,
+      "ac": 12,
       "abilities": [
         {
           "id": "STR",
@@ -67,12 +67,106 @@
       "vitals_label": "Hearts",
       "stamina": 3,
       "stamina_max": 3,
+      "armour_rating": 2,
+      "vitals_icons": [
+        {
+          "kind": "heart",
+          "value": "19/19",
+          "aria_label": "Hearts 19 of 19"
+        },
+        {
+          "kind": "stamina",
+          "value": "3/3",
+          "aria_label": "Stamina 3 of 3"
+        },
+        {
+          "kind": "armour",
+          "value": "2",
+          "aria_label": "Armour 2"
+        }
+      ],
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Short Sword</li>\n<li class=\"party-gear-row\">✋ Shield</li>\n<li class=\"party-gear-row\">👕 Leather Armor</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Hunting Bow</li>\n<li class=\"party-gear-row\">🎒 Mushroom Skewer</li>\n<li class=\"party-gear-row\">🎒 Rice Ball</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
+      "xp": 0,
+      "alignment": "Lawful",
+      "title": "",
+      "appearance": "",
+      "skills": [],
+      "portrait": "assets/img/party/pete_rae.webp",
+      "class_blurb": "Hold the line; cleave, parry, and favoured steel."
+    },
+    {
+      "id": "david_odile",
+      "name": "Odile",
+      "ancestry": "",
+      "class_name": "",
+      "level": 1,
+      "class_level": "lvl 1",
+      "portrait_url": "",
+      "about": [],
+      "powers": [],
+      "hp": 15,
+      "hp_max": 15,
+      "hearts": 15,
+      "temp_hp": 0,
+      "ac": 7,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "AGL",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "VIT",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "PER",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "WIL",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "KNO",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "CHA",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "STE",
+          "score": 5,
+          "modifier": 0
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "ai_favour": false,
+      "favour_score": 0,
+      "load": "Odile",
+      "resting": null,
+      "vitals_unit": "hearts",
+      "vitals_label": "Hearts",
+      "stamina": 3,
+      "stamina_max": 3,
       "armour_rating": 0,
       "vitals_icons": [
         {
           "kind": "heart",
-          "value": "-3/19",
-          "aria_label": "Hearts -3 of 19"
+          "value": "15/15",
+          "aria_label": "Hearts 15 of 15"
         },
         {
           "kind": "stamina",
@@ -85,14 +179,12 @@
           "aria_label": "Armour 0"
         }
       ],
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n<li class=\"party-gear-row\">🎒 Canned food</li>\n</ul>\n</div>",
       "xp": 0,
-      "alignment": "Lawful",
+      "alignment": "Neutral",
       "title": "",
-      "appearance": "",
-      "skills": [],
-      "portrait": "assets/img/party/pete_rae.webp",
-      "class_blurb": "Hold the line; cleave, parry, and favoured steel."
+      "appearance": "a wrap sweater, soft shoes, hair still in a knot",
+      "skills": []
     }
   ],
   "skipped": false

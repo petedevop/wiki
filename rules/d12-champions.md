@@ -1,6 +1,6 @@
 # Champion rules (d12)
 
-When the table turns on **Champion rules** in the app, Floor Two runs a **d12 roll-under** game. You are a **Champion** facing heartless foes in service of **the Scourge** — not champions chasing Shadow Dark maths on a d20.
+When **Champion rules** are on, the floor runs **d12 roll-under** Twilight Sword maths. You are a **Champion** in service of **the Scourge** — eight stats, hearts, and roll-under on the die.
 
 The phone and handbook stay the same places; labels and maths change. This page is the player cheat sheet. The app also exports code-synced detail under **Rules → Champion rolls** and **Combat house rules**.
 
@@ -65,9 +65,5 @@ The phone shows a dodge/parry banner when that window is open.
 ## Rest
 
 **Solo rest** in a safe room still costs rations and downtime, but recovery under Champion rules heals **d12 hearts**, restores **+1 stamina**, and offers a **pick-one** bonus (extra hearts, extra stamina, clear a status, or recharge a spell). Party camp uses the same champion rest pass when the flag is on.
-
-## Legacy nights
-
-When Champion rules are **off**, the handbook’s **D20 rolls** and older combat pages describe the Shadow Dark table this repo shipped with first. Your DM flips the flag when the floor is ready — both sets export side by side so bookmarks keep working.
 
 _Edit this file, then run `uv run python -m dnd wiki export` to refresh the public site._

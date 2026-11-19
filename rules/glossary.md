@@ -8,7 +8,7 @@ Your player character when **Champion rules (d12)** are on — the app still cal
 
 ## The Scourge
 
-Floor Two’s overarching evil in champion flavour — heartless monsters, big set-piece villains, and lore that treats the party as Champions holding the line.
+Floor Three’s overarching evil in champion flavour — heartless monsters, big set-piece villains, and lore that treats the party as Champions holding the line.
 
 ## Hearts
 
@@ -20,7 +20,7 @@ Three combat-ready slots (weapons, shield, potions) under Champion rules. Swappi
 
 ## Champion
 
-Your PC on Floor Two — level, gear, deeds, and lore all hang off this identity.
+Your PC on Floor Three — level, gear, deeds, and lore all hang off this identity.
 
 ## Deed
 

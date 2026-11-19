@@ -10,7 +10,7 @@ Layout: a **header** (portrait, vitals, statuses, stats, **quick slots** or **eq
 - **HP chip** — tap to adjust HP (table rules permitting).
 - **Status chips** — icons only; long-press for cause and time left. **Follower** is 👤, **mount** is 🏇. A **Following** chip appears while you trail another champion; tap it to stop.
 - **Quick slots** — three tappable slots for potions, thrown weapons, and other combat-ready consumables. Tap to use; long-press to assign from the pack. The **trinket** neck slot is only for real trinkets and magic jewellery — not every odd consumable.
-- **Ability strip** — each stat shows **score and modifier**, e.g. `14 (+2)`. Tap a stat for a freeform d20 that lands in the activity log.
+- **Ability strip** — each stat shows **score and modifier**, e.g. `14 (+2)`. Tap a stat for a freeform check_roll that lands in the activity log.
 - **Room mates** — when other champions share your room, their faces appear across the header; tap one for a read-only peek at their sheet.
 
 **Plot clocks** sit under the header band (not over the room picture).

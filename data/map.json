@@ -120,7 +120,7 @@
     },
     {
       "num": 425,
-      "title": "Mushroom Glade",
+      "title": "Mushroom Hollow",
       "x": 0.195,
       "y": 0.34
     },
@@ -225,6 +225,24 @@
       "title": "Underground River",
       "x": 0.525,
       "y": 0.61
+    },
+    {
+      "num": 495,
+      "title": "Lonely Shore",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 496,
+      "title": "Rowboat Crossing",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 497,
+      "title": "Lonely House Island",
+      "x": null,
+      "y": null
     },
     {
       "num": 499,

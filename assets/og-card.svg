@@ -7,7 +7,7 @@
   </defs>
   <rect width="1200" height="630" fill="#0d1512"/>
   <rect width="1200" height="630" fill="url(#spot)"/>
-  <text x="80" y="330" font-family="Helvetica Neue, Arial, sans-serif" font-size="230" font-weight="800" letter-spacing="-10" fill="#f4b73f">Floor 2</text>
-  <text x="86" y="420" font-family="Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="600" fill="#f2ecda">Shadowdark DCC Wiki</text>
+  <text x="80" y="330" font-family="Helvetica Neue, Arial, sans-serif" font-size="230" font-weight="800" letter-spacing="-10" fill="#f4b73f">Floor 3</text>
+  <text x="86" y="420" font-family="Helvetica Neue, Arial, sans-serif" font-size="54" font-weight="600" fill="#f2ecda">Twilight Sword Wiki</text>
   <text x="88" y="486" font-family="Georgia, serif" font-size="32" font-style="italic" fill="#c9ccb9">Rooms, people, gear and obstacles — spoiler-free.</text>
 </svg>

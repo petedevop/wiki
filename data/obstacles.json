@@ -56,7 +56,7 @@
       "kind": "Scenery",
       "room": 402,
       "room_title": "Tavern Common Room",
-      "blurb": "Roaring hearth — room has cook craft.",
+      "blurb": "Roaring hearth — campfire for cook and brew.",
       "image": "assets/img/obstacle/tavern_hearth.webp",
       "options": []
     },
@@ -305,7 +305,7 @@
       "title": "Mushroom Forage",
       "kind": "Terrain",
       "room": 425,
-      "room_title": "Mushroom Glade",
+      "room_title": "Mushroom Hollow",
       "blurb": "Best woodland forage; 1-in-6 owlbear.",
       "image": "assets/img/obstacle/mushroom_forage.webp",
       "options": []
@@ -378,6 +378,16 @@
       "room_title": "Brewery",
       "blurb": "WIL each risky turn — fail Drunk.",
       "image": "assets/img/obstacle/brewery_fumes.webp",
+      "options": []
+    },
+    {
+      "id": "obstacle-campfire",
+      "title": "Campfire",
+      "kind": "Scenery",
+      "room": 442,
+      "room_title": "Brewery",
+      "blurb": "Distillery brazier — goblin camp cooking.",
+      "image": "assets/img/obstacle/campfire.webp",
       "options": []
     },
     {

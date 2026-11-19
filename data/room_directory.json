@@ -116,7 +116,7 @@
     },
     {
       "num": 425,
-      "title": "Mushroom Glade",
+      "title": "Mushroom Hollow",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
@@ -219,6 +219,24 @@
     {
       "num": 450,
       "title": "Underground River",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 495,
+      "title": "Lonely Shore",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 496,
+      "title": "Rowboat Crossing",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 497,
+      "title": "Lonely House Island",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
