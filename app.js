@@ -1,4 +1,4 @@
-const SITE_TITLE = "Shadowdark DCC Wiki";
+const SITE_TITLE = "Twilight Sword Wiki";
 
 const NAV_ITEMS = [
   { key: "party", label: "Party" },
@@ -481,7 +481,7 @@ async function renderWall(main) {
   panel.appendChild(
     panelHeader(
       "Achievement wall",
-      "Per-crawler progress on started trophies — hints only, no secret triggers.",
+      "Per-champion progress on started trophies — hints only, no secret triggers.",
       "wall",
     ),
   );
@@ -552,7 +552,7 @@ async function renderQuests(main) {
   panel.appendChild(
     panelHeader(
       "Quest board",
-      "Contracts your crawlers have started — objectives only, not the hidden win text.",
+      "Contracts your champions have started — objectives only, not the hidden win text.",
       "quests",
     ),
   );
@@ -891,7 +891,7 @@ function partyAbilityPills(abilities) {
 async function renderParty(main) {
   const data = await loadJson(state.manifest.sections.party);
   const panel = el("div", "panel panel--party");
-  panel.appendChild(panelHeader("The party", "Your crawlers, as of the last export.", "party"));
+  panel.appendChild(panelHeader("The party", "Your champions, as of the last export.", "party"));
   if (data.skipped) {
     panel.appendChild(
       el(

@@ -2,195 +2,231 @@
   "rows": [
     {
       "num": 400,
-      "title": "Stair Landing",
+      "title": "Town Gate",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
     {
       "num": 401,
-      "title": "Tutorial Corridor",
+      "title": "Town Square",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
     {
       "num": 402,
-      "title": "Hidden Cell",
+      "title": "Tavern Common Room",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
     {
       "num": 403,
-      "title": "Behind the Mortar",
+      "title": "Tavern Guest Rooms",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
     {
       "num": 404,
-      "title": "Past the Far Door",
+      "title": "Tavern Cellar",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
     {
-      "num": 300,
-      "title": "Green Room",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 405,
+      "title": "Odds and Ends",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 301,
-      "title": "Jungle Clearing",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 406,
+      "title": "Red Anvil",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 302,
-      "title": "Gingerbread Town",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 407,
+      "title": "Shrine of the Dawnmother",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 303,
-      "title": "Film Set",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 408,
+      "title": "Hayward's Stables",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 304,
-      "title": "Last Set",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 409,
+      "title": "Archery Range",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 305,
-      "title": "Fern Hollow",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 410,
+      "title": "Graveyard",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 306,
-      "title": "Gingerbread Cottage",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 411,
+      "title": "Crypt",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 307,
-      "title": "Kitchen Stadium",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 412,
+      "title": "Mayor's House",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 308,
-      "title": "Cookbook Stacks",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 413,
+      "title": "Town Jail",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 309,
-      "title": "Fungus Cave",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 420,
+      "title": "Woods Edge",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 310,
-      "title": "Season Reserve",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 421,
+      "title": "Wrecked Cart",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 311,
-      "title": "Dish Pit",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 422,
+      "title": "Pip's Hiding Tree",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 312,
-      "title": "Salt Lick",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 423,
+      "title": "Goblin Lookout",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 313,
-      "title": "Knife-Throwing Tent",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 424,
+      "title": "Goblin Cave Mouth",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 314,
-      "title": "Comb Gate",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 425,
+      "title": "Mushroom Glade",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 315,
-      "title": "Brood Galleries",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 426,
+      "title": "Troll Bridge",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 316,
-      "title": "Drip Works",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 427,
+      "title": "Far Side",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 317,
-      "title": "Inner Comb",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 428,
+      "title": "Mother Sedge's Hut",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 318,
-      "title": "Canopy Market",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 429,
+      "title": "Witch's Cellar",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 319,
-      "title": "Smokehouse",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 430,
+      "title": "Old Shrine",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 320,
-      "title": "Vine Pit",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 431,
+      "title": "Fairy Fountain",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 321,
-      "title": "First Hearth",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 440,
+      "title": "Guard Tunnel",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 322,
-      "title": "Cave of Safe",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 441,
+      "title": "Mushroom Farm",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 325,
-      "title": "Candy Mile",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 442,
+      "title": "Brewery",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 327,
-      "title": "Back Stile",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 443,
+      "title": "Mess Hall",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 328,
-      "title": "Bleacher Tunnel",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 444,
+      "title": "Cask Cellar",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     },
     {
-      "num": 329,
-      "title": "Fitting Room",
-      "zone_key": "floortwo",
-      "zone_label": "Floor 2"
+      "num": 445,
+      "title": "Brewmaster's Throne",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 446,
+      "title": "Prisoner Pens",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 447,
+      "title": "Loot Pile",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 448,
+      "title": "Spore Pit",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 449,
+      "title": "Shaman's Den",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 450,
+      "title": "Underground River",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 499,
+      "title": "Northwood Trace",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
     }
   ]
 }

@@ -1,28 +1,34 @@
 # House rules
 
-This table runs **Shadow Dark** with a few house conventions. The core rulebook is not republished here — bring your book or ask the DM for a PDF in the in-app Library at session.
+This table runs **Shadow Dark** at the core, with Floor Two house conventions baked into the app. The published rulebook is not copied here — ask the DM or use the in-app **Library**.
 
-**Auto-generated pages** (D20 rolls, party votes, phone combat, effect tables, etc.) are pulled from the app on each `wiki export` — scroll the Rules section in the handbook.
+**Champion rules (d12 roll-under):** when enabled on the campaign, player characters are **Champions**, foes serve **the Scourge**, and hearts/stamina/reactions replace the d20 HP loop. Start with **[Champion rules (d12)](d12-champions)** — then the generated **Champion rolls**, **Combat house rules**, and **Phone combat** pages for numbers pulled from code.
+
+**Auto-generated pages** (legacy d20 rolls, party votes, effect tables, etc.) refresh on each `wiki export` — browse the Rules section in the handbook.
 
 ## Rolls at this table
 
+**Legacy (flag off):**
+
 - Stat and skill checks are usually a **flat d20** unless a status or armour too heavy for your STR imposes disadvantage.
-- Any weapon swings on a flat d20 — no proficiency needed. A weapon skill you hold adds its rank to hit.
+- Weapon swings use a flat d20; a held weapon skill adds its rank to hit.
 - Natural 1 on an attack: DC 12 DEX check or the weapon breaks. Guns, power tools and firebombs break outright.
-- Weapon feats: do something wild with a weapon to unlock its signature move (once per fight, while you hold it).
-- Any armour can be worn by anyone. Heavy suits may need STR, or be clumsy (DEX checks and ranged attacks at disadvantage); some soak a damage kind (kevlar vs piercing).
-- Armour feats: take a beating in a suit to unlock its power (once per fight, while you wear it).
 - Spellcasting checks and saves stay flat d20.
+
+**Champion rules (flag on):** d12 **roll-under** against ability scores; see **Champion rules (d12)**. Weapon feats and armour feats still unlock from play when the table uses them.
 
 ## The player app
 
 - **Floor map** and **archive** only show what the party has already discovered in play.
 - **Combat** on the phone is turn-gated; the server enforces what you can tap — greyed buttons are not a suggestion.
-- **Travel** is per crawler. **Party votes** (rest, calling the night, retreat, surrender, scout) need a majority of crawlers present.
+- **Travel** is per champion. Stepping into a room that would **start combat** asks for confirmation first. **Party votes** need a majority of champions present — **solo rest** is per champion, not a vote.
+- **Info** uses a segment hub (Archive, Map, Library, Bonds, …). **Kitchen Stadium** tab applies during cook-offs as in **Using the player app**.
+- **Champion rules on:** header shows **hearts** and **stamina**; combat may offer **dodge/parry** after foe damage; **equipped pool** replaces quick slots. **Flag off:** HP chip and quick slots behave as before.
+- House pages **Supplies & statuses** and **Phone combat** list ammo, debuff clocks, meat spoilage, corpse loot, and search-fail ambushes the server enforces.
 
 ## Floor Two flavour
 
-- Achievements on the wall are **hints**, not full quest write-ups — reading between the lines is part of the game.
-- **Projects** and **bonds** are party-driven — see their Rules pages for what each one pays.
+- Achievements on the wall are **hints**, not full quest write-ups.
+- **Projects** and **bonds** are party-driven — see their Rules pages for payouts.
 
 _Edit this file, then run `uv run python -m dnd wiki export` to refresh the public site._

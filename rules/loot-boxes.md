@@ -11,3 +11,7 @@ Achievement payouts and some scenes award **bronze**, **silver**, or **gold** bo
 ## At the table
 
 The player app shows what you rolled after the DM confirms the open. Exact items stay in your inventory and gear archive, not on this public site.
+
+## Corpse search (monsters)
+
+Searching a regular monster corpse (not a boss) rolls **50%** small pocket change **or** **50%** a **Bronze Loot Box** — never both. Bosses use the richer tier tables instead.

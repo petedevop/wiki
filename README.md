@@ -1,6 +1,6 @@
 # Floor Two — player handbook
 
-Public static site for crawlers, generated from the private
+Public static site for champions, generated from the private
 [`petedevop/dnd`](https://github.com/petedevop/dnd) app. Do not edit generated files here.
 
 ```sh

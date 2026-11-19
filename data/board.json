@@ -1,7 +1,7 @@
 {
   "meta": {
-    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Posted bounties run 150–500 gp by toughness; the floor quest pays that posted amount. See Bounties for stats and portraits on the top twenty.",
-    "posted_name": "Lucia Mar",
+    "explainer": "The world board lists the deadliest champions. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Posted bounties run 150–500 gp by toughness; the floor quest pays that posted amount. See Bounties for stats and portraits on the top twenty.",
+    "posted_name": "",
     "top_ten_pool": 10,
     "board_size": 20
   },
@@ -138,7 +138,7 @@
       "level": 23,
       "kills": 518,
       "bounty": 275,
-      "blurb": "Adaptable crawler with iron resolve.",
+      "blurb": "Adaptable champion with iron resolve.",
       "on_floor": false
     },
     {

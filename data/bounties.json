@@ -1,7 +1,7 @@
 {
   "meta": {
-    "explainer": "The world board lists the deadliest crawlers. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Posted bounties run 150–500 gp by toughness; the floor quest pays that posted amount. See Bounties for stats and portraits on the top twenty.",
-    "posted_name": "Lucia Mar",
+    "explainer": "The world board lists the deadliest champions. Each time play starts, the app rolls once: usually nobody visits this floor; otherwise one of the top 10 names may appear. The other nine stay off-map. Posted bounties run 150–500 gp by toughness; the floor quest pays that posted amount. See Bounties for stats and portraits on the top twenty.",
+    "posted_name": "",
     "top_ten_pool": 10,
     "board_size": 20
   },
@@ -13,24 +13,13 @@
       "kills": 912,
       "board_bounty": 500,
       "blurb": "Two rottweilers. They sit until she points.",
-      "role": "Crawler. Two rottweilers.",
-      "voice": "She talks to the dogs. \"Cinder, sit. Soot — that one.\"",
-      "floor_gp": 500,
-      "quest": "The board posts 500 gp on Lucia Mar. This floor pays 500 gp for her, dead, or for both dogs down and her walking into a pen.",
-      "stats": {
-        "str": 14,
-        "dex": 16,
-        "con": 14,
-        "int": 13,
-        "cha": 12,
-        "ac": 16,
-        "hp": 21,
-        "hd": 6,
-        "attacks": "machete +6, 1d8",
-        "specials": "Point; Worse"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/lucia_mar.webp"
+      "image": null
     },
     {
       "rank": 2,
@@ -39,24 +28,13 @@
       "kills": 870,
       "board_bounty": 475,
       "blurb": "Shield up. One of hers is still in the door.",
-      "role": "Crawler. Shield. Short count.",
-      "voice": "Quiet. \"Sigrun, the door. I still have the shield.\"",
-      "floor_gp": 475,
-      "quest": "The board posts 475 gp on Hekla. This floor pays 475 gp if she dies here, or if she leaves the floor in a pen.",
-      "stats": {
-        "str": 16,
-        "dex": 12,
-        "con": 16,
-        "int": 12,
-        "cha": 11,
-        "ac": 18,
-        "hp": 22,
-        "hd": 6,
-        "attacks": "spear +6, 1d8",
-        "specials": "Shield step; Plant"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/hekla.webp"
+      "image": null
     },
     {
       "rank": 3,
@@ -65,24 +43,13 @@
       "kills": 844,
       "board_bounty": 450,
       "blurb": "A goat who ruins the plan by saying it.",
-      "role": "Crawler. Goat. Too loud.",
-      "voice": "He answers before you finish. \"Wrong. The bridge isn't rotten. I checked.\"",
-      "floor_gp": 450,
-      "quest": "The board posts 450 gp on Prepotente. This floor pays 450 gp for the goat, dead or penned. He is a crawler. He will tell you so.",
-      "stats": {
-        "str": 12,
-        "dex": 16,
-        "con": 14,
-        "int": 18,
-        "cha": 8,
-        "ac": 15,
-        "hp": 16,
-        "hd": 5,
-        "attacks": "headbutt +5, 1d8",
-        "specials": "The answer; The scream"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/prepotente.webp"
+      "image": null
     },
     {
       "rank": 4,
@@ -91,24 +58,13 @@
       "kills": 801,
       "board_bounty": 425,
       "blurb": "Offers a split. Someone else holds the exit.",
-      "role": "Crawler. Old, still counting.",
-      "voice": "Barracks calm. \"Ren has the exit. I have you. Rush me.\"",
-      "floor_gp": 425,
-      "quest": "The board posts 425 gp on Florin. This floor pays 425 gp when he stops being a problem. He will offer you a worse problem first.",
-      "stats": {
-        "str": 14,
-        "dex": 14,
-        "con": 14,
-        "int": 13,
-        "cha": 12,
-        "ac": 16,
-        "hp": 19,
-        "hd": 5,
-        "attacks": "sword +6, 1d8",
-        "specials": "Read it back; Already written"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/florin.webp"
+      "image": null
     },
     {
       "rank": 5,
@@ -117,24 +73,13 @@
       "kills": 775,
       "board_bounty": 400,
       "blurb": "Three taps. One hit. Then he leaves.",
-      "role": "Crawler. One clean hit.",
-      "voice": "Three taps on the knife. Then, barely: \"Ba.\"",
-      "floor_gp": 400,
-      "quest": "The board posts 400 gp on Quan Ch. This floor pays 400 gp for him. He counts to three. You will hear it.",
-      "stats": {
-        "str": 13,
-        "dex": 18,
-        "con": 12,
-        "int": 12,
-        "cha": 10,
-        "ac": 17,
-        "hp": 14,
-        "hd": 5,
-        "attacks": "knife +7, 1d8",
-        "specials": "On three; Messy"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/quan_ch.webp"
+      "image": null
     },
     {
       "rank": 6,
@@ -143,24 +88,13 @@
       "kills": 749,
       "board_bounty": 400,
       "blurb": "Asks for a yes. The quills are the lesson.",
-      "role": "Crawler. Asks, then quills.",
-      "voice": "Teacher voice. \"Pick a word. Ade already picked his.\"",
-      "floor_gp": 400,
-      "quest": "The board posts 400 gp on Miss Quill. This floor pays 400 gp. She will ask you something first. Answer, or don't.",
-      "stats": {
-        "str": 10,
-        "dex": 16,
-        "con": 12,
-        "int": 16,
-        "cha": 14,
-        "ac": 15,
-        "hp": 14,
-        "hd": 4,
-        "attacks": "quills (×2) +6, 1d6",
-        "specials": "Pop quiz; Hold still"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/miss_quill.webp"
+      "image": null
     },
     {
       "rank": 7,
@@ -169,24 +103,13 @@
       "kills": 720,
       "board_bounty": 375,
       "blurb": "The number needs the light. She needs the watch.",
-      "role": "Crawler. Wants the watch.",
-      "voice": "Into the light first. \"You're the audience. Camille, don't blink.\"",
-      "floor_gp": 375,
-      "quest": "The board posts 375 gp on Gwendolyn Duet. This floor pays 375 gp. She is already performing. Decide if you are the audience.",
-      "stats": {
-        "str": 12,
-        "dex": 16,
-        "con": 12,
-        "int": 12,
-        "cha": 17,
-        "ac": 15,
-        "hp": 14,
-        "hd": 4,
-        "attacks": "heel +5, 1d8",
-        "specials": "Look at me; Off-script"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/gwendolyn_duet.webp"
+      "image": null
     },
     {
       "rank": 8,
@@ -195,24 +118,13 @@
       "kills": 694,
       "board_bounty": 375,
       "blurb": "Offers a kneel. The knife is the other deal.",
-      "role": "Crawler. Asks for a kneel.",
-      "voice": "She offers it like a chair. \"Kneel, or don't. Jonah — not yet.\"",
-      "floor_gp": 375,
-      "quest": "The board posts 375 gp on Signet. This floor pays 375 gp. She may offer a different contract. Hear it before you swing.",
-      "stats": {
-        "str": 11,
-        "dex": 16,
-        "con": 12,
-        "int": 14,
-        "cha": 16,
-        "ac": 15,
-        "hp": 14,
-        "hd": 4,
-        "attacks": "knife +6, 1d8",
-        "specials": "Offer; Blood price"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/signet.webp"
+      "image": null
     },
     {
       "rank": 9,
@@ -221,24 +133,13 @@
       "kills": 660,
       "board_bounty": 350,
       "blurb": "Already moving. Someone is filling the gap.",
-      "role": "Crawler. Fast, and angry.",
-      "voice": "Already moving. \"Pilar, the gap. I'm not stopping.\"",
-      "floor_gp": 350,
-      "quest": "The board posts 350 gp on Li Jun. This floor pays 350 gp. He is looking for Li Na. She is not on this floor.",
-      "stats": {
-        "str": 12,
-        "dex": 18,
-        "con": 12,
-        "int": 12,
-        "cha": 11,
-        "ac": 16,
-        "hp": 14,
-        "hd": 4,
-        "attacks": "knives (×2) +7, 1d6",
-        "specials": "Already past; The gap"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/li_jun.webp"
+      "image": null
     },
     {
       "rank": 10,
@@ -247,24 +148,13 @@
       "kills": 641,
       "board_bounty": 350,
       "blurb": "She waits. The late hit is the one that matters.",
-      "role": "Crawler. Quiet, then not.",
-      "voice": "Soft. \"Go on. I'll wait.\"",
-      "floor_gp": 350,
-      "quest": "The board posts 350 gp on Li Na. This floor pays 350 gp. She is looking for Li Jun. He is not on this floor.",
-      "stats": {
-        "str": 16,
-        "dex": 14,
-        "con": 14,
-        "int": 12,
-        "cha": 11,
-        "ac": 15,
-        "hp": 18,
-        "hd": 5,
-        "attacks": "palm +6, 1d8",
-        "specials": "The late hit; You first"
-      },
+      "role": "",
+      "voice": "",
+      "floor_gp": null,
+      "quest": "",
+      "stats": null,
       "on_floor": true,
-      "image": "assets/img/npc/li_na.webp"
+      "image": null
     },
     {
       "rank": 11,
@@ -273,24 +163,13 @@
       "kills": 612,
       "board_bounty": 325,
       "blurb": "Crowd favorite who never wastes a moment.",
-      "role": "Crawler. Crowd favorite.",
-      "voice": "Bright and fast, plays to the room. \"Hi, everyone! Watch this. Don't blink.\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 12,
-        "dex": 16,
-        "con": 13,
-        "int": 12,
-        "cha": 17,
-        "ac": 14,
-        "hp": 10,
-        "hd": 3,
-        "attacks": "stage rapier +5, 1d6",
-        "specials": "Dazzle"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/elle_mcgibbons.webp"
+      "image": null
     },
     {
       "rank": 12,
@@ -299,23 +178,13 @@
       "kills": 590,
       "board_bounty": 325,
       "blurb": "Dependable and frighteningly efficient.",
-      "role": "Crawler. Dependable.",
-      "voice": "Flat, polite, efficient. \"Done. Next.\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 14,
-        "dex": 13,
-        "con": 14,
-        "int": 12,
-        "cha": 10,
-        "ac": 14,
-        "hp": 11,
-        "hd": 4,
-        "attacks": "hand axe +5, 1d8"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/daniel_bautista.webp"
+      "image": null
     },
     {
       "rank": 13,
@@ -324,23 +193,13 @@
       "kills": 566,
       "board_bounty": 300,
       "blurb": "Shooter with a calm voice.",
-      "role": "Crawler. Shooter.",
-      "voice": "Calm and unhurried. \"Easy now. One at a time.\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 11,
-        "dex": 17,
-        "con": 12,
-        "int": 12,
-        "cha": 13,
-        "ac": 14,
-        "hp": 10,
-        "hd": 4,
-        "attacks": "revolver +6, 1d8"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/frank_q.webp"
+      "image": null
     },
     {
       "rank": 14,
@@ -349,24 +208,13 @@
       "kills": 541,
       "board_bounty": 300,
       "blurb": "Talker who can survive the answer.",
-      "role": "Crawler. Talker.",
-      "voice": "Quick and teasing. Answers a question with a better question. \"Is that really what you want to ask?\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 9,
-        "dex": 13,
-        "con": 12,
-        "int": 15,
-        "cha": 17,
-        "ac": 12,
-        "hp": 8,
-        "hd": 3,
-        "attacks": "kitchen knife +3, 1d4",
-        "specials": "Talk Circles"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/maggie_my.webp"
+      "image": null
     },
     {
       "rank": 15,
@@ -374,24 +222,14 @@
       "level": 23,
       "kills": 518,
       "board_bounty": 275,
-      "blurb": "Adaptable crawler with iron resolve.",
-      "role": "Crawler. Adaptable.",
-      "voice": "Level and stubborn. \"I've done worse. I can do this.\"",
+      "blurb": "Adaptable champion with iron resolve.",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 13,
-        "dex": 14,
-        "con": 15,
-        "int": 12,
-        "cha": 11,
-        "ac": 14,
-        "hp": 10,
-        "hd": 3,
-        "attacks": "short sword +4, 1d6"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/katia_grim.webp"
+      "image": null
     },
     {
       "rank": 16,
@@ -400,24 +238,13 @@
       "kills": 489,
       "board_bounty": 250,
       "blurb": "Never met a barricade she respected.",
-      "role": "Crawler. Barricade breaker.",
-      "voice": "Cheerful and loud. \"Doors are suggestions!\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 16,
-        "dex": 11,
-        "con": 15,
-        "int": 10,
-        "cha": 12,
-        "ac": 12,
-        "hp": 12,
-        "hd": 3,
-        "attacks": "chainsaw +4, 1d10",
-        "specials": "Rip Through"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/rosa_chainsaw_delgado.webp"
+      "image": null
     },
     {
       "rank": 17,
@@ -426,24 +253,13 @@
       "kills": 466,
       "board_bounty": 250,
       "blurb": "Gentle voice and wrecking-ball shoulders.",
-      "role": "Crawler. Gentle giant.",
-      "voice": "Soft and kind. \"Sorry about this. Please stand back.\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 18,
-        "dex": 9,
-        "con": 16,
-        "int": 10,
-        "cha": 12,
-        "ac": 12,
-        "hp": 16,
-        "hd": 4,
-        "attacks": "sledgehammer +4, 1d10",
-        "specials": "Wrecking Shoulder"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/big_tom_okafor.webp"
+      "image": null
     },
     {
       "rank": 18,
@@ -452,23 +268,13 @@
       "kills": 443,
       "board_bounty": 225,
       "blurb": "Patient hunter with an accountant's memory.",
-      "role": "Crawler. Patient hunter.",
-      "voice": "Dry and quiet. Remembers every debt and every date. \"You owe me four. I counted.\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 11,
-        "dex": 16,
-        "con": 12,
-        "int": 14,
-        "cha": 10,
-        "ac": 14,
-        "hp": 9,
-        "hd": 3,
-        "attacks": "hunting rifle +5, 1d10"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/dmitri_volkov.webp"
+      "image": null
     },
     {
       "rank": 19,
@@ -477,24 +283,13 @@
       "kills": 421,
       "board_bounty": 225,
       "blurb": "Merciful until mercy stops working.",
-      "role": "Crawler. Merciful until not.",
-      "voice": "Gentle and warm until it is not. \"Mercy first. Then the staff.\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 12,
-        "dex": 12,
-        "con": 13,
-        "int": 13,
-        "cha": 16,
-        "ac": 13,
-        "hp": 10,
-        "hd": 3,
-        "attacks": "iron-bound staff +3, 1d8",
-        "specials": "Last Mercy"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/sister_agnes_mbeki.webp"
+      "image": null
     },
     {
       "rank": 20,
@@ -503,23 +298,13 @@
       "kills": 398,
       "board_bounty": 200,
       "blurb": "Every motion measured twice.",
-      "role": "Crawler. Two-Tap.",
-      "voice": "Measured and exact. \"Measure twice. Tap twice.\"",
+      "role": "",
+      "voice": "",
       "floor_gp": null,
       "quest": "",
-      "stats": {
-        "str": 10,
-        "dex": 18,
-        "con": 11,
-        "int": 13,
-        "cha": 9,
-        "ac": 15,
-        "hp": 9,
-        "hd": 3,
-        "attacks": "compact pistol (×2) +7, 1d6"
-      },
+      "stats": null,
       "on_floor": false,
-      "image": "assets/img/npc/kenji_two_tap_mori.webp"
+      "image": null
     }
   ]
 }
