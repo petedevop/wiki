@@ -26,7 +26,7 @@
       "kind": "Terrain",
       "room": 400,
       "room_title": "Town Gate",
-      "blurb": "PER before the woods — pass picks at 420; fail scatters PCs.",
+      "blurb": "",
       "image": "assets/img/obstacle/woods_gate_check.webp",
       "options": []
     },
@@ -116,7 +116,7 @@
       "kind": "Scenery",
       "room": 407,
       "room_title": "Shrine of the Dawnmother",
-      "blurb": "",
+      "blurb": "Tithe and 25 Red Zin cure at the chapel bowl.",
       "image": "assets/img/obstacle/offering_bowl.webp",
       "options": []
     },
@@ -136,7 +136,7 @@
       "kind": "Scenery",
       "room": 409,
       "room_title": "Archery Range",
-      "blurb": "",
+      "blurb": "10 Red Zin entry — PER contest vs Fen Ashby.",
       "image": "assets/img/obstacle/archery_butts.webp",
       "options": []
     },

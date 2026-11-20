@@ -1,6 +1,6 @@
 # House rules
 
-This table runs **Shadow Dark** at the core, with Floor Three house conventions baked into the app. The published rulebook is not copied here — ask the DM or use the in-app **Library**.
+This table runs **Twilight Sword** at the core, with Floor Three house conventions baked into the app. The published rulebook is not copied here — ask the DM or use the in-app **Library**.
 
 **Champion rules (d12 roll-under):** when enabled on the campaign, player characters are **Champions**, foes serve **the Scourge**, and hearts/stamina/reactions replace the check_roll HP loop. Start with **[Champion rules (d12)](d12-champions)** — then the generated **Champion rolls**, **Combat house rules**, and **Phone combat** pages for numbers pulled from code.
 

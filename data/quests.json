@@ -5,7 +5,7 @@
       "name": "Goblin Ears",
       "giver": "Quest Board",
       "gp": 25,
-      "prize": "25 gp · 500 XP each",
+      "prize": "25 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -19,7 +19,7 @@
       "name": "Goblin Ears",
       "giver": "Quest Board",
       "gp": 25,
-      "prize": "25 gp · 500 XP each",
+      "prize": "25 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -33,7 +33,7 @@
       "name": "Lost in the Wood",
       "giver": "Wil Brask",
       "gp": 10,
-      "prize": "10 gp · 500 XP each",
+      "prize": "10 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -47,7 +47,7 @@
       "name": "Lost Iron Shipment",
       "giver": "Brannoc Ashhorn",
       "gp": 15,
-      "prize": "15 gp · 500 XP each",
+      "prize": "15 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -57,11 +57,39 @@
       ]
     },
     {
+      "pc_name": "Odile",
+      "name": "WANTED The Troll",
+      "giver": "Quest Board",
+      "gp": 100,
+      "prize": "100 Red Zin · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Grubnak under the bridge",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Odile",
+      "name": "WANTED The Troll",
+      "giver": "Quest Board",
+      "gp": 100,
+      "prize": "100 Red Zin · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Grubnak under the bridge",
+          "met": false
+        }
+      ]
+    },
+    {
       "pc_name": "Rae",
       "name": "Goblin Ears",
       "giver": "Quest Board",
       "gp": 25,
-      "prize": "25 gp · 500 XP each",
+      "prize": "25 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -75,7 +103,7 @@
       "name": "Goblin Ears",
       "giver": "Quest Board",
       "gp": 25,
-      "prize": "25 gp · 500 XP each",
+      "prize": "25 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -89,7 +117,7 @@
       "name": "Lost in the Wood",
       "giver": "Wil Brask",
       "gp": 10,
-      "prize": "10 gp · 500 XP each",
+      "prize": "10 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
@@ -103,11 +131,39 @@
       "name": "Lost Iron Shipment",
       "giver": "Brannoc Ashhorn",
       "gp": 15,
-      "prize": "15 gp · 500 XP each",
+      "prize": "15 Red Zin · 500 XP each",
       "pending": false,
       "steps": [
         {
           "label": "Return the lost iron",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "WANTED The Troll",
+      "giver": "Quest Board",
+      "gp": 100,
+      "prize": "100 Red Zin · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Grubnak under the bridge",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "WANTED The Troll",
+      "giver": "Quest Board",
+      "gp": 100,
+      "prize": "100 Red Zin · 500 XP each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Grubnak under the bridge",
           "met": false
         }
       ]

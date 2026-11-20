@@ -4,10 +4,10 @@
       "id": "pete_rae",
       "name": "Rae",
       "ancestry": "Human",
-      "class_name": "Warrior",
+      "class_name": "Blade",
       "level": 1,
-      "class_level": "Human Warrior 1",
-      "portrait_url": "/media/267DNQwv5HpYuBek0IVV8A",
+      "class_level": "Human Blade 1",
+      "portrait_url": "/media/LGz6JCUN72dkPbdNAe7KbQ",
       "about": [],
       "powers": [],
       "hp": 19,
@@ -67,7 +67,7 @@
       "vitals_label": "Hearts",
       "stamina": 3,
       "stamina_max": 3,
-      "armour_rating": 2,
+      "armour_rating": 1,
       "vitals_icons": [
         {
           "kind": "heart",
@@ -81,11 +81,11 @@
         },
         {
           "kind": "armour",
-          "value": "2",
-          "aria_label": "Armour 2"
+          "value": "1",
+          "aria_label": "Armour 1"
         }
       ],
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Short Sword</li>\n<li class=\"party-gear-row\">✋ Shield</li>\n<li class=\"party-gear-row\">👕 Leather Armor</li>\n<li class=\"party-gear-row\">🎒 Dagger</li>\n<li class=\"party-gear-row\">🎒 Hunting Bow</li>\n<li class=\"party-gear-row\">🎒 Mushroom Skewer</li>\n<li class=\"party-gear-row\">🎒 Rice Ball</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Shield</li>\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">👕 Leather Armor</li>\n<li class=\"party-gear-row\">🎒 Hunting Bow</li>\n<li class=\"party-gear-row\">🎒 Mushroom Skewer</li>\n<li class=\"party-gear-row\">🎒 Rice Ball</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Short Sword</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
       "xp": 0,
       "alignment": "Lawful",
       "title": "",

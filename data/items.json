@@ -319,7 +319,7 @@
       "id": "item-goblin_ear_notice",
       "title": "Goblin Ear Notice",
       "subtitle": "Floor 3",
-      "blurb": "Board.",
+      "blurb": "GOBLIN EARS — five ears, 25 Red Zin.",
       "image": "assets/img/item/goblin_ear_notice.webp"
     },
     {
@@ -400,6 +400,13 @@
       "image": "assets/img/item/heart.webp"
     },
     {
+      "id": "item-heart_stone",
+      "title": "Heart Stone",
+      "subtitle": "Floor 3",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-herbs",
       "title": "Herbs",
       "subtitle": "Floor 3",
@@ -445,7 +452,7 @@
       "id": "item-jewel",
       "title": "Jewel",
       "subtitle": "Floor 3",
-      "blurb": "Worth 50 gold when sold.",
+      "blurb": "Worth 50 Red Zin when sold.",
       "image": "assets/img/item/jewel.webp"
     },
     {
@@ -494,7 +501,7 @@
       "id": "item-magic_scroll",
       "title": "Magic Scroll",
       "subtitle": "Floor 3",
-      "blurb": "One-use random arcane spell.",
+      "blurb": "Casts its spell, then burns to ash.",
       "image": "assets/img/item/magic_scroll.webp"
     },
     {
@@ -708,6 +715,13 @@
       "image": "assets/img/item/ration.webp"
     },
     {
+      "id": "item-raw_fruit",
+      "title": "Raw Fruit",
+      "subtitle": "Floor 3",
+      "blurb": "Eaten raw — heals 1 heart. Counts as the one food between Rests.",
+      "image": null
+    },
+    {
       "id": "item-razor_spider",
       "title": "Razor Spider",
       "subtitle": "Floor 3",
@@ -869,6 +883,13 @@
       "image": "assets/img/item/stamina_potion.webp"
     },
     {
+      "id": "item-stamina_stone",
+      "title": "Stamina Stone",
+      "subtitle": "Floor 3",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-stew",
       "title": "Stew",
       "subtitle": "Floor 3",
@@ -928,7 +949,7 @@
       "id": "item-tamsin_notice",
       "title": "Tamsin Notice",
       "subtitle": "Floor 3",
-      "blurb": "",
+      "blurb": "RESCUE TAMSIN — 20 Red Zin.",
       "image": "assets/img/item/tamsin_notice.webp"
     },
     {
@@ -977,7 +998,7 @@
       "id": "item-troll_wanted_notice",
       "title": "Troll Wanted Notice",
       "subtitle": "Floor 3",
-      "blurb": "WANTED — bridge troll. Seasoned only.",
+      "blurb": "WANTED — bridge troll. 100 Red Zin.",
       "image": "assets/img/item/troll_wanted_notice.webp"
     },
     {
