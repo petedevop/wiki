@@ -6,7 +6,7 @@
       "subtitle": "Floor 3",
       "blurb": "Boar brute.",
       "image": "assets/img/npc/borkor.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     },
     {
@@ -15,7 +15,7 @@
       "subtitle": "Floor 3",
       "blurb": "Blacksmith. Horned smith at a glowing forge.",
       "image": "assets/img/npc/brannoc_ashhorn.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -24,7 +24,7 @@
       "subtitle": "Floor 3",
       "blurb": "Priest. Smiling priest by a candlelit altar.",
       "image": "assets/img/npc/brother_aldous_penn.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -33,7 +33,7 @@
       "subtitle": "Floor 3",
       "blurb": "Scout.",
       "image": "assets/img/npc/bush_goblin.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -42,7 +42,7 @@
       "subtitle": "Floor 3",
       "blurb": "Door guard.",
       "image": "assets/img/npc/cave_mouth_goblin.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -51,7 +51,7 @@
       "subtitle": "Floor 3",
       "blurb": "Cave hazard. Cave slime ooze dripping green goo on wet stone.",
       "image": "assets/img/npc/cave_ooze.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -60,7 +60,7 @@
       "subtitle": "Floor 3",
       "blurb": "Optional crypt boss. Undead knight in rusted plate rising from a stone sarcophagus.",
       "image": "assets/img/npc/crypt_knight.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -69,7 +69,7 @@
       "subtitle": "Floor 3",
       "blurb": "Ranger. Ranger at straw targets, wind in grass.",
       "image": "assets/img/npc/fen_ashby.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -78,7 +78,7 @@
       "subtitle": "Floor 3",
       "blurb": "Cellar nest.",
       "image": "assets/img/npc/giant_cave_spider.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     },
     {
@@ -87,7 +87,7 @@
       "subtitle": "Floor 3",
       "blurb": "Path ambush.",
       "image": "assets/img/npc/goblin_scout.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -96,7 +96,7 @@
       "subtitle": "Floor 3",
       "blurb": "Tunnel guard.",
       "image": "assets/img/npc/goblin_sentry.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -105,7 +105,7 @@
       "subtitle": "Floor 3",
       "blurb": "Weak grave rob fail.",
       "image": "assets/img/npc/grave_crawler.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -114,7 +114,7 @@
       "subtitle": "Floor 3",
       "blurb": "Brewmaster chief. Bloated goblin brewmaster chief on ale kegs with a brass hose.",
       "image": "assets/img/npc/grogmaw.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -123,7 +123,7 @@
       "subtitle": "Floor 3",
       "blurb": "Boss escort. Crowd of yellow-eyed bogoblins clutching clubs and mugs.",
       "image": "assets/img/npc/grogmaw_s_mob.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -132,7 +132,7 @@
       "subtitle": "Floor 3",
       "blurb": "Bridge troll. Mossy bridge troll with gold teeth and a rope bridge.",
       "image": "assets/img/npc/grubnak.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     },
     {
@@ -141,7 +141,7 @@
       "subtitle": "Floor 3",
       "blurb": "Thief posing merchant.",
       "image": "assets/img/npc/jory_plumm.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -150,7 +150,7 @@
       "subtitle": "Floor 3",
       "blurb": "Horn guard.",
       "image": "assets/img/npc/lookout_goblin.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -159,7 +159,7 @@
       "subtitle": "Floor 3",
       "blurb": "Tavern keeper. Stout woman behind a tavern bar, hearth glow.",
       "image": "assets/img/npc/marta_hobb.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -168,7 +168,7 @@
       "subtitle": "Floor 3",
       "blurb": "Mayor. Plump mayor in ivy-covered manor hall.",
       "image": "assets/img/npc/mayor_edric_thornbury.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -177,7 +177,7 @@
       "subtitle": "Floor 3",
       "blurb": "Cursed heir.",
       "image": "assets/img/npc/mayor_s_toad_son.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -186,7 +186,7 @@
       "subtitle": "Floor 3",
       "blurb": "Shaman.",
       "image": "assets/img/npc/mossgut.webp",
-      "faction": "Goblins",
+      "faction": "Goblins of the Cave",
       "faction_image": "assets/img/faction/goblins.webp"
     },
     {
@@ -195,7 +195,7 @@
       "subtitle": "Floor 3",
       "blurb": "Witch. Old witch over a bubbling cauldron on stilts.",
       "image": "assets/img/npc/mother_sedge.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -204,7 +204,7 @@
       "subtitle": "Floor 3",
       "blurb": "Stablehand. Young woman brushing a bay horse.",
       "image": "assets/img/npc/nell_hayward.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -213,7 +213,7 @@
       "subtitle": "Floor 3",
       "blurb": "Forage hazard.",
       "image": "assets/img/npc/owlbear.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     },
     {
@@ -222,7 +222,7 @@
       "subtitle": "Floor 3",
       "blurb": "Baker's daughter. Young woman in a flour-dusted apron.",
       "image": "assets/img/npc/pip_ashworth.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -231,7 +231,7 @@
       "subtitle": "Floor 3",
       "blurb": "Notices. Town quest board with four pinned notes.",
       "image": "assets/img/npc/quest_board.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -240,7 +240,7 @@
       "subtitle": "Floor 3",
       "blurb": "Tutorial vermin.",
       "image": "assets/img/npc/rat_swarm.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -249,7 +249,7 @@
       "subtitle": "Floor 3",
       "blurb": "Far Side sentinel.",
       "image": "assets/img/npc/stonewing.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     },
     {
@@ -258,7 +258,7 @@
       "subtitle": "Floor 3",
       "blurb": "Tinker prisoner.",
       "image": "assets/img/npc/tamsin_reed.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -267,7 +267,7 @@
       "subtitle": "Floor 3",
       "blurb": "Shopkeeper. Old halfling in a cluttered general store.",
       "image": "assets/img/npc/tobias_fenwick.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -276,7 +276,7 @@
       "subtitle": "Floor 3",
       "blurb": "Jailer. Dozing jailer in a damp cell block.",
       "image": "assets/img/npc/town_jailer.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -285,7 +285,7 @@
       "subtitle": "Floor 3",
       "blurb": "Graveyard predator. Giant vampire bat with spread wings over graveyard headstones.",
       "image": "assets/img/npc/vampire_bat.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -294,7 +294,7 @@
       "subtitle": "Floor 3",
       "blurb": "Gate guard. Young guard at a wooden gate, dice on a stump, kettle steam.",
       "image": "assets/img/npc/wil_brask.webp",
-      "faction": "Town",
+      "faction": "Ordella Town Watch",
       "faction_image": "assets/img/faction/town.webp"
     },
     {
@@ -303,7 +303,7 @@
       "subtitle": "Floor 3",
       "blurb": "Path ambush.",
       "image": "assets/img/npc/woods_spider.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     },
     {
@@ -312,7 +312,7 @@
       "subtitle": "Floor 3",
       "blurb": "Path predator.",
       "image": "assets/img/npc/woods_wolf.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     },
     {
@@ -321,7 +321,7 @@
       "subtitle": "Floor 3",
       "blurb": "Pack hunter.",
       "image": "assets/img/npc/wulfor.webp",
-      "faction": "Woods",
+      "faction": "Mother Sedge",
       "faction_image": "assets/img/faction/woods.webp"
     }
   ]

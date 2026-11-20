@@ -3,7 +3,11 @@
     {
       "pc_id": "pete_rae",
       "pc_name": "Rae",
-      "story": [],
+      "story": [
+        "The party met Wil Brask",
+        "The party met Quest Board",
+        "The party met Brannoc Ashhorn"
+      ],
       "achievements": []
     },
     {

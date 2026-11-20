@@ -26,7 +26,7 @@
       "kind": "Terrain",
       "room": 400,
       "room_title": "Town Gate",
-      "blurb": "PER on travel into the Woods — pass picks at 420; fail scatters PCs.",
+      "blurb": "PER before the woods — pass picks at 420; fail scatters PCs.",
       "image": "assets/img/obstacle/woods_gate_check.webp",
       "options": []
     },
@@ -106,7 +106,7 @@
       "kind": "Scenery",
       "room": 406,
       "room_title": "Red Anvil",
-      "blurb": "Brannoc's forge — weapon shop via room button.",
+      "blurb": "Brannoc's forge — weapons and gear.",
       "image": "assets/img/obstacle/the_red_anvil_forge.webp",
       "options": []
     },
@@ -136,18 +136,8 @@
       "kind": "Scenery",
       "room": 409,
       "room_title": "Archery Range",
-      "blurb": "Free sling stones once; contest via Fen Ashby.",
-      "image": "assets/img/obstacle/archery_butts.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-archery_contest",
-      "title": "Archery Contest",
-      "kind": "Scenery",
-      "room": 409,
-      "room_title": "Archery Range",
       "blurb": "",
-      "image": "assets/img/obstacle/archery_contest.webp",
+      "image": "assets/img/obstacle/archery_butts.webp",
       "options": []
     },
     {
@@ -171,16 +161,6 @@
       "options": []
     },
     {
-      "id": "obstacle-grave_dig_spot",
-      "title": "Grave Dig Spot",
-      "kind": "Terrain",
-      "room": 410,
-      "room_title": "Graveyard",
-      "blurb": "Shovel dig — treasure, undead, or shame.",
-      "image": "assets/img/obstacle/grave_dig_spot.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-sarcophagus",
       "title": "Sarcophagus",
       "kind": "Trap",
@@ -191,22 +171,12 @@
       "options": []
     },
     {
-      "id": "obstacle-mayor_dinner",
-      "title": "Mayor Dinner",
-      "kind": "Scenery",
-      "room": 412,
-      "room_title": "Mayor's House",
-      "blurb": "Dinner invitation — mayor asks to clear the Goblin Cave.",
-      "image": "assets/img/obstacle/mayor_dinner.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-mayor_s_dinner",
       "title": "Mayor's Dinner",
       "kind": "Scenery",
       "room": 412,
       "room_title": "Mayor's House",
-      "blurb": "Clear Goblin Cave quest after hope 4.",
+      "blurb": "Dinner invitation after hope 4 — clear the Goblin Cave.",
       "image": "assets/img/obstacle/mayor_s_dinner.webp",
       "options": []
     },
@@ -216,18 +186,8 @@
       "kind": "Scenery",
       "room": 412,
       "room_title": "Mayor's House",
-      "blurb": "Night heist chain — hard STE/AGL; full chain later.",
+      "blurb": "Night heist chain — hard STE/AGL steps.",
       "image": "assets/img/obstacle/mayor_s_window.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-night_heist",
-      "title": "Night Heist",
-      "kind": "Scenery",
-      "room": 412,
-      "room_title": "Mayor's House",
-      "blurb": "STE/AGL chain — gold or jail 413.",
-      "image": "assets/img/obstacle/night_heist.webp",
       "options": []
     },
     {
@@ -236,7 +196,7 @@
       "kind": "Scenery",
       "room": 413,
       "room_title": "Town Jail",
-      "blurb": "Fine, plea, or escape — partial NPC hooks.",
+      "blurb": "Fine, plea, or escape when jailed.",
       "image": "assets/img/obstacle/jail_cell.webp",
       "options": []
     },
@@ -286,7 +246,7 @@
       "kind": "Trap",
       "room": 423,
       "room_title": "Goblin Lookout",
-      "blurb": "STE group or horn blows — caveonalert.",
+      "blurb": "STE or the horn blows — caveonalert.",
       "image": "assets/img/obstacle/lookout_horn.webp",
       "options": []
     },
@@ -458,6 +418,16 @@
       "room_title": "Underground River",
       "blurb": "VIT to swim; barrel ride to 404.",
       "image": "assets/img/obstacle/river_ride.webp",
+      "options": []
+    },
+    {
+      "id": "obstacle-archery_contest",
+      "title": "Archery Contest",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
+      "image": null,
       "options": []
     },
     {
