@@ -10,13 +10,12 @@ const NAV_ITEMS = [
   { key: "obstacles", label: "Obstacles" },
   { key: "wall", label: "Wall" },
   { key: "quests", label: "Quests" },
-  { key: "sponsors", label: "Sponsors" },
 ];
 
 const NAV_GROUPS = [
   { label: "Crew", keys: ["party", "people"] },
   { label: "Dungeon", keys: ["map", "rooms", "obstacles", "items"] },
-  { label: "Show", keys: ["sponsors", "wall", "quests"] },
+  { label: "Show", keys: ["wall", "quests"] },
   { label: "Reference", keys: ["rules"] },
 ];
 

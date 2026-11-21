@@ -1,5 +1,5 @@
 {
-  "exported_at": 1795220164.617493,
+  "exported_at": 1795248214.765156,
   "site_base_url": "https://petedevop.github.io/wiki",
   "zone_key": "floorthree",
   "zone_label": "Floor 3",
@@ -21,12 +21,12 @@
     "loot_boxes": "loot_boxes.json"
   },
   "counts": {
-    "rules": 20,
+    "rules": 21,
     "room_directory": 41,
     "rooms": 41,
-    "people": 35,
+    "people": 36,
     "items": 182,
-    "obstacles": 46,
+    "obstacles": 47,
     "party": 1,
     "sessions": 0,
     "sponsors": 0,
@@ -35,8 +35,8 @@
     "rivals": 0,
     "tonight": 0,
     "loot_boxes": 0,
-    "images": 269,
-    "image_kb": 3714
+    "images": 256,
+    "image_kb": 3573
   },
   "public_party_sheets": true
 }

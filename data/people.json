@@ -106,6 +106,13 @@
       "image": "assets/img/npc/grubnak.webp"
     },
     {
+      "id": "npc-hob_marrow",
+      "title": "Hob Marrow",
+      "subtitle": "Floor 3",
+      "blurb": "Greengrocer. Cheerful round-cheeked greengrocer at a wooden barrow of vegetables and fruit on a village green.",
+      "image": null
+    },
+    {
       "id": "npc-jory_plumm",
       "title": "Jory Plumm",
       "subtitle": "Floor 3",

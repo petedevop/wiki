@@ -1,26 +1,6 @@
 {
   "rows": [
     {
-      "id": "obstacle-hedge_forage",
-      "title": "Hedge Forage",
-      "kind": "Terrain",
-      "room": 400,
-      "room_title": "Town Gate",
-      "blurb": "Low-tier forage in the hedge bushes.",
-      "image": "assets/img/obstacle/hedge_forage.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-wil_s_kettle",
-      "title": "Wil's Kettle",
-      "kind": "Scenery",
-      "room": 400,
-      "room_title": "Town Gate",
-      "blurb": "Kettle on the fire — camp cook at the gate.",
-      "image": null,
-      "options": []
-    },
-    {
       "id": "obstacle-woods_gate_check",
       "title": "Woods Gate Check",
       "kind": "Terrain",
@@ -51,22 +31,22 @@
       "options": []
     },
     {
-      "id": "obstacle-guest_room_door",
-      "title": "Guest Room Door",
-      "kind": "Scenery",
-      "room": 403,
-      "room_title": "Tavern Guest Rooms",
-      "blurb": "Spend a Room Key for party rest — API roomkeyrest.",
-      "image": "assets/img/obstacle/guest_room_door.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-cellar_door",
       "title": "Cellar Door",
       "kind": "Scenery",
       "room": 404,
       "room_title": "Tavern Cellar",
       "blurb": "Hard PER find — opens river 450 when spotted.",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-insect_patch",
+      "title": "Insect Patch",
+      "kind": "Terrain",
+      "room": 404,
+      "room_title": "Tavern Cellar",
+      "blurb": "",
       "image": null,
       "options": []
     },
@@ -78,16 +58,6 @@
       "room_title": "Tavern Cellar",
       "blurb": "Tutorial rat swarm — extremely easy.",
       "image": "assets/img/obstacle/rat_nest.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-odds_ends",
-      "title": "Odds & Ends",
-      "kind": "Trap",
-      "room": 405,
-      "room_title": "Odds and Ends",
-      "blurb": "Group AGL on entry — travel hook sets tobias-sour on fail.",
-      "image": null,
       "options": []
     },
     {
@@ -181,6 +151,26 @@
       "options": []
     },
     {
+      "id": "obstacle-deer_trail",
+      "title": "Deer Trail",
+      "kind": "Terrain",
+      "room": 420,
+      "room_title": "Woods Edge",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-wild_orchard",
+      "title": "Wild Orchard",
+      "kind": "Terrain",
+      "room": 421,
+      "room_title": "Wrecked Cart",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-pip_s_oak",
       "title": "Pip's Oak",
       "kind": "Scenery",
@@ -201,13 +191,23 @@
       "options": []
     },
     {
-      "id": "obstacle-mushroom_forage",
-      "title": "Mushroom Forage",
+      "id": "obstacle-campfire",
+      "title": "Campfire",
+      "kind": "Scenery",
+      "room": 425,
+      "room_title": "Mushroom Hollow",
+      "blurb": "Clearing fire ring — the woods' only public campfire.",
+      "image": "assets/img/obstacle/campfire.webp",
+      "options": []
+    },
+    {
+      "id": "obstacle-fairy_ring",
+      "title": "Fairy Ring",
       "kind": "Terrain",
       "room": 425,
       "room_title": "Mushroom Hollow",
-      "blurb": "Best woodland forage.",
-      "image": "assets/img/obstacle/mushroom_forage.webp",
+      "blurb": "",
+      "image": null,
       "options": []
     },
     {
@@ -227,6 +227,16 @@
       "room": 428,
       "room_title": "Mother Sedge's Hut",
       "blurb": "Witch shop — potions, Troll's Eye quest.",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-witch_s_garden",
+      "title": "Witch's Garden",
+      "kind": "Terrain",
+      "room": 428,
+      "room_title": "Mother Sedge's Hut",
+      "blurb": "",
       "image": null,
       "options": []
     },
@@ -261,43 +271,13 @@
       "options": []
     },
     {
-      "id": "obstacle-cave_alert",
-      "title": "Cave Alert",
-      "kind": "Scenery",
-      "room": 440,
-      "room_title": "Guard Tunnel",
-      "blurb": "Sentries awake when horn sounded.",
-      "image": "assets/img/obstacle/cave_alert.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-brewery_fumes",
-      "title": "Brewery Fumes",
-      "kind": "Trap",
-      "room": 442,
-      "room_title": "Brewery",
-      "blurb": "WIL each risky turn — fail Drunk.",
-      "image": "assets/img/obstacle/brewery_fumes.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-campfire",
-      "title": "Campfire",
-      "kind": "Scenery",
-      "room": 442,
-      "room_title": "Brewery",
-      "blurb": "Distillery brazier — goblin camp cooking.",
-      "image": "assets/img/obstacle/campfire.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-mess_hall_crowd",
-      "title": "Mess Hall Crowd",
-      "kind": "Trap",
-      "room": 443,
-      "room_title": "Mess Hall",
-      "blurb": "4-in-6 swarm; CHA song to pass.",
-      "image": "assets/img/obstacle/mess_hall_crowd.webp",
+      "id": "obstacle-beetle_beds",
+      "title": "Beetle Beds",
+      "kind": "Terrain",
+      "room": 441,
+      "room_title": "Mushroom Farm",
+      "blurb": "",
+      "image": null,
       "options": []
     },
     {
@@ -341,6 +321,26 @@
       "options": []
     },
     {
+      "id": "obstacle-fishing_reeds",
+      "title": "Fishing Reeds",
+      "kind": "Terrain",
+      "room": 495,
+      "room_title": "Lonely Shore",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-berry_briars",
+      "title": "Berry Briars",
+      "kind": "Terrain",
+      "room": 499,
+      "room_title": "Northwood Trace",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-archery_contest",
       "title": "Archery Contest",
       "kind": "Obstacle",
@@ -367,6 +367,16 @@
       "room": 0,
       "room_title": "",
       "blurb": "Green Room",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-hedge_forage",
+      "title": "Hedge Forage",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
       "image": null,
       "options": []
     },
