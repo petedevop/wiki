@@ -24,15 +24,7 @@ Your PC on Floor Three — level, gear, deeds, and lore all hang off this identi
 
 ## Deed
 
-Something the table logged that counts toward achievements, sponsor taste, and evening scoring. You do not edit deeds on the wiki; they sync from play.
-
-## Achievement wall
-
-Trophy cards with hints. Progress shows on your phone first; the wiki exports **hints and tallies**, not the secret “for” text.
-
-## Board bounty
-
-A name from the **top ten** on the world leaderboard. Each session start the app rolls whether one of those names is “on the floor” tonight. Posted gold is **150–500 gp** (tougher rivals toward the top of that band). When a floor quest pays for the capture or kill, it matches the posted amount — not the old thousands-scale poster copy.
+Something the table logged that counts toward sponsor taste, and evening scoring. You do not edit deeds on the wiki; they sync from play.
 
 ## Sponsor / booth
 

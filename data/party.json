@@ -7,7 +7,7 @@
       "class_name": "Blade",
       "level": 1,
       "class_level": "Human Blade 1",
-      "portrait_url": "/media/LGz6JCUN72dkPbdNAe7KbQ",
+      "portrait_url": "/media/LxlhsuSaYX3a_eZGEohqtw",
       "about": [],
       "powers": [],
       "hp": 19,
@@ -86,11 +86,9 @@
         }
       ],
       "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Shield</li>\n<li class=\"party-gear-row\">✋ Dagger</li>\n<li class=\"party-gear-row\">👕 Leather Armor</li>\n<li class=\"party-gear-row\">🎒 Hunting Bow</li>\n<li class=\"party-gear-row\">🎒 Mushroom Skewer</li>\n<li class=\"party-gear-row\">🎒 Rice Ball</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Short Sword</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
-      "xp": 0,
       "alignment": "Lawful",
       "title": "",
       "appearance": "",
-      "skills": [],
       "portrait": "assets/img/party/pete_rae.webp",
       "class_blurb": "Hold the line; cleave, parry, and favoured steel."
     }

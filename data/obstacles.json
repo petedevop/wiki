@@ -11,13 +11,13 @@
       "options": []
     },
     {
-      "id": "obstacle-wil_s_watch_kettle",
-      "title": "Wil's Watch Kettle",
+      "id": "obstacle-wil_s_kettle",
+      "title": "Wil's Kettle",
       "kind": "Scenery",
       "room": 400,
       "room_title": "Town Gate",
       "blurb": "Kettle on the fire — camp cook at the gate.",
-      "image": "assets/img/obstacle/wil_s_watch_kettle.webp",
+      "image": null,
       "options": []
     },
     {
@@ -31,23 +31,13 @@
       "options": []
     },
     {
-      "id": "obstacle-mayor_s_front_door",
-      "title": "Mayor's Front Door",
+      "id": "obstacle-mayor_s_door",
+      "title": "Mayor's Door",
       "kind": "Scenery",
       "room": 401,
       "room_title": "Town Square",
       "blurb": "Locked until party hope first reaches 4.",
-      "image": "assets/img/obstacle/mayor_s_front_door.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-quest_board",
-      "title": "Quest Board",
-      "kind": "Scenery",
-      "room": 401,
-      "room_title": "Town Square",
-      "blurb": "RATS · GOBLIN EARS · LOST IRON · WANTED TROLL — pin or talk to givers.",
-      "image": "assets/img/obstacle/quest_board.webp",
+      "image": null,
       "options": []
     },
     {
@@ -71,13 +61,13 @@
       "options": []
     },
     {
-      "id": "obstacle-cellar_secret_door",
-      "title": "Cellar Secret Door",
+      "id": "obstacle-cellar_door",
+      "title": "Cellar Door",
       "kind": "Scenery",
       "room": 404,
       "room_title": "Tavern Cellar",
       "blurb": "Hard PER find — opens river 450 when spotted.",
-      "image": "assets/img/obstacle/cellar_secret_door.webp",
+      "image": null,
       "options": []
     },
     {
@@ -91,23 +81,23 @@
       "options": []
     },
     {
-      "id": "obstacle-odds_and_ends_entry",
-      "title": "Odds and Ends Entry",
+      "id": "obstacle-odds_ends",
+      "title": "Odds & Ends",
       "kind": "Trap",
       "room": 405,
       "room_title": "Odds and Ends",
       "blurb": "Group AGL on entry — travel hook sets tobias-sour on fail.",
-      "image": "assets/img/obstacle/odds_and_ends_entry.webp",
+      "image": null,
       "options": []
     },
     {
-      "id": "obstacle-the_red_anvil_forge",
-      "title": "The Red Anvil Forge",
+      "id": "obstacle-red_anvil_forge",
+      "title": "Red Anvil Forge",
       "kind": "Scenery",
       "room": 406,
       "room_title": "Red Anvil",
       "blurb": "Brannoc's forge — weapons and gear.",
-      "image": "assets/img/obstacle/the_red_anvil_forge.webp",
+      "image": null,
       "options": []
     },
     {
@@ -161,16 +151,6 @@
       "options": []
     },
     {
-      "id": "obstacle-sarcophagus",
-      "title": "Sarcophagus",
-      "kind": "Trap",
-      "room": 411,
-      "room_title": "Crypt",
-      "blurb": "Crypt Knight — optional threat-2 fight.",
-      "image": "assets/img/obstacle/sarcophagus.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-mayor_s_dinner",
       "title": "Mayor's Dinner",
       "kind": "Scenery",
@@ -201,36 +181,6 @@
       "options": []
     },
     {
-      "id": "obstacle-woods_path_choice",
-      "title": "Woods Path Choice",
-      "kind": "Scenery",
-      "room": 420,
-      "room_title": "Woods Edge",
-      "blurb": "Three paths — cart, gorge, deep.",
-      "image": "assets/img/obstacle/woods_path_choice.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-bush_goblin",
-      "title": "Bush Goblin",
-      "kind": "Trap",
-      "room": 421,
-      "room_title": "Wrecked Cart",
-      "blurb": "Lone goblin threat 1 — PER spots or ambush.",
-      "image": "assets/img/obstacle/bush_goblin.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-cart_search",
-      "title": "Cart Search",
-      "kind": "Terrain",
-      "room": 421,
-      "room_title": "Wrecked Cart",
-      "blurb": "Search cart PER — Foundry Iron, Pip ribbon.",
-      "image": "assets/img/obstacle/cart_search.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-pip_s_oak",
       "title": "Pip's Oak",
       "kind": "Scenery",
@@ -251,22 +201,12 @@
       "options": []
     },
     {
-      "id": "obstacle-cave_mouth_guard",
-      "title": "Cave Mouth Guard",
-      "kind": "Trap",
-      "room": 424,
-      "room_title": "Goblin Cave Mouth",
-      "blurb": "",
-      "image": "assets/img/obstacle/cave_mouth_guard.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-mushroom_forage",
       "title": "Mushroom Forage",
       "kind": "Terrain",
       "room": 425,
       "room_title": "Mushroom Hollow",
-      "blurb": "Best woodland forage; 1-in-6 owlbear.",
+      "blurb": "Best woodland forage.",
       "image": "assets/img/obstacle/mushroom_forage.webp",
       "options": []
     },
@@ -281,13 +221,13 @@
       "options": []
     },
     {
-      "id": "obstacle-mother_sedge_s_stock",
-      "title": "Mother Sedge's Stock",
+      "id": "obstacle-sedge_s_stock",
+      "title": "Sedge's Stock",
       "kind": "Scenery",
       "room": 428,
       "room_title": "Mother Sedge's Hut",
       "blurb": "Witch shop — potions, Troll's Eye quest.",
-      "image": "assets/img/obstacle/mother_sedge_s_stock.webp",
+      "image": null,
       "options": []
     },
     {
@@ -358,26 +298,6 @@
       "room_title": "Mess Hall",
       "blurb": "4-in-6 swarm; CHA song to pass.",
       "image": "assets/img/obstacle/mess_hall_crowd.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-cask_spider",
-      "title": "Cask Spider",
-      "kind": "Trap",
-      "room": 444,
-      "room_title": "Cask Cellar",
-      "blurb": "Giant spider threat 2 on the casks.",
-      "image": "assets/img/obstacle/cask_spider.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-grogmaw_s_throne",
-      "title": "Grogmaw's Throne",
-      "kind": "Trap",
-      "room": 445,
-      "room_title": "Brewmaster's Throne",
-      "blurb": "Grogmaw threat 3 — social ends here.",
-      "image": "assets/img/obstacle/grogmaw_s_throne.webp",
       "options": []
     },
     {
@@ -471,6 +391,36 @@
       "options": []
     },
     {
+      "id": "obstacle-mayor_s_front_door",
+      "title": "Mayor's Front Door",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-odds_and_ends_entry",
+      "title": "Odds and Ends Entry",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-quest_board",
+      "title": "Quest Board",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-the_chef_s_lift",
       "title": "The Chef's Lift",
       "kind": "Obstacle",
@@ -481,12 +431,32 @@
       "options": []
     },
     {
+      "id": "obstacle-the_red_anvil_forge",
+      "title": "The Red Anvil Forge",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-the_way_down",
       "title": "The Way Down",
       "kind": "Obstacle",
       "room": 0,
       "room_title": "",
       "blurb": "Green Room",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-wil_s_watch_kettle",
+      "title": "Wil's Watch Kettle",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
       "image": null,
       "options": []
     }

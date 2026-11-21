@@ -38,18 +38,18 @@ IMG|assets/guide/02-travel.png|Travel — pick an exit; Gather and Follow sit be
 
 ## Solo rest
 
-In a **safe room**, when you have enough food, a rest sheet can open (once per room visit on your phone). **Begin** spends **two** food units (rations, jerky, bread, or cooking ingredients — cheapest eaten first), runs a full personal recovery pass, lets you pick **downtime**, then sleeps **about ten minutes** while travel and other actions are blocked. Combat in your room wakes you — healing already applied. Party **votes** for end-night, retreat, surrender, and scout are unchanged; the old party-vote “rest everyone” bar is gone from the phone.
+In a **safe room**, when you have enough food, a rest sheet can open (once per room visit on your phone). **Begin** spends **two** food units (rations, jerky, bread, or cooking ingredients — cheapest eaten first), runs a full personal recovery pass, then sleeps **about ten minutes** while travel and other actions are blocked. Combat in your room wakes you — healing already applied. Party **votes** for end-night, retreat, surrender, and scout are unchanged; the old party-vote “rest everyone” bar is gone from the phone.
 
 ## Logs and Notifications
 
 - **Logs** — rolls and beats; filter **All** or **Me**.
-- **Notifications** — deeds (gold lines now say **where** the gp came from), **Quests**, and **Achievements** on one page.
+- **Notifications** — deeds (gold lines now say **where** the gp came from), and **Quests** on one page.
 
-IMG|assets/guide/08-notifications.png|Notifications, quests and achievements
+IMG|assets/guide/08-notifications.png|Notifications and quests
 
 ## Info tab
 
-Open **Info** for a **segment hub** (like Settings): tap a segment along the top — Archive, Map, Shop, Quest book, Projects, Party, Crew, **Bonds**, **Library**, Factions, Rules, Hunters, and the rest. Your phone remembers which segment you had open.
+Open **Info** for a **segment hub** (like Settings): tap a segment along the top — Archive, Map, Shop, Quest book, Projects, Party, **Library**, Rules, Hunters, and the rest. Your phone remembers which segment you had open.
 
 | Segment | What it is |
 |---------|------------|
@@ -59,15 +59,13 @@ Open **Info** for a **segment hub** (like Settings): tap a segment along the top
 | **Shop** | Sponsor booth when the table has one |
 | **Projects** | Party jobs — stages and rewards |
 | **Party** · **Crew** | Fellow champions and your followers — tap for sheets |
-| **Bonds** | Propose, confirm, or break bonds with other champions or NPCs in the room |
 | **Library** | Haul credit and catalogue votes from Kitchen Stadium wins — tap entries to invoke when the table allows |
-| **Bounty hunters** | Leaderboard names (no legacy cook-off button here anymore) |
 
 IMG|assets/guide/05-archive.png|Archive inside Info
 
 ## Me tab
 
-Your sheet: equipped weapon, **inventory** grid, spells, class abilities, and skills. **Bonds** still preview live upsides on this tab. **Hostage** (if you are dragging someone) has its own card: shield, trade back, execute, convert, or ally — see in-app labels.
+Your sheet: equipped weapon, **inventory** grid, spells, class abilities, and skills. **Hostage** (if you are dragging someone) has its own card: shield, trade back, execute, convert, or ally — see in-app labels.
 
 **Followers** accept extra verbs: joust, feed, train, tricks, gear taps like your own pack, bond, turn hostile, and more — only what the companion supports.
 

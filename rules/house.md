@@ -22,13 +22,12 @@ This table runs **Twilight Sword** at the core, with Floor Three house conventio
 - **Floor map** and **archive** only show what the party has already discovered in play.
 - **Combat** on the phone is turn-gated; the server enforces what you can tap — greyed buttons are not a suggestion.
 - **Travel** is per champion. Stepping into a room that would **start combat** asks for confirmation first. **Party votes** need a majority of champions present — **solo rest** is per champion, not a vote.
-- **Info** uses a segment hub (Archive, Map, Library, Bonds, …). **Kitchen Stadium** tab applies during cook-offs as in **Using the player app**.
+- **Info** uses a segment hub (Archive, Map, Library, …). **Kitchen Stadium** tab applies during cook-offs as in **Using the player app**.
 - **Champion rules on:** header shows **hearts** and **stamina**; combat may offer **dodge/parry** after foe damage; **equipped pool** replaces quick slots. **Flag off:** HP chip and quick slots behave as before.
 - House pages **Supplies & statuses** and **Phone combat** list ammo, debuff clocks, meat spoilage, corpse loot, and search-fail ambushes the server enforces.
 
 ## Floor Three flavour
 
-- Achievements on the wall are **hints**, not full quest write-ups.
-- **Projects** and **bonds** are party-driven — see their Rules pages for payouts.
+- **Projects** are party-driven — see their Rules pages for payouts.
 
 _Edit this file, then run `uv run python -m dnd wiki export` to refresh the public site._

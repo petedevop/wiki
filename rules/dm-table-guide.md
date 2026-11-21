@@ -42,7 +42,7 @@ Players also get a **Kitchen Stadium** bottom tab for the duration; they can bro
 
 **Party rest** still runs from the DM (**camp** intent) and heals everyone with the usual interruption d6.
 
-Each champion may also **rest alone** from their phone in a safe room (two food units, downtime, then a timed sleep). You can **Wake now** from their sheet if the table needs them moving.
+Each champion may also **rest alone** from their phone in a safe room (two food units, then a timed sleep). You can **Wake now** from their sheet if the table needs them moving.
 
 ## Quick checks
 

@@ -7,14 +7,12 @@
         "The party met Wil Brask",
         "The party met Quest Board",
         "The party met Brannoc Ashhorn"
-      ],
-      "achievements": []
+      ]
     },
     {
       "pc_id": "david_odile",
       "pc_name": "Odile",
-      "story": [],
-      "achievements": []
+      "story": []
     }
   ]
 }

@@ -15,6 +15,13 @@
       "image": "assets/img/item/apple.webp"
     },
     {
+      "id": "item-arrows",
+      "title": "Arrows",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 arrows Needed to shoot a bow or longbow.",
+      "image": null
+    },
+    {
       "id": "item-axe",
       "title": "Axe",
       "subtitle": "",
@@ -64,13 +71,6 @@
       "image": "assets/img/item/big_meat.webp"
     },
     {
-      "id": "item-blessed_charm_scroll",
-      "title": "Blessed Charm Scroll",
-      "subtitle": "Floor 3",
-      "blurb": "One low blessing, expendable.",
-      "image": "assets/img/item/blessed_charm_scroll.webp"
-    },
-    {
       "id": "item-blessed_sword",
       "title": "Blessed Sword",
       "subtitle": "Floor 3",
@@ -92,11 +92,18 @@
       "image": "assets/img/item/blue_potion.webp"
     },
     {
-      "id": "item-bottomless_flagon",
-      "title": "Bottomless Flagon",
-      "subtitle": "Floor 3",
-      "blurb": "Thrown: area Drunk; returns once per fight.",
-      "image": "assets/img/item/bottomless_flagon.webp"
+      "id": "item-boomerang",
+      "title": "Boomerang",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-breastplate",
+      "title": "Breastplate",
+      "subtitle": "",
+      "blurb": "worn 2.0 1 torso 2 220 Red Zin Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-brewing_set",
@@ -120,13 +127,6 @@
       "image": "assets/img/item/bucket.webp"
     },
     {
-      "id": "item-calming_draught",
-      "title": "Calming Draught",
-      "subtitle": "Floor 3",
-      "blurb": "Soothe minor pain and worry.",
-      "image": "assets/img/item/calming_draught.webp"
-    },
-    {
       "id": "item-carrot",
       "title": "Carrot",
       "subtitle": "Floor 3",
@@ -144,7 +144,14 @@
       "id": "item-chain_armor",
       "title": "Chain Armor",
       "subtitle": "",
-      "blurb": "worn 1.0 1 torso 2 () () () Source: items.yaml",
+      "blurb": "worn 1.0 1 torso 2 Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-charm_scroll",
+      "title": "Charm Scroll",
+      "subtitle": "Floor 3",
+      "blurb": "One low blessing, read once — a minor heal or ward.",
       "image": null
     },
     {
@@ -160,6 +167,13 @@
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
       "image": "assets/img/item/claw.webp"
+    },
+    {
+      "id": "item-club",
+      "title": "Club",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-cooked_meal",
@@ -183,11 +197,11 @@
       "image": "assets/img/item/cricket.webp"
     },
     {
-      "id": "item-crypt_knight_blade",
-      "title": "Crypt Knight Blade",
+      "id": "item-crypt_blade",
+      "title": "Crypt Blade",
       "subtitle": "Floor 3",
       "blurb": "A decent early longsword from the sarcophagus.",
-      "image": "assets/img/item/crypt_knight_blade.webp"
+      "image": null
     },
     {
       "id": "item-dagger",
@@ -207,7 +221,7 @@
       "id": "item-elegant_clothes",
       "title": "Elegant Clothes",
       "subtitle": "Floor 3",
-      "blurb": "Elegant Clothes",
+      "blurb": "Fine dress for the mayor's table.",
       "image": "assets/img/item/elegant_clothes.webp"
     },
     {
@@ -225,11 +239,25 @@
       "image": "assets/img/item/enchanted_mask.webp"
     },
     {
+      "id": "item-endless_flagon",
+      "title": "Endless Flagon",
+      "subtitle": "Floor 3",
+      "blurb": "Thrown: area Drunk; returns once per fight.",
+      "image": null
+    },
+    {
       "id": "item-essence",
       "title": "Essence",
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
       "image": "assets/img/item/essence.webp"
+    },
+    {
+      "id": "item-explosive_arrows",
+      "title": "Explosive Arrows",
+      "subtitle": "",
+      "blurb": "Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-eye",
@@ -258,6 +286,13 @@
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
       "image": "assets/img/item/firefly.webp"
+    },
+    {
+      "id": "item-fireproof_armor",
+      "title": "Fireproof Armor",
+      "subtitle": "",
+      "blurb": "Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-firetrout",
@@ -295,11 +330,11 @@
       "image": "assets/img/item/flying_cape.webp"
     },
     {
-      "id": "item-foundry_iron_bundle",
-      "title": "Foundry Iron Bundle",
+      "id": "item-forest_salve",
+      "title": "Forest Salve",
       "subtitle": "Floor 3",
-      "blurb": "Lost cart iron — return to Brannoc.",
-      "image": "assets/img/item/foundry_iron_bundle.webp"
+      "blurb": "Rare woodland balm — DM sets the effect.",
+      "image": null
     },
     {
       "id": "item-fruit_skewer",
@@ -309,6 +344,20 @@
       "image": "assets/img/item/fruit_skewer.webp"
     },
     {
+      "id": "item-fur_armor",
+      "title": "Fur Armor",
+      "subtitle": "",
+      "blurb": "worn 2.0 1 torso 1 (('cold', 2),) 360 Red Zin Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-giant_club",
+      "title": "Giant Club",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-goblin_ear",
       "title": "Goblin Ear",
       "subtitle": "Floor 3",
@@ -316,11 +365,11 @@
       "image": "assets/img/item/goblin_ear.webp"
     },
     {
-      "id": "item-goblin_ear_notice",
-      "title": "Goblin Ear Notice",
+      "id": "item-goblin_notice",
+      "title": "Goblin Notice",
       "subtitle": "Floor 3",
       "blurb": "GOBLIN EARS — five ears, 25 Red Zin.",
-      "image": "assets/img/item/goblin_ear_notice.webp"
+      "image": null
     },
     {
       "id": "item-gold_treasure_chest",
@@ -347,8 +396,29 @@
       "id": "item-grappling_hook",
       "title": "Grappling Hook",
       "subtitle": "Floor 3",
-      "blurb": "Grappling Hook",
+      "blurb": "Hook and line for walls and gorges.",
       "image": "assets/img/item/grappling_hook.webp"
+    },
+    {
+      "id": "item-greataxe",
+      "title": "Greataxe",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-greathammer",
+      "title": "Greathammer",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-greatsword",
+      "title": "Greatsword",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-green_eel",
@@ -379,11 +449,11 @@
       "image": "assets/img/item/guts.webp"
     },
     {
-      "id": "item-healing_prayer_scroll",
-      "title": "Healing Prayer Scroll",
-      "subtitle": "Floor 3",
-      "blurb": "Copies a minor heal blessing at steep markup.",
-      "image": "assets/img/item/healing_prayer_scroll.webp"
+      "id": "item-hammer",
+      "title": "Hammer",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-health_potion",
@@ -407,6 +477,13 @@
       "image": null
     },
     {
+      "id": "item-heavy_bow",
+      "title": "Heavy Bow",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-herbs",
       "title": "Herbs",
       "subtitle": "Floor 3",
@@ -419,13 +496,6 @@
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
       "image": "assets/img/item/honey.webp"
-    },
-    {
-      "id": "item-horse_feed",
-      "title": "Horse Feed",
-      "subtitle": "Floor 3",
-      "blurb": "Oats sack.",
-      "image": "assets/img/item/horse_feed.webp"
     },
     {
       "id": "item-hot_pepper",
@@ -447,6 +517,20 @@
       "subtitle": "Floor 3",
       "blurb": "Dagger dealing ice damage.",
       "image": "assets/img/item/ice_dagger.webp"
+    },
+    {
+      "id": "item-instrument",
+      "title": "Instrument",
+      "subtitle": "Floor 3",
+      "blurb": "Play music.",
+      "image": null
+    },
+    {
+      "id": "item-iron_bundle",
+      "title": "Iron Bundle",
+      "subtitle": "Floor 3",
+      "blurb": "Lost cart iron — return to Brannoc.",
+      "image": null
     },
     {
       "id": "item-jewel",
@@ -487,7 +571,7 @@
       "id": "item-leather_armor",
       "title": "Leather Armor",
       "subtitle": "",
-      "blurb": "worn 1.0 1 torso 1 () () () Source: items.yaml",
+      "blurb": "worn 1.0 1 torso 1 Source: items.yaml",
       "image": null
     },
     {
@@ -496,6 +580,20 @@
       "subtitle": "Floor 3",
       "blurb": "",
       "image": "assets/img/item/lockpick.webp"
+    },
+    {
+      "id": "item-longbow",
+      "title": "Longbow",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-longsword",
+      "title": "Longsword",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-magic_scroll",
@@ -575,11 +673,11 @@
       "image": "assets/img/item/mushroom_skewer.webp"
     },
     {
-      "id": "item-musical_instrument",
-      "title": "Musical Instrument",
-      "subtitle": "Floor 3",
-      "blurb": "Play music.",
-      "image": "assets/img/item/musical_instrument.webp"
+      "id": "item-mystic_robe",
+      "title": "Mystic Robe",
+      "subtitle": "",
+      "blurb": "Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-old_axe",
@@ -587,6 +685,27 @@
       "subtitle": "Floor 3",
       "blurb": "Dull but hefty.",
       "image": "assets/img/item/old_axe.webp"
+    },
+    {
+      "id": "item-old_boomerang",
+      "title": "Old Boomerang",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-old_bow",
+      "title": "Old Bow",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-old_claw",
+      "title": "Old Claw",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-old_club",
@@ -603,11 +722,39 @@
       "image": "assets/img/item/old_dagger.webp"
     },
     {
+      "id": "item-old_greataxe",
+      "title": "Old Greataxe",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-old_greatsword",
+      "title": "Old Greatsword",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-old_longbow",
       "title": "Old Longbow",
       "subtitle": "Floor 3",
       "blurb": "Early bow prize.",
       "image": "assets/img/item/old_longbow.webp"
+    },
+    {
+      "id": "item-old_longsword",
+      "title": "Old Longsword",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-old_rapier",
+      "title": "Old Rapier",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-old_shield",
@@ -631,11 +778,18 @@
       "image": "assets/img/item/old_spear.webp"
     },
     {
-      "id": "item-pack_horse",
-      "title": "Pack Horse",
+      "id": "item-old_staff",
+      "title": "Old Staff",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-pack_mule",
+      "title": "Pack Mule",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": "assets/img/item/pack_horse.webp"
+      "image": null
     },
     {
       "id": "item-padded_armor",
@@ -652,10 +806,24 @@
       "image": "assets/img/item/paper_and_ink.webp"
     },
     {
+      "id": "item-paraglider",
+      "title": "Paraglider",
+      "subtitle": "",
+      "blurb": "pack 3.0 1 500 Red Zin Spend 1 stamina to glide from any height.",
+      "image": null
+    },
+    {
       "id": "item-plate_armor",
       "title": "Plate Armor",
       "subtitle": "",
-      "blurb": "worn 1.0 1 torso 3 () () () Source: items.yaml",
+      "blurb": "Source: items.yaml",
+      "image": null
+    },
+    {
+      "id": "item-pony",
+      "title": "Pony",
+      "subtitle": "Floor 3",
+      "blurb": "",
       "image": null
     },
     {
@@ -664,6 +832,13 @@
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
       "image": "assets/img/item/potatoes.webp"
+    },
+    {
+      "id": "item-priest_robe",
+      "title": "Priest Robe",
+      "subtitle": "",
+      "blurb": "Source: items.yaml",
+      "image": null
     },
     {
       "id": "item-pumpkin",
@@ -687,11 +862,11 @@
       "image": "assets/img/item/purple_potion.webp"
     },
     {
-      "id": "item-rare_forest_salve",
-      "title": "Rare Forest Salve",
-      "subtitle": "Floor 3",
-      "blurb": "Rare Forest Salve",
-      "image": "assets/img/item/rare_forest_salve.webp"
+      "id": "item-rapier",
+      "title": "Rapier",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-rare_green_mushroom",
@@ -771,13 +946,6 @@
       "image": "assets/img/item/riding_horse.webp"
     },
     {
-      "id": "item-riding_saddle",
-      "title": "Riding Saddle",
-      "subtitle": "Floor 3",
-      "blurb": "Overpriced, poor leather.",
-      "image": "assets/img/item/riding_saddle.webp"
-    },
-    {
       "id": "item-room_key",
       "title": "Room Key",
       "subtitle": "Floor 3",
@@ -792,10 +960,17 @@
       "image": "assets/img/item/rope.webp"
     },
     {
+      "id": "item-rubber_armor",
+      "title": "Rubber Armor",
+      "subtitle": "",
+      "blurb": "Source: items.yaml",
+      "image": null
+    },
+    {
       "id": "item-shield",
       "title": "Shield",
       "subtitle": "",
-      "blurb": "hand 1 1.0 1 () () () Source: items.yaml",
+      "blurb": "",
       "image": null
     },
     {
@@ -841,6 +1016,13 @@
       "image": "assets/img/item/sling_stones.webp"
     },
     {
+      "id": "item-slingshot",
+      "title": "Slingshot",
+      "subtitle": "",
+      "blurb": "Small stones, big pest energy.",
+      "image": null
+    },
+    {
       "id": "item-soothing_potion",
       "title": "Soothing Potion",
       "subtitle": "Floor 3",
@@ -848,11 +1030,25 @@
       "image": "assets/img/item/soothing_potion.webp"
     },
     {
+      "id": "item-spear",
+      "title": "Spear",
+      "subtitle": "",
+      "blurb": "Reach beats strength.",
+      "image": null
+    },
+    {
       "id": "item-spicy_skewer",
       "title": "Spicy Skewer",
       "subtitle": "Floor 3",
       "blurb": "",
       "image": "assets/img/item/spicy_skewer.webp"
+    },
+    {
+      "id": "item-spiked_club",
+      "title": "Spiked Club",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
     },
     {
       "id": "item-spinach",
@@ -872,7 +1068,7 @@
       "id": "item-staff",
       "title": "Staff",
       "subtitle": "",
-      "blurb": "hand 1 1.0 1 () () () Source: items.yaml",
+      "blurb": "",
       "image": null
     },
     {
@@ -887,6 +1083,13 @@
       "title": "Stamina Stone",
       "subtitle": "Floor 3",
       "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-stealth_gear",
+      "title": "Stealth Gear",
+      "subtitle": "",
+      "blurb": "Source: items.yaml",
       "image": null
     },
     {
@@ -921,7 +1124,7 @@
       "id": "item-summer_clothes",
       "title": "Summer Clothes",
       "subtitle": "Floor 3",
-      "blurb": "Summer Clothes",
+      "blurb": "Light linen against the heat.",
       "image": "assets/img/item/summer_clothes.webp"
     },
     {
@@ -937,6 +1140,13 @@
       "subtitle": "Floor 3",
       "blurb": "Champion forage ingredient.",
       "image": "assets/img/item/super_hot_pepper.webp"
+    },
+    {
+      "id": "item-surfboard",
+      "title": "Surfboard",
+      "subtitle": "",
+      "blurb": "pack 1.0 1 200 Red Zin Surf on water and snow.",
+      "image": null
     },
     {
       "id": "item-swift_trout",
@@ -981,6 +1191,13 @@
       "image": "assets/img/item/torch.webp"
     },
     {
+      "id": "item-tower_shield",
+      "title": "Tower Shield",
+      "subtitle": "",
+      "blurb": "Source: items.yaml",
+      "image": null
+    },
+    {
       "id": "item-training_bow",
       "title": "Training Bow",
       "subtitle": "Floor 3",
@@ -995,18 +1212,18 @@
       "image": "assets/img/item/troll_eye.webp"
     },
     {
-      "id": "item-troll_wanted_notice",
-      "title": "Troll Wanted Notice",
-      "subtitle": "Floor 3",
-      "blurb": "WANTED — bridge troll. 100 Red Zin.",
-      "image": "assets/img/item/troll_wanted_notice.webp"
-    },
-    {
-      "id": "item-troll_s_eye_recipe",
-      "title": "Troll's Eye Recipe",
+      "id": "item-troll_eye_recipe",
+      "title": "Troll Eye Recipe",
       "subtitle": "Floor 3",
       "blurb": "Rare potion recipe from the witch.",
-      "image": "assets/img/item/troll_s_eye_recipe.webp"
+      "image": null
+    },
+    {
+      "id": "item-troll_notice",
+      "title": "Troll Notice",
+      "subtitle": "Floor 3",
+      "blurb": "WANTED — bridge troll. 100 Red Zin.",
+      "image": null
     },
     {
       "id": "item-unknown_potion",
@@ -1014,20 +1231,6 @@
       "subtitle": "Floor 3",
       "blurb": "Unidentified — use Identify (KNO) before drinking.",
       "image": "assets/img/item/unknown_potion.webp"
-    },
-    {
-      "id": "item-wagon",
-      "title": "Wagon",
-      "subtitle": "Floor 3",
-      "blurb": "Extra party hauling.",
-      "image": "assets/img/item/wagon.webp"
-    },
-    {
-      "id": "item-war_horse",
-      "title": "War Horse",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/war_horse.webp"
     },
     {
       "id": "item-watermelon",
@@ -1047,22 +1250,8 @@
       "id": "item-winter_clothes",
       "title": "Winter Clothes",
       "subtitle": "Floor 3",
-      "blurb": "Winter Clothes",
+      "blurb": "Furs and wool against the cold.",
       "image": "assets/img/item/winter_clothes.webp"
-    },
-    {
-      "id": "item-witch_healing_draft",
-      "title": "Witch Healing Draft",
-      "subtitle": "Floor 3",
-      "blurb": "Witch Healing Draft",
-      "image": "assets/img/item/witch_healing_draft.webp"
-    },
-    {
-      "id": "item-witch_stamina_sip",
-      "title": "Witch Stamina Sip",
-      "subtitle": "Floor 3",
-      "blurb": "Witch Stamina Sip",
-      "image": "assets/img/item/witch_stamina_sip.webp"
     },
     {
       "id": "item-yellow_dragonfly",

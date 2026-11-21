@@ -8,17 +8,15 @@ const NAV_ITEMS = [
   { key: "people", label: "People" },
   { key: "items", label: "Gear" },
   { key: "obstacles", label: "Obstacles" },
-  { key: "bounties", label: "Bounties" },
   { key: "wall", label: "Wall" },
   { key: "quests", label: "Quests" },
   { key: "sponsors", label: "Sponsors" },
-  { key: "achievements", label: "Achievements" },
 ];
 
 const NAV_GROUPS = [
   { label: "Crew", keys: ["party", "people"] },
   { label: "Dungeon", keys: ["map", "rooms", "obstacles", "items"] },
-  { label: "Show", keys: ["bounties", "sponsors", "wall", "achievements", "quests"] },
+  { label: "Show", keys: ["sponsors", "wall", "quests"] },
   { label: "Reference", keys: ["rules"] },
 ];
 
@@ -239,27 +237,6 @@ function focusRuleCard(panel) {
   card.scrollIntoView({ block: "start", behavior: scrollMotion() });
 }
 
-function lootBadgeClass(loot) {
-  const s = String(loot || "").toLowerCase();
-  if (s.includes("gold")) return "badge-gold";
-  if (s.includes("silver")) return "badge-silver";
-  if (s.includes("bronze")) return "badge-bronze";
-  return "badge-group";
-}
-
-function achievementBadges(row) {
-  const wrap = el("div", "achievement-badges");
-  if (row.group) {
-    const g = el("span", "badge badge-group", row.group);
-    wrap.appendChild(g);
-  }
-  if (row.loot) {
-    const tier = el("span", `badge ${lootBadgeClass(row.loot)}`, row.loot);
-    wrap.appendChild(tier);
-  }
-  return wrap.children.length ? wrap : null;
-}
-
 function thumbEl(src, alt, extraClass) {
   // Undiscovered or art-less entries get a "?" so layout stays steady.
   if (!src) {
@@ -401,87 +378,13 @@ function formatStatBlock(stats) {
   return html;
 }
 
-async function renderBounties(main) {
-  const data = await loadJson(state.manifest.sections.bounties);
-  const panel = el("div", "panel");
-  const meta = data.meta || {};
-  let intro =
-    "Top twenty on the world board. Each night the app may put one of the top ten on the floor — the rest stay off-map.";
-  if (meta.explainer) intro = meta.explainer;
-  if (meta.posted_name) {
-    intro += ` Tonight's roll put ${meta.posted_name} on the floor (if anyone came).`;
-  }
-  panel.appendChild(panelHeader("Board bounties", intro, "bounties"));
-  panel.appendChild(
-    renderList(data.rows, (row) => {
-      const subtitle = [
-        row.board_bounty ? `Board ${Number(row.board_bounty).toLocaleString()} gp` : "",
-        row.floor_gp ? `Floor ${row.floor_gp} gp` : "",
-        row.level ? `Lv ${row.level}` : "",
-        row.on_floor ? "Top ten pool" : "",
-      ]
-        .filter(Boolean)
-        .join(" · ");
-      const body = [
-        row.blurb ? `<p>${row.blurb}</p>` : "",
-        row.role ? `<p class="card-sub">${row.role}</p>` : "",
-        row.voice ? `<p><em>${row.voice.trim()}</em></p>` : "",
-        row.quest ? `<p>${row.quest}</p>` : "",
-        formatStatBlock(row.stats),
-      ].join("");
-      const card = cardDetails(
-        { title: `#${row.rank} ${row.name}`, subtitle, preview: "" },
-        body,
-      );
-      const head = card.querySelector("summary");
-      if (head) head.insertBefore(thumbEl(row.image, row.name), head.firstChild);
-      return card;
-    }),
-  );
-  main.appendChild(panel);
-}
-
-async function renderBoard(main) {
-  const data = await loadJson(state.manifest.sections.board);
-  const panel = el("div", "panel");
-  const meta = data.meta || {};
-  panel.appendChild(
-    panelHeader(
-      "World board",
-      meta.explainer ||
-        "Top twenty names on the public leaderboard. Only the top ten can roll onto the floor.",
-      "board",
-    ),
-  );
-  if (meta.posted_name) {
-    panel.appendChild(
-      el("p", "intro board-tonight", `Tonight's floor bounty name: ${meta.posted_name}`),
-    );
-  }
-  panel.appendChild(
-    renderList(data.rows || [], (row) => {
-      const subtitle = [
-        row.on_floor ? "Top ten pool" : "",
-        row.bounty ? `${Number(row.bounty).toLocaleString()} gp` : "",
-        row.level ? `Lv ${row.level}` : "",
-        row.kills ? `${row.kills} kills` : "",
-      ]
-        .filter(Boolean)
-        .join(" · ");
-      const body = row.blurb ? `<p>${row.blurb}</p>` : "";
-      return cardDetails({ title: `#${row.rank} ${row.name}`, subtitle, preview: "" }, body);
-    }),
-  );
-  main.appendChild(panel);
-}
-
 async function renderWall(main) {
   const data = await loadJson(state.manifest.sections.wall);
   const panel = el("div", "panel");
   panel.appendChild(
     panelHeader(
-      "Achievement wall",
-      "Per-champion progress on started trophies — hints only, no secret triggers.",
+      "Wall",
+      "What each champion has done so far tonight.",
       "wall",
     ),
   );
@@ -497,44 +400,6 @@ async function renderWall(main) {
         story.appendChild(li);
       }
       block.appendChild(story);
-    }
-    const ach = pc.achievements || [];
-    if (!ach.length) {
-      block.appendChild(el("p", "card-sub", "No wall progress exported yet."));
-    } else {
-      const ul = el("ul", "card-list");
-      for (const row of ach) {
-        const li = document.createElement("li");
-        const details = el("details", "card touched");
-        const summary = el("summary");
-        summary.appendChild(el("span", "card-title", row.name));
-        if (row.hint) summary.appendChild(el("span", "card-sub hint", row.hint));
-        details.appendChild(summary);
-        const body = el("div", "card-body");
-        let has = false;
-        if (row.progress) {
-          body.appendChild(el("p", "progress-line", row.progress));
-          has = true;
-        }
-        if (row.steps?.length) {
-          const steps = el("ul", "quest-steps");
-          for (const step of row.steps) {
-            const sli = document.createElement("li");
-            sli.textContent = `${step.met ? "✓" : "○"} ${step.label || step.name || ""}`;
-            steps.appendChild(sli);
-          }
-          body.appendChild(steps);
-          has = true;
-        }
-        if (row.earned_by?.length) {
-          body.appendChild(el("p", null, `Earned by: ${row.earned_by.join(", ")}`));
-          has = true;
-        }
-        if (has) details.appendChild(body);
-        li.appendChild(details);
-        ul.appendChild(li);
-      }
-      block.appendChild(ul);
     }
     stack.appendChild(block);
   }
@@ -614,11 +479,7 @@ async function renderRivals(main) {
 async function renderTonight(main) {
   const data = await loadJson(state.manifest.sections.tonight);
   const panel = el("div", "panel");
-  const meta = data.meta || {};
-  let intro = "Rooms your party has opened this episode (player-safe titles only).";
-  if (meta.posted_name) {
-    intro += ` Floor bounty roll: ${meta.posted_name}.`;
-  }
+  const intro = "Rooms your party has opened this episode (player-safe titles only).";
   panel.appendChild(panelHeader("Tonight", intro, "tonight"));
   const rooms = data.rooms || [];
   if (!rooms.length) {
@@ -709,45 +570,6 @@ async function renderSponsors(main) {
         `<p class="card-sub">Exact invite rules stay in play — courting is deed-driven, not a checklist here.</p>`,
       ].join("");
       return cardDetails({ title: row.name, subtitle: "", preview: "" }, body);
-    }),
-  );
-  main.appendChild(panel);
-}
-
-async function renderAchievements(main) {
-  const data = await loadJson(state.manifest.sections.achievements);
-  const panel = el("div", "panel");
-  panel.appendChild(
-    panelHeader(
-      "Achievements",
-      "Hints for the wall — green rows are ones your party has touched.",
-      "achievements",
-    ),
-  );
-  panel.appendChild(
-    renderList(data.rows, (row) => {
-      const details = el("details", "card achievement" + (row.touched ? " touched" : ""));
-      const summary = el("summary");
-      summary.appendChild(el("span", "card-title", row.name));
-      const badges = achievementBadges(row);
-      if (badges) summary.appendChild(badges);
-      if (row.hint) summary.appendChild(el("span", "card-sub hint", row.hint));
-      details.appendChild(summary);
-      const body = el("div", "card-body");
-      let hasBody = false;
-      if (row.earned_by?.length) {
-        body.appendChild(el("p", null, `Earned by: ${row.earned_by.join(", ")}`));
-        hasBody = true;
-      }
-      const progress = row.progress_by_pc && Object.entries(row.progress_by_pc);
-      if (progress?.length) {
-        for (const [name, val] of progress) {
-          body.appendChild(el("p", "progress-line", `${name}: ${val}`));
-          hasBody = true;
-        }
-      }
-      if (hasBody) details.appendChild(body);
-      return details;
     }),
   );
   main.appendChild(panel);
@@ -1012,11 +834,9 @@ async function renderSection() {
   try {
     if (key === "rules") await renderRules(main);
     else if (key === "map") await renderMap(main);
-    else if (key === "bounties") await renderBounties(main);
     else if (key === "wall") await renderWall(main);
     else if (key === "quests") await renderQuests(main);
     else if (key === "sponsors") await renderSponsors(main);
-    else if (key === "achievements") await renderAchievements(main);
     else if (key === "party") await renderParty(main);
     else if (key === "rooms") await renderRooms(main);
     else if (key === "obstacles") await renderObstacles(main);

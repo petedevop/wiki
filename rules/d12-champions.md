@@ -64,6 +64,6 @@ The phone shows a dodge/parry banner when that window is open.
 
 ## Rest
 
-**Solo rest** in a safe room still costs rations and downtime, but recovery under Champion rules heals **d12 hearts**, restores **+1 stamina**, and offers a **pick-one** bonus (extra hearts, extra stamina, clear a status, or recharge a spell). Party camp uses the same champion rest pass when the flag is on.
+**Solo rest** in a safe room still costs rations, but recovery under Champion rules heals **d12 hearts**, restores **+1 stamina**, and offers a **pick-one** bonus (extra hearts, extra stamina, clear a status, or recharge a spell). Party camp uses the same champion rest pass when the flag is on.
 
 _Edit this file, then run `uv run python -m dnd wiki export` to refresh the public site._
