@@ -497,129 +497,6 @@ async function renderTonight(main) {
   main.appendChild(panel);
 }
 
-async function renderSponsors(main) {
-  const data = await loadJson(state.manifest.sections.sponsors);
-  const panel = el("div", "panel");
-  if (data.crest) panel.appendChild(thumbEl(data.crest, "Sponsors", "crest-banner"));
-  panel.appendChild(
-    panelHeader(
-      "Sponsors",
-      "Booth cards unlock after evening based on your deeds — only on your phone until invited.",
-      "sponsors",
-    ),
-  );
-  if (data.scoreboard?.length) {
-    const sb = el("div", "sponsor-scoreboard");
-    sb.appendChild(el("p", "party-skills-label", "Courting scoreboard"));
-    const ul = el("ul", "party-skills");
-    for (const row of data.scoreboard) {
-      const li = document.createElement("li");
-      const pts = Object.entries(row.points || {})
-        .map(([name, val]) => `${name} ${val}`)
-        .join(" · ");
-      li.textContent = `${row.pc_name}${row.signed ? ` (signed ${row.signed})` : ""}: ${pts}`;
-      ul.appendChild(li);
-    }
-    sb.appendChild(ul);
-    panel.appendChild(sb);
-  }
-  if (data.relics?.length) {
-    const rel = el("div", "sponsor-relics");
-    rel.appendChild(el("p", "party-skills-label", "Relic catalog (public effects)"));
-    const ul = el("ul", "card-list");
-    for (const relic of data.relics) {
-      const li = document.createElement("li");
-      const details = el("details", "card");
-      const summary = el("summary");
-      summary.appendChild(el("span", "card-title", relic.name));
-      summary.appendChild(
-        el(
-          "span",
-          "card-sub",
-          `${relic.sponsor} · ${relic.cost} pt${relic.cost === 1 ? "" : "s"}${relic.unique ? " · unique" : ""}`,
-        ),
-      );
-      details.appendChild(summary);
-      if (relic.effect) {
-        const body = el("div", "card-body");
-        body.appendChild(el("p", null, relic.effect));
-        details.appendChild(body);
-      }
-      li.appendChild(details);
-      ul.appendChild(li);
-    }
-    rel.appendChild(ul);
-    panel.appendChild(rel);
-  }
-  panel.appendChild(
-    renderList(data.rows, (row) => {
-      const body = [
-        row.blurb ? `<p>${row.blurb}</p>` : "",
-        row.invite_pitch
-          ? `<p><strong>If they call you</strong> ${row.invite_pitch}</p>`
-          : "",
-        row.task_teaser
-          ? `<p><strong>Contract gist</strong> ${row.task_teaser}</p>`
-          : "",
-        row.gift
-          ? `<p><strong>Signing gift</strong> ${row.gift}${
-              row.gift_effect ? ` — ${row.gift_effect}` : ""
-            }</p>`
-          : "",
-        `<p class="card-sub">Exact invite rules stay in play — courting is deed-driven, not a checklist here.</p>`,
-      ].join("");
-      return cardDetails({ title: row.name, subtitle: "", preview: "" }, body);
-    }),
-  );
-  main.appendChild(panel);
-}
-
-// One catalog entry: thumb, title, a one-line blurb. Expands only when it has more to show.
-function entryRow(row, { title = row.title, meta = [], body = null } = {}) {
-  const root = body ? el("details", "card") : el("div", "card card-flat");
-  const head = body ? el("summary") : el("div", "card-head");
-  const isRoom = row.num !== undefined;
-  head.appendChild(
-    thumbEl(isRoom ? row.image_thumb || row.image : row.image, row.title, isRoom ? "thumb-room" : ""),
-  );
-  head.appendChild(el("span", "card-title", title));
-  for (const node of meta) head.appendChild(node);
-  if (row.blurb) head.appendChild(el("span", "card-blurb", row.blurb));
-  root.appendChild(head);
-  if (body) root.appendChild(body);
-  return root;
-}
-
-function factionLine(row) {
-  if (!row.faction_image) return [];
-  const line = el("span", "card-sub faction-line");
-  line.appendChild(thumbEl(row.faction_image, row.faction, "faction-badge"));
-  line.appendChild(document.createTextNode(" " + (row.faction || "")));
-  return [line];
-}
-
-function groupedList(rows, groupOf, renderRow) {
-  const q = normalize(state.query);
-  const wrap = el("div", "room-groups");
-  let last = null;
-  let ul = null;
-  for (const row of rows) {
-    if (!matches(row, q)) continue;
-    const label = groupOf(row);
-    if (label !== last) {
-      wrap.appendChild(el("div", "group-label", label));
-      ul = el("ul", "card-list");
-      wrap.appendChild(ul);
-      last = label;
-    }
-    const li = document.createElement("li");
-    li.appendChild(renderRow(row));
-    ul.appendChild(li);
-  }
-  if (!ul) return el("p", "empty-state", "No matches for that search.");
-  return wrap;
-}
-
 async function renderCatalog(main, key, title, intro, render) {
   const data = await loadJson(state.manifest.sections[key]);
   const panel = el("div", "panel");
@@ -835,7 +712,6 @@ async function renderSection() {
     else if (key === "map") await renderMap(main);
     else if (key === "wall") await renderWall(main);
     else if (key === "quests") await renderQuests(main);
-    else if (key === "sponsors") await renderSponsors(main);
     else if (key === "party") await renderParty(main);
     else if (key === "rooms") await renderRooms(main);
     else if (key === "obstacles") await renderObstacles(main);
