@@ -19,7 +19,7 @@
       "title": "Arrows",
       "subtitle": "Floor 3",
       "blurb": "A bundle of fletched shafts.",
-      "image": null
+      "image": "assets/img/item/arrows.webp"
     },
     {
       "id": "item-axe",
@@ -145,7 +145,7 @@
       "title": "Charm Scroll",
       "subtitle": "Floor 3",
       "blurb": "One low blessing, read once — a minor heal or ward.",
-      "image": null
+      "image": "assets/img/item/charm_scroll.webp"
     },
     {
       "id": "item-chillcarp",
@@ -194,7 +194,7 @@
       "title": "Crypt Blade",
       "subtitle": "Floor 3",
       "blurb": "A decent early longsword from the sarcophagus.",
-      "image": null
+      "image": "assets/img/item/crypt_blade.webp"
     },
     {
       "id": "item-dagger",
@@ -236,7 +236,7 @@
       "title": "Endless Flagon",
       "subtitle": "Floor 3",
       "blurb": "Thrown: area Drunk; returns once per fight.",
-      "image": null
+      "image": "assets/img/item/endless_flagon.webp"
     },
     {
       "id": "item-explosive_arrows",
@@ -306,7 +306,7 @@
       "title": "Forest Salve",
       "subtitle": "Floor 3",
       "blurb": "Rare woodland balm — DM sets the effect.",
-      "image": null
+      "image": "assets/img/item/forest_salve.webp"
     },
     {
       "id": "item-fruit_skewer",
@@ -341,7 +341,7 @@
       "title": "Goblin Notice",
       "subtitle": "Floor 3",
       "blurb": "GOBLIN EARS — five ears, 25 Red Zin.",
-      "image": null
+      "image": "assets/img/item/goblin_notice.webp"
     },
     {
       "id": "item-gold_treasure_chest",
@@ -432,7 +432,7 @@
       "title": "Heart Stone",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/heart_stone.webp"
     },
     {
       "id": "item-heavy_bow",
@@ -481,14 +481,14 @@
       "title": "Instrument",
       "subtitle": "Floor 3",
       "blurb": "Allows you to play music.",
-      "image": null
+      "image": "assets/img/item/instrument.webp"
     },
     {
       "id": "item-iron_bundle",
       "title": "Iron Bundle",
       "subtitle": "Floor 3",
       "blurb": "Lost cart iron — return to Brannoc.",
-      "image": null
+      "image": "assets/img/item/iron_bundle.webp"
     },
     {
       "id": "item-jewel",
@@ -614,28 +614,28 @@
       "title": "Monster Claw",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/monster_claw.webp"
     },
     {
       "id": "item-monster_essence",
       "title": "Monster Essence",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/monster_essence.webp"
     },
     {
       "id": "item-monster_eye",
       "title": "Monster Eye",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/monster_eye.webp"
     },
     {
       "id": "item-monster_fang",
       "title": "Monster Fang",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/monster_fang.webp"
     },
     {
       "id": "item-monster_goo",
@@ -649,21 +649,21 @@
       "title": "Monster Guts",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/monster_guts.webp"
     },
     {
       "id": "item-monster_heart",
       "title": "Monster Heart",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/monster_heart.webp"
     },
     {
       "id": "item-monster_skull",
       "title": "Monster Skull",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/monster_skull.webp"
     },
     {
       "id": "item-mushroom_skewer",
@@ -698,7 +698,7 @@
       "title": "Old Bow",
       "subtitle": "Floor 3",
       "blurb": "Warped but it still draws.",
-      "image": null
+      "image": "assets/img/item/old_bow.webp"
     },
     {
       "id": "item-old_claw",
@@ -789,7 +789,7 @@
       "title": "Pack Mule",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/pack_mule.webp"
     },
     {
       "id": "item-padded_armor",
@@ -824,7 +824,7 @@
       "title": "Pony",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/pony.webp"
     },
     {
       "id": "item-potatoes",
@@ -894,7 +894,7 @@
       "title": "Raw Fruit",
       "subtitle": "Floor 3",
       "blurb": "Eaten raw — heals 1 heart. Counts as the one food between Rests.",
-      "image": null
+      "image": "assets/img/item/raw_fruit.webp"
     },
     {
       "id": "item-razor_spider",
@@ -1013,14 +1013,14 @@
       "title": "Slingshot",
       "subtitle": "Floor 3",
       "blurb": "Small stones, big pest energy.",
-      "image": null
+      "image": "assets/img/item/slingshot.webp"
     },
     {
       "id": "item-slop",
       "title": "Slop",
       "subtitle": "Floor 3",
       "blurb": "A grey, lumpy mess. Restores 1 heart.",
-      "image": null
+      "image": "assets/img/item/slop.webp"
     },
     {
       "id": "item-soothing_potion",
@@ -1083,7 +1083,7 @@
       "title": "Stamina Stone",
       "subtitle": "Floor 3",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/stamina_stone.webp"
     },
     {
       "id": "item-stealth_gear",
@@ -1216,14 +1216,14 @@
       "title": "Troll Eye Recipe",
       "subtitle": "Floor 3",
       "blurb": "Rare potion recipe from the witch.",
-      "image": null
+      "image": "assets/img/item/troll_eye_recipe.webp"
     },
     {
       "id": "item-troll_notice",
       "title": "Troll Notice",
       "subtitle": "Floor 3",
       "blurb": "WANTED — bridge troll. 100 Red Zin.",
-      "image": null
+      "image": "assets/img/item/troll_notice.webp"
     },
     {
       "id": "item-unknown_potion",

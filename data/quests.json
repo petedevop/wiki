@@ -1,81 +1,11 @@
 {
   "rows": [
     {
-      "pc_name": "Odile",
-      "name": "Goblin Ears",
-      "giver": "Quest Board",
-      "gp": 25,
-      "prize": "25 Red Zin · Bronze Treasure Chest",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Turn in five goblin ears",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Odile",
-      "name": "Lost in the Wood",
-      "giver": "Wil Brask",
-      "gp": 10,
-      "prize": "10 Red Zin · Bronze Treasure Chest",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Bring Pip back safe",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Odile",
-      "name": "Lost Iron Shipment",
-      "giver": "Brannoc Ashhorn",
-      "gp": 15,
-      "prize": "15 Red Zin · Bronze Treasure Chest",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Return the lost iron",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Odile",
-      "name": "WANTED The Troll",
-      "giver": "Quest Board",
-      "gp": 100,
-      "prize": "100 Red Zin · Bronze Treasure Chest",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Slay Grubnak under the bridge",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Rae",
-      "name": "Goblin Ears",
-      "giver": "Quest Board",
-      "gp": 25,
-      "prize": "25 Red Zin · Bronze Treasure Chest",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Turn in five goblin ears",
-          "met": false
-        }
-      ]
-    },
-    {
       "pc_name": "Rae",
       "name": "Lost in the Wood",
       "giver": "Wil Brask",
-      "gp": 10,
-      "prize": "10 Red Zin · Bronze Treasure Chest",
+      "gp": 40,
+      "prize": "40 Green Zin each",
       "pending": false,
       "steps": [
         {
@@ -88,26 +18,12 @@
       "pc_name": "Rae",
       "name": "Lost Iron Shipment",
       "giver": "Brannoc Ashhorn",
-      "gp": 15,
-      "prize": "15 Red Zin · Bronze Treasure Chest",
+      "gp": 60,
+      "prize": "60 Green Zin each",
       "pending": false,
       "steps": [
         {
           "label": "Return the lost iron",
-          "met": false
-        }
-      ]
-    },
-    {
-      "pc_name": "Rae",
-      "name": "WANTED The Troll",
-      "giver": "Quest Board",
-      "gp": 100,
-      "prize": "100 Red Zin · Bronze Treasure Chest",
-      "pending": false,
-      "steps": [
-        {
-          "label": "Slay Grubnak under the bridge",
           "met": false
         }
       ]

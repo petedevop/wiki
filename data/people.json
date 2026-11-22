@@ -1,6 +1,13 @@
 {
   "rows": [
     {
+      "id": "npc-bogoblin",
+      "title": "Bogoblin",
+      "subtitle": "Floor 3",
+      "blurb": "Goblin raider. Yellow-eyed goblin raider with a knobbed club and a sling pouch.",
+      "image": null
+    },
+    {
       "id": "npc-borkor",
       "title": "Borkor",
       "subtitle": "Floor 3",
@@ -19,21 +26,7 @@
       "title": "Brother Aldous",
       "subtitle": "Floor 3",
       "blurb": "Priest. Smiling priest by a candlelit altar.",
-      "image": null
-    },
-    {
-      "id": "npc-bush_goblin",
-      "title": "Bush Goblin",
-      "subtitle": "Floor 3",
-      "blurb": "Scout.",
-      "image": "assets/img/npc/bush_goblin.webp"
-    },
-    {
-      "id": "npc-cave_mouth_goblin",
-      "title": "Cave Mouth Goblin",
-      "subtitle": "Floor 3",
-      "blurb": "Door guard.",
-      "image": "assets/img/npc/cave_mouth_goblin.webp"
+      "image": "assets/img/npc/brother_aldous.webp"
     },
     {
       "id": "npc-cave_ooze",
@@ -64,39 +57,11 @@
       "image": "assets/img/npc/giant_cave_spider.webp"
     },
     {
-      "id": "npc-goblin_scout",
-      "title": "Goblin Scout",
-      "subtitle": "Floor 3",
-      "blurb": "Path ambush.",
-      "image": "assets/img/npc/goblin_scout.webp"
-    },
-    {
-      "id": "npc-goblin_sentry",
-      "title": "Goblin Sentry",
-      "subtitle": "Floor 3",
-      "blurb": "Tunnel guard.",
-      "image": "assets/img/npc/goblin_sentry.webp"
-    },
-    {
-      "id": "npc-grave_crawler",
-      "title": "Grave Crawler",
-      "subtitle": "Floor 3",
-      "blurb": "Weak grave rob fail.",
-      "image": "assets/img/npc/grave_crawler.webp"
-    },
-    {
       "id": "npc-grogmaw",
       "title": "Grogmaw",
       "subtitle": "Floor 3",
       "blurb": "Brewmaster chief. Bloated goblin brewmaster chief on ale kegs with a brass hose.",
       "image": "assets/img/npc/grogmaw.webp"
-    },
-    {
-      "id": "npc-grogmaw_s_mob",
-      "title": "Grogmaw's Mob",
-      "subtitle": "Floor 3",
-      "blurb": "Boss escort. Crowd of yellow-eyed bogoblins clutching clubs and mugs.",
-      "image": "assets/img/npc/grogmaw_s_mob.webp"
     },
     {
       "id": "npc-grubnak",
@@ -110,7 +75,7 @@
       "title": "Hob Marrow",
       "subtitle": "Floor 3",
       "blurb": "Greengrocer. Cheerful round-cheeked greengrocer at a wooden barrow of vegetables and fruit on a village green.",
-      "image": null
+      "image": "assets/img/npc/hob_marrow.webp"
     },
     {
       "id": "npc-jory_plumm",
@@ -118,13 +83,6 @@
       "subtitle": "Floor 3",
       "blurb": "Thief posing merchant.",
       "image": "assets/img/npc/jory_plumm.webp"
-    },
-    {
-      "id": "npc-lookout_goblin",
-      "title": "Lookout Goblin",
-      "subtitle": "Floor 3",
-      "blurb": "Horn guard.",
-      "image": "assets/img/npc/lookout_goblin.webp"
     },
     {
       "id": "npc-marta_hobb",
@@ -138,7 +96,7 @@
       "title": "Mayor Edric",
       "subtitle": "Floor 3",
       "blurb": "Mayor. Plump mayor in ivy-covered manor hall.",
-      "image": null
+      "image": "assets/img/npc/mayor_edric.webp"
     },
     {
       "id": "npc-mayor_s_toad_son",

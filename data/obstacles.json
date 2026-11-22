@@ -17,7 +17,7 @@
       "room": 401,
       "room_title": "Town Square",
       "blurb": "Locked until party hope first reaches 4.",
-      "image": null,
+      "image": "assets/img/obstacle/mayor_s_door.webp",
       "options": []
     },
     {
@@ -26,7 +26,7 @@
       "kind": "Scenery",
       "room": 402,
       "room_title": "Tavern Common Room",
-      "blurb": "Roaring hearth — campfire for cook and brew.",
+      "blurb": "Roaring hearth — the guest-room camp cooks and brews here while resting.",
       "image": "assets/img/obstacle/tavern_hearth.webp",
       "options": []
     },
@@ -37,7 +37,7 @@
       "room": 404,
       "room_title": "Tavern Cellar",
       "blurb": "Hard PER find — opens river 450 when spotted.",
-      "image": null,
+      "image": "assets/img/obstacle/cellar_door.webp",
       "options": []
     },
     {
@@ -47,7 +47,7 @@
       "room": 404,
       "room_title": "Tavern Cellar",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/insect_patch.webp",
       "options": []
     },
     {
@@ -61,13 +61,23 @@
       "options": []
     },
     {
+      "id": "obstacle-cold_plunge_pool",
+      "title": "Cold Plunge Pool",
+      "kind": "Scenery",
+      "room": 406,
+      "room_title": "Red Anvil",
+      "blurb": "20 Zin — plunge to shake off one status (not K.O.).",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-red_anvil_forge",
       "title": "Red Anvil Forge",
       "kind": "Scenery",
       "room": 406,
       "room_title": "Red Anvil",
       "blurb": "Brannoc's forge — weapons and gear.",
-      "image": null,
+      "image": "assets/img/obstacle/red_anvil_forge.webp",
       "options": []
     },
     {
@@ -157,7 +167,7 @@
       "room": 420,
       "room_title": "Woods Edge",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/deer_trail.webp",
       "options": []
     },
     {
@@ -167,7 +177,7 @@
       "room": 421,
       "room_title": "Wrecked Cart",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/wild_orchard.webp",
       "options": []
     },
     {
@@ -196,7 +206,7 @@
       "kind": "Scenery",
       "room": 425,
       "room_title": "Mushroom Hollow",
-      "blurb": "Clearing fire ring — the woods' only public campfire.",
+      "blurb": "Clearing fire ring — scenery; resting is only at the Drowsy Badger.",
       "image": "assets/img/obstacle/campfire.webp",
       "options": []
     },
@@ -207,7 +217,7 @@
       "room": 425,
       "room_title": "Mushroom Hollow",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/fairy_ring.webp",
       "options": []
     },
     {
@@ -227,7 +237,7 @@
       "room": 428,
       "room_title": "Mother Sedge's Hut",
       "blurb": "Witch shop — potions, Troll's Eye quest.",
-      "image": null,
+      "image": "assets/img/obstacle/sedge_s_stock.webp",
       "options": []
     },
     {
@@ -237,7 +247,7 @@
       "room": 428,
       "room_title": "Mother Sedge's Hut",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/witch_s_garden.webp",
       "options": []
     },
     {
@@ -277,7 +287,7 @@
       "room": 441,
       "room_title": "Mushroom Farm",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/beetle_beds.webp",
       "options": []
     },
     {
@@ -327,7 +337,7 @@
       "room": 495,
       "room_title": "Lonely Shore",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/fishing_reeds.webp",
       "options": []
     },
     {
@@ -337,7 +347,7 @@
       "room": 499,
       "room_title": "Northwood Trace",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/berry_briars.webp",
       "options": []
     },
     {
