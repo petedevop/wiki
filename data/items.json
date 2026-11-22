@@ -15,6 +15,13 @@
       "image": "assets/img/item/apple.webp"
     },
     {
+      "id": "item-arcane_blade",
+      "title": "Arcane Blade",
+      "subtitle": "",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-arrows",
       "title": "Arrows",
       "subtitle": "Floor 3",
