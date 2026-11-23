@@ -7,7 +7,7 @@
       "class_name": "Blade",
       "level": 1,
       "class_level": "Huma Blade 1",
-      "portrait_url": "/media/nJ4l5eQxZvF8oro2Gr4mCQ",
+      "portrait_url": "/media/8k67y4QVLKM8OztczVy2Kw",
       "about": [],
       "powers": [],
       "hp": 19,
@@ -84,7 +84,7 @@
           "aria_label": "Armour 2"
         }
       ],
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Longsword</li>\n<li class=\"party-gear-row\">✋ Tower Shield</li>\n<li class=\"party-gear-row\">👕 Breastplate</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Longsword</li>\n<li class=\"party-gear-row\">✋ Tower Shield</li>\n<li class=\"party-gear-row\">👕 Breastplate</li>\n<li class=\"party-gear-row\">🎒 Blue Mushroom</li>\n<li class=\"party-gear-row\">🎒 Green Mushroom</li>\n<li class=\"party-gear-row\">🎒 Green Mushroom</li>\n<li class=\"party-gear-row\">🎒 Red Mushroom</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
       "alignment": "Lawful",
       "title": "",
       "appearance": "",
