@@ -8,7 +8,7 @@
     },
     {
       "num": 401,
-      "title": "Town Square",
+      "title": "Lowtown Green",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
@@ -85,6 +85,24 @@
       "zone_label": "Floor 3"
     },
     {
+      "num": 414,
+      "title": "Hightown Plaza",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 415,
+      "title": "Old Bridge",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 416,
+      "title": "Docks",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
       "num": 420,
       "title": "Woods Edge",
       "zone_key": "floorthree",
@@ -104,13 +122,13 @@
     },
     {
       "num": 423,
-      "title": "Goblin Lookout",
+      "title": "Hanging Doe",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
     {
       "num": 424,
-      "title": "Goblin Cave Mouth",
+      "title": "Poacher's Cache",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },
@@ -219,6 +237,48 @@
     {
       "num": 450,
       "title": "Underground River",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 451,
+      "title": "Goblin Lookout",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 452,
+      "title": "Goblin Cave Mouth",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 453,
+      "title": "Tide Cave",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 454,
+      "title": "Wreck of the Penny",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 455,
+      "title": "Penny's Hold",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 456,
+      "title": "Scree Stair",
+      "zone_key": "floorthree",
+      "zone_label": "Floor 3"
+    },
+    {
+      "num": 457,
+      "title": "Old Mine Head",
       "zone_key": "floorthree",
       "zone_label": "Floor 3"
     },

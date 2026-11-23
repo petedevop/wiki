@@ -7,14 +7,14 @@
       "class_name": "Blade",
       "level": 1,
       "class_level": "Huma Blade 1",
-      "portrait_url": "/media/8hBAGlNfOykB0gjxot1_sg",
+      "portrait_url": "/media/T7FX6FynXbky62I-5ZINvg",
       "about": [],
       "powers": [],
       "hp": 19,
       "hp_max": 19,
       "hearts": 19,
       "temp_hp": 0,
-      "ac": 10,
+      "ac": 12,
       "abilities": [
         {
           "id": "STR",
@@ -66,7 +66,7 @@
       "vitals_label": "Hearts",
       "stamina": 3,
       "stamina_max": 3,
-      "armour_rating": 0,
+      "armour_rating": 2,
       "vitals_icons": [
         {
           "kind": "heart",
@@ -80,11 +80,11 @@
         },
         {
           "kind": "armour",
-          "value": "0",
-          "aria_label": "Armour 0"
+          "value": "2",
+          "aria_label": "Armour 2"
         }
       ],
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ <em>empty</em></li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Longsword</li>\n<li class=\"party-gear-row\">✋ Tower Shield</li>\n<li class=\"party-gear-row\">👕 Breastplate</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
       "alignment": "Lawful",
       "title": "",
       "appearance": "",

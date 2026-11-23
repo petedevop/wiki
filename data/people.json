@@ -15,6 +15,13 @@
       "image": "assets/img/npc/borkor.webp"
     },
     {
+      "id": "npc-bram_cott",
+      "title": "Bram Cott",
+      "subtitle": "Floor 3",
+      "blurb": "Docks fisher. Weathered fisher tied with wet rope in a flooded boat hold.",
+      "image": null
+    },
+    {
       "id": "npc-brannoc_ashhorn",
       "title": "Brannoc Ashhorn",
       "subtitle": "Floor 3",
@@ -76,6 +83,13 @@
       "subtitle": "Floor 3",
       "blurb": "Greengrocer. Cheerful round-cheeked greengrocer at a wooden barrow of vegetables and fruit on a village green.",
       "image": "assets/img/npc/hob_marrow.webp"
+    },
+    {
+      "id": "npc-ink_octopus",
+      "title": "Ink Octopus",
+      "subtitle": "Floor 3",
+      "blurb": "Hold lurker. Octopus rising through broken fish crates in a flooded boat hold.",
+      "image": null
     },
     {
       "id": "npc-jory_plumm",
@@ -146,6 +160,13 @@
       "subtitle": "Floor 3",
       "blurb": "Tutorial vermin.",
       "image": "assets/img/npc/rat_swarm.webp"
+    },
+    {
+      "id": "npc-silk_widow",
+      "title": "Silk Widow",
+      "subtitle": "Floor 3",
+      "blurb": "Canopy ambush. Large woodland spider crouched in pale silk above a hanging deer.",
+      "image": null
     },
     {
       "id": "npc-stonewing",

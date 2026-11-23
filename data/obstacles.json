@@ -1,36 +1,6 @@
 {
   "rows": [
     {
-      "id": "obstacle-woods_gate_check",
-      "title": "Woods Gate Check",
-      "kind": "Terrain",
-      "room": 400,
-      "room_title": "Town Gate",
-      "blurb": "",
-      "image": "assets/img/obstacle/woods_gate_check.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-mayor_s_door",
-      "title": "Mayor's Door",
-      "kind": "Scenery",
-      "room": 401,
-      "room_title": "Town Square",
-      "blurb": "Locked until party hope first reaches 4.",
-      "image": "assets/img/obstacle/mayor_s_door.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-tavern_hearth",
-      "title": "Tavern Hearth",
-      "kind": "Scenery",
-      "room": 402,
-      "room_title": "Tavern Common Room",
-      "blurb": "Roaring hearth — the guest-room camp cooks and brews here while resting.",
-      "image": "assets/img/obstacle/tavern_hearth.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-cellar_door",
       "title": "Cellar Door",
       "kind": "Scenery",
@@ -66,7 +36,7 @@
       "kind": "Scenery",
       "room": 406,
       "room_title": "Red Anvil",
-      "blurb": "20 Zin — plunge to shake off one status (not K.O.).",
+      "blurb": "20 Zin — plunge to shake off all statuses (not K.O.).",
       "image": null,
       "options": []
     },
@@ -81,22 +51,12 @@
       "options": []
     },
     {
-      "id": "obstacle-offering_bowl",
-      "title": "Offering Bowl",
-      "kind": "Scenery",
-      "room": 407,
-      "room_title": "Shrine of the Dawnmother",
-      "blurb": "Tithe and 25 Red Zin cure at the chapel bowl.",
-      "image": "assets/img/obstacle/offering_bowl.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-hayward_s_yard",
       "title": "Hayward's Yard",
       "kind": "Scenery",
       "room": 408,
       "room_title": "Hayward's Stables",
-      "blurb": "Stables shop — mounts priced high.",
+      "blurb": "Stables shop — mounts.",
       "image": "assets/img/obstacle/hayward_s_yard.webp",
       "options": []
     },
@@ -106,7 +66,7 @@
       "kind": "Scenery",
       "room": 409,
       "room_title": "Archery Range",
-      "blurb": "10 Red Zin entry — PER contest vs Fen Ashby.",
+      "blurb": "Archery Contest - 10 Zin entry",
       "image": "assets/img/obstacle/archery_butts.webp",
       "options": []
     },
@@ -161,6 +121,16 @@
       "options": []
     },
     {
+      "id": "obstacle-mayor_s_door",
+      "title": "Mayor's Door",
+      "kind": "Scenery",
+      "room": 414,
+      "room_title": "Hightown Plaza",
+      "blurb": "Locked until party hope first reaches 4.",
+      "image": "assets/img/obstacle/mayor_s_door.webp",
+      "options": []
+    },
+    {
       "id": "obstacle-deer_trail",
       "title": "Deer Trail",
       "kind": "Terrain",
@@ -191,14 +161,34 @@
       "options": []
     },
     {
-      "id": "obstacle-lookout_horn",
-      "title": "Lookout Horn",
-      "kind": "Trap",
+      "id": "obstacle-hanging_doe",
+      "title": "Hanging Doe",
+      "kind": "Scenery",
       "room": 423,
-      "room_title": "Goblin Lookout",
-      "blurb": "STE or the horn blows — caveonalert.",
-      "image": "assets/img/obstacle/lookout_horn.webp",
-      "options": []
+      "room_title": "Hanging Doe",
+      "blurb": "Leave the haunch. Cutting it is a stealth check.",
+      "image": null,
+      "options": [
+        {
+          "label": "Cut The Meat",
+          "stat": "STE"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-poacher_s_stash",
+      "title": "Poacher's Stash",
+      "kind": "Trap",
+      "room": 424,
+      "room_title": "Poacher's Cache",
+      "blurb": "A wire across the pack.",
+      "image": null,
+      "options": [
+        {
+          "label": "Lift The Stash",
+          "stat": "STE"
+        }
+      ]
     },
     {
       "id": "obstacle-campfire",
@@ -206,7 +196,7 @@
       "kind": "Scenery",
       "room": 425,
       "room_title": "Mushroom Hollow",
-      "blurb": "Clearing fire ring — scenery; resting is only at the Drowsy Badger.",
+      "blurb": "Clearing fire ring — once the room is clear, each Champion may take one short rest here between tavern rests.",
       "image": "assets/img/obstacle/campfire.webp",
       "options": []
     },
@@ -228,16 +218,6 @@
       "room_title": "Troll Bridge",
       "blurb": "Pay gold or fight Grubnak threat 2.",
       "image": "assets/img/obstacle/grubnak_s_toll.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-sedge_s_stock",
-      "title": "Sedge's Stock",
-      "kind": "Scenery",
-      "room": 428,
-      "room_title": "Mother Sedge's Hut",
-      "blurb": "Witch shop — potions, Troll's Eye quest.",
-      "image": "assets/img/obstacle/sedge_s_stock.webp",
       "options": []
     },
     {
@@ -291,6 +271,26 @@
       "options": []
     },
     {
+      "id": "obstacle-brewery_campfire",
+      "title": "Brewery Campfire",
+      "kind": "Scenery",
+      "room": 442,
+      "room_title": "Brewery",
+      "blurb": "Brewery fire pit — once the room is clear, each Champion may take one short rest here between tavern rests.",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-rolling_keg",
+      "title": "Rolling Keg",
+      "kind": "Scenery",
+      "room": 443,
+      "room_title": "Mess Hall",
+      "blurb": "A full mash keg. Hurling it spends the turn — it can clear the band, or burst on you.",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-loot_vault_door",
       "title": "Loot Vault Door",
       "kind": "Scenery",
@@ -329,6 +329,76 @@
       "blurb": "VIT to swim; barrel ride to 404.",
       "image": "assets/img/obstacle/river_ride.webp",
       "options": []
+    },
+    {
+      "id": "obstacle-lookout_horn",
+      "title": "Lookout Horn",
+      "kind": "Trap",
+      "room": 451,
+      "room_title": "Goblin Lookout",
+      "blurb": "STE or the horn blows — caveonalert.",
+      "image": "assets/img/obstacle/lookout_horn.webp",
+      "options": []
+    },
+    {
+      "id": "obstacle-swim_the_gap",
+      "title": "Swim the Gap",
+      "kind": "Terrain",
+      "room": 454,
+      "room_title": "Wreck of the Penny",
+      "blurb": "VIT to the ladder. Pass is unseen.",
+      "image": null,
+      "options": [
+        {
+          "label": "Swim To The Hull",
+          "stat": "VIT"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-cargo_hatch",
+      "title": "Cargo Hatch",
+      "kind": "Scenery",
+      "room": 455,
+      "room_title": "Penny's Hold",
+      "blurb": "STR the hatch. It opens on the octopus, and the squirt blinds you.",
+      "image": null,
+      "options": [
+        {
+          "label": "Haul The Hatch",
+          "stat": "STR"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-scree_slope",
+      "title": "Scree Slope",
+      "kind": "Terrain",
+      "room": 456,
+      "room_title": "Scree Stair",
+      "blurb": "Loose stone. Agility to go down quietly.",
+      "image": null,
+      "options": [
+        {
+          "label": "Pick A Way Down",
+          "stat": "AGL"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-mine_cage",
+      "title": "Mine Cage",
+      "kind": "Scenery",
+      "room": 457,
+      "room_title": "Old Mine Head",
+      "blurb": "STE the winch. Pass and the bell stays still.",
+      "image": null,
+      "options": [
+        {
+          "label": "Lower The Cage",
+          "stat": "STE"
+        }
+      ]
     },
     {
       "id": "obstacle-fishing_reeds",
@@ -473,6 +543,16 @@
     {
       "id": "obstacle-wil_s_watch_kettle",
       "title": "Wil's Watch Kettle",
+      "kind": "Obstacle",
+      "room": 0,
+      "room_title": "",
+      "blurb": "",
+      "image": null,
+      "options": []
+    },
+    {
+      "id": "obstacle-woods_gate_check",
+      "title": "Woods Gate Check",
       "kind": "Obstacle",
       "room": 0,
       "room_title": "",

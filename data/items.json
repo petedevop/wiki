@@ -1,6 +1,13 @@
 {
   "rows": [
     {
+      "id": "item-100_green_zin",
+      "title": "100 Green Zin",
+      "subtitle": "Floor 3",
+      "blurb": "A greasy purse of green coin.",
+      "image": null
+    },
+    {
       "id": "item-ale",
       "title": "Ale",
       "subtitle": "Floor 3",
@@ -148,13 +155,6 @@
       "image": "assets/img/item/catfish.webp"
     },
     {
-      "id": "item-charm_scroll",
-      "title": "Charm Scroll",
-      "subtitle": "Floor 3",
-      "blurb": "One low blessing, read once — a minor heal or ward.",
-      "image": "assets/img/item/charm_scroll.webp"
-    },
-    {
       "id": "item-chillcarp",
       "title": "Chillcarp",
       "subtitle": "Floor 3",
@@ -295,6 +295,13 @@
       "image": "assets/img/item/flamburn.webp"
     },
     {
+      "id": "item-flatboat",
+      "title": "Flatboat",
+      "subtitle": "Floor 3",
+      "blurb": "Pole the black underground river from the tavern cellar to the goblin caves — skips the woods.",
+      "image": null
+    },
+    {
       "id": "item-flint",
       "title": "Flint",
       "subtitle": "Floor 3",
@@ -307,13 +314,6 @@
       "subtitle": "Floor 3",
       "blurb": "Spend 1 stamina to glide from any height.",
       "image": "assets/img/item/flying_cape.webp"
-    },
-    {
-      "id": "item-forest_salve",
-      "title": "Forest Salve",
-      "subtitle": "Floor 3",
-      "blurb": "Rare woodland balm — DM sets the effect.",
-      "image": "assets/img/item/forest_salve.webp"
     },
     {
       "id": "item-fruit_skewer",
@@ -347,7 +347,7 @@
       "id": "item-goblin_notice",
       "title": "Goblin Notice",
       "subtitle": "Floor 3",
-      "blurb": "GOBLIN EARS — five ears, 25 Red Zin.",
+      "blurb": "GOBLIN EARS — five ears, 25 Green Zin.",
       "image": "assets/img/item/goblin_notice.webp"
     },
     {
@@ -501,7 +501,7 @@
       "id": "item-jewel",
       "title": "Jewel",
       "subtitle": "Floor 3",
-      "blurb": "Worth 50 Red Zin when sold.",
+      "blurb": "Worth 50 Green Zin when sold.",
       "image": "assets/img/item/jewel.webp"
     },
     {
@@ -587,13 +587,6 @@
       "subtitle": "Floor 3",
       "blurb": "",
       "image": "assets/img/item/meat.webp"
-    },
-    {
-      "id": "item-meat_pie",
-      "title": "Meat Pie",
-      "subtitle": "Floor 3",
-      "blurb": "Marta's lard pastry.",
-      "image": "assets/img/item/meat_pie.webp"
     },
     {
       "id": "item-melon",
@@ -1079,6 +1072,13 @@
       "image": null
     },
     {
+      "id": "item-stallion",
+      "title": "Stallion",
+      "subtitle": "Floor 3",
+      "blurb": "",
+      "image": null
+    },
+    {
       "id": "item-stamina_potion",
       "title": "Stamina Potion",
       "subtitle": "Floor 3",
@@ -1098,13 +1098,6 @@
       "subtitle": "",
       "blurb": "Source: items.yaml",
       "image": null
-    },
-    {
-      "id": "item-stew",
-      "title": "Stew",
-      "subtitle": "Floor 3",
-      "blurb": "Hot bowl and bread.",
-      "image": "assets/img/item/stew.webp"
     },
     {
       "id": "item-stormglass_charm",
@@ -1166,7 +1159,7 @@
       "id": "item-tamsin_notice",
       "title": "Tamsin Notice",
       "subtitle": "Floor 3",
-      "blurb": "RESCUE TAMSIN — 20 Red Zin.",
+      "blurb": "RESCUE TAMSIN — 20 Green Zin.",
       "image": "assets/img/item/tamsin_notice.webp"
     },
     {
@@ -1229,7 +1222,7 @@
       "id": "item-troll_notice",
       "title": "Troll Notice",
       "subtitle": "Floor 3",
-      "blurb": "WANTED — bridge troll. 100 Red Zin.",
+      "blurb": "WANTED — bridge troll. 100 Green Zin.",
       "image": "assets/img/item/troll_notice.webp"
     },
     {

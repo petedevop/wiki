@@ -1,7 +1,7 @@
 {
   "zone_key": "floorthree",
   "zone_label": "Floor 3",
-  "map_stem": "floorthree_town",
+  "map_stem": "floorthree_woods",
   "image": "assets/zone-map.png",
   "markers": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "num": 401,
-      "title": "Town Square",
+      "title": "Lowtown Green",
       "x": 0.42,
       "y": 0.47
     },
@@ -89,6 +89,24 @@
       "y": 0.65
     },
     {
+      "num": 414,
+      "title": "Hightown Plaza",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 415,
+      "title": "Old Bridge",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 416,
+      "title": "Docks",
+      "x": null,
+      "y": null
+    },
+    {
       "num": 420,
       "title": "Woods Edge",
       "x": 0.32,
@@ -108,13 +126,13 @@
     },
     {
       "num": 423,
-      "title": "Goblin Lookout",
+      "title": "Hanging Doe",
       "x": 0.675,
       "y": 0.14
     },
     {
       "num": 424,
-      "title": "Goblin Cave Mouth",
+      "title": "Poacher's Cache",
       "x": 0.82,
       "y": 0.31
     },
@@ -225,6 +243,48 @@
       "title": "Underground River",
       "x": 0.525,
       "y": 0.61
+    },
+    {
+      "num": 451,
+      "title": "Goblin Lookout",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 452,
+      "title": "Goblin Cave Mouth",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 453,
+      "title": "Tide Cave",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 454,
+      "title": "Wreck of the Penny",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 455,
+      "title": "Penny's Hold",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 456,
+      "title": "Scree Stair",
+      "x": null,
+      "y": null
+    },
+    {
+      "num": 457,
+      "title": "Old Mine Head",
+      "x": null,
+      "y": null
     },
     {
       "num": 495,
