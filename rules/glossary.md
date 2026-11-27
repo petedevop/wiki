@@ -4,39 +4,27 @@ Short names for things you will see on the player app and in session.
 
 ## Champion
 
-Your player character when **Champion rules (d12)** are on — the app still calls you a **champion** in data, but the handbook uses Champion for hearts, stamina, and roll-under.
+Your player character under Twilight Sword — eight stats, hearts, stamina, and d12 roll-under. The handbook uses **Champion** for that loop.
 
 ## The Scourge
 
-Radia’s overarching evil in champion flavour — heartless monsters, big set-piece villains, and lore that treats the party as Champions holding the line.
+Radia’s overarching evil — heartless monsters, big set-piece villains, and lore that treats the party as Champions holding the line.
 
 ## Hearts
 
-Your wound track under Champion rules (**10 + VIT** max, plus heartstones). The phone shows ♥ instead of HP when the flag is on.
+Your wound track (**10 + VIT** max, plus heartstones). The phone shows ♥ instead of a flat HP number.
 
 ## Equipped pool
 
-Three combat-ready slots (weapons, shield, potions) under Champion rules. Swapping within the pool is free; fetching from the backpack costs your turn.
-
-## Champion
-
-Your champion in Aramilla Valley — level, gear, deeds, and lore all hang off this identity.
+Three combat-ready slots (weapons, shield, potions). Swapping within the pool is free; fetching from the backpack costs your turn.
 
 ## Deed
 
-Something the table logged that counts toward sponsor taste, and evening scoring. You do not edit deeds on the wiki; they sync from play.
+Something the table logged from play — kills, finds, beats. You do not edit deeds on the wiki; they sync from the live table.
 
-## Sponsor / booth
+## Green Zin
 
-Evening brands that court champions based on deeds. Invites and contracts stay in the app until you earn them.
-
-## Rival kitchen
-
-An NPC your table turned into a Stadium opponent. Rivals reset when the evening resets.
-
-## AI Favour
-
-A once-per-roll token that counts as **advantage** on that check. You can hold at most one.
+Coin of Aramilla Valley. Quest payouts and shops use it.
 
 ## Peek / live
 
@@ -44,24 +32,18 @@ A once-per-roll token that counts as **advantage** on that check. You can hold a
 
 ## Quick slots
 
-Three header slots for consumables and thrown gear you assign from the pack — usable in combat without opening the full inventory sheet.
-
-## Library credit
-
-Points earned from Kitchen Stadium cook-shows. Spend through **Info → Library** when the table has catalogue votes open.
-
-## Hostage
-
-At most one person or obstacle you are **dragging** in a dedicated slot on **Me**. Actions include shielding, trading back, executing, or harder diplomacy plays.
-
-## Bearing
-
-A mount’s extra **pack slot** for stashing items while you ride.
+Older header slots for consumables. Under current Champion rules the combat-ready gear is the **equipped pool** instead.
 
 ## Champion Cooler
 
 Carrying this gear **pauses meat rotting** in your pack. Without it, meat and flesh spoil after about **90 minutes** of real time.
 
-## Bleacher Tunnel
+## Bearing
 
-A **dark** service tunnel near the Stadium — bring a real light (torch, lantern) or searches suffer.
+A mount’s extra **pack slot** for stashing items while you ride.
+
+## Boon
+
+Rare once-per-evening edge a champion may hold — spend from the Me tab when the table has granted one.
+
+_Edit this file, then run `uv run python -m dnd wiki export` to refresh the public site._

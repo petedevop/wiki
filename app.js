@@ -8,15 +8,13 @@ const NAV_ITEMS = [
   { key: "people", label: "People" },
   { key: "items", label: "Gear" },
   { key: "obstacles", label: "Obstacles" },
-  { key: "wall", label: "Wall" },
-  { key: "quests", label: "Quests" },
+  { key: "wall", label: "Story" },
 ];
 
 const NAV_GROUPS = [
-  { label: "Crew", keys: ["party", "people"] },
-  { label: "Dungeon", keys: ["map", "rooms", "obstacles", "items"] },
-  { label: "Show", keys: ["wall", "quests"] },
-  { label: "Reference", keys: ["rules"] },
+  { label: "Crew", keys: ["party", "people", "wall"] },
+  { label: "Valley", keys: ["map", "rooms", "obstacles", "items"] },
+  { label: "Twilight Sword", keys: ["rules"] },
 ];
 
 const SEARCH_SKIP_SECTIONS = new Set(["map"]);
@@ -295,7 +293,7 @@ async function renderRules(main) {
   panel.appendChild(
     panelHeader(
       "Rules",
-      "Your notes plus rules pulled from the app on each export.",
+      "Twilight Sword cheat sheets, then numbers synced from the live app on each export.",
       "rules",
       { ruleId: state.ruleAnchor },
     ),
@@ -361,10 +359,11 @@ async function renderSimpleSection(main, key, title, intro) {
 function formatStatBlock(stats) {
   if (!stats) return "";
   const chips = [];
-  if (stats.ac != null) chips.push(`AC ${stats.ac}`);
-  if (stats.hp != null) chips.push(`HP ${stats.hp}`);
-  if (stats.hd != null) chips.push(`HD ${stats.hd}`);
-  const attrs = ["str", "dex", "con", "int", "cha"]
+  if (stats.ar != null) chips.push(`AR ${stats.ar}`);
+  if (stats.ac != null) chips.push(`AR ${stats.ac}`);
+  if (stats.hearts != null) chips.push(`♥ ${stats.hearts}`);
+  if (stats.hp != null) chips.push(`♥ ${stats.hp}`);
+  const attrs = ["str", "agl", "vit", "per", "wil", "kno", "cha", "ste"]
     .filter((k) => stats[k] != null)
     .map((k) => `${k.toUpperCase()} ${stats[k]}`);
   if (attrs.length) chips.push(attrs.join(" · "));
@@ -382,8 +381,8 @@ async function renderWall(main) {
   const panel = el("div", "panel");
   panel.appendChild(
     panelHeader(
-      "Wall",
-      "What each champion has done so far tonight.",
+      "Story",
+      "Recent beats each champion has logged at the table.",
       "wall",
     ),
   );
@@ -403,96 +402,9 @@ async function renderWall(main) {
     stack.appendChild(block);
   }
   if (!(data.rows || []).length) {
-    panel.appendChild(el("p", "empty-state", "No party sheets in this export."));
+    panel.appendChild(el("p", "empty-state", "No party story in this export."));
   } else {
     panel.appendChild(stack);
-  }
-  main.appendChild(panel);
-}
-
-async function renderQuests(main) {
-  const data = await loadJson(state.manifest.sections.quests);
-  const panel = el("div", "panel");
-  panel.appendChild(
-    panelHeader(
-      "Quest board",
-      "Contracts your champions have started — objectives only, not the hidden win text.",
-      "quests",
-    ),
-  );
-  panel.appendChild(
-    renderList(data.rows || [], (row) => {
-      const subtitle = [row.pc_name, row.giver, row.gp ? `${row.gp} gp` : "", row.prize]
-        .filter(Boolean)
-        .join(" · ");
-      let body = "";
-      if (row.steps?.length) {
-        body += "<ul class='quest-steps'>";
-        for (const step of row.steps) {
-          body += `<li>${step.met ? "✓" : "○"} ${step.label}</li>`;
-        }
-        body += "</ul>";
-      }
-      if (row.pending) body += "<p><em>Turn-in pending at the booth.</em></p>";
-      return cardDetails({ title: row.name, subtitle, preview: row.pc_name }, body);
-    }),
-  );
-  main.appendChild(panel);
-}
-
-async function renderRivals(main) {
-  const data = await loadJson(state.manifest.sections.rivals);
-  const panel = el("div", "panel");
-  panel.appendChild(
-    panelHeader(
-      "Rival kitchens",
-      "NPCs your table has made enemies of this evening — Stadium draws from this list.",
-      "rivals",
-    ),
-  );
-  if (data.house) {
-    panel.appendChild(
-      el("p", "intro", `${data.house.kitchen} — ${data.house.note || ""}`),
-    );
-  }
-  const rows = data.rows || [];
-  if (!rows.length && !data.house) {
-    panel.appendChild(el("p", "empty-state", "No rivals yet tonight."));
-  } else {
-    panel.appendChild(
-      renderList(rows, (row) => {
-        const body = [
-          row.taunt ? `<p><em>${row.taunt}</em></p>` : "",
-          row.dish ? `<p><strong>Signature dish</strong> ${row.dish}</p>` : "",
-        ].join("");
-        return cardDetails(
-          { title: row.name, subtitle: row.kitchen || "", preview: "" },
-          body,
-        );
-      }),
-    );
-  }
-  main.appendChild(panel);
-}
-
-async function renderTonight(main) {
-  const data = await loadJson(state.manifest.sections.tonight);
-  const panel = el("div", "panel");
-  const intro = "Rooms your party has opened this episode (player-safe titles only).";
-  panel.appendChild(panelHeader("Tonight", intro, "tonight"));
-  const rooms = data.rooms || [];
-  if (!rooms.length) {
-    panel.appendChild(el("p", "empty-state", "No room history for this episode yet."));
-  } else {
-    const ul = el("ul", "card-list tonight-rooms");
-    for (const room of rooms) {
-      const li = document.createElement("li");
-      const label = room.title ? `${room.num} — ${room.title}` : `Room ${room.num}`;
-      li.appendChild(el("span", "card-title", label));
-      if (room.has_text) li.appendChild(el("span", "card-sub", "Read in Rooms"));
-      ul.appendChild(li);
-    }
-    panel.appendChild(ul);
   }
   main.appendChild(panel);
 }
@@ -711,7 +623,6 @@ async function renderSection() {
     if (key === "rules") await renderRules(main);
     else if (key === "map") await renderMap(main);
     else if (key === "wall") await renderWall(main);
-    else if (key === "quests") await renderQuests(main);
     else if (key === "party") await renderParty(main);
     else if (key === "rooms") await renderRooms(main);
     else if (key === "obstacles") await renderObstacles(main);
