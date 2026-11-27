@@ -1,18 +1,399 @@
 {
   "rows": [
     {
+      "id": "david_odile",
+      "name": "Orko",
+      "ancestry": "Strix",
+      "class_name": "Light",
+      "level": 1,
+      "class_level": "Strix Light 1",
+      "portrait_url": "/media/9P61zMEBeA6Zn-Fb15mV7NST?v=1795661213660818462",
+      "about": [],
+      "powers": [
+        {
+          "name": "Shatter",
+          "kind": "spell"
+        },
+        {
+          "name": "Thunderbolt",
+          "kind": "spell"
+        },
+        {
+          "name": "Heal",
+          "kind": "spell"
+        },
+        {
+          "name": "Magic Armor",
+          "kind": "spell"
+        }
+      ],
+      "hp": 17,
+      "hp_max": 17,
+      "hearts": 17,
+      "temp_hp": 0,
+      "ac": 7,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "AGL",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "VIT",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "PER",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "WIL",
+          "score": 9,
+          "modifier": 0
+        },
+        {
+          "id": "KNO",
+          "score": 8,
+          "modifier": 0
+        },
+        {
+          "id": "CHA",
+          "score": 8,
+          "modifier": 0
+        },
+        {
+          "id": "STE",
+          "score": 5,
+          "modifier": 0
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "favour_score": 0,
+      "load": "Orko",
+      "vitals_unit": "hearts",
+      "vitals_label": "Hearts",
+      "stamina": 3,
+      "stamina_max": 3,
+      "armour_rating": 1,
+      "vitals_icons": [
+        {
+          "kind": "heart",
+          "value": "17/17",
+          "aria_label": "Hearts 17 of 17"
+        },
+        {
+          "kind": "stamina",
+          "value": "3/3",
+          "aria_label": "Stamina 3 of 3"
+        },
+        {
+          "kind": "armour",
+          "value": "1",
+          "aria_label": "Armour 1"
+        }
+      ],
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Old Short Sword</li>\n<li class=\"party-gear-row\">✋ Old Staff</li>\n<li class=\"party-gear-row\">👕 Padded Armor</li>\n<li class=\"party-gear-row\">🎒 Bat Meat</li>\n<li class=\"party-gear-row\">🎒 Cricket</li>\n<li class=\"party-gear-row\">🎒 Cricket</li>\n<li class=\"party-gear-row\">🎒 Fishing Rod</li>\n<li class=\"party-gear-row\">🎒 Flint</li>\n<li class=\"party-gear-row\">🎒 Grubnak Meat</li>\n<li class=\"party-gear-row\">🎒 Mighty Beetle</li>\n<li class=\"party-gear-row\">🎒 Monster Claw</li>\n<li class=\"party-gear-row\">🎒 Ration</li>\n<li class=\"party-gear-row\">🎒 Ration</li>\n<li class=\"party-gear-row\">🎒 Razor Spider</li>\n<li class=\"party-gear-row\">🎒 Red Lizard</li>\n<li class=\"party-gear-row\">🎒 Red Mushroom</li>\n<li class=\"party-gear-row\">🎒 Red Mushroom</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Shovel</li>\n<li class=\"party-gear-row\">🎒 Swarm Meat</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Waterskin</li>\n<li class=\"party-gear-row\">🎒 Yellow Dragonfly</li>\n<li class=\"party-gear-row\">🎒 Yellow Dragonfly</li>\n</ul>\n</div>",
+      "alignment": "Neutral",
+      "title": "",
+      "appearance": "",
+      "portrait": "assets/img/party/david_odile.webp",
+      "class_blurb": "Blessings, light, and steadfast spirits."
+    },
+    {
+      "id": "daniel_setzer",
+      "name": "Setzer",
+      "ancestry": "Toluna",
+      "class_name": "Wild",
+      "level": 1,
+      "class_level": "Toluna Wild 1",
+      "portrait_url": "/media/EU75Wbnh4-P-gIAg7A8fJhJU?v=1795661213766735046",
+      "about": [],
+      "powers": [],
+      "hp": 16,
+      "hp_max": 16,
+      "hearts": 16,
+      "temp_hp": 0,
+      "ac": 10,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "AGL",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "VIT",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "PER",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "WIL",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "KNO",
+          "score": 8,
+          "modifier": 0
+        },
+        {
+          "id": "CHA",
+          "score": 8,
+          "modifier": 0
+        },
+        {
+          "id": "STE",
+          "score": 9,
+          "modifier": 0
+        }
+      ],
+      "statuses": [
+        "Overloaded — drop gear"
+      ],
+      "tank": false,
+      "favour_score": 0,
+      "load": "Setzer",
+      "vitals_unit": "hearts",
+      "vitals_label": "Hearts",
+      "stamina": 1,
+      "stamina_max": 4,
+      "armour_rating": 1,
+      "vitals_icons": [
+        {
+          "kind": "heart",
+          "value": "16/16",
+          "aria_label": "Hearts 16 of 16"
+        },
+        {
+          "kind": "stamina",
+          "value": "1/4",
+          "aria_label": "Stamina 1 of 4"
+        },
+        {
+          "kind": "armour",
+          "value": "1",
+          "aria_label": "Armour 1"
+        }
+      ],
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Old Dagger</li>\n<li class=\"party-gear-row\">✋ Club</li>\n<li class=\"party-gear-row\">👕 Padded Armor</li>\n<li class=\"party-gear-row\">🎒 Ale</li>\n<li class=\"party-gear-row\">🎒 Cave Poison</li>\n<li class=\"party-gear-row\">🎒 Cave Poison</li>\n<li class=\"party-gear-row\">🎒 Club</li>\n<li class=\"party-gear-row\">🎒 Iron Bundle</li>\n<li class=\"party-gear-row\">🎒 Iron Bundle</li>\n<li class=\"party-gear-row\">🎒 Old Bow</li>\n<li class=\"party-gear-row\">🎒 Old Dagger</li>\n<li class=\"party-gear-row\">🎒 Old Dagger</li>\n<li class=\"party-gear-row\">🎒 Padded Armor</li>\n<li class=\"party-gear-row\">🎒 Padded Armor</li>\n<li class=\"party-gear-row\">🎒 Rice Ball</li>\n<li class=\"party-gear-row\">🎒 Rice Ball</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n</ul>\n</div>",
+      "alignment": "",
+      "title": "",
+      "appearance": "",
+      "portrait": "assets/img/party/daniel_setzer.webp",
+      "class_blurb": "Track, shoot, and endure the wild."
+    },
+    {
+      "id": "sandra_rust",
+      "name": "Rust",
+      "ancestry": "Pengu",
+      "class_name": "Song",
+      "level": 1,
+      "class_level": "Pengu Song 1",
+      "portrait_url": "/media/YmBWinUjAa80uPhuNN1LVVyJ?v=1795661213685354508",
+      "about": [],
+      "powers": [],
+      "hp": 19,
+      "hp_max": 19,
+      "hearts": 19,
+      "temp_hp": 0,
+      "ac": 10,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "AGL",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "VIT",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "PER",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "WIL",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "KNO",
+          "score": 8,
+          "modifier": 0
+        },
+        {
+          "id": "CHA",
+          "score": 9,
+          "modifier": 0
+        },
+        {
+          "id": "STE",
+          "score": 8,
+          "modifier": 0
+        }
+      ],
+      "statuses": [],
+      "tank": false,
+      "favour_score": 0,
+      "load": "Rust",
+      "vitals_unit": "hearts",
+      "vitals_label": "Hearts",
+      "stamina": 2,
+      "stamina_max": 3,
+      "armour_rating": 1,
+      "vitals_icons": [
+        {
+          "kind": "heart",
+          "value": "19/19",
+          "aria_label": "Hearts 19 of 19"
+        },
+        {
+          "kind": "stamina",
+          "value": "2/3",
+          "aria_label": "Stamina 2 of 3"
+        },
+        {
+          "kind": "armour",
+          "value": "1",
+          "aria_label": "Armour 1"
+        }
+      ],
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Old Short Sword</li>\n<li class=\"party-gear-row\">✋ Club</li>\n<li class=\"party-gear-row\">👕 Padded Armor</li>\n<li class=\"party-gear-row\">🎒 Ale</li>\n<li class=\"party-gear-row\">🎒 Blue Mushroom</li>\n<li class=\"party-gear-row\">🎒 Fishing Rod</li>\n<li class=\"party-gear-row\">🎒 Green Mushroom</li>\n<li class=\"party-gear-row\">🎒 Instrument</li>\n<li class=\"party-gear-row\">🎒 Iron Bundle</li>\n<li class=\"party-gear-row\">🎒 Loaded Die</li>\n<li class=\"party-gear-row\">🎒 Lockpick</li>\n<li class=\"party-gear-row\">🎒 Old Dagger</li>\n<li class=\"party-gear-row\">🎒 Rare Red Mushroom</li>\n<li class=\"party-gear-row\">🎒 Ration</li>\n<li class=\"party-gear-row\">🎒 Red Mushroom</li>\n<li class=\"party-gear-row\">🎒 Red Mushroom</li>\n<li class=\"party-gear-row\">🎒 Slingshot</li>\n<li class=\"party-gear-row\">🎒 Strong Alcohol</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Yellow Mushroom</li>\n</ul>\n</div>",
+      "alignment": "",
+      "title": "",
+      "appearance": "",
+      "portrait": "assets/img/party/sandra_rust.webp",
+      "class_blurb": "Song, silver tongue, and battlefield tempo."
+    },
+    {
+      "id": "beto_pancake",
+      "name": "Pancake",
+      "ancestry": "Kedi",
+      "class_name": "Shadow",
+      "level": 1,
+      "class_level": "Kedi Shadow 1",
+      "portrait_url": "/media/-iVeIab3M5zqHvPo_aQc4g0H?v=1795661213736567868",
+      "about": [],
+      "powers": [],
+      "hp": 6,
+      "hp_max": 15,
+      "hearts": 6,
+      "temp_hp": 0,
+      "ac": 10,
+      "abilities": [
+        {
+          "id": "STR",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "AGL",
+          "score": 8,
+          "modifier": 0
+        },
+        {
+          "id": "VIT",
+          "score": 5,
+          "modifier": 0
+        },
+        {
+          "id": "PER",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "WIL",
+          "score": 7,
+          "modifier": 0
+        },
+        {
+          "id": "KNO",
+          "score": 6,
+          "modifier": 0
+        },
+        {
+          "id": "CHA",
+          "score": 8,
+          "modifier": 0
+        },
+        {
+          "id": "STE",
+          "score": 9,
+          "modifier": 0
+        }
+      ],
+      "statuses": [
+        "Overloaded — drop gear"
+      ],
+      "tank": false,
+      "favour_score": 0,
+      "load": "Pancake",
+      "vitals_unit": "hearts",
+      "vitals_label": "Hearts",
+      "stamina": 2,
+      "stamina_max": 3,
+      "armour_rating": 1,
+      "vitals_icons": [
+        {
+          "kind": "heart",
+          "value": "6/15",
+          "aria_label": "Hearts 6 of 15"
+        },
+        {
+          "kind": "stamina",
+          "value": "2/3",
+          "aria_label": "Stamina 2 of 3"
+        },
+        {
+          "kind": "armour",
+          "value": "1",
+          "aria_label": "Armour 1"
+        }
+      ],
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Old Claw</li>\n<li class=\"party-gear-row\">✋ Old Dagger</li>\n<li class=\"party-gear-row\">✋ Slingshot</li>\n<li class=\"party-gear-row\">👕 Padded Armor</li>\n<li class=\"party-gear-row\">🎒 Bat Meat</li>\n<li class=\"party-gear-row\">🎒 Beast Tooth</li>\n<li class=\"party-gear-row\">🎒 Cave Poison</li>\n<li class=\"party-gear-row\">🎒 Cave Poison</li>\n<li class=\"party-gear-row\">🎒 Club</li>\n<li class=\"party-gear-row\">🎒 Club</li>\n<li class=\"party-gear-row\">🎒 Cricket</li>\n<li class=\"party-gear-row\">🎒 Grubnak Meat</li>\n<li class=\"party-gear-row\">🎒 Iron Bundle</li>\n<li class=\"party-gear-row\">🎒 Iron Bundle</li>\n<li class=\"party-gear-row\">🎒 Lockpick</li>\n<li class=\"party-gear-row\">🎒 Lockpick</li>\n<li class=\"party-gear-row\">🎒 Monster Goo</li>\n<li class=\"party-gear-row\">🎒 Monster Goo</li>\n<li class=\"party-gear-row\">🎒 Old Dagger</li>\n<li class=\"party-gear-row\">🎒 Old Dagger</li>\n<li class=\"party-gear-row\">🎒 Padded Armor</li>\n<li class=\"party-gear-row\">🎒 Purple Centipede</li>\n<li class=\"party-gear-row\">🎒 Purple Centipede</li>\n<li class=\"party-gear-row\">🎒 Red Lizard</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Shovel</li>\n<li class=\"party-gear-row\">🎒 Swarm Meat</li>\n<li class=\"party-gear-row\">🎒 Tallow Scrap</li>\n</ul>\n</div>",
+      "alignment": "",
+      "title": "",
+      "appearance": "",
+      "portrait": "assets/img/party/beto_pancake.webp",
+      "class_blurb": "Sneak, stab, and slip away."
+    },
+    {
       "id": "pete_rae",
       "name": "Rae",
       "ancestry": "Huma",
       "class_name": "Blade",
       "level": 1,
       "class_level": "Huma Blade 1",
-      "portrait_url": "/media/mKLosWRJrCCGqAIczHJAQQ",
+      "portrait_url": "/media/fKu_1HKxQB9zW011eYaDfngI",
       "about": [],
       "powers": [],
-      "hp": 19,
-      "hp_max": 19,
-      "hearts": 19,
+      "hp": 22,
+      "hp_max": 22,
+      "hearts": 22,
       "temp_hp": 0,
       "ac": 12,
       "abilities": [
@@ -59,19 +440,18 @@
       ],
       "statuses": [],
       "tank": false,
-      "ai_favour": false,
       "favour_score": 0,
       "load": "Rae",
       "vitals_unit": "hearts",
       "vitals_label": "Hearts",
       "stamina": 3,
       "stamina_max": 3,
-      "armour_rating": 2,
+      "armour_rating": 3,
       "vitals_icons": [
         {
           "kind": "heart",
-          "value": "19/19",
-          "aria_label": "Hearts 19 of 19"
+          "value": "22/22",
+          "aria_label": "Hearts 22 of 22"
         },
         {
           "kind": "stamina",
@@ -80,11 +460,11 @@
         },
         {
           "kind": "armour",
-          "value": "2",
-          "aria_label": "Armour 2"
+          "value": "3",
+          "aria_label": "Armour 3"
         }
       ],
-      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Longsword</li>\n<li class=\"party-gear-row\">✋ Tower Shield</li>\n<li class=\"party-gear-row\">👕 Breastplate</li>\n<li class=\"party-gear-row\">🎒 Blue Mushroom</li>\n<li class=\"party-gear-row\">🎒 Green Mushroom</li>\n<li class=\"party-gear-row\">🎒 Green Mushroom</li>\n<li class=\"party-gear-row\">🎒 Red Mushroom</li>\n<li class=\"party-gear-row\">🎒 Rope</li>\n<li class=\"party-gear-row\">🎒 Torch</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
+      "gear_html": "<div class=\"party-gear\">\n<ul class=\"party-gear-list\">\n<li class=\"party-gear-row\">✋ Longsword</li>\n<li class=\"party-gear-row\">✋ Tower Shield</li>\n<li class=\"party-gear-row\">👕 Plate Armor</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n<li class=\"party-gear-row\">🎒 Unknown Potion</li>\n</ul>\n</div>",
       "alignment": "Lawful",
       "title": "",
       "appearance": "",

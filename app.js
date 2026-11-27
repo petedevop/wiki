@@ -319,7 +319,7 @@ async function renderMap(main) {
   const data = await loadJson(state.manifest.sections.map);
   const panel = el("div", "panel");
   panel.appendChild(
-    panelHeader("Zone map", data.zone_label || "Explored floor", "map"),
+    panelHeader("Zone map", data.zone_label || "Aramilla Valley", "map"),
   );
   const wrap = el("div", "map-wrap");
   if (data.image) {
@@ -510,11 +510,11 @@ function renderRooms(main) {
     main,
     "rooms",
     "Rooms",
-    "Every room on the floor, in a line.",
+    "Every room in the valley, in a line.",
     (rows) =>
       groupedList(
         rows,
-        (r) => r.zone_label || r.zone_key || "Floor",
+        (r) => r.zone_label || r.zone_key || "Valley",
         (row) => {
           let body = null;
           if (row.image) {
@@ -528,7 +528,7 @@ function renderRooms(main) {
 }
 
 function renderPeople(main) {
-  return renderCatalog(main, "people", "People", "Everyone you might meet on the floor.", (rows) =>
+  return renderCatalog(main, "people", "People", "Everyone you might meet in the valley.", (rows) =>
     renderList(rows, (row) => entryRow(row, { meta: factionLine(row) })),
   );
 }

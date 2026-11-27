@@ -1,29 +1,201 @@
 {
   "rows": [
     {
-      "pc_name": "Rae",
-      "name": "Lost in the Wood",
-      "giver": "Wil Brask",
-      "gp": 40,
-      "prize": "40 Green Zin each",
+      "pc_name": "Orko",
+      "name": "Goblin War",
+      "giver": "Hob Marrow",
+      "gp": 100,
+      "prize": "100 Green Zin each",
       "pending": false,
       "steps": [
         {
-          "label": "Bring Pip back safe",
+          "label": "Turn in five goblin ears",
+          "met": false
+        },
+        {
+          "label": "Bring Tamsin back to town",
+          "met": true
+        },
+        {
+          "label": "Slay the Boss-Bogoblin",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Orko",
+      "name": "The Bridge Troll",
+      "giver": "Fen Ashby",
+      "gp": 150,
+      "prize": "150 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Trollo under the bridge",
+          "met": true
+        },
+        {
+          "label": "Bring the troll's eye to Mother Sedge",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pancake",
+      "name": "Goblin War",
+      "giver": "Hob Marrow",
+      "gp": 100,
+      "prize": "100 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Turn in five goblin ears",
+          "met": false
+        },
+        {
+          "label": "Bring Tamsin back to town",
+          "met": true
+        },
+        {
+          "label": "Slay the Boss-Bogoblin",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Pancake",
+      "name": "The Bridge Troll",
+      "giver": "Fen Ashby",
+      "gp": 150,
+      "prize": "150 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Trollo under the bridge",
+          "met": true
+        },
+        {
+          "label": "Bring the troll's eye to Mother Sedge",
           "met": false
         }
       ]
     },
     {
       "pc_name": "Rae",
-      "name": "Lost Iron Shipment",
-      "giver": "Brannoc Ashhorn",
-      "gp": 60,
-      "prize": "60 Green Zin each",
+      "name": "Goblin War",
+      "giver": "Hob Marrow",
+      "gp": 100,
+      "prize": "100 Green Zin each",
       "pending": false,
       "steps": [
         {
-          "label": "Return the lost iron",
+          "label": "Turn in five goblin ears",
+          "met": false
+        },
+        {
+          "label": "Bring Tamsin back to town",
+          "met": true
+        },
+        {
+          "label": "Slay the Boss-Bogoblin",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rae",
+      "name": "The Bridge Troll",
+      "giver": "Fen Ashby",
+      "gp": 150,
+      "prize": "150 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Trollo under the bridge",
+          "met": true
+        },
+        {
+          "label": "Bring the troll's eye to Mother Sedge",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rust",
+      "name": "Goblin War",
+      "giver": "Hob Marrow",
+      "gp": 100,
+      "prize": "100 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Turn in five goblin ears",
+          "met": false
+        },
+        {
+          "label": "Bring Tamsin back to town",
+          "met": true
+        },
+        {
+          "label": "Slay the Boss-Bogoblin",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Rust",
+      "name": "The Bridge Troll",
+      "giver": "Fen Ashby",
+      "gp": 150,
+      "prize": "150 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Trollo under the bridge",
+          "met": true
+        },
+        {
+          "label": "Bring the troll's eye to Mother Sedge",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Setzer",
+      "name": "Goblin War",
+      "giver": "Hob Marrow",
+      "gp": 100,
+      "prize": "100 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Turn in five goblin ears",
+          "met": false
+        },
+        {
+          "label": "Bring Tamsin back to town",
+          "met": true
+        },
+        {
+          "label": "Slay the Boss-Bogoblin",
+          "met": false
+        }
+      ]
+    },
+    {
+      "pc_name": "Setzer",
+      "name": "The Bridge Troll",
+      "giver": "Fen Ashby",
+      "gp": 150,
+      "prize": "150 Green Zin each",
+      "pending": false,
+      "steps": [
+        {
+          "label": "Slay Trollo under the bridge",
+          "met": true
+        },
+        {
+          "label": "Bring the troll's eye to Mother Sedge",
           "met": false
         }
       ]

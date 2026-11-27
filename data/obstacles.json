@@ -1,12 +1,27 @@
 {
   "rows": [
     {
+      "id": "obstacle-cask_niche",
+      "title": "Cask Niche",
+      "kind": "Scenery",
+      "room": 404,
+      "room_title": "Tavern Cellar",
+      "blurb": "A stone sits proud of the wall behind the casks.",
+      "image": "assets/img/obstacle/cask_niche.webp",
+      "options": [
+        {
+          "label": "Pry The Stone",
+          "stat": "PER"
+        }
+      ]
+    },
+    {
       "id": "obstacle-cellar_door",
       "title": "Cellar Door",
       "kind": "Scenery",
       "room": 404,
       "room_title": "Tavern Cellar",
-      "blurb": "Hard PER find — opens river 450 when spotted.",
+      "blurb": "",
       "image": "assets/img/obstacle/cellar_door.webp",
       "options": []
     },
@@ -36,8 +51,8 @@
       "kind": "Scenery",
       "room": 406,
       "room_title": "Red Anvil",
-      "blurb": "20 Zin — plunge to shake off all statuses (not K.O.).",
-      "image": null,
+      "blurb": "20 Zin — plunge to shake off one status (not K.O.).",
+      "image": "assets/img/obstacle/cold_plunge_pool.webp",
       "options": []
     },
     {
@@ -91,24 +106,19 @@
       "options": []
     },
     {
-      "id": "obstacle-mayor_s_dinner",
-      "title": "Mayor's Dinner",
+      "id": "obstacle-pilgrim_niche",
+      "title": "Pilgrim Niche",
       "kind": "Scenery",
-      "room": 412,
-      "room_title": "Mayor's House",
-      "blurb": "Dinner invitation after hope 4 — clear the Goblin Cave.",
-      "image": "assets/img/obstacle/mayor_s_dinner.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-mayor_s_window",
-      "title": "Mayor's Window",
-      "kind": "Scenery",
-      "room": 412,
-      "room_title": "Mayor's House",
-      "blurb": "Night heist chain — hard STE/AGL steps.",
-      "image": "assets/img/obstacle/mayor_s_window.webp",
-      "options": []
+      "room": 411,
+      "room_title": "Crypt",
+      "blurb": "Candle stubs and a folded cloth in a bone niche.",
+      "image": "assets/img/obstacle/pilgrim_niche.webp",
+      "options": [
+        {
+          "label": "Unfold The Cloth",
+          "stat": "PER"
+        }
+      ]
     },
     {
       "id": "obstacle-jail_cell",
@@ -116,7 +126,7 @@
       "kind": "Scenery",
       "room": 413,
       "room_title": "Town Jail",
-      "blurb": "Fine, plea, or escape when jailed.",
+      "blurb": "A friend pays 100 Zin bail, or you try the lock.",
       "image": "assets/img/obstacle/jail_cell.webp",
       "options": []
     },
@@ -131,6 +141,31 @@
       "options": []
     },
     {
+      "id": "obstacle-eel_bucket",
+      "title": "Eel Bucket",
+      "kind": "Scenery",
+      "room": 416,
+      "room_title": "Docks",
+      "blurb": "AGL. An eel, up to four.",
+      "image": null,
+      "options": [
+        {
+          "label": "Grab An Eel",
+          "stat": "AGL"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-gutting_rack",
+      "title": "Gutting Rack",
+      "kind": "Scenery",
+      "room": 416,
+      "room_title": "Docks",
+      "blurb": "Gutted fish on the rack. Take a couple.",
+      "image": "assets/img/obstacle/gutting_rack.webp",
+      "options": []
+    },
+    {
       "id": "obstacle-deer_trail",
       "title": "Deer Trail",
       "kind": "Terrain",
@@ -139,6 +174,36 @@
       "blurb": "",
       "image": "assets/img/obstacle/deer_trail.webp",
       "options": []
+    },
+    {
+      "id": "obstacle-gate_cap",
+      "title": "Gate Cap",
+      "kind": "Terrain",
+      "room": 420,
+      "room_title": "Woods Edge",
+      "blurb": "A giant mushroom over the track out of Ordella.",
+      "image": "assets/img/obstacle/gate_cap.webp",
+      "options": [
+        {
+          "label": "Climb The Stem",
+          "stat": "STR"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-splintered_board",
+      "title": "Splintered Board",
+      "kind": "Scenery",
+      "room": 421,
+      "room_title": "Wrecked Cart",
+      "blurb": "PER. Zin, a mushroom, and a note chalked under the board.",
+      "image": null,
+      "options": [
+        {
+          "label": "Pry The Board",
+          "stat": "PER"
+        }
+      ]
     },
     {
       "id": "obstacle-wild_orchard",
@@ -151,23 +216,13 @@
       "options": []
     },
     {
-      "id": "obstacle-pip_s_oak",
-      "title": "Pip's Oak",
-      "kind": "Scenery",
-      "room": 422,
-      "room_title": "Pip's Hiding Tree",
-      "blurb": "Pip hides above — her screams hurt party STE.",
-      "image": "assets/img/obstacle/pip_s_oak.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-hanging_doe",
       "title": "Hanging Doe",
       "kind": "Scenery",
       "room": 423,
       "room_title": "Hanging Doe",
       "blurb": "Leave the haunch. Cutting it is a stealth check.",
-      "image": null,
+      "image": "assets/img/obstacle/hanging_doe.webp",
       "options": [
         {
           "label": "Cut The Meat",
@@ -176,13 +231,23 @@
       ]
     },
     {
+      "id": "obstacle-pip_s_hide",
+      "title": "Pip's Hide",
+      "kind": "Scenery",
+      "room": 423,
+      "room_title": "Hanging Doe",
+      "blurb": "Pip hides in the brush — her screams hurt party STE.",
+      "image": null,
+      "options": []
+    },
+    {
       "id": "obstacle-poacher_s_stash",
       "title": "Poacher's Stash",
       "kind": "Trap",
       "room": 424,
       "room_title": "Poacher's Cache",
       "blurb": "A wire across the pack.",
-      "image": null,
+      "image": "assets/img/obstacle/poacher_s_stash.webp",
       "options": [
         {
           "label": "Lift The Stash",
@@ -196,7 +261,7 @@
       "kind": "Scenery",
       "room": 425,
       "room_title": "Mushroom Hollow",
-      "blurb": "Clearing fire ring — once the room is clear, each Champion may take one short rest here between tavern rests.",
+      "blurb": "Clearing fire ring — cook or brew here, and once the room is clear each Champion may take one short rest between tavern rests.",
       "image": "assets/img/obstacle/campfire.webp",
       "options": []
     },
@@ -211,13 +276,58 @@
       "options": []
     },
     {
-      "id": "obstacle-grubnak_s_toll",
-      "title": "Grubnak's Toll",
+      "id": "obstacle-ring_cap",
+      "title": "Ring Cap",
+      "kind": "Terrain",
+      "room": 425,
+      "room_title": "Mushroom Hollow",
+      "blurb": "The tallest giant cap in the hollow. Climb it and Aramilla Valley opens out.",
+      "image": "assets/img/obstacle/ring_cap.webp",
+      "options": [
+        {
+          "label": "Climb The Cap",
+          "stat": "STR"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-bridge_nest",
+      "title": "Bridge Nest",
+      "kind": "Scenery",
+      "room": 426,
+      "room_title": "Troll Bridge",
+      "blurb": "A heap of sticks and bones under the near plank.",
+      "image": "assets/img/obstacle/bridge_nest.webp",
+      "options": [
+        {
+          "label": "Slip A Hand Into The Nest",
+          "stat": "STE"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-troll_hoard",
+      "title": "Troll Hoard",
+      "kind": "Scenery",
+      "room": 426,
+      "room_title": "Troll Bridge",
+      "blurb": "The nest is still there. Something metal shows under the sticks.",
+      "image": "assets/img/obstacle/troll_hoard.webp",
+      "options": [
+        {
+          "label": "Dig Through The Nest",
+          "stat": "PER"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-trollo_s_toll",
+      "title": "Trollo's Toll",
       "kind": "Trap",
       "room": 426,
       "room_title": "Troll Bridge",
-      "blurb": "Pay gold or fight Grubnak threat 2.",
-      "image": "assets/img/obstacle/grubnak_s_toll.webp",
+      "blurb": "Pay gold or fight Trollo threat 2.",
+      "image": null,
       "options": []
     },
     {
@@ -231,22 +341,12 @@
       "options": []
     },
     {
-      "id": "obstacle-toad_jar",
-      "title": "Toad Jar",
-      "kind": "Scenery",
-      "room": 429,
-      "room_title": "Witch's Cellar",
-      "blurb": "Mayor's son cursed — free for favour.",
-      "image": "assets/img/obstacle/toad_jar.webp",
-      "options": []
-    },
-    {
       "id": "obstacle-shrine_choice",
       "title": "Shrine Choice",
       "kind": "Scenery",
       "room": 430,
       "room_title": "Old Shrine",
-      "blurb": "",
+      "blurb": "One WIL check — restore Bramblewick's light once per party.",
       "image": "assets/img/obstacle/shrine_choice.webp",
       "options": []
     },
@@ -261,14 +361,59 @@
       "options": []
     },
     {
-      "id": "obstacle-beetle_beds",
-      "title": "Beetle Beds",
+      "id": "obstacle-beetle_pearl",
+      "title": "Beetle Pearl",
+      "kind": "Scenery",
+      "room": 441,
+      "room_title": "Mushroom Farm",
+      "blurb": "A pearl in the dung. Pick it up — 50 Zin.",
+      "image": null,
+      "options": [
+        {
+          "label": "Pick It Up",
+          "stat": ""
+        }
+      ]
+    },
+    {
+      "id": "obstacle-powder_tin",
+      "title": "Powder Tin",
+      "kind": "Scenery",
+      "room": 441,
+      "room_title": "Mushroom Farm",
+      "blurb": "A tin of snap powder. Take it.",
+      "image": null,
+      "options": [
+        {
+          "label": "Take The Tin",
+          "stat": ""
+        }
+      ]
+    },
+    {
+      "id": "obstacle-red_cap",
+      "title": "Red Cap",
       "kind": "Terrain",
       "room": 441,
       "room_title": "Mushroom Farm",
-      "blurb": "",
-      "image": "assets/img/obstacle/beetle_beds.webp",
+      "blurb": "KNO, once tonight. A pile of mushrooms.",
+      "image": null,
       "options": []
+    },
+    {
+      "id": "obstacle-spore_sack",
+      "title": "Spore Sack",
+      "kind": "Scenery",
+      "room": 441,
+      "room_title": "Mushroom Farm",
+      "blurb": "A sack of spore flour. Take it.",
+      "image": null,
+      "options": [
+        {
+          "label": "Take The Sack",
+          "stat": ""
+        }
+      ]
     },
     {
       "id": "obstacle-brewery_campfire",
@@ -276,9 +421,24 @@
       "kind": "Scenery",
       "room": 442,
       "room_title": "Brewery",
-      "blurb": "Brewery fire pit — once the room is clear, each Champion may take one short rest here between tavern rests.",
-      "image": null,
+      "blurb": "Brewery fire pit — cook or brew here, and once the room is clear each Champion may take one short rest between tavern rests.",
+      "image": "assets/img/obstacle/brewery_campfire.webp",
       "options": []
+    },
+    {
+      "id": "obstacle-leaking_tap",
+      "title": "Leaking Tap",
+      "kind": "Scenery",
+      "room": 442,
+      "room_title": "Brewery",
+      "blurb": "STE. One jar of strong spirits for the pot.",
+      "image": null,
+      "options": [
+        {
+          "label": "Draw A Jar",
+          "stat": "STE"
+        }
+      ]
     },
     {
       "id": "obstacle-rolling_keg",
@@ -287,8 +447,53 @@
       "room": 443,
       "room_title": "Mess Hall",
       "blurb": "A full mash keg. Hurling it spends the turn — it can clear the band, or burst on you.",
-      "image": null,
+      "image": "assets/img/obstacle/rolling_keg.webp",
       "options": []
+    },
+    {
+      "id": "obstacle-borkor_pens",
+      "title": "Borkor Pens",
+      "kind": "Scenery",
+      "room": 444,
+      "room_title": "Cask Cellar",
+      "blurb": "Goblin mounts roped in the casks. Cut the pen ropes (STR) to loose one on the throne guards.",
+      "image": null,
+      "options": [
+        {
+          "label": "Cut The Pen Ropes",
+          "stat": "STR"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-pitch_cask",
+      "title": "Pitch Cask",
+      "kind": "Scenery",
+      "room": 444,
+      "room_title": "Cask Cellar",
+      "blurb": "Pitch in an open cask. Scoop a glob and throw it in a fight.",
+      "image": null,
+      "options": [
+        {
+          "label": "Scoop The Pitch",
+          "stat": ""
+        }
+      ]
+    },
+    {
+      "id": "obstacle-webbed_cask",
+      "title": "Webbed Cask",
+      "kind": "Scenery",
+      "room": 444,
+      "room_title": "Cask Cellar",
+      "blurb": "PER. A health potion hidden in a dusty cask.",
+      "image": null,
+      "options": [
+        {
+          "label": "Search The Cask",
+          "stat": "PER"
+        }
+      ]
     },
     {
       "id": "obstacle-loot_vault_door",
@@ -296,49 +501,74 @@
       "kind": "Scenery",
       "room": 445,
       "room_title": "Brewmaster's Throne",
-      "blurb": "",
+      "blurb": "Locked vault behind the throne.",
       "image": "assets/img/obstacle/loot_vault_door.webp",
-      "options": []
+      "options": [
+        {
+          "label": "Pick The Lock",
+          "stat": "STE"
+        }
+      ]
     },
     {
-      "id": "obstacle-prisoner_lies",
-      "title": "Prisoner Lies",
-      "kind": "Scenery",
-      "room": 446,
-      "room_title": "Prisoner Pens",
-      "blurb": "PER/KNO/CHA spot Jory's lies.",
-      "image": "assets/img/obstacle/prisoner_lies.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-spore_crossing",
-      "title": "Spore Crossing",
-      "kind": "Trap",
-      "room": 448,
-      "room_title": "Spore Pit",
-      "blurb": "WIL each round in the pit.",
-      "image": "assets/img/obstacle/spore_crossing.webp",
-      "options": []
-    },
-    {
-      "id": "obstacle-river_ride",
-      "title": "River Ride",
+      "id": "obstacle-floating_cask",
+      "title": "Floating Cask",
       "kind": "Terrain",
       "room": 450,
       "room_title": "Underground River",
-      "blurb": "VIT to swim; barrel ride to 404.",
-      "image": "assets/img/obstacle/river_ride.webp",
-      "options": []
+      "blurb": "AGL. The hooch jug is lashed to a cask in the current.",
+      "image": null,
+      "options": [
+        {
+          "label": "Grab The Cask",
+          "stat": "AGL"
+        }
+      ]
     },
     {
-      "id": "obstacle-lookout_horn",
-      "title": "Lookout Horn",
-      "kind": "Trap",
-      "room": 451,
-      "room_title": "Goblin Lookout",
-      "blurb": "STE or the horn blows — caveonalert.",
-      "image": "assets/img/obstacle/lookout_horn.webp",
-      "options": []
+      "id": "obstacle-river_leeches",
+      "title": "River Leeches",
+      "kind": "Scenery",
+      "room": 450,
+      "room_title": "Underground River",
+      "blurb": "A leech on the piling. Pull it off — a twisted drink.",
+      "image": null,
+      "options": [
+        {
+          "label": "Pull A Leech",
+          "stat": ""
+        }
+      ]
+    },
+    {
+      "id": "obstacle-borkor_stakes",
+      "title": "Borkor Stakes",
+      "kind": "Scenery",
+      "room": 452,
+      "room_title": "Goblin Cave Mouth",
+      "blurb": "A borkor lashed to bone stakes — goblins jab and race it.",
+      "image": null,
+      "options": [
+        {
+          "label": "Cut The Ropes",
+          "stat": "STR"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-penny_locker",
+      "title": "Penny Locker",
+      "kind": "Scenery",
+      "room": 454,
+      "room_title": "Wreck of the Penny",
+      "blurb": "A locker under the stern bench, crusted shut with salt.",
+      "image": "assets/img/obstacle/penny_locker.webp",
+      "options": [
+        {
+          "label": "Wrench The Locker",
+          "stat": "STR"
+        }
+      ]
     },
     {
       "id": "obstacle-swim_the_gap",
@@ -347,7 +577,7 @@
       "room": 454,
       "room_title": "Wreck of the Penny",
       "blurb": "VIT to the ladder. Pass is unseen.",
-      "image": null,
+      "image": "assets/img/obstacle/swim_the_gap.webp",
       "options": [
         {
           "label": "Swim To The Hull",
@@ -361,27 +591,12 @@
       "kind": "Scenery",
       "room": 455,
       "room_title": "Penny's Hold",
-      "blurb": "STR the hatch. It opens on the octopus, and the squirt blinds you.",
-      "image": null,
+      "blurb": "STR the hatch. It opens on the calamor, and the squirt blinds you.",
+      "image": "assets/img/obstacle/cargo_hatch.webp",
       "options": [
         {
           "label": "Haul The Hatch",
           "stat": "STR"
-        }
-      ]
-    },
-    {
-      "id": "obstacle-scree_slope",
-      "title": "Scree Slope",
-      "kind": "Terrain",
-      "room": 456,
-      "room_title": "Scree Stair",
-      "blurb": "Loose stone. Agility to go down quietly.",
-      "image": null,
-      "options": [
-        {
-          "label": "Pick A Way Down",
-          "stat": "AGL"
         }
       ]
     },
@@ -391,14 +606,9 @@
       "kind": "Scenery",
       "room": 457,
       "room_title": "Old Mine Head",
-      "blurb": "STE the winch. Pass and the bell stays still.",
+      "blurb": "A rusted cage, copper winch, and a bell wired to the brake.",
       "image": null,
-      "options": [
-        {
-          "label": "Lower The Cage",
-          "stat": "STE"
-        }
-      ]
+      "options": []
     },
     {
       "id": "obstacle-fishing_reeds",
@@ -411,153 +621,38 @@
       "options": []
     },
     {
-      "id": "obstacle-berry_briars",
-      "title": "Berry Briars",
-      "kind": "Terrain",
-      "room": 499,
-      "room_title": "Northwood Trace",
-      "blurb": "",
-      "image": "assets/img/obstacle/berry_briars.webp",
-      "options": []
+      "id": "obstacle-tea_table",
+      "title": "Tea Table",
+      "kind": "Puzzle",
+      "room": 497,
+      "room_title": "Lonely House Island",
+      "blurb": "A table set for tea.",
+      "image": "assets/img/obstacle/tea_table.webp",
+      "options": [
+        {
+          "label": "Sit Down",
+          "stat": "CHA"
+        }
+      ]
     },
     {
-      "id": "obstacle-archery_contest",
-      "title": "Archery Contest",
+      "id": "obstacle-grubnak_s_toll",
+      "title": "Grubnak's Toll",
       "kind": "Obstacle",
       "room": 0,
       "room_title": "",
       "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/grubnak_s_toll.webp",
       "options": []
     },
     {
-      "id": "obstacle-best_chef",
-      "title": "Best Chef",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Green Room",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-champion_cookery_101",
-      "title": "Champion Cookery 101",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Green Room",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-hedge_forage",
-      "title": "Hedge Forage",
+      "id": "obstacle-mayor_s_window",
+      "title": "Mayor's Window",
       "kind": "Obstacle",
       "room": 0,
       "room_title": "",
       "blurb": "",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-kitchen_stadium_signpost",
-      "title": "Kitchen Stadium Signpost",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Green Room",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-lost_property_bin",
-      "title": "Lost Property Bin",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Green Room",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-mayor_s_front_door",
-      "title": "Mayor's Front Door",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-odds_and_ends_entry",
-      "title": "Odds and Ends Entry",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-quest_board",
-      "title": "Quest Board",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-the_chef_s_lift",
-      "title": "The Chef's Lift",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Green Room",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-the_red_anvil_forge",
-      "title": "The Red Anvil Forge",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-the_way_down",
-      "title": "The Way Down",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "Green Room",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-wil_s_watch_kettle",
-      "title": "Wil's Watch Kettle",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "",
-      "image": null,
-      "options": []
-    },
-    {
-      "id": "obstacle-woods_gate_check",
-      "title": "Woods Gate Check",
-      "kind": "Obstacle",
-      "room": 0,
-      "room_title": "",
-      "blurb": "",
-      "image": null,
+      "image": "assets/img/obstacle/mayor_s_window.webp",
       "options": []
     }
   ]

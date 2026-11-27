@@ -1,6 +1,56 @@
 {
   "rows": [
     {
+      "pc_id": "david_odile",
+      "pc_name": "Orko",
+      "story": [
+        "The party met Marta Hobb",
+        "The party met Hob Marrow",
+        "The party met Nell Hayward",
+        "Orko managed to interact at Hanging Doe",
+        "Orko cast thunderbolt",
+        "Orko changed Bridge Nest",
+        "Orko managed to interact at Troll Hoard",
+        "The party met Jory Plumm",
+        "The party met Tamsin Reed"
+      ]
+    },
+    {
+      "pc_id": "daniel_setzer",
+      "pc_name": "Setzer",
+      "story": [
+        "Setzer managed to interact at Hanging Doe",
+        "Setzer managed to interact at Poacher's Stash"
+      ]
+    },
+    {
+      "pc_id": "sandra_rust",
+      "pc_name": "Rust",
+      "story": [
+        "Rust managed to interact at Cask Niche",
+        "The party met Tobias Fenwick",
+        "The party met Brother Aldous",
+        "The party met Town Jailer",
+        "Rust managed to interact at Gate Cap",
+        "The party met Pip Ashworth",
+        "Rust managed to interact at Hanging Doe",
+        "The party met Fen Ashby",
+        "Rust managed to interact at Leaking Tap"
+      ]
+    },
+    {
+      "pc_id": "beto_pancake",
+      "pc_name": "Pancake",
+      "story": [
+        "Pancake completed the quest Rats in the Cellar.",
+        "Pancake killed Rat Swarm",
+        "Pancake killed Vampire Bat",
+        "Pancake managed to interact at Hanging Doe",
+        "Pancake managed to interact at Poacher's Stash",
+        "Pancake killed Grubnak"
+      ]
+    },
+    {
       "pc_id": "pete_rae",
       "pc_name": "Rae",
       "story": [

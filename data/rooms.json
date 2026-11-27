@@ -1,172 +1,402 @@
 {
   "rows": [
     {
+      "id": "room-440",
+      "num": 440,
+      "title": "Guard Tunnel",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A goblin slumps against the wall, a jug in its lap. The stone is cut square, older than the camp.",
+      "image": "assets/img/room/cave/440.webp",
+      "image_thumb": "assets/img/room/cave/440.s.webp"
+    },
+    {
+      "id": "room-441",
+      "num": 441,
+      "title": "Mushroom Farm",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Glowing caps in dung beds. Two green masses sit in the rows.",
+      "image": "assets/img/room/cave/441.webp",
+      "image_thumb": "assets/img/room/cave/441.s.webp"
+    },
+    {
+      "id": "room-442",
+      "num": 442,
+      "title": "Brewery",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Copper vats bubble in a dwarven winch-frame. Pick heads are nailed on as taps.",
+      "image": "assets/img/room/cave/442.webp",
+      "image_thumb": "assets/img/room/cave/442.s.webp"
+    },
+    {
+      "id": "room-443",
+      "num": 443,
+      "title": "Mess Hall",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Long tables, shouting goblins, barrels rolling underfoot. They drink from cracked mining helmets.",
+      "image": "assets/img/room/cave/443.webp",
+      "image_thumb": "assets/img/room/cave/443.s.webp"
+    },
+    {
+      "id": "room-444",
+      "num": 444,
+      "title": "Cask Cellar",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Ore carts hold the casks. The rails run into the dark and stop.",
+      "image": "assets/img/room/cave/444.webp",
+      "image_thumb": "assets/img/room/cave/444.s.webp"
+    },
+    {
+      "id": "room-445",
+      "num": 445,
+      "title": "Brewmaster's Throne",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A throne of kegs. A bloated goblin chief drains a brass hose.",
+      "image": "assets/img/room/cave/445.webp",
+      "image_thumb": "assets/img/room/cave/445.s.webp"
+    },
+    {
+      "id": "room-446",
+      "num": 446,
+      "title": "Prisoner Pens",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Wooden cages. Two humans watch you through the slats.",
+      "image": "assets/img/room/cave/446.webp",
+      "image_thumb": "assets/img/room/cave/446.s.webp"
+    },
+    {
+      "id": "room-447",
+      "num": 447,
+      "title": "Loot Pile",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Stolen iron, town goods, and coin heaped behind the throne.",
+      "image": "assets/img/room/cave/447.webp",
+      "image_thumb": "assets/img/room/cave/447.s.webp"
+    },
+    {
+      "id": "room-448",
+      "num": 448,
+      "title": "Spore Pit",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Pale fungus breathes up from a pit. The air tastes like copper.",
+      "image": "assets/img/room/cave/448.webp",
+      "image_thumb": "assets/img/room/cave/448.s.webp"
+    },
+    {
+      "id": "room-449",
+      "num": 449,
+      "title": "Red Den",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A red-eyed bogoblin watches the brazier. Two others watch the coals.",
+      "image": "assets/img/room/cave/449.webp",
+      "image_thumb": "assets/img/room/cave/449.s.webp"
+    },
+    {
+      "id": "room-450",
+      "num": 450,
+      "title": "Underground River",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A black river slides through the stone. Barrels spin in the current.",
+      "image": "assets/img/room/cave/450.webp",
+      "image_thumb": "assets/img/room/cave/450.s.webp"
+    },
+    {
+      "id": "room-451",
+      "num": 451,
+      "title": "Goblin Lookout",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A rope ladder climbs to a platform on the limestone. A bronze horn hangs on a peg.",
+      "image": "assets/img/room/cave/451.webp",
+      "image_thumb": "assets/img/room/cave/451.s.webp"
+    },
+    {
+      "id": "room-452",
+      "num": 452,
+      "title": "Goblin Cave Mouth",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A mossy bank cave. Bones on stakes grin at the path.",
+      "image": "assets/img/room/cave/452.webp",
+      "image_thumb": "assets/img/room/cave/452.s.webp"
+    },
+    {
+      "id": "room-453",
+      "num": 453,
+      "title": "Tide Cave",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "The black river comes out under a lip of kelp and wet stone. A goblin grate rusts in the flow.",
+      "image": "assets/img/room/cave/453.webp",
+      "image_thumb": "assets/img/room/cave/453.s.webp"
+    },
+    {
+      "id": "room-454",
+      "num": 454,
+      "title": "Wreck of the Penny",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A fishing boat sits high on the rocks, stern already in the swell. The name Penny is still gold on the bow.",
+      "image": "assets/img/room/cave/454.webp",
+      "image_thumb": "assets/img/room/cave/454.s.webp"
+    },
+    {
+      "id": "room-455",
+      "num": 455,
+      "title": "Penny's Hold",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "The deck sags. Wet rope holds a man to a ring bolt.",
+      "image": "assets/img/room/cave/455.webp",
+      "image_thumb": "assets/img/room/cave/455.s.webp"
+    },
+    {
+      "id": "room-456",
+      "num": 456,
+      "title": "Scree Stair",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Loose stone stairs drop a cliff. Every step shifts.",
+      "image": "assets/img/room/cave/456.webp",
+      "image_thumb": "assets/img/room/cave/456.s.webp"
+    },
+    {
+      "id": "room-457",
+      "num": 457,
+      "title": "Old Mine Head",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A rusted cage hangs in a dwarven shaft. The winch is wrapped in copper pipe.",
+      "image": "assets/img/room/cave/457.webp",
+      "image_thumb": "assets/img/room/cave/457.s.webp"
+    },
+    {
+      "id": "room-495",
+      "num": 495,
+      "title": "Lonely Shore",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "Black sand, reeds, and a still reach of water. A wooded islet sits north.",
+      "image": "assets/img/room/cave/495.webp",
+      "image_thumb": "assets/img/room/cave/495.s.webp"
+    },
+    {
+      "id": "room-496",
+      "num": 496,
+      "title": "Rowboat Crossing",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "A creaking rowboat ties to a stump. One oar, a coiled line, cold water over the gunwales.",
+      "image": "assets/img/room/cave/496.webp",
+      "image_thumb": "assets/img/room/cave/496.s.webp"
+    },
+    {
+      "id": "room-497",
+      "num": 497,
+      "title": "Lonely House Island",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "One house, shutters barred from inside. The step is swept, and one board gives.",
+      "image": "assets/img/room/cave/497.webp",
+      "image_thumb": "assets/img/room/cave/497.s.webp"
+    },
+    {
+      "id": "room-499",
+      "num": 499,
+      "title": "Northwood Trace",
+      "zone_key": "cave",
+      "zone_label": "Cave",
+      "blurb": "An old ranger cut peters out in briars. The berries are bird-pecked down to the stone.",
+      "image": "assets/img/room/cave/499.webp",
+      "image_thumb": "assets/img/room/cave/499.s.webp"
+    },
+    {
       "id": "room-400",
       "num": 400,
       "title": "Town Gate",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A timber gate in a palisade of sharpened logs. A plank watchtower, a kettle on the fire, dice on a stump.",
-      "image": "assets/img/room/floorthree/400.webp",
-      "image_thumb": "assets/img/room/floorthree/400.s.webp"
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "A timber gate in Ordella's palisade. The hills close Aramilla Valley on every side.",
+      "image": "assets/img/room/town/400.webp",
+      "image_thumb": "assets/img/room/town/400.s.webp"
     },
     {
       "id": "room-401",
       "num": 401,
       "title": "Lowtown Green",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A muddy green ringed by timber houses with sagging thatch. Washing lines, ducks in the ditch, a barrow of vegetables.",
-      "image": "assets/img/room/floorthree/401.webp",
-      "image_thumb": "assets/img/room/floorthree/401.s.webp"
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "A muddy green in Ordella. Timber houses, sagging thatch, huma folk with pointed ears at the washing lines.",
+      "image": "assets/img/room/town/401.webp",
+      "image_thumb": "assets/img/room/town/401.s.webp"
     },
     {
       "id": "room-402",
       "num": 402,
       "title": "Tavern Common Room",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Smoke-black timber beams, a roaring hearth, long tables scarred by knives.",
-      "image": "assets/img/room/floorthree/402.webp",
-      "image_thumb": "assets/img/room/floorthree/402.s.webp"
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "The Dancing Deer, the only inn in Aramilla Valley. Smoke-black beams, a roaring hearth, long tables scarred by knives.",
+      "image": "assets/img/room/town/402.webp",
+      "image_thumb": "assets/img/room/town/402.s.webp"
     },
     {
       "id": "room-403",
       "num": 403,
       "title": "Tavern Guest Rooms",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A narrow hall of plank doors with chalked numbers. Muffled voices and a floorboard creak somewhere ahead.",
-      "image": "assets/img/room/floorthree/403.webp",
-      "image_thumb": "assets/img/room/floorthree/403.s.webp"
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "Upstairs at the Dancing Deer: plank doors with chalked numbers. Muffled voices, a floorboard creak, and stew-smell from the bar below.",
+      "image": "assets/img/room/town/403.webp",
+      "image_thumb": "assets/img/room/town/403.s.webp"
     },
     {
       "id": "room-404",
       "num": 404,
       "title": "Tavern Cellar",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "Rough-cut steps, ale casks, damp lime. Something scrabbles behind the racks.",
-      "image": "assets/img/room/floorthree/404.webp",
-      "image_thumb": "assets/img/room/floorthree/404.s.webp"
+      "image": "assets/img/room/town/404.webp",
+      "image_thumb": "assets/img/room/town/404.s.webp"
     },
     {
       "id": "room-405",
       "num": 405,
       "title": "Odds and Ends",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "A stone-fronted shop with a bow window. Inside, narrow aisles between teetering shelves — rope, pots, oddments stacked to the rafters.",
-      "image": "assets/img/room/floorthree/405.webp",
-      "image_thumb": "assets/img/room/floorthree/405.s.webp"
+      "image": "assets/img/room/town/405.webp",
+      "image_thumb": "assets/img/room/town/405.s.webp"
     },
     {
       "id": "room-406",
       "num": 406,
       "title": "Red Anvil",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "A granite forge-house with an iron sign. Heat hits you at the door.",
-      "image": "assets/img/room/floorthree/406.webp",
-      "image_thumb": "assets/img/room/floorthree/406.s.webp"
+      "image": "assets/img/room/town/406.webp",
+      "image_thumb": "assets/img/room/town/406.s.webp"
     },
     {
       "id": "room-407",
       "num": 407,
       "title": "Shrine of the Dawnmother",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "Cool dressed stone, candles, coloured light through a saint-glass window.",
-      "image": "assets/img/room/floorthree/407.webp",
-      "image_thumb": "assets/img/room/floorthree/407.s.webp"
+      "image": "assets/img/room/town/407.webp",
+      "image_thumb": "assets/img/room/town/407.s.webp"
     },
     {
       "id": "room-408",
       "num": 408,
       "title": "Hayward's Stables",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "Stone stalls under slate, brass name plates on every door. Warm horses, swallows in the rafters; polished tack hangs on pegs.",
-      "image": "assets/img/room/floorthree/408.webp",
-      "image_thumb": "assets/img/room/floorthree/408.s.webp"
+      "image": "assets/img/room/town/408.webp",
+      "image_thumb": "assets/img/room/town/408.s.webp"
     },
     {
       "id": "room-409",
       "num": 409,
       "title": "Archery Range",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "A walled lawn behind Hightown — straw butts, painted targets, a rope line.",
-      "image": "assets/img/room/floorthree/409.webp",
-      "image_thumb": "assets/img/room/floorthree/409.s.webp"
+      "image": "assets/img/room/town/409.webp",
+      "image_thumb": "assets/img/room/town/409.s.webp"
     },
     {
       "id": "room-410",
       "num": 410,
       "title": "Graveyard",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Wooden grave markers leaning in the mud behind Lowtown, a few mossy stones, yew trees, a crooked iron fence.",
-      "image": "assets/img/room/floorthree/410.webp",
-      "image_thumb": "assets/img/room/floorthree/410.s.webp"
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "Wooden grave markers leaning in the mud behind the Dawnmother shrine, a few mossy stones, yew trees, a crooked iron fence.",
+      "image": "assets/img/room/town/410.webp",
+      "image_thumb": "assets/img/room/town/410.s.webp"
     },
     {
       "id": "room-411",
       "num": 411,
       "title": "Crypt",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "Cold steps, bone niches, one great stone sarcophagus. Dead candles crumble underfoot.",
-      "image": "assets/img/room/floorthree/411.webp",
-      "image_thumb": "assets/img/room/floorthree/411.s.webp"
+      "image": "assets/img/room/town/411.webp",
+      "image_thumb": "assets/img/room/town/411.s.webp"
     },
     {
       "id": "room-412",
       "num": 412,
       "title": "Mayor's House",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "Ivy-clad stone, a clipped garden, polished oak inside. Portraits of fat ancestors line the hall.",
-      "image": "assets/img/room/floorthree/412.webp",
-      "image_thumb": "assets/img/room/floorthree/412.s.webp"
+      "image": "assets/img/room/town/412.webp",
+      "image_thumb": "assets/img/room/town/412.s.webp"
     },
     {
       "id": "room-413",
       "num": 413,
       "title": "Town Jail",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "town",
+      "zone_label": "Town",
       "blurb": "Stone cells under the town hall, mouldy straw, a dozing jailer and a bold rat.",
-      "image": "assets/img/room/floorthree/413.webp",
-      "image_thumb": "assets/img/room/floorthree/413.s.webp"
+      "image": "assets/img/room/town/413.webp",
+      "image_thumb": "assets/img/room/town/413.s.webp"
     },
     {
       "id": "room-414",
       "num": 414,
       "title": "Hightown Plaza",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Flagstones swept clean, a carved fountain, tall houses of dressed grey stone with glazed windows.",
-      "image": null,
-      "image_thumb": null
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "Flagstones swept clean, a carved fountain, tall stone houses of Ordella.",
+      "image": "assets/img/room/town/414.webp",
+      "image_thumb": "assets/img/room/town/414.s.webp"
     },
     {
       "id": "room-415",
       "num": 415,
       "title": "Old Bridge",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A humped stone bridge over the brown river. Downstream, timber jetties and fishing boats; upstream, the stone walls of Hightown climb the hill.",
-      "image": null,
-      "image_thumb": null
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "A humped stone bridge over the brown river. Four travellers in good cloaks hold the crown of it and do not step aside.",
+      "image": "assets/img/room/town/415.webp",
+      "image_thumb": "assets/img/room/town/415.s.webp"
     },
     {
       "id": "room-416",
       "num": 416,
       "title": "Docks",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Tarred timber jetties on stilts, nets drying on racks, gulls fighting over fish guts.",
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "Tarred timber jetties of Ordella on stilts, nets drying on racks, gulls fighting over fish guts.",
+      "image": "assets/img/room/town/416.webp",
+      "image_thumb": "assets/img/room/town/416.s.webp"
+    },
+    {
+      "id": "room-417",
+      "num": 417,
+      "title": "Boarded House",
+      "zone_key": "town",
+      "zone_label": "Town",
+      "blurb": "A low house boarded from outside. No sign.",
       "image": null,
       "image_thumb": null
     },
@@ -174,341 +404,121 @@
       "id": "room-420",
       "num": 420,
       "title": "Woods Edge",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Cart ruts run through the near trees. South, the cart track runs back through cleared ground to the town gate.",
-      "image": "assets/img/room/floorthree/420.webp",
-      "image_thumb": "assets/img/room/floorthree/420.s.webp"
+      "zone_key": "woods",
+      "zone_label": "Woods",
+      "blurb": "Cart ruts run under a giant mushroom, its cap wide as a wagon. South, through cleared ground, Ordella.",
+      "image": "assets/img/room/woods/420.webp",
+      "image_thumb": "assets/img/room/woods/420.s.webp"
     },
     {
       "id": "room-421",
       "num": 421,
       "title": "Wrecked Cart",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "An overturned iron cart, a dead ox, and goblin prints in the mud. Colossal mushroom stems rise beyond the ruts.",
-      "image": "assets/img/room/floorthree/421.webp",
-      "image_thumb": "assets/img/room/floorthree/421.s.webp"
+      "zone_key": "woods",
+      "zone_label": "Woods",
+      "blurb": "An overturned iron cart on the road out of Ordella, a dead ox, and goblin prints in the mud.",
+      "image": "assets/img/room/woods/421.webp",
+      "image_thumb": "assets/img/room/woods/421.s.webp"
     },
     {
       "id": "room-422",
       "num": 422,
       "title": "Pip's Hiding Tree",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A hollow oak; flour on the bark. Someone whimpers above.",
-      "image": "assets/img/room/floorthree/422.webp",
-      "image_thumb": "assets/img/room/floorthree/422.s.webp"
+      "zone_key": "woods",
+      "zone_label": "Woods",
+      "blurb": "A hollow oak on the cave road. Flour on the bark.",
+      "image": "assets/img/room/woods/422.webp",
+      "image_thumb": "assets/img/room/woods/422.s.webp"
     },
     {
       "id": "room-423",
       "num": 423,
       "title": "Hanging Doe",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A doe hangs in pale silk between two trunks, still warm. One haunch is cut and waiting.",
-      "image": "assets/img/room/floorthree/423.webp",
-      "image_thumb": "assets/img/room/floorthree/423.s.webp"
+      "zone_key": "woods",
+      "zone_label": "Woods",
+      "blurb": "A doe hangs between two trunks, still warm. One haunch is cut and waiting.",
+      "image": "assets/img/room/woods/423.webp",
+      "image_thumb": "assets/img/room/woods/423.s.webp"
     },
     {
       "id": "room-424",
       "num": 424,
       "title": "Poacher's Cache",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "woods",
+      "zone_label": "Woods",
       "blurb": "A hide scraped under the roots. A wire shines across the opening.",
-      "image": "assets/img/room/floorthree/424.webp",
-      "image_thumb": "assets/img/room/floorthree/424.s.webp"
+      "image": "assets/img/room/woods/424.webp",
+      "image_thumb": "assets/img/room/woods/424.s.webp"
     },
     {
       "id": "room-425",
       "num": 425,
       "title": "Mushroom Hollow",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Towering giant mushrooms ring a sunny hollow. Grey caps crowd the floor; the air smells of loam and rain.",
-      "image": "assets/img/room/floorthree/425.webp",
-      "image_thumb": "assets/img/room/floorthree/425.s.webp"
+      "zone_key": "woods",
+      "zone_label": "Woods",
+      "blurb": "Towering giant mushrooms ring a sunny hollow. The tallest cap leans over the rest.",
+      "image": "assets/img/room/woods/425.webp",
+      "image_thumb": "assets/img/room/woods/425.s.webp"
     },
     {
       "id": "room-426",
       "num": 426,
       "title": "Troll Bridge",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "woods",
+      "zone_label": "Woods",
       "blurb": "A rope bridge sags over a black gorge. Something grunts underneath.",
-      "image": "assets/img/room/floorthree/426.webp",
-      "image_thumb": "assets/img/room/floorthree/426.s.webp"
+      "image": "assets/img/room/woods/426.webp",
+      "image_thumb": "assets/img/room/woods/426.s.webp"
     },
     {
       "id": "room-427",
       "num": 427,
       "title": "Far Side",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "The gorge ends on a high shelf of grey stone. Wind tears at your cloak.",
-      "image": "assets/img/room/floorthree/427.webp",
-      "image_thumb": "assets/img/room/floorthree/427.s.webp"
+      "zone_key": "woods",
+      "zone_label": "Woods",
+      "blurb": "The gorge ends on a high shelf of grey stone under the mountains that ring the valley.",
+      "image": "assets/img/room/woods/427.webp",
+      "image_thumb": "assets/img/room/woods/427.s.webp"
     },
     {
       "id": "room-428",
       "num": 428,
       "title": "Mother Sedge's Hut",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A crooked hut on stilts. Herbs dry on the eaves; a pot bubbles.",
-      "image": "assets/img/room/floorthree/428.webp",
-      "image_thumb": "assets/img/room/floorthree/428.s.webp"
+      "zone_key": "woods",
+      "zone_label": "Woods",
+      "blurb": "A crooked hut on stilts under a giant mushroom cap. Herbs dry on the eaves; a pot bubbles.",
+      "image": "assets/img/room/woods/428.webp",
+      "image_thumb": "assets/img/room/woods/428.s.webp"
     },
     {
       "id": "room-429",
       "num": 429,
       "title": "Witch's Cellar",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "woods",
+      "zone_label": "Woods",
       "blurb": "Damp steps, jars on shelves. One jar holds a toad with human eyes.",
-      "image": "assets/img/room/floorthree/429.webp",
-      "image_thumb": "assets/img/room/floorthree/429.s.webp"
+      "image": "assets/img/room/woods/429.webp",
+      "image_thumb": "assets/img/room/woods/429.s.webp"
     },
     {
       "id": "room-430",
       "num": 430,
       "title": "Old Shrine",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "woods",
+      "zone_label": "Woods",
       "blurb": "A cracked sun disc leans in ivy. Warm light pulses once, then waits.",
-      "image": "assets/img/room/floorthree/430.webp",
-      "image_thumb": "assets/img/room/floorthree/430.s.webp"
+      "image": "assets/img/room/woods/430.webp",
+      "image_thumb": "assets/img/room/woods/430.s.webp"
     },
     {
       "id": "room-431",
       "num": 431,
       "title": "Fairy Fountain",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
+      "zone_key": "woods",
+      "zone_label": "Woods",
       "blurb": "A glowing spring in a mossy bowl. The water is warm and utterly still.",
-      "image": "assets/img/room/floorthree/431.webp",
-      "image_thumb": "assets/img/room/floorthree/431.s.webp"
-    },
-    {
-      "id": "room-440",
-      "num": 440,
-      "title": "Guard Tunnel",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Two goblins slump against the walls, jugs in their laps. The stone is cut square, older than they are.",
-      "image": "assets/img/room/floorthree/440.webp",
-      "image_thumb": "assets/img/room/floorthree/440.s.webp"
-    },
-    {
-      "id": "room-441",
-      "num": 441,
-      "title": "Mushroom Farm",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Glowing caps in dung beds.",
-      "image": "assets/img/room/floorthree/441.webp",
-      "image_thumb": "assets/img/room/floorthree/441.s.webp"
-    },
-    {
-      "id": "room-442",
-      "num": 442,
-      "title": "Brewery",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Copper vats bubble in a dwarven winch-frame. Pick heads are nailed on as taps.",
-      "image": "assets/img/room/floorthree/442.webp",
-      "image_thumb": "assets/img/room/floorthree/442.s.webp"
-    },
-    {
-      "id": "room-443",
-      "num": 443,
-      "title": "Mess Hall",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Long tables, shouting goblins, barrels rolling underfoot. They drink from cracked mining helmets.",
-      "image": "assets/img/room/floorthree/443.webp",
-      "image_thumb": "assets/img/room/floorthree/443.s.webp"
-    },
-    {
-      "id": "room-444",
-      "num": 444,
-      "title": "Cask Cellar",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Ore carts hold the casks. The rails run into the dark and stop.",
-      "image": "assets/img/room/floorthree/444.webp",
-      "image_thumb": "assets/img/room/floorthree/444.s.webp"
-    },
-    {
-      "id": "room-445",
-      "num": 445,
-      "title": "Brewmaster's Throne",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A throne of kegs. A bloated goblin chief drains a brass hose.",
-      "image": "assets/img/room/floorthree/445.webp",
-      "image_thumb": "assets/img/room/floorthree/445.s.webp"
-    },
-    {
-      "id": "room-446",
-      "num": 446,
-      "title": "Prisoner Pens",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Wooden cages. Two humans watch you through the slats.",
-      "image": "assets/img/room/floorthree/446.webp",
-      "image_thumb": "assets/img/room/floorthree/446.s.webp"
-    },
-    {
-      "id": "room-447",
-      "num": 447,
-      "title": "Loot Pile",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Stolen iron, town goods, and coin heaped behind the throne.",
-      "image": "assets/img/room/floorthree/447.webp",
-      "image_thumb": "assets/img/room/floorthree/447.s.webp"
-    },
-    {
-      "id": "room-448",
-      "num": 448,
-      "title": "Spore Pit",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Pale fungus breathes up from a pit. The air tastes like copper.",
-      "image": "assets/img/room/floorthree/448.webp",
-      "image_thumb": "assets/img/room/floorthree/448.s.webp"
-    },
-    {
-      "id": "room-449",
-      "num": 449,
-      "title": "Shaman's Den",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A wizened goblin in a mushroom hat mutters over a brazier.",
-      "image": "assets/img/room/floorthree/449.webp",
-      "image_thumb": "assets/img/room/floorthree/449.s.webp"
-    },
-    {
-      "id": "room-450",
-      "num": 450,
-      "title": "Underground River",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A black river slides through the stone. Barrels spin in the current.",
-      "image": "assets/img/room/floorthree/450.webp",
-      "image_thumb": "assets/img/room/floorthree/450.s.webp"
-    },
-    {
-      "id": "room-451",
-      "num": 451,
-      "title": "Goblin Lookout",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A rope ladder climbs to a platform on the limestone. A bronze horn hangs on a peg.",
-      "image": null,
-      "image_thumb": null
-    },
-    {
-      "id": "room-452",
-      "num": 452,
-      "title": "Goblin Cave Mouth",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A mossy bank cave. Bones on stakes grin at the path.",
-      "image": null,
-      "image_thumb": null
-    },
-    {
-      "id": "room-453",
-      "num": 453,
-      "title": "Tide Cave",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "The black river comes out under a lip of kelp and wet stone. A goblin grate rusts in the flow.",
-      "image": null,
-      "image_thumb": null
-    },
-    {
-      "id": "room-454",
-      "num": 454,
-      "title": "Wreck of the Penny",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A fishing boat sits high on the rocks, stern already in the swell. The name Penny is still gold on the bow.",
-      "image": null,
-      "image_thumb": null
-    },
-    {
-      "id": "room-455",
-      "num": 455,
-      "title": "Penny's Hold",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "The deck sags. Wet rope holds a man to a ring bolt.",
-      "image": null,
-      "image_thumb": null
-    },
-    {
-      "id": "room-456",
-      "num": 456,
-      "title": "Scree Stair",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Loose stone stairs drop a cliff. Every step shifts.",
-      "image": null,
-      "image_thumb": null
-    },
-    {
-      "id": "room-457",
-      "num": 457,
-      "title": "Old Mine Head",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A rusted cage hangs in a dwarven shaft. The winch is wrapped in copper pipe.",
-      "image": null,
-      "image_thumb": null
-    },
-    {
-      "id": "room-495",
-      "num": 495,
-      "title": "Lonely Shore",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "Black sand, reeds, and a still reach of water. A wooded islet sits north.",
-      "image": "assets/img/room/floorthree/495.webp",
-      "image_thumb": "assets/img/room/floorthree/495.s.webp"
-    },
-    {
-      "id": "room-496",
-      "num": 496,
-      "title": "Rowboat Crossing",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "A creaking rowboat ties to a stump. One oar, a coiled line, cold water over the gunwales.",
-      "image": "assets/img/room/floorthree/496.webp",
-      "image_thumb": "assets/img/room/floorthree/496.s.webp"
-    },
-    {
-      "id": "room-497",
-      "num": 497,
-      "title": "Lonely House Island",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "One house, shutters barred from inside. The step is swept.",
-      "image": "assets/img/room/floorthree/497.webp",
-      "image_thumb": "assets/img/room/floorthree/497.s.webp"
-    },
-    {
-      "id": "room-499",
-      "num": 499,
-      "title": "Northwood Trace",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3",
-      "blurb": "An old ranger cut peters out in briars.",
-      "image": "assets/img/room/floorthree/499.webp",
-      "image_thumb": "assets/img/room/floorthree/499.s.webp"
+      "image": "assets/img/room/woods/431.webp",
+      "image_thumb": "assets/img/room/woods/431.s.webp"
     }
   ]
 }

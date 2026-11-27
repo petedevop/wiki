@@ -1,6 +1,6 @@
 # Loot boxes
 
-Some scenes award **bronze**, **silver**, or **gold** boxes. Opening a box rolls on the tier’s table in the adventure data — the wiki does not publish the full d100 lists (that would spoil the dungeon).
+Some scenes award **bronze**, **silver**, or **gold** boxes. Opening a box rolls on the tier’s table in the adventure data — the wiki does not publish the full d100 lists (that would spoil the finds).
 
 ## Tiers (flavor)
 

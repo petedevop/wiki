@@ -1,7 +1,7 @@
 {
   "name": "Twilight Sword Wiki",
-  "short_name": "Floor 3 Wiki",
-  "description": "Player-safe Floor Three reference between sessions.",
+  "short_name": "Radia Wiki",
+  "description": "Player-safe Radia reference — Aramilla Valley — between sessions.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

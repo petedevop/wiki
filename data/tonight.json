@@ -1,9 +1,3 @@
 {
-  "rooms": [
-    {
-      "num": 420,
-      "title": "Woods Edge",
-      "has_text": true
-    }
-  ]
+  "rooms": []
 }

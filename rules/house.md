@@ -1,6 +1,6 @@
 # House rules
 
-This table runs **Twilight Sword** at the core, with Floor Three house conventions baked into the app. The published rulebook is not copied here — ask the DM or use the in-app **Library**.
+This table runs **Twilight Sword** on Radia, in Aramilla Valley, with the house conventions baked into the app. The published rulebook is not copied here — ask the DM or use the in-app **Library**.
 
 **Champion rules (d12 roll-under):** when enabled on the campaign, player characters are **Champions**, foes serve **the Scourge**, and hearts/stamina/reactions replace the check_roll HP loop. Start with **[Champion rules (d12)](d12-champions)** — then the generated **Champion rolls**, **Combat house rules**, and **Phone combat** pages for numbers pulled from code.
 
@@ -15,7 +15,7 @@ This table runs **Twilight Sword** at the core, with Floor Three house conventio
 - Natural 1 on an attack: DC 12 DEX check or the weapon breaks. Guns, power tools and firebombs break outright.
 - Spellcasting checks and saves stay flat check_roll.
 
-**Champion rules (flag on):** d12 **roll-under** against ability scores; see **Champion rules (d12)**. Weapon feats and armour feats still unlock from play when the table uses them.
+**Champion rules (flag on):** d12 **roll-under** against ability scores; see **Champion rules (d12)**. Armour feats still unlock from play when the table uses them.
 
 ## The player app
 
@@ -26,7 +26,7 @@ This table runs **Twilight Sword** at the core, with Floor Three house conventio
 - **Champion rules on:** header shows **hearts** and **stamina**; combat may offer **dodge/parry** after foe damage; **equipped pool** replaces quick slots. **Flag off:** HP chip and quick slots behave as before.
 - House pages **Supplies & statuses** and **Phone combat** list ammo, debuff clocks, meat spoilage, corpse loot, and search-fail ambushes the server enforces.
 
-## Floor Three flavour
+## Aramilla Valley flavour
 
 - **Projects** are party-driven — see their Rules pages for payouts.
 

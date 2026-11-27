@@ -3,23 +3,30 @@
     {
       "id": "item-100_green_zin",
       "title": "100 Green Zin",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "A greasy purse of green coin.",
-      "image": null
+      "image": "assets/img/item/100_green_zin.webp"
+    },
+    {
+      "id": "item-50_green_zin",
+      "title": "50 Green Zin",
+      "subtitle": "Town",
+      "blurb": "A small purse of green coin.",
+      "image": "assets/img/item/50_green_zin.webp"
     },
     {
       "id": "item-ale",
       "title": "Ale",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "A pint of house ale.",
       "image": "assets/img/item/ale.webp"
     },
     {
       "id": "item-apple",
       "title": "Apple",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/apple.webp"
+      "image": null
     },
     {
       "id": "item-arcane_blade",
@@ -31,7 +38,7 @@
     {
       "id": "item-arrows",
       "title": "Arrows",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "A bundle of fletched shafts.",
       "image": "assets/img/item/arrows.webp"
     },
@@ -45,65 +52,51 @@
     {
       "id": "item-axefish",
       "title": "Axefish",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/axefish.webp"
+      "image": null
     },
     {
       "id": "item-banana",
       "title": "Banana",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/banana.webp"
+      "image": null
     },
     {
       "id": "item-bass",
       "title": "Bass",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/bass.webp"
+      "image": null
     },
     {
       "id": "item-bell_pepper",
       "title": "Bell Pepper",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/bell_pepper.webp"
+      "image": null
     },
     {
       "id": "item-big_egg",
       "title": "Big Egg",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/big_egg.webp"
+      "image": null
     },
     {
       "id": "item-big_meat",
       "title": "Big Meat",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/big_meat.webp"
-    },
-    {
-      "id": "item-blessed_sword",
-      "title": "Blessed Sword",
-      "subtitle": "Floor 3",
-      "blurb": "Longsword that sheds healing light.",
-      "image": "assets/img/item/blessed_sword.webp"
+      "image": null
     },
     {
       "id": "item-blue_mushroom",
       "title": "Blue Mushroom",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/blue_mushroom.webp"
-    },
-    {
-      "id": "item-blue_potion",
-      "title": "Blue Potion",
-      "subtitle": "Floor 3",
-      "blurb": "Brewed refreshing potion.",
-      "image": "assets/img/item/blue_potion.webp"
+      "image": null
     },
     {
       "id": "item-boomerang",
@@ -113,53 +106,81 @@
       "image": null
     },
     {
+      "id": "item-bramble_tonic",
+      "title": "Bramble Tonic",
+      "subtitle": "Woods",
+      "blurb": "Clears Poison. 20 Zin.",
+      "image": null
+    },
+    {
       "id": "item-breastplate",
       "title": "Breastplate",
       "subtitle": "",
-      "blurb": "worn 2.0 1 torso 2 220 Red Zin Source: items.yaml",
+      "blurb": "worn 2.0 1 torso 2 220 Green Zin Source: gear.yaml",
       "image": null
     },
     {
       "id": "item-brewing_set",
       "title": "Brewing Set",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/brewing_set.webp"
     },
     {
-      "id": "item-bronze_treasure_chest",
-      "title": "Bronze Treasure Chest",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/bronze_treasure_chest.webp"
+      "id": "item-bronze_chest",
+      "title": "Bronze Chest",
+      "subtitle": "Town",
+      "blurb": "A sealed bronze chest.",
+      "image": null
     },
     {
       "id": "item-bucket",
       "title": "Bucket",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to carry liquids and dirt.",
       "image": "assets/img/item/bucket.webp"
     },
     {
       "id": "item-carrot",
       "title": "Carrot",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/carrot.webp"
+      "image": null
+    },
+    {
+      "id": "item-cart",
+      "title": "Cart",
+      "subtitle": "Town",
+      "blurb": "",
+      "image": null
+    },
+    {
+      "id": "item-cask_pitch",
+      "title": "Cask Pitch",
+      "subtitle": "Cave",
+      "blurb": "Throw on your turn. One foe in your band catches Burn.",
+      "image": null
     },
     {
       "id": "item-catfish",
       "title": "Catfish",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/catfish.webp"
+      "image": null
+    },
+    {
+      "id": "item-cave_poison",
+      "title": "Cave Poison",
+      "subtitle": "Woods",
+      "blurb": "A stoppered bottle. Dose a drink or throw it — Poison.",
+      "image": null
     },
     {
       "id": "item-chillcarp",
       "title": "Chillcarp",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/chillcarp.webp"
+      "image": null
     },
     {
       "id": "item-claw",
@@ -176,30 +197,23 @@
       "image": null
     },
     {
-      "id": "item-cooked_meal",
-      "title": "Cooked Meal",
-      "subtitle": "Floor 3",
-      "blurb": "Camp-cooked portions — tap to eat the stored effect.",
-      "image": "assets/img/item/cooked_meal.webp"
-    },
-    {
       "id": "item-cooking_set",
       "title": "Cooking Set",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/cooking_set.webp"
     },
     {
       "id": "item-cricket",
       "title": "Cricket",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/cricket.webp"
+      "image": null
     },
     {
       "id": "item-crypt_blade",
       "title": "Crypt Blade",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "A decent early longsword from the sarcophagus.",
       "image": "assets/img/item/crypt_blade.webp"
     },
@@ -213,35 +227,28 @@
     {
       "id": "item-egg",
       "title": "Egg",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/egg.webp"
+      "image": null
     },
     {
       "id": "item-elegant_clothes",
       "title": "Elegant Clothes",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Fine dress for the mayor's table.",
       "image": "assets/img/item/elegant_clothes.webp"
     },
     {
       "id": "item-elemental_arrows",
       "title": "Elemental Arrows",
-      "subtitle": "Floor 3",
-      "blurb": "Arrows with an elemental charge.",
-      "image": "assets/img/item/elemental_arrows.webp"
-    },
-    {
-      "id": "item-enchanted_mask",
-      "title": "Enchanted Mask",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/enchanted_mask.webp"
+      "subtitle": "",
+      "blurb": "pack 1.0 1 arrows 100 Green Zin Arrows with an elemental charge.",
+      "image": null
     },
     {
       "id": "item-endless_flagon",
       "title": "Endless Flagon",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "Thrown: area Drunk; returns once per fight.",
       "image": "assets/img/item/endless_flagon.webp"
     },
@@ -249,76 +256,55 @@
       "id": "item-explosive_arrows",
       "title": "Explosive Arrows",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
-    },
-    {
-      "id": "item-fireblade",
-      "title": "Fireblade",
-      "subtitle": "Floor 3",
-      "blurb": "Longsword-like blade wreathed in fire.",
-      "image": "assets/img/item/fireblade.webp"
     },
     {
       "id": "item-firefly",
       "title": "Firefly",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/firefly.webp"
+      "image": null
     },
     {
       "id": "item-fireproof_armor",
       "title": "Fireproof Armor",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
     },
     {
       "id": "item-firetrout",
       "title": "Firetrout",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/firetrout.webp"
+      "image": null
     },
     {
       "id": "item-fishing_rod",
       "title": "Fishing Rod",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to fish.",
       "image": "assets/img/item/fishing_rod.webp"
     },
     {
-      "id": "item-flamburn",
-      "title": "Flamburn",
-      "subtitle": "Floor 3",
-      "blurb": "Dagger dealing fire damage.",
-      "image": "assets/img/item/flamburn.webp"
-    },
-    {
       "id": "item-flatboat",
       "title": "Flatboat",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Pole the black underground river from the tavern cellar to the goblin caves — skips the woods.",
-      "image": null
+      "image": "assets/img/item/flatboat.webp"
     },
     {
       "id": "item-flint",
       "title": "Flint",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to easily start a fire.",
       "image": "assets/img/item/flint.webp"
     },
     {
-      "id": "item-flying_cape",
-      "title": "Flying Cape",
-      "subtitle": "Floor 3",
-      "blurb": "Spend 1 stamina to glide from any height.",
-      "image": "assets/img/item/flying_cape.webp"
-    },
-    {
       "id": "item-fruit_skewer",
       "title": "Fruit Skewer",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/fruit_skewer.webp"
     },
@@ -326,7 +312,7 @@
       "id": "item-fur_armor",
       "title": "Fur Armor",
       "subtitle": "",
-      "blurb": "worn 2.0 1 torso 1 (('cold', 2),) 360 Red Zin Source: items.yaml",
+      "blurb": "worn 2.0 1 torso 1 (('cold', 2),) 360 Green Zin Source: gear.yaml",
       "image": null
     },
     {
@@ -339,42 +325,28 @@
     {
       "id": "item-goblin_ear",
       "title": "Goblin Ear",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Trophy ear — turn in five for pay.",
       "image": "assets/img/item/goblin_ear.webp"
     },
     {
-      "id": "item-goblin_notice",
-      "title": "Goblin Notice",
-      "subtitle": "Floor 3",
-      "blurb": "GOBLIN EARS — five ears, 25 Green Zin.",
-      "image": "assets/img/item/goblin_notice.webp"
-    },
-    {
-      "id": "item-gold_treasure_chest",
-      "title": "Gold Treasure Chest",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/gold_treasure_chest.webp"
-    },
-    {
       "id": "item-golden_scorpion",
       "title": "Golden Scorpion",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/golden_scorpion.webp"
+      "image": null
     },
     {
       "id": "item-grapes",
       "title": "Grapes",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/grapes.webp"
+      "image": null
     },
     {
       "id": "item-grappling_hook",
       "title": "Grappling Hook",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Hook and line for walls and gorges.",
       "image": "assets/img/item/grappling_hook.webp"
     },
@@ -402,23 +374,16 @@
     {
       "id": "item-green_eel",
       "title": "Green Eel",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/green_eel.webp"
+      "image": null
     },
     {
       "id": "item-green_mushroom",
       "title": "Green Mushroom",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/green_mushroom.webp"
-    },
-    {
-      "id": "item-green_potion",
-      "title": "Green Potion",
-      "subtitle": "Floor 3",
-      "blurb": "Brewed invigorating potion.",
-      "image": "assets/img/item/green_potion.webp"
+      "image": null
     },
     {
       "id": "item-hammer",
@@ -430,16 +395,9 @@
     {
       "id": "item-health_potion",
       "title": "Health Potion",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "",
       "image": "assets/img/item/health_potion.webp"
-    },
-    {
-      "id": "item-heart_stone",
-      "title": "Heart Stone",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/heart_stone.webp"
     },
     {
       "id": "item-heavy_bow",
@@ -451,23 +409,30 @@
     {
       "id": "item-herbs",
       "title": "Herbs",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/herbs.webp"
+      "image": null
     },
     {
       "id": "item-honey",
       "title": "Honey",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/honey.webp"
+      "image": null
+    },
+    {
+      "id": "item-hooch_jug",
+      "title": "Hooch Jug",
+      "subtitle": "Cave",
+      "blurb": "Six pulls. Each restores 1 heart.",
+      "image": null
     },
     {
       "id": "item-hot_pepper",
       "title": "Hot Pepper",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/hot_pepper.webp"
+      "image": null
     },
     {
       "id": "item-hunting_bow",
@@ -477,65 +442,58 @@
       "image": null
     },
     {
-      "id": "item-ice_dagger",
-      "title": "Ice Dagger",
-      "subtitle": "Floor 3",
-      "blurb": "Dagger dealing ice damage.",
-      "image": "assets/img/item/ice_dagger.webp"
-    },
-    {
       "id": "item-instrument",
       "title": "Instrument",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to play music.",
       "image": "assets/img/item/instrument.webp"
     },
     {
       "id": "item-iron_bundle",
       "title": "Iron Bundle",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "Lost cart iron — return to Brannoc.",
       "image": "assets/img/item/iron_bundle.webp"
     },
     {
-      "id": "item-jewel",
-      "title": "Jewel",
-      "subtitle": "Floor 3",
-      "blurb": "Worth 50 Green Zin when sold.",
-      "image": "assets/img/item/jewel.webp"
-    },
-    {
       "id": "item-king_salmon",
       "title": "King Salmon",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/king_salmon.webp"
+      "image": null
     },
     {
       "id": "item-knife",
       "title": "Knife",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to cut and carve.",
       "image": "assets/img/item/knife.webp"
     },
     {
       "id": "item-ladder",
       "title": "Ladder",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to safely climb Near.",
       "image": "assets/img/item/ladder.webp"
     },
     {
       "id": "item-large_tent",
       "title": "Large Tent",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Offers shelter for up to 4 Champions.",
       "image": "assets/img/item/large_tent.webp"
     },
     {
+      "id": "item-loaded_die",
+      "title": "Loaded Die",
+      "subtitle": "Town",
+      "blurb": "Wil's die. Heavy on the six.",
+      "image": "assets/img/item/loaded_die.webp"
+    },
+    {
       "id": "item-lockpick",
       "title": "Lockpick",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Breaks on a fail.",
       "image": "assets/img/item/lockpick.webp"
     },
@@ -554,121 +512,107 @@
       "image": null
     },
     {
-      "id": "item-magic_scroll",
-      "title": "Magic Scroll",
-      "subtitle": "Floor 3",
-      "blurb": "Casts its spell, then burns to ash.",
-      "image": "assets/img/item/magic_scroll.webp"
-    },
-    {
-      "id": "item-magic_shield_ring",
-      "title": "Magic Shield Ring",
-      "subtitle": "Floor 3",
-      "blurb": "Reaction shield once per day.",
-      "image": "assets/img/item/magic_shield_ring.webp"
-    },
-    {
-      "id": "item-magic_wand",
-      "title": "Magic Wand",
-      "subtitle": "Floor 3",
-      "blurb": "Small arcane focus.",
-      "image": "assets/img/item/magic_wand.webp"
-    },
-    {
       "id": "item-map",
       "title": "Map",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Unveils the location of a landmark.",
       "image": "assets/img/item/map.webp"
     },
     {
       "id": "item-meat",
       "title": "Meat",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/meat.webp"
+      "image": null
     },
     {
       "id": "item-melon",
       "title": "Melon",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/melon.webp"
+      "image": null
     },
     {
       "id": "item-mighty_beetle",
       "title": "Mighty Beetle",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/mighty_beetle.webp"
+      "image": null
+    },
+    {
+      "id": "item-mine_token",
+      "title": "Mine Token",
+      "subtitle": "Cave",
+      "blurb": "A dwarf shift-token. The cage at the old mine head seats it and drops.",
+      "image": "assets/img/item/mine_token.webp"
     },
     {
       "id": "item-mirror",
       "title": "Mirror",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Reflects images and light.",
       "image": "assets/img/item/mirror.webp"
     },
     {
       "id": "item-monster_claw",
       "title": "Monster Claw",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_claw.webp"
+      "image": null
     },
     {
       "id": "item-monster_essence",
       "title": "Monster Essence",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_essence.webp"
+      "image": null
     },
     {
       "id": "item-monster_eye",
       "title": "Monster Eye",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_eye.webp"
+      "image": null
     },
     {
       "id": "item-monster_fang",
       "title": "Monster Fang",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_fang.webp"
+      "image": null
     },
     {
       "id": "item-monster_goo",
       "title": "Monster Goo",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_goo.webp"
+      "image": null
     },
     {
       "id": "item-monster_guts",
       "title": "Monster Guts",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_guts.webp"
+      "image": null
     },
     {
       "id": "item-monster_heart",
       "title": "Monster Heart",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_heart.webp"
+      "image": null
     },
     {
       "id": "item-monster_skull",
       "title": "Monster Skull",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/monster_skull.webp"
+      "image": null
     },
     {
       "id": "item-mushroom_skewer",
       "title": "Mushroom Skewer",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/mushroom_skewer.webp"
     },
@@ -676,13 +620,13 @@
       "id": "item-mystic_robe",
       "title": "Mystic Robe",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
     },
     {
       "id": "item-old_axe",
       "title": "Old Axe",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Dull but hefty.",
       "image": "assets/img/item/old_axe.webp"
     },
@@ -696,7 +640,7 @@
     {
       "id": "item-old_bow",
       "title": "Old Bow",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Warped but it still draws.",
       "image": "assets/img/item/old_bow.webp"
     },
@@ -710,14 +654,14 @@
     {
       "id": "item-old_club",
       "title": "Old Club",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Heavy knotted wood.",
       "image": "assets/img/item/old_club.webp"
     },
     {
       "id": "item-old_dagger",
       "title": "Old Dagger",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Worn blade.",
       "image": "assets/img/item/old_dagger.webp"
     },
@@ -738,7 +682,7 @@
     {
       "id": "item-old_longbow",
       "title": "Old Longbow",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Early bow prize.",
       "image": "assets/img/item/old_longbow.webp"
     },
@@ -759,21 +703,21 @@
     {
       "id": "item-old_shield",
       "title": "Old Shield",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Battered rim.",
       "image": "assets/img/item/old_shield.webp"
     },
     {
       "id": "item-old_short_sword",
       "title": "Old Short Sword",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Serviceable edge.",
       "image": "assets/img/item/old_short_sword.webp"
     },
     {
       "id": "item-old_spear",
       "title": "Old Spear",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Notched haft.",
       "image": "assets/img/item/old_spear.webp"
     },
@@ -785,23 +729,23 @@
       "image": null
     },
     {
-      "id": "item-pack_mule",
-      "title": "Pack Mule",
-      "subtitle": "Floor 3",
+      "id": "item-pack_horse",
+      "title": "Pack Horse",
+      "subtitle": "Town",
       "blurb": "",
-      "image": "assets/img/item/pack_mule.webp"
+      "image": null
     },
     {
       "id": "item-padded_armor",
       "title": "Padded Armor",
-      "subtitle": "Floor 3",
-      "blurb": "Light padding; armour 1.",
+      "subtitle": "Town",
+      "blurb": "Light padding; armour 1. Smith's mark-up.",
       "image": "assets/img/item/padded_armor.webp"
     },
     {
       "id": "item-paper_and_ink",
       "title": "Paper and Ink",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to write.",
       "image": "assets/img/item/paper_and_ink.webp"
     },
@@ -809,57 +753,50 @@
       "id": "item-paraglider",
       "title": "Paraglider",
       "subtitle": "",
-      "blurb": "pack 3.0 1 500 Red Zin Spend 1 stamina to glide from any height.",
+      "blurb": "pack 3.0 1 500 Green Zin Spend 1 stamina to glide from any height.",
       "image": null
+    },
+    {
+      "id": "item-pilgrim_candle",
+      "title": "Pilgrim Candle",
+      "subtitle": "Town",
+      "blurb": "Dawnmother wax, still warm.",
+      "image": "assets/img/item/pilgrim_candle.webp"
     },
     {
       "id": "item-plate_armor",
       "title": "Plate Armor",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
-    },
-    {
-      "id": "item-pony",
-      "title": "Pony",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/pony.webp"
     },
     {
       "id": "item-potatoes",
       "title": "Potatoes",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/potatoes.webp"
+      "image": null
     },
     {
       "id": "item-priest_robe",
       "title": "Priest Robe",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
     },
     {
       "id": "item-pumpkin",
       "title": "Pumpkin",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/pumpkin.webp"
+      "image": null
     },
     {
       "id": "item-purple_centipede",
       "title": "Purple Centipede",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/purple_centipede.webp"
-    },
-    {
-      "id": "item-purple_potion",
-      "title": "Purple Potion",
-      "subtitle": "Floor 3",
-      "blurb": "Brewed multi-effect potion.",
-      "image": "assets/img/item/purple_potion.webp"
+      "image": null
     },
     {
       "id": "item-rapier",
@@ -871,91 +808,84 @@
     {
       "id": "item-rare_green_mushroom",
       "title": "Rare Green Mushroom",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/rare_green_mushroom.webp"
+      "image": null
     },
     {
       "id": "item-rare_red_mushroom",
       "title": "Rare Red Mushroom",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/rare_red_mushroom.webp"
+      "image": null
     },
     {
       "id": "item-ration",
       "title": "Ration",
-      "subtitle": "Floor 3",
-      "blurb": "A portable meal for a Champion.",
+      "subtitle": "Town",
+      "blurb": "A portable meal for a Champion. Recover 1 heart.",
       "image": "assets/img/item/ration.webp"
-    },
-    {
-      "id": "item-raw_fruit",
-      "title": "Raw Fruit",
-      "subtitle": "Floor 3",
-      "blurb": "Eaten raw — heals 1 heart. Counts as the one food between Rests.",
-      "image": "assets/img/item/raw_fruit.webp"
     },
     {
       "id": "item-razor_spider",
       "title": "Razor Spider",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/razor_spider.webp"
+      "image": null
     },
     {
       "id": "item-red_lizard",
       "title": "Red Lizard",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/red_lizard.webp"
+      "image": null
     },
     {
       "id": "item-red_mushroom",
       "title": "Red Mushroom",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/red_mushroom.webp"
-    },
-    {
-      "id": "item-red_potion",
-      "title": "Red Potion",
-      "subtitle": "Floor 3",
-      "blurb": "Brewed healthy potion.",
-      "image": "assets/img/item/red_potion.webp"
+      "image": null
     },
     {
       "id": "item-rice",
       "title": "Rice",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/rice.webp"
+      "image": null
     },
     {
       "id": "item-rice_ball",
       "title": "Rice Ball",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/rice_ball.webp"
     },
     {
       "id": "item-riding_horse",
       "title": "Riding Horse",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/riding_horse.webp"
     },
     {
+      "id": "item-river_leech",
+      "title": "River Leech",
+      "subtitle": "Cave",
+      "blurb": "Drink — regain 6 hearts and gain Poison.",
+      "image": null
+    },
+    {
       "id": "item-room_key",
       "title": "Room Key",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Consumable — unlocks guest room rest for the whole party.",
       "image": "assets/img/item/room_key.webp"
     },
     {
       "id": "item-rope",
       "title": "Rope",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/rope.webp"
     },
@@ -963,7 +893,7 @@
       "id": "item-rubber_armor",
       "title": "Rubber Armor",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
     },
     {
@@ -983,50 +913,50 @@
     {
       "id": "item-shovel",
       "title": "Shovel",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Dig a hole, fill a hole, or fill someone's day.",
       "image": "assets/img/item/shovel.webp"
     },
     {
-      "id": "item-silver_treasure_chest",
-      "title": "Silver Treasure Chest",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/silver_treasure_chest.webp"
-    },
-    {
       "id": "item-slimy_toad",
       "title": "Slimy Toad",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/slimy_toad.webp"
+      "image": null
     },
     {
       "id": "item-sling_stones",
       "title": "Sling Stones",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "A handful of sling stones.",
       "image": "assets/img/item/sling_stones.webp"
     },
     {
       "id": "item-slingshot",
       "title": "Slingshot",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Small stones, big pest energy.",
       "image": "assets/img/item/slingshot.webp"
     },
     {
       "id": "item-slop",
       "title": "Slop",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "A grey, lumpy mess. Restores 1 heart.",
-      "image": "assets/img/item/slop.webp"
+      "image": null
+    },
+    {
+      "id": "item-snap_powder",
+      "title": "Snap Powder",
+      "subtitle": "Cave",
+      "blurb": "Throw on your turn. Fail — 1 heart.",
+      "image": null
     },
     {
       "id": "item-soothing_potion",
       "title": "Soothing Potion",
-      "subtitle": "Floor 3",
-      "blurb": "Remove a status (not K.O.).",
+      "subtitle": "Town",
+      "blurb": "Remove a status (not K.O.) — soothes pain and worry.",
       "image": "assets/img/item/soothing_potion.webp"
     },
     {
@@ -1039,7 +969,7 @@
     {
       "id": "item-spicy_skewer",
       "title": "Spicy Skewer",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "",
       "image": "assets/img/item/spicy_skewer.webp"
     },
@@ -1053,14 +983,21 @@
     {
       "id": "item-spinach",
       "title": "Spinach",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/spinach.webp"
+      "image": null
+    },
+    {
+      "id": "item-spore_puff",
+      "title": "Spore Puff",
+      "subtitle": "Cave",
+      "blurb": "Throw on your turn. Fail — 1 heart.",
+      "image": null
     },
     {
       "id": "item-spyglass",
       "title": "Spyglass",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Allows you to see things from a distance.",
       "image": "assets/img/item/spyglass.webp"
     },
@@ -1072,121 +1009,86 @@
       "image": null
     },
     {
-      "id": "item-stallion",
-      "title": "Stallion",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": null
-    },
-    {
       "id": "item-stamina_potion",
       "title": "Stamina Potion",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "Recover 1 stamina.",
       "image": "assets/img/item/stamina_potion.webp"
-    },
-    {
-      "id": "item-stamina_stone",
-      "title": "Stamina Stone",
-      "subtitle": "Floor 3",
-      "blurb": "",
-      "image": "assets/img/item/stamina_stone.webp"
     },
     {
       "id": "item-stealth_gear",
       "title": "Stealth Gear",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
     },
     {
       "id": "item-stormglass_charm",
       "title": "Stormglass Charm",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "",
       "image": "assets/img/item/stormglass_charm.webp"
     },
     {
-      "id": "item-stormking",
-      "title": "Stormking",
-      "subtitle": "Floor 3",
-      "blurb": "Heavy bow crowned with storm runes.",
-      "image": "assets/img/item/stormking.webp"
-    },
-    {
       "id": "item-strawberries",
       "title": "Strawberries",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/strawberries.webp"
+      "image": null
+    },
+    {
+      "id": "item-strong_alcohol",
+      "title": "Strong Alcohol",
+      "subtitle": "Cave",
+      "blurb": "Brewery spirits. A strong Healthy ingredient for the pot.",
+      "image": null
     },
     {
       "id": "item-summer_clothes",
       "title": "Summer Clothes",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Light linen against the heat.",
       "image": "assets/img/item/summer_clothes.webp"
     },
     {
       "id": "item-sunfrost_moth",
       "title": "Sunfrost Moth",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/sunfrost_moth.webp"
+      "image": null
     },
     {
       "id": "item-super_hot_pepper",
       "title": "Super Hot Pepper",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/super_hot_pepper.webp"
+      "image": null
     },
     {
       "id": "item-surfboard",
       "title": "Surfboard",
       "subtitle": "",
-      "blurb": "pack 1.0 1 200 Red Zin Surf on water and snow.",
+      "blurb": "pack 1.0 1 200 Green Zin Surf on water and snow.",
       "image": null
     },
     {
       "id": "item-swift_trout",
       "title": "Swift Trout",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/swift_trout.webp"
-    },
-    {
-      "id": "item-tamsin_notice",
-      "title": "Tamsin Notice",
-      "subtitle": "Floor 3",
-      "blurb": "RESCUE TAMSIN — 20 Green Zin.",
-      "image": "assets/img/item/tamsin_notice.webp"
-    },
-    {
-      "id": "item-teleport_staff",
-      "title": "Teleport Staff",
-      "subtitle": "Floor 3",
-      "blurb": "Arcane staff that casts Teleport.",
-      "image": "assets/img/item/teleport_staff.webp"
+      "image": null
     },
     {
       "id": "item-tent",
       "title": "Tent",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Offers shelter for up to 2 Champions.",
       "image": "assets/img/item/tent.webp"
     },
     {
-      "id": "item-thunderaxe",
-      "title": "Thunderaxe",
-      "subtitle": "Floor 3",
-      "blurb": "Greataxe crackling with thunder.",
-      "image": "assets/img/item/thunderaxe.webp"
-    },
-    {
       "id": "item-torch",
       "title": "Torch",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Sheds light until time passes.",
       "image": "assets/img/item/torch.webp"
     },
@@ -1194,85 +1096,64 @@
       "id": "item-tower_shield",
       "title": "Tower Shield",
       "subtitle": "",
-      "blurb": "Source: items.yaml",
+      "blurb": "Source: gear.yaml",
       "image": null
     },
     {
       "id": "item-training_bow",
       "title": "Training Bow",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Worse than any bow; keeps after contest.",
       "image": "assets/img/item/training_bow.webp"
     },
     {
       "id": "item-troll_eye",
       "title": "Troll Eye",
-      "subtitle": "Floor 3",
-      "blurb": "Grubnak's eye for Mother Sedge.",
+      "subtitle": "Town",
+      "blurb": "Trollo's eye for Mother Sedge.",
       "image": "assets/img/item/troll_eye.webp"
     },
     {
       "id": "item-troll_eye_recipe",
       "title": "Troll Eye Recipe",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Rare potion recipe from the witch.",
       "image": "assets/img/item/troll_eye_recipe.webp"
     },
     {
-      "id": "item-troll_notice",
-      "title": "Troll Notice",
-      "subtitle": "Floor 3",
-      "blurb": "WANTED — bridge troll. 100 Green Zin.",
-      "image": "assets/img/item/troll_notice.webp"
-    },
-    {
-      "id": "item-unknown_potion",
-      "title": "Unknown Potion",
-      "subtitle": "Floor 3",
-      "blurb": "Unidentified — use Identify (KNO) before drinking.",
-      "image": "assets/img/item/unknown_potion.webp"
-    },
-    {
       "id": "item-watermelon",
       "title": "Watermelon",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/watermelon.webp"
+      "image": null
     },
     {
       "id": "item-waterskin",
       "title": "Waterskin",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Holds water and other liquids.",
       "image": "assets/img/item/waterskin.webp"
     },
     {
       "id": "item-winter_clothes",
       "title": "Winter Clothes",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Furs and wool against the cold.",
       "image": "assets/img/item/winter_clothes.webp"
     },
     {
       "id": "item-yellow_dragonfly",
       "title": "Yellow Dragonfly",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/yellow_dragonfly.webp"
+      "image": null
     },
     {
       "id": "item-yellow_mushroom",
       "title": "Yellow Mushroom",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "",
-      "image": "assets/img/item/yellow_mushroom.webp"
-    },
-    {
-      "id": "item-yellow_potion",
-      "title": "Yellow Potion",
-      "subtitle": "Floor 3",
-      "blurb": "Brewed spicy potion.",
-      "image": "assets/img/item/yellow_potion.webp"
+      "image": null
     }
   ]
 }

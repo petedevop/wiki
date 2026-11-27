@@ -1,310 +1,316 @@
 {
   "rows": [
     {
-      "num": 400,
-      "title": "Town Gate",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 401,
-      "title": "Lowtown Green",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 402,
-      "title": "Tavern Common Room",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 403,
-      "title": "Tavern Guest Rooms",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 404,
-      "title": "Tavern Cellar",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 405,
-      "title": "Odds and Ends",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 406,
-      "title": "Red Anvil",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 407,
-      "title": "Shrine of the Dawnmother",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 408,
-      "title": "Hayward's Stables",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 409,
-      "title": "Archery Range",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 410,
-      "title": "Graveyard",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 411,
-      "title": "Crypt",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 412,
-      "title": "Mayor's House",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 413,
-      "title": "Town Jail",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 414,
-      "title": "Hightown Plaza",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 415,
-      "title": "Old Bridge",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 416,
-      "title": "Docks",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 420,
-      "title": "Woods Edge",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 421,
-      "title": "Wrecked Cart",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 422,
-      "title": "Pip's Hiding Tree",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 423,
-      "title": "Hanging Doe",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 424,
-      "title": "Poacher's Cache",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 425,
-      "title": "Mushroom Hollow",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 426,
-      "title": "Troll Bridge",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 427,
-      "title": "Far Side",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 428,
-      "title": "Mother Sedge's Hut",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 429,
-      "title": "Witch's Cellar",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 430,
-      "title": "Old Shrine",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
-      "num": 431,
-      "title": "Fairy Fountain",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
-    },
-    {
       "num": 440,
       "title": "Guard Tunnel",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 441,
       "title": "Mushroom Farm",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 442,
       "title": "Brewery",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 443,
       "title": "Mess Hall",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 444,
       "title": "Cask Cellar",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 445,
       "title": "Brewmaster's Throne",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 446,
       "title": "Prisoner Pens",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 447,
       "title": "Loot Pile",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 448,
       "title": "Spore Pit",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 449,
-      "title": "Shaman's Den",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "title": "Red Den",
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 450,
       "title": "Underground River",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 451,
       "title": "Goblin Lookout",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 452,
       "title": "Goblin Cave Mouth",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 453,
       "title": "Tide Cave",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 454,
       "title": "Wreck of the Penny",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 455,
       "title": "Penny's Hold",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 456,
       "title": "Scree Stair",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 457,
       "title": "Old Mine Head",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 495,
       "title": "Lonely Shore",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 496,
       "title": "Rowboat Crossing",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 497,
       "title": "Lonely House Island",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
     },
     {
       "num": 499,
       "title": "Northwood Trace",
-      "zone_key": "floorthree",
-      "zone_label": "Floor 3"
+      "zone_key": "cave",
+      "zone_label": "Cave"
+    },
+    {
+      "num": 400,
+      "title": "Town Gate",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 401,
+      "title": "Lowtown Green",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 402,
+      "title": "Tavern Common Room",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 403,
+      "title": "Tavern Guest Rooms",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 404,
+      "title": "Tavern Cellar",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 405,
+      "title": "Odds and Ends",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 406,
+      "title": "Red Anvil",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 407,
+      "title": "Shrine of the Dawnmother",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 408,
+      "title": "Hayward's Stables",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 409,
+      "title": "Archery Range",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 410,
+      "title": "Graveyard",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 411,
+      "title": "Crypt",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 412,
+      "title": "Mayor's House",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 413,
+      "title": "Town Jail",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 414,
+      "title": "Hightown Plaza",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 415,
+      "title": "Old Bridge",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 416,
+      "title": "Docks",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 417,
+      "title": "Boarded House",
+      "zone_key": "town",
+      "zone_label": "Town"
+    },
+    {
+      "num": 420,
+      "title": "Woods Edge",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 421,
+      "title": "Wrecked Cart",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 422,
+      "title": "Pip's Hiding Tree",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 423,
+      "title": "Hanging Doe",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 424,
+      "title": "Poacher's Cache",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 425,
+      "title": "Mushroom Hollow",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 426,
+      "title": "Troll Bridge",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 427,
+      "title": "Far Side",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 428,
+      "title": "Mother Sedge's Hut",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 429,
+      "title": "Witch's Cellar",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 430,
+      "title": "Old Shrine",
+      "zone_key": "woods",
+      "zone_label": "Woods"
+    },
+    {
+      "num": 431,
+      "title": "Fairy Fountain",
+      "zone_key": "woods",
+      "zone_label": "Woods"
     }
   ]
 }

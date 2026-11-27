@@ -4,6 +4,13 @@ The **player app** is the site you open on your phone during session. Voice chat
 
 Layout: a **header** (portrait, vitals, statuses, stats, **quick slots** or **equipped pool**), the **room panel**, and bottom nav — **Home · Logs · Me · Notifications · Info · Settings**. During a cook-off you may also see **Kitchen Stadium** (🍳) until the show ends. With **[Champion rules (d12)](d12-champions)** on, the header shows **hearts** and **stamina** and three equipped slots instead of HP quick slots.
 
+## Tap and hold
+
+- **Tap** — do the thing (travel, cast, equip, open a sheet with actions).
+- **Hold (~½ second)** — read the full text without acting: room **items** and people on the board, pack gear, **spells and class abilities** on Home, status chips (hold also opens the cause popover).
+
+Status chips still **toggle** on tap; hold is extra detail, not a duplicate of tap.
+
 ## The header
 
 - **Portrait** — green ring while you hold **AI Favour**; tap to arm it for your next roll.
@@ -21,7 +28,7 @@ IMG|assets/guide/01-explore.png|Home — the room list on the left; Tess has a q
 
 Between fights the room splits in two:
 
-- **Left:** everyone and everything here — **people → obstacles → items** — with attitude, quest, and secret chips. Tap a row to act. **Long-press** an item (here or on the paper doll) to read it **without** unequipping. A **?** row is an unspotted secret; tap to search (failed party searches can eventually stir trouble — see **House rules → Supplies & statuses**). Someone with work for you lights in your colour with **QUEST** — tap for the offer; **Accept** or **Decline** (declined quests stay on that NPC with a **Read** option).
+- **Left:** everyone and everything here — **people → obstacles → items** — with attitude, quest, and secret chips. **Tap** a row to act. **Hold** an item, obstacle, or NPC row to inspect lore and stats **without** acting; hold works the same on pack tiles. A **?** row is an unspotted secret; tap to search (failed party searches can eventually stir trouble — see **House rules → Supplies & statuses**). Someone with work for you lights in your colour with **QUEST** — tap for the offer; **Accept** or **Decline** (declined quests stay on that NPC with a **Read** option).
 - **Right:** the **room picture** ( **Zone** / **Room** flips to the zone map), **Travel**, **Rest** / **Join combat** when they apply.
 
 **Travel into a fight:** if the exit would start combat as soon as you step in, the app asks **Yes / No** on a bottom sheet before you move. **Go hostile** on someone in the room still starts a fight immediately.

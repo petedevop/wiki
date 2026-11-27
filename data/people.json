@@ -3,231 +3,203 @@
     {
       "id": "npc-bogoblin",
       "title": "Bogoblin",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "Goblin raider. Yellow-eyed goblin raider with a knobbed club and a sling pouch.",
-      "image": null
+      "image": "assets/img/npc/bogoblin.webp"
     },
     {
       "id": "npc-borkor",
       "title": "Borkor",
-      "subtitle": "Floor 3",
-      "blurb": "Boar brute.",
+      "subtitle": "Cave",
+      "blurb": "Mount / pens.",
       "image": "assets/img/npc/borkor.webp"
+    },
+    {
+      "id": "npc-boss_bogoblin",
+      "title": "Boss-Bogoblin",
+      "subtitle": "Cave",
+      "blurb": "Boss chief. Bloated goblin brewmaster chief on ale kegs with a brass hose.",
+      "image": null
     },
     {
       "id": "npc-bram_cott",
       "title": "Bram Cott",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "Docks fisher. Weathered fisher tied with wet rope in a flooded boat hold.",
-      "image": null
+      "image": "assets/img/npc/bram_cott.webp"
     },
     {
       "id": "npc-brannoc_ashhorn",
       "title": "Brannoc Ashhorn",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Blacksmith. Stocky penguin-folk smith at a glowing forge, quenching a sword in a frosty plunge pool, steam rising.",
       "image": "assets/img/npc/brannoc_ashhorn.webp"
     },
     {
       "id": "npc-brother_aldous",
       "title": "Brother Aldous",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Priest. Smiling priest by a candlelit altar.",
       "image": "assets/img/npc/brother_aldous.webp"
     },
     {
-      "id": "npc-cave_ooze",
-      "title": "Cave Ooze",
-      "subtitle": "Floor 3",
-      "blurb": "Cave hazard. Cave slime ooze dripping green goo on wet stone.",
-      "image": "assets/img/npc/cave_ooze.webp"
+      "id": "npc-calamor",
+      "title": "Calamor",
+      "subtitle": "Cave",
+      "blurb": "Hold lurker. Squid-like calamor rising through broken fish crates in a flooded boat hold.",
+      "image": "assets/img/npc/calamor.webp"
     },
     {
-      "id": "npc-crypt_knight",
-      "title": "Crypt Knight",
-      "subtitle": "Floor 3",
-      "blurb": "Optional crypt boss. Undead knight in rusted plate rising from a stone sarcophagus.",
-      "image": "assets/img/npc/crypt_knight.webp"
+      "id": "npc-fat_rat",
+      "title": "Fat Rat",
+      "subtitle": "Town",
+      "blurb": "Tutorial vermin.",
+      "image": "assets/img/npc/fat_rat.webp"
     },
     {
       "id": "npc-fen_ashby",
       "title": "Fen Ashby",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Ranger. Ranger at straw targets, wind in grass.",
       "image": "assets/img/npc/fen_ashby.webp"
     },
     {
-      "id": "npc-giant_cave_spider",
-      "title": "Giant Cave Spider",
-      "subtitle": "Floor 3",
-      "blurb": "Cellar nest.",
-      "image": "assets/img/npc/giant_cave_spider.webp"
-    },
-    {
-      "id": "npc-grogmaw",
-      "title": "Grogmaw",
-      "subtitle": "Floor 3",
-      "blurb": "Brewmaster chief. Bloated goblin brewmaster chief on ale kegs with a brass hose.",
-      "image": "assets/img/npc/grogmaw.webp"
-    },
-    {
-      "id": "npc-grubnak",
-      "title": "Grubnak",
-      "subtitle": "Floor 3",
-      "blurb": "Bridge troll. Mossy bridge troll with gold teeth and a rope bridge.",
-      "image": "assets/img/npc/grubnak.webp"
+      "id": "npc-grim_bogoblin",
+      "title": "Grim-Bogoblin",
+      "subtitle": "Town",
+      "blurb": "Crypt undead. Undead grim-bogoblin with a rib shield and a bone sword in a stone crypt.",
+      "image": "assets/img/npc/grim_bogoblin.webp"
     },
     {
       "id": "npc-hob_marrow",
       "title": "Hob Marrow",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Greengrocer. Cheerful round-cheeked greengrocer at a wooden barrow of vegetables and fruit on a village green.",
       "image": "assets/img/npc/hob_marrow.webp"
     },
     {
-      "id": "npc-ink_octopus",
-      "title": "Ink Octopus",
-      "subtitle": "Floor 3",
-      "blurb": "Hold lurker. Octopus rising through broken fish crates in a flooded boat hold.",
-      "image": null
+      "id": "npc-house_guard",
+      "title": "House Guard",
+      "subtitle": "Town",
+      "blurb": "Night watch.",
+      "image": "assets/img/npc/house_guard.webp"
     },
     {
       "id": "npc-jory_plumm",
       "title": "Jory Plumm",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "Thief posing merchant.",
       "image": "assets/img/npc/jory_plumm.webp"
     },
     {
       "id": "npc-marta_hobb",
       "title": "Marta Hobb",
-      "subtitle": "Floor 3",
-      "blurb": "Tavern keeper. Stout woman behind a tavern bar, hearth glow.",
+      "subtitle": "Town",
+      "blurb": "Innkeeper. Stout woman behind a tavern bar, hearth glow.",
       "image": "assets/img/npc/marta_hobb.webp"
     },
     {
       "id": "npc-mayor_edric",
       "title": "Mayor Edric",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Mayor. Plump mayor in ivy-covered manor hall.",
       "image": "assets/img/npc/mayor_edric.webp"
     },
     {
       "id": "npc-mayor_s_toad_son",
       "title": "Mayor's Toad Son",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "Cursed heir.",
       "image": "assets/img/npc/mayor_s_toad_son.webp"
     },
     {
-      "id": "npc-mossgut",
-      "title": "Mossgut",
-      "subtitle": "Floor 3",
-      "blurb": "Shaman.",
-      "image": "assets/img/npc/mossgut.webp"
-    },
-    {
       "id": "npc-mother_sedge",
       "title": "Mother Sedge",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "Witch. Old witch over a bubbling cauldron on stilts.",
       "image": "assets/img/npc/mother_sedge.webp"
     },
     {
       "id": "npc-nell_hayward",
       "title": "Nell Hayward",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Stablehand. Young woman brushing a bay horse.",
       "image": "assets/img/npc/nell_hayward.webp"
     },
     {
+      "id": "npc-ooze",
+      "title": "Ooze",
+      "subtitle": "Cave",
+      "blurb": "Cave hazard. Cave slime ooze dripping green goo on wet stone.",
+      "image": null
+    },
+    {
       "id": "npc-pip_ashworth",
       "title": "Pip Ashworth",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "Baker's daughter. Young woman in a flour-dusted apron.",
       "image": "assets/img/npc/pip_ashworth.webp"
     },
     {
-      "id": "npc-quest_board",
-      "title": "Quest Board",
-      "subtitle": "Floor 3",
-      "blurb": "Notices. Town quest board with a single pinned notice.",
-      "image": "assets/img/npc/quest_board.webp"
-    },
-    {
-      "id": "npc-rat_swarm",
-      "title": "Rat Swarm",
-      "subtitle": "Floor 3",
-      "blurb": "Tutorial vermin.",
-      "image": "assets/img/npc/rat_swarm.webp"
-    },
-    {
-      "id": "npc-silk_widow",
-      "title": "Silk Widow",
-      "subtitle": "Floor 3",
-      "blurb": "Canopy ambush. Large woodland spider crouched in pale silk above a hanging deer.",
+      "id": "npc-red_bogoblin",
+      "title": "Red Bogoblin",
+      "subtitle": "Cave",
+      "blurb": "Red den lookout. Red-eyed bogoblin by a mushroom-den brazier.",
       "image": null
-    },
-    {
-      "id": "npc-stonewing",
-      "title": "Stonewing",
-      "subtitle": "Floor 3",
-      "blurb": "Far Side sentinel.",
-      "image": "assets/img/npc/stonewing.webp"
     },
     {
       "id": "npc-tamsin_reed",
       "title": "Tamsin Reed",
-      "subtitle": "Floor 3",
+      "subtitle": "Cave",
       "blurb": "Tinker prisoner.",
       "image": "assets/img/npc/tamsin_reed.webp"
     },
     {
       "id": "npc-tobias_fenwick",
       "title": "Tobias Fenwick",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Shopkeeper. Ancient catfolk shopkeeper with long white whiskers in a cluttered general store.",
       "image": "assets/img/npc/tobias_fenwick.webp"
     },
     {
       "id": "npc-town_jailer",
       "title": "Town Jailer",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Jailer. Dozing jailer in a damp cell block.",
       "image": "assets/img/npc/town_jailer.webp"
     },
     {
+      "id": "npc-trollo",
+      "title": "Trollo",
+      "subtitle": "Woods",
+      "blurb": "Bridge troll. Mossy bridge troll with gold teeth and a rope bridge.",
+      "image": null
+    },
+    {
       "id": "npc-vampire_bat",
       "title": "Vampire Bat",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Graveyard predator. Giant vampire bat with spread wings over graveyard headstones.",
       "image": "assets/img/npc/vampire_bat.webp"
     },
     {
+      "id": "npc-weevern",
+      "title": "Weevern",
+      "subtitle": "Woods",
+      "blurb": "Cliff hunter. Winged weevern crouched on a grey mountain shelf, smoke at its jaws.",
+      "image": "assets/img/npc/weevern.webp"
+    },
+    {
       "id": "npc-wil_brask",
       "title": "Wil Brask",
-      "subtitle": "Floor 3",
+      "subtitle": "Town",
       "blurb": "Gate guard. Young guard at a wooden gate, dice on a stump, kettle steam.",
       "image": "assets/img/npc/wil_brask.webp"
     },
     {
-      "id": "npc-woods_spider",
-      "title": "Woods Spider",
-      "subtitle": "Floor 3",
-      "blurb": "Path ambush.",
-      "image": "assets/img/npc/woods_spider.webp"
-    },
-    {
-      "id": "npc-woods_wolf",
-      "title": "Woods Wolf",
-      "subtitle": "Floor 3",
-      "blurb": "Path predator.",
-      "image": "assets/img/npc/woods_wolf.webp"
-    },
-    {
       "id": "npc-wulfor",
       "title": "Wulfor",
-      "subtitle": "Floor 3",
+      "subtitle": "Woods",
       "blurb": "Pack hunter.",
       "image": "assets/img/npc/wulfor.webp"
     }
