@@ -25,7 +25,7 @@
       "id": "item-apple",
       "title": "Apple",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -53,49 +53,49 @@
       "id": "item-axefish",
       "title": "Axefish",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-banana",
       "title": "Banana",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-bass",
       "title": "Bass",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-bell_pepper",
       "title": "Bell Pepper",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-big_egg",
       "title": "Big Egg",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-big_meat",
       "title": "Big Meat",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-blue_mushroom",
       "title": "Blue Mushroom",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -144,7 +144,7 @@
       "id": "item-carrot",
       "title": "Carrot",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -165,7 +165,7 @@
       "id": "item-catfish",
       "title": "Catfish",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -179,7 +179,7 @@
       "id": "item-chillcarp",
       "title": "Chillcarp",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -207,7 +207,7 @@
       "id": "item-cricket",
       "title": "Cricket",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -228,7 +228,7 @@
       "id": "item-egg",
       "title": "Egg",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -263,7 +263,7 @@
       "id": "item-firefly",
       "title": "Firefly",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -277,7 +277,7 @@
       "id": "item-firetrout",
       "title": "Firetrout",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -333,14 +333,14 @@
       "id": "item-golden_scorpion",
       "title": "Golden Scorpion",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-grapes",
       "title": "Grapes",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -375,14 +375,14 @@
       "id": "item-green_eel",
       "title": "Green Eel",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-green_mushroom",
       "title": "Green Mushroom",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -410,14 +410,14 @@
       "id": "item-herbs",
       "title": "Herbs",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-honey",
       "title": "Honey",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -431,7 +431,7 @@
       "id": "item-hot_pepper",
       "title": "Hot Pepper",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -459,7 +459,7 @@
       "id": "item-king_salmon",
       "title": "King Salmon",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -522,21 +522,21 @@
       "id": "item-meat",
       "title": "Meat",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-melon",
       "title": "Melon",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-mighty_beetle",
       "title": "Mighty Beetle",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -557,56 +557,56 @@
       "id": "item-monster_claw",
       "title": "Monster Claw",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-monster_essence",
       "title": "Monster Essence",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-monster_eye",
       "title": "Monster Eye",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-monster_fang",
       "title": "Monster Fang",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-monster_goo",
       "title": "Monster Goo",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-monster_guts",
       "title": "Monster Guts",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-monster_heart",
       "title": "Monster Heart",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-monster_skull",
       "title": "Monster Skull",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -774,7 +774,7 @@
       "id": "item-potatoes",
       "title": "Potatoes",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -788,14 +788,14 @@
       "id": "item-pumpkin",
       "title": "Pumpkin",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-purple_centipede",
       "title": "Purple Centipede",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -809,14 +809,14 @@
       "id": "item-rare_green_mushroom",
       "title": "Rare Green Mushroom",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-rare_red_mushroom",
       "title": "Rare Red Mushroom",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -830,28 +830,28 @@
       "id": "item-razor_spider",
       "title": "Razor Spider",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-red_lizard",
       "title": "Red Lizard",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-red_mushroom",
       "title": "Red Mushroom",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-rice",
       "title": "Rice",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -921,7 +921,7 @@
       "id": "item-slimy_toad",
       "title": "Slimy Toad",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -984,7 +984,7 @@
       "id": "item-spinach",
       "title": "Spinach",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -1033,7 +1033,7 @@
       "id": "item-strawberries",
       "title": "Strawberries",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -1054,14 +1054,14 @@
       "id": "item-sunfrost_moth",
       "title": "Sunfrost Moth",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-super_hot_pepper",
       "title": "Super Hot Pepper",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -1075,7 +1075,7 @@
       "id": "item-swift_trout",
       "title": "Swift Trout",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -1124,7 +1124,7 @@
       "id": "item-watermelon",
       "title": "Watermelon",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
@@ -1145,14 +1145,14 @@
       "id": "item-yellow_dragonfly",
       "title": "Yellow Dragonfly",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     },
     {
       "id": "item-yellow_mushroom",
       "title": "Yellow Mushroom",
       "subtitle": "Cave",
-      "blurb": "",
+      "blurb": "Hold for cooking or brewing.",
       "image": null
     }
   ]

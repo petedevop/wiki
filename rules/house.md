@@ -2,7 +2,7 @@
 
 This table runs **Twilight Sword** on Radia, in **Aramilla Valley**. The published rulebook is not copied here — ask the DM or use the in-app **Library** PDFs on your phone.
 
-Start with **[Champion rules (d12)](d12-champions)**. On each export the handbook also syncs numbers from the live app: **Champion rolls**, **Combat house rules**, **Monster rotations**, **Cooking & brewing**, **Elements**, **Hope**, **Status effects**, **Phone combat**, **Rest & camp**, and the rest under Rules.
+Start with **[Champion rules (d12)](d12-champions)**. On each export the handbook also syncs numbers from the live app: **Champion rolls**, **Abilities**, **Ways & feats**, **Spells**, **Monster rotations**, **Cooking & brewing**, **Weapons & equipment**, **Travel & weather**, **Elements**, **Hope**, **Status effects**, **Phone combat**, **Rest & camp**, and more under Rules.
 
 ## How this table rolls
 
