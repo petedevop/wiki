@@ -61,6 +61,8 @@ The phone shows a dodge/parry banner when that window is open.
 
 **Ranges / lanes:** combat uses **frontline / backline**. Ranged attacks from the frontline take disadvantage. Leaving a fight on your own is **Escape** (AGL); the whole party leaving is a **retreat** vote.
 
+**Monster rotations:** foes walk a short action list. After they act it advances; **red** steps cannot be parried, **blue** cannot be dodged; a number on the step means they need d12 ≤ that number to land. Crits can **jump** the list. Details: **Monster rotations**.
+
 **Actions:** one main action per turn plus free swaps in your **equipped pool** (three slots — heavy weapons use two). Fetching from the backpack costs your turn.
 
 ## Rest
