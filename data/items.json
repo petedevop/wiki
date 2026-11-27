@@ -26,7 +26,7 @@
       "title": "Apple",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/apple.webp"
     },
     {
       "id": "item-arcane_blade",
@@ -54,49 +54,49 @@
       "title": "Axefish",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/axefish.webp"
     },
     {
       "id": "item-banana",
       "title": "Banana",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/banana.webp"
     },
     {
       "id": "item-bass",
       "title": "Bass",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/bass.webp"
     },
     {
       "id": "item-bell_pepper",
       "title": "Bell Pepper",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/bell_pepper.webp"
     },
     {
       "id": "item-big_egg",
       "title": "Big Egg",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/big_egg.webp"
     },
     {
       "id": "item-big_meat",
       "title": "Big Meat",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/big_meat.webp"
     },
     {
       "id": "item-blue_mushroom",
       "title": "Blue Mushroom",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/blue_mushroom.webp"
     },
     {
       "id": "item-boomerang",
@@ -110,7 +110,7 @@
       "title": "Bramble Tonic",
       "subtitle": "Woods",
       "blurb": "Clears Poison. 20 Zin.",
-      "image": null
+      "image": "assets/img/item/bramble_tonic.webp"
     },
     {
       "id": "item-breastplate",
@@ -131,7 +131,7 @@
       "title": "Bronze Chest",
       "subtitle": "Town",
       "blurb": "A sealed bronze chest.",
-      "image": null
+      "image": "assets/img/item/bronze_chest.webp"
     },
     {
       "id": "item-bucket",
@@ -145,42 +145,42 @@
       "title": "Carrot",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/carrot.webp"
     },
     {
       "id": "item-cart",
       "title": "Cart",
       "subtitle": "Town",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/cart.webp"
     },
     {
       "id": "item-cask_pitch",
       "title": "Cask Pitch",
       "subtitle": "Cave",
       "blurb": "Throw on your turn. One foe in your band catches Burn.",
-      "image": null
+      "image": "assets/img/item/cask_pitch.webp"
     },
     {
       "id": "item-catfish",
       "title": "Catfish",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/catfish.webp"
     },
     {
       "id": "item-cave_poison",
       "title": "Cave Poison",
       "subtitle": "Woods",
       "blurb": "A stoppered bottle. Dose a drink or throw it — Poison.",
-      "image": null
+      "image": "assets/img/item/cave_poison.webp"
     },
     {
       "id": "item-chillcarp",
       "title": "Chillcarp",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/chillcarp.webp"
     },
     {
       "id": "item-claw",
@@ -208,7 +208,7 @@
       "title": "Cricket",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/cricket.webp"
     },
     {
       "id": "item-crypt_blade",
@@ -229,7 +229,7 @@
       "title": "Egg",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/egg.webp"
     },
     {
       "id": "item-elegant_clothes",
@@ -264,7 +264,7 @@
       "title": "Firefly",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/firefly.webp"
     },
     {
       "id": "item-fireproof_armor",
@@ -278,7 +278,7 @@
       "title": "Firetrout",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/firetrout.webp"
     },
     {
       "id": "item-fishing_rod",
@@ -334,14 +334,14 @@
       "title": "Golden Scorpion",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/golden_scorpion.webp"
     },
     {
       "id": "item-grapes",
       "title": "Grapes",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/grapes.webp"
     },
     {
       "id": "item-grappling_hook",
@@ -376,14 +376,14 @@
       "title": "Green Eel",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/green_eel.webp"
     },
     {
       "id": "item-green_mushroom",
       "title": "Green Mushroom",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/green_mushroom.webp"
     },
     {
       "id": "item-hammer",
@@ -411,28 +411,28 @@
       "title": "Herbs",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/herbs.webp"
     },
     {
       "id": "item-honey",
       "title": "Honey",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/honey.webp"
     },
     {
       "id": "item-hooch_jug",
       "title": "Hooch Jug",
       "subtitle": "Cave",
       "blurb": "Six pulls. Each restores 1 heart.",
-      "image": null
+      "image": "assets/img/item/hooch_jug.webp"
     },
     {
       "id": "item-hot_pepper",
       "title": "Hot Pepper",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/hot_pepper.webp"
     },
     {
       "id": "item-hunting_bow",
@@ -460,7 +460,7 @@
       "title": "King Salmon",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/king_salmon.webp"
     },
     {
       "id": "item-knife",
@@ -523,21 +523,21 @@
       "title": "Meat",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/meat.webp"
     },
     {
       "id": "item-melon",
       "title": "Melon",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/melon.webp"
     },
     {
       "id": "item-mighty_beetle",
       "title": "Mighty Beetle",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/mighty_beetle.webp"
     },
     {
       "id": "item-mine_token",
@@ -558,56 +558,56 @@
       "title": "Monster Claw",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_claw.webp"
     },
     {
       "id": "item-monster_essence",
       "title": "Monster Essence",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_essence.webp"
     },
     {
       "id": "item-monster_eye",
       "title": "Monster Eye",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_eye.webp"
     },
     {
       "id": "item-monster_fang",
       "title": "Monster Fang",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_fang.webp"
     },
     {
       "id": "item-monster_goo",
       "title": "Monster Goo",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_goo.webp"
     },
     {
       "id": "item-monster_guts",
       "title": "Monster Guts",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_guts.webp"
     },
     {
       "id": "item-monster_heart",
       "title": "Monster Heart",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_heart.webp"
     },
     {
       "id": "item-monster_skull",
       "title": "Monster Skull",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/monster_skull.webp"
     },
     {
       "id": "item-mushroom_skewer",
@@ -733,7 +733,7 @@
       "title": "Pack Horse",
       "subtitle": "Town",
       "blurb": "",
-      "image": null
+      "image": "assets/img/item/pack_horse.webp"
     },
     {
       "id": "item-padded_armor",
@@ -775,7 +775,7 @@
       "title": "Potatoes",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/potatoes.webp"
     },
     {
       "id": "item-priest_robe",
@@ -789,14 +789,14 @@
       "title": "Pumpkin",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/pumpkin.webp"
     },
     {
       "id": "item-purple_centipede",
       "title": "Purple Centipede",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/purple_centipede.webp"
     },
     {
       "id": "item-rapier",
@@ -810,14 +810,14 @@
       "title": "Rare Green Mushroom",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/rare_green_mushroom.webp"
     },
     {
       "id": "item-rare_red_mushroom",
       "title": "Rare Red Mushroom",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/rare_red_mushroom.webp"
     },
     {
       "id": "item-ration",
@@ -831,28 +831,28 @@
       "title": "Razor Spider",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/razor_spider.webp"
     },
     {
       "id": "item-red_lizard",
       "title": "Red Lizard",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/red_lizard.webp"
     },
     {
       "id": "item-red_mushroom",
       "title": "Red Mushroom",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/red_mushroom.webp"
     },
     {
       "id": "item-rice",
       "title": "Rice",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/rice.webp"
     },
     {
       "id": "item-rice_ball",
@@ -873,7 +873,7 @@
       "title": "River Leech",
       "subtitle": "Cave",
       "blurb": "Drink — regain 6 hearts and gain Poison.",
-      "image": null
+      "image": "assets/img/item/river_leech.webp"
     },
     {
       "id": "item-room_key",
@@ -922,7 +922,7 @@
       "title": "Slimy Toad",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/slimy_toad.webp"
     },
     {
       "id": "item-sling_stones",
@@ -943,14 +943,14 @@
       "title": "Slop",
       "subtitle": "Cave",
       "blurb": "A grey, lumpy mess. Restores 1 heart.",
-      "image": null
+      "image": "assets/img/item/slop.webp"
     },
     {
       "id": "item-snap_powder",
       "title": "Snap Powder",
       "subtitle": "Cave",
       "blurb": "Throw on your turn. Fail — 1 heart.",
-      "image": null
+      "image": "assets/img/item/snap_powder.webp"
     },
     {
       "id": "item-soothing_potion",
@@ -985,14 +985,14 @@
       "title": "Spinach",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/spinach.webp"
     },
     {
       "id": "item-spore_puff",
       "title": "Spore Puff",
       "subtitle": "Cave",
       "blurb": "Throw on your turn. Fail — 1 heart.",
-      "image": null
+      "image": "assets/img/item/spore_puff.webp"
     },
     {
       "id": "item-spyglass",
@@ -1034,14 +1034,14 @@
       "title": "Strawberries",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/strawberries.webp"
     },
     {
       "id": "item-strong_alcohol",
       "title": "Strong Alcohol",
       "subtitle": "Cave",
       "blurb": "Brewery spirits. A strong Healthy ingredient for the pot.",
-      "image": null
+      "image": "assets/img/item/strong_alcohol.webp"
     },
     {
       "id": "item-summer_clothes",
@@ -1055,14 +1055,14 @@
       "title": "Sunfrost Moth",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/sunfrost_moth.webp"
     },
     {
       "id": "item-super_hot_pepper",
       "title": "Super Hot Pepper",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/super_hot_pepper.webp"
     },
     {
       "id": "item-surfboard",
@@ -1076,7 +1076,7 @@
       "title": "Swift Trout",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/swift_trout.webp"
     },
     {
       "id": "item-tent",
@@ -1125,7 +1125,7 @@
       "title": "Watermelon",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/watermelon.webp"
     },
     {
       "id": "item-waterskin",
@@ -1146,14 +1146,14 @@
       "title": "Yellow Dragonfly",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/yellow_dragonfly.webp"
     },
     {
       "id": "item-yellow_mushroom",
       "title": "Yellow Mushroom",
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
-      "image": null
+      "image": "assets/img/item/yellow_mushroom.webp"
     }
   ]
 }

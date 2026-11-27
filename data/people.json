@@ -19,7 +19,7 @@
       "title": "Boss-Bogoblin",
       "subtitle": "Cave",
       "blurb": "Boss chief. Bloated goblin brewmaster chief on ale kegs with a brass hose.",
-      "image": null
+      "image": "assets/img/npc/boss_bogoblin.webp"
     },
     {
       "id": "npc-bram_cott",
@@ -131,7 +131,7 @@
       "title": "Ooze",
       "subtitle": "Cave",
       "blurb": "Cave hazard. Cave slime ooze dripping green goo on wet stone.",
-      "image": null
+      "image": "assets/img/npc/ooze.webp"
     },
     {
       "id": "npc-pip_ashworth",
@@ -145,7 +145,7 @@
       "title": "Red Bogoblin",
       "subtitle": "Cave",
       "blurb": "Red den lookout. Red-eyed bogoblin by a mushroom-den brazier.",
-      "image": null
+      "image": "assets/img/npc/red_bogoblin.webp"
     },
     {
       "id": "npc-tamsin_reed",
@@ -173,7 +173,7 @@
       "title": "Trollo",
       "subtitle": "Woods",
       "blurb": "Bridge troll. Mossy bridge troll with gold teeth and a rope bridge.",
-      "image": null
+      "image": "assets/img/npc/trollo.webp"
     },
     {
       "id": "npc-vampire_bat",

@@ -397,8 +397,8 @@
       "zone_key": "town",
       "zone_label": "Town",
       "blurb": "A low house boarded from outside. No sign.",
-      "image": null,
-      "image_thumb": null
+      "image": "assets/img/room/town/417.webp",
+      "image_thumb": "assets/img/room/town/417.s.webp"
     },
     {
       "id": "room-420",

@@ -147,7 +147,7 @@
       "room": 416,
       "room_title": "Docks",
       "blurb": "AGL. An eel, up to four.",
-      "image": null,
+      "image": "assets/img/obstacle/eel_bucket.webp",
       "options": [
         {
           "label": "Grab An Eel",
@@ -197,7 +197,7 @@
       "room": 421,
       "room_title": "Wrecked Cart",
       "blurb": "PER. Zin, a mushroom, and a note chalked under the board.",
-      "image": null,
+      "image": "assets/img/obstacle/splintered_board.webp",
       "options": [
         {
           "label": "Pry The Board",
@@ -237,7 +237,7 @@
       "room": 423,
       "room_title": "Hanging Doe",
       "blurb": "Pip hides in the brush — her screams hurt party STE.",
-      "image": null,
+      "image": "assets/img/obstacle/pip_s_hide.webp",
       "options": []
     },
     {
@@ -327,7 +327,7 @@
       "room": 426,
       "room_title": "Troll Bridge",
       "blurb": "Pay gold or fight Trollo threat 2.",
-      "image": null,
+      "image": "assets/img/obstacle/trollo_s_toll.webp",
       "options": []
     },
     {
@@ -367,7 +367,7 @@
       "room": 441,
       "room_title": "Mushroom Farm",
       "blurb": "A pearl in the dung. Pick it up — 50 Zin.",
-      "image": null,
+      "image": "assets/img/obstacle/beetle_pearl.webp",
       "options": [
         {
           "label": "Pick It Up",
@@ -382,7 +382,7 @@
       "room": 441,
       "room_title": "Mushroom Farm",
       "blurb": "A tin of snap powder. Take it.",
-      "image": null,
+      "image": "assets/img/obstacle/powder_tin.webp",
       "options": [
         {
           "label": "Take The Tin",
@@ -397,7 +397,7 @@
       "room": 441,
       "room_title": "Mushroom Farm",
       "blurb": "KNO, once tonight. A pile of mushrooms.",
-      "image": null,
+      "image": "assets/img/obstacle/red_cap.webp",
       "options": []
     },
     {
@@ -407,7 +407,7 @@
       "room": 441,
       "room_title": "Mushroom Farm",
       "blurb": "A sack of spore flour. Take it.",
-      "image": null,
+      "image": "assets/img/obstacle/spore_sack.webp",
       "options": [
         {
           "label": "Take The Sack",
@@ -432,7 +432,7 @@
       "room": 442,
       "room_title": "Brewery",
       "blurb": "STE. One jar of strong spirits for the pot.",
-      "image": null,
+      "image": "assets/img/obstacle/leaking_tap.webp",
       "options": [
         {
           "label": "Draw A Jar",
@@ -457,7 +457,7 @@
       "room": 444,
       "room_title": "Cask Cellar",
       "blurb": "Goblin mounts roped in the casks. Cut the pen ropes (STR) to loose one on the throne guards.",
-      "image": null,
+      "image": "assets/img/obstacle/borkor_pens.webp",
       "options": [
         {
           "label": "Cut The Pen Ropes",
@@ -472,7 +472,7 @@
       "room": 444,
       "room_title": "Cask Cellar",
       "blurb": "Pitch in an open cask. Scoop a glob and throw it in a fight.",
-      "image": null,
+      "image": "assets/img/obstacle/pitch_cask.webp",
       "options": [
         {
           "label": "Scoop The Pitch",
@@ -487,7 +487,7 @@
       "room": 444,
       "room_title": "Cask Cellar",
       "blurb": "PER. A health potion hidden in a dusty cask.",
-      "image": null,
+      "image": "assets/img/obstacle/webbed_cask.webp",
       "options": [
         {
           "label": "Search The Cask",
@@ -517,7 +517,7 @@
       "room": 450,
       "room_title": "Underground River",
       "blurb": "AGL. The hooch jug is lashed to a cask in the current.",
-      "image": null,
+      "image": "assets/img/obstacle/floating_cask.webp",
       "options": [
         {
           "label": "Grab The Cask",
@@ -532,7 +532,7 @@
       "room": 450,
       "room_title": "Underground River",
       "blurb": "A leech on the piling. Pull it off — a twisted drink.",
-      "image": null,
+      "image": "assets/img/obstacle/river_leeches.webp",
       "options": [
         {
           "label": "Pull A Leech",
@@ -547,7 +547,7 @@
       "room": 452,
       "room_title": "Goblin Cave Mouth",
       "blurb": "A borkor lashed to bone stakes — goblins jab and race it.",
-      "image": null,
+      "image": "assets/img/obstacle/borkor_stakes.webp",
       "options": [
         {
           "label": "Cut The Ropes",
@@ -607,7 +607,7 @@
       "room": 457,
       "room_title": "Old Mine Head",
       "blurb": "A rusted cage, copper winch, and a bell wired to the brake.",
-      "image": null,
+      "image": "assets/img/obstacle/mine_cage.webp",
       "options": []
     },
     {
