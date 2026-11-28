@@ -8,6 +8,13 @@
       "image": "assets/img/item/100_green_zin.webp"
     },
     {
+      "id": "item-40_green_zin",
+      "title": "40 Green Zin",
+      "subtitle": "Town",
+      "blurb": "A thin tip of green coin.",
+      "image": null
+    },
+    {
       "id": "item-50_green_zin",
       "title": "50 Green Zin",
       "subtitle": "Town",
@@ -76,6 +83,13 @@
       "subtitle": "Cave",
       "blurb": "Hold for cooking or brewing.",
       "image": "assets/img/item/bell_pepper.webp"
+    },
+    {
+      "id": "item-bent_cave_club",
+      "title": "Bent Cave Club",
+      "subtitle": "Cave",
+      "blurb": "Driftwood and nail-heads. Better than fists when steel breaks.",
+      "image": null
     },
     {
       "id": "item-big_egg",
@@ -225,6 +239,20 @@
       "image": null
     },
     {
+      "id": "item-discarded_club",
+      "title": "Discarded Club",
+      "subtitle": "Town",
+      "blurb": "A knotted stick left by the green.",
+      "image": null
+    },
+    {
+      "id": "item-dockside_shiv",
+      "title": "Dockside Shiv",
+      "subtitle": "Town",
+      "blurb": "A fish-gutting knife wedged between planks.",
+      "image": null
+    },
+    {
       "id": "item-egg",
       "title": "Egg",
       "subtitle": "Cave",
@@ -257,6 +285,13 @@
       "title": "Explosive Arrows",
       "subtitle": "",
       "blurb": "Source: gear.yaml",
+      "image": null
+    },
+    {
+      "id": "item-fallen_hatchet",
+      "title": "Fallen Hatchet",
+      "subtitle": "Woods",
+      "blurb": "A woodsman's hatchet half-buried in leaf mould.",
       "image": null
     },
     {
@@ -298,7 +333,7 @@
       "id": "item-flint",
       "title": "Flint",
       "subtitle": "Town",
-      "blurb": "Allows you to easily start a fire.",
+      "blurb": "Strike, spark, flame. The first friend in a dark room.",
       "image": "assets/img/item/flint.webp"
     },
     {
@@ -328,6 +363,13 @@
       "subtitle": "Town",
       "blurb": "Trophy ear — turn in five for pay.",
       "image": "assets/img/item/goblin_ear.webp"
+    },
+    {
+      "id": "item-gold_chest",
+      "title": "Gold Chest",
+      "subtitle": "Town",
+      "blurb": "A sealed gold chest.",
+      "image": null
     },
     {
       "id": "item-golden_scorpion",
@@ -494,7 +536,7 @@
       "id": "item-lockpick",
       "title": "Lockpick",
       "subtitle": "Town",
-      "blurb": "Breaks on a fail.",
+      "blurb": "Quiet doors open for quiet hands.",
       "image": "assets/img/item/lockpick.webp"
     },
     {
@@ -512,10 +554,17 @@
       "image": null
     },
     {
+      "id": "item-loose_shiv",
+      "title": "Loose Shiv",
+      "subtitle": "Cave",
+      "blurb": "A goblin blade stuck in a crate. Ugly, sharp enough.",
+      "image": null
+    },
+    {
       "id": "item-map",
       "title": "Map",
       "subtitle": "Town",
-      "blurb": "Unveils the location of a landmark.",
+      "blurb": "A rolled parchment map tied with a leather cord.",
       "image": "assets/img/item/map.webp"
     },
     {
@@ -760,7 +809,7 @@
       "id": "item-pilgrim_candle",
       "title": "Pilgrim Candle",
       "subtitle": "Town",
-      "blurb": "Dawnmother wax, still warm.",
+      "blurb": "Soft light and a travelling prayer.",
       "image": "assets/img/item/pilgrim_candle.webp"
     },
     {
@@ -823,7 +872,7 @@
       "id": "item-ration",
       "title": "Ration",
       "subtitle": "Town",
-      "blurb": "A portable meal for a Champion. Recover 1 heart.",
+      "blurb": "Travel food. Eat when the road is longer than your hope.",
       "image": "assets/img/item/ration.webp"
     },
     {
@@ -886,7 +935,7 @@
       "id": "item-rope",
       "title": "Rope",
       "subtitle": "Town",
-      "blurb": "",
+      "blurb": "Thirty feet of sturdy rope.",
       "image": "assets/img/item/rope.webp"
     },
     {
@@ -916,6 +965,13 @@
       "subtitle": "Town",
       "blurb": "Dig a hole, fill a hole, or fill someone's day.",
       "image": "assets/img/item/shovel.webp"
+    },
+    {
+      "id": "item-silver_chest",
+      "title": "Silver Chest",
+      "subtitle": "Town",
+      "blurb": "A sealed silver chest.",
+      "image": null
     },
     {
       "id": "item-slimy_toad",
@@ -1089,7 +1145,7 @@
       "id": "item-torch",
       "title": "Torch",
       "subtitle": "Town",
-      "blurb": "Sheds light until time passes.",
+      "blurb": "Sheds light until time passes. Swing it for fire.",
       "image": "assets/img/item/torch.webp"
     },
     {
@@ -1121,6 +1177,13 @@
       "image": "assets/img/item/troll_eye_recipe.webp"
     },
     {
+      "id": "item-warped_shortbow",
+      "title": "Warped Shortbow",
+      "subtitle": "Woods",
+      "blurb": "A shortbow left against a stem. It still draws, barely.",
+      "image": null
+    },
+    {
       "id": "item-watermelon",
       "title": "Watermelon",
       "subtitle": "Cave",
@@ -1131,7 +1194,7 @@
       "id": "item-waterskin",
       "title": "Waterskin",
       "subtitle": "Town",
-      "blurb": "Holds water and other liquids.",
+      "blurb": "A day's water on the road.",
       "image": "assets/img/item/waterskin.webp"
     },
     {

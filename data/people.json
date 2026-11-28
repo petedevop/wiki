@@ -78,6 +78,13 @@
       "image": "assets/img/npc/hob_marrow.webp"
     },
     {
+      "id": "npc-hornex",
+      "title": "Hornex",
+      "subtitle": "Woods",
+      "blurb": "Cairn wasp. Armoured thunder-wasp with crackling wings, hovering over tumbled cairn stones.",
+      "image": null
+    },
+    {
       "id": "npc-house_guard",
       "title": "House Guard",
       "subtitle": "Town",

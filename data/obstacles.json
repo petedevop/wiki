@@ -1,6 +1,55 @@
 {
   "rows": [
     {
+      "id": "obstacle-laundry_sock",
+      "title": "Laundry Sock",
+      "kind": "Scenery",
+      "room": 401,
+      "room_title": "Lowtown Green",
+      "blurb": "A traveller's sock on the washing line, heavy at the toe.",
+      "image": null,
+      "options": [
+        {
+          "label": "Lift The Sock",
+          "stat": "STE"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-village_well",
+      "title": "Village Well",
+      "kind": "Scenery",
+      "room": 401,
+      "room_title": "Lowtown Green",
+      "blurb": "The village well. The bucket scrapes the rim on the way up.",
+      "image": null,
+      "options": [
+        {
+          "label": "Check The Bucket",
+          "stat": "PER"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-tip_jar",
+      "title": "Tip Jar",
+      "kind": "Scenery",
+      "room": 402,
+      "room_title": "Tavern Common Room",
+      "blurb": "A clay tip jar by Marta's bar, half full of green coin.",
+      "image": null,
+      "options": [
+        {
+          "label": "Song Or Joke",
+          "stat": "CHA"
+        },
+        {
+          "label": "Pinch The Jar",
+          "stat": "STE"
+        }
+      ]
+    },
+    {
       "id": "obstacle-cask_niche",
       "title": "Cask Niche",
       "kind": "Scenery",
@@ -106,6 +155,21 @@
       "options": []
     },
     {
+      "id": "obstacle-grave_niche",
+      "title": "Grave Niche",
+      "kind": "Scenery",
+      "room": 410,
+      "room_title": "Graveyard",
+      "blurb": "A mossy niche in a leaning marker, deeper than it looks.",
+      "image": null,
+      "options": [
+        {
+          "label": "Reach Into The Niche",
+          "stat": "PER"
+        }
+      ]
+    },
+    {
       "id": "obstacle-pilgrim_niche",
       "title": "Pilgrim Niche",
       "kind": "Scenery",
@@ -191,6 +255,36 @@
       ]
     },
     {
+      "id": "obstacle-traveller_cairn",
+      "title": "Traveller Cairn",
+      "kind": "Scenery",
+      "room": 420,
+      "room_title": "Woods Edge",
+      "blurb": "A traveller's cairn by the deer trail. The top stones sit loose.",
+      "image": null,
+      "options": [
+        {
+          "label": "Shift A Stone",
+          "stat": "STR"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-millstone_crack",
+      "title": "Millstone Crack",
+      "kind": "Scenery",
+      "room": 421,
+      "room_title": "Wrecked Cart",
+      "blurb": "A broken millstone half-buried in the ruts. Green coin glints in the crack.",
+      "image": null,
+      "options": [
+        {
+          "label": "Free The Coins",
+          "stat": "STR"
+        }
+      ]
+    },
+    {
       "id": "obstacle-splintered_board",
       "title": "Splintered Board",
       "kind": "Scenery",
@@ -252,6 +346,25 @@
         {
           "label": "Lift The Stash",
           "stat": "STE"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-bird_nest",
+      "title": "Bird Nest",
+      "kind": "Scenery",
+      "room": 425,
+      "room_title": "Mushroom Hollow",
+      "blurb": "A nest wedged in the giant stem, twigs and something that flashes green.",
+      "image": null,
+      "options": [
+        {
+          "label": "Climb For The Nest",
+          "stat": "PER"
+        },
+        {
+          "label": "Knock The Nest Down",
+          "stat": "AGL"
         }
       ]
     },
@@ -326,7 +439,7 @@
       "kind": "Trap",
       "room": 426,
       "room_title": "Troll Bridge",
-      "blurb": "Pay gold or fight Trollo threat 2.",
+      "blurb": "Pay gold or fight Trollo threat 2 plus two bogoblin hangers-on.",
       "image": "assets/img/obstacle/trollo_s_toll.webp",
       "options": []
     },
@@ -359,6 +472,21 @@
       "blurb": "Grants one champion BOON to first visitor.",
       "image": "assets/img/obstacle/fairy_fountain.webp",
       "options": []
+    },
+    {
+      "id": "obstacle-dwarf_mark",
+      "title": "Dwarf Mark",
+      "kind": "Scenery",
+      "room": 440,
+      "room_title": "Guard Tunnel",
+      "blurb": "A dwarf-mark half chipped off the lintel, and a cracked drinking mug under it.",
+      "image": null,
+      "options": [
+        {
+          "label": "Read The Dwarf-Mark",
+          "stat": "PER"
+        }
+      ]
     },
     {
       "id": "obstacle-beetle_pearl",
@@ -436,6 +564,25 @@
       "options": [
         {
           "label": "Draw A Jar",
+          "stat": "STE"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-goblin_dice",
+      "title": "Goblin Dice",
+      "kind": "Scenery",
+      "room": 443,
+      "room_title": "Mess Hall",
+      "blurb": "Cracked helmets for cups, bone dice on the mess table.",
+      "image": null,
+      "options": [
+        {
+          "label": "Play A Round",
+          "stat": "CHA"
+        },
+        {
+          "label": "Palm A Die",
           "stat": "STE"
         }
       ]
@@ -597,6 +744,21 @@
         {
           "label": "Haul The Hatch",
           "stat": "STR"
+        }
+      ]
+    },
+    {
+      "id": "obstacle-dwarf_cache",
+      "title": "Dwarf Cache",
+      "kind": "Scenery",
+      "room": 457,
+      "room_title": "Old Mine Head",
+      "blurb": "A false brick with three notches. The join is dwarven-tight.",
+      "image": null,
+      "options": [
+        {
+          "label": "Open The Cache",
+          "stat": "PER"
         }
       ]
     },

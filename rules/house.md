@@ -18,7 +18,7 @@ Start with **[Champion rules (d12)](d12-champions)**. On each export the handboo
 - **Travel** is per champion. Stepping into a room that would **start combat** asks for confirmation first. **Party votes** need a majority of champions present.
 - **Rest** is upstairs at the **Dancing Deer** (Room Key → guest room camp), or the short/long wilds rests the DM opens. Free **Cook & brew** buttons sit on the rest screen.
 - Header shows **hearts** and **stamina**; combat may offer **dodge/parry** after foe damage; the **equipped pool** (three slots) is your combat-ready gear.
-- House pages **Supplies & statuses** and **Phone combat** list ammo, debuff clocks, meat spoilage, corpse loot, and search-fail ambushes the server enforces.
+- House pages **Supplies & statuses** and **Phone combat** list ammo, debuff clocks, meat spoilage, PER corpse-part forage, and search-fail ambushes the server enforces.
 
 ## Aramilla Valley flavour
 
